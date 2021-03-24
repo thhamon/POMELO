@@ -1,0 +1,13 @@
+Interaction between levodopa and enteral nutrition .
+To report and discuss a drug-nutrient interaction involving levodopa and protein in enteral nutrition .
+A 77-year-old male with Parkinson's disease was admitted to an intensive care unit for an intracerebral hemorrhage .
+To provide nutritional support , an oral gastric tube was placed and continuous enteral nutrition was initiated , with 1.4 g  kg of protein administered daily .
+The following medications were continued during hospitalization: immediate-release levodopa 25 mg  100 mg , with 1.5 tablets administered 4 times daily ; pramipexole 1.5 mg 3 times daily ; and entacapone 200 mg 4 times daily .
+Despite this drug therapy , the patient developed severe rigidity .
+A review of the literature revealed a potential interaction between levodopa and protein intake .
+To resolve this interaction , the amount of protein in the enteral nutrition was decreased to 0.9 g  kg  day and the nutritional administration was changed from continuous enteral feeding to bolus feeding , with levodopa given between boluses .
+After these adjustments , the patient showed marked improvement of parkinsonian symptoms .
+The drug-nutrient interaction between protein and levodopa in outpatient settings has been reported widely in the literature ; however , this interaction has not been previously reported with continuous enteral nutrition .
+Decreased parkinsonian symptom control , despite adherence to an established medication regimen , together with dramatic improvement observed after manipulation of enteral nutrition delivery and content , strongly suggest interference with levodopa absorption .
+Use of the Naranjo probability scale supports a probable interaction between the protein content in tube feeds and levodopa , resulting in decreased levodopa efficacy .
+Clinicians should be cognizant of the potential drug-nutrient interaction between levodopa and enteral nutrition .

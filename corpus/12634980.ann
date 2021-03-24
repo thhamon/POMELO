@@ -1,0 +1,18 @@
+TS1412634980	drug 48 61	anticoagulant
+TS1712634980	drug 210 224	anticoagulants
+TS1112634980	drug 235 243	warfarin
+TS712634980	drug 247 260	acenocoumarol
+TS512634980	sideeffect 269 289	higher bleeding rate
+TS312634980	food 382 386	diet
+TS2812634980	sideeffect 412 429	drug interactions
+TS2412634980	sideeffect 1003 1020	Drug interactions
+TS1612634980	drug 1351 1359	coumarin
+TS1512634980	drug 1374 1387	acenocoumarol
+TS112634980	drug 1391 1399	warfarin
+TS412634980	drug 1433 1443	fluindione
+T1	sideeffect 166 186	hyper-responsiveness
+T2	drug 227 230	OAs
+T3	drug 360 362	OA
+R1	relation Arg1:TS312634980 Arg2:T3	
+T4	sideeffect 363 371	overdose
+T5	sideeffect 568 579	OA overdose

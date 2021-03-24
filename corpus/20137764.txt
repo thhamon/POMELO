@@ -1,0 +1,12 @@
+The effect of food with varying fat content on the clinical pharmacokinetics of gabapentin after oral administration of gabapentin enacarbil .
+Gabapentin enacarbil , an actively transported prodrug of gabapentin , provides sustained and dose-proportional exposure to gabapentin .
+To evaluate the effect of food of varying fat content on the pharmacokinetics and tolerability of gabapentin enacarbil .
+METHODS , MATERIALS AND SUBJECTS: A randomized , open-label , crossover study of 1 , 200 mg gabapentin enacarbil was conducted in 12 healthy adults , under four conditions: fasted , or following low-fat ( 200 - 300 kcal total , approximately 6% from fat ) , moderate-fat ( 500 - 600 kcal total , approximately 30% from fat ) or high-fat meals ( 1 , 000 kcal total , approximately 50% from fat ) , separated by a washout period of sentsupor= 5 days .
+Ten subjects completed treatment under all four conditions .
+Data from all subjects were used for pharmacokinetic and safety analyses unless stated otherwise .
+Mean ( standard deviation ) bioavailability ( based on urinary recovery ) of gabapentin from gabapentin enacarbil was 42.0 ( 6.1 ) % ( fasted ) , 64.3 ( 13.2 ) % ( low-fat meal ) , 64.9 ( 16.9 ) % ( moderate-fat meal ) , and 76.1 ( 14.4 ) % ( high-fat meal ) .
+Gabapentin exposures ( AUC ( inf ) ) in fed conditions were 23% ( low-fat meal ) , 31% ( moderate-fat meal ) , and 40% ( high-fat meal ) greater than the exposure under fasted condition .
+Fed conditions did not significantly delay median t ( max ) , but a trend for delayed gabapentin enacarbil absorption was seen in t ( max ) ranges following moderate- and high-fat meals compared with the fasted state or low-fat meal .
+The most commonly reported treatment-emergent adverse events ( TEAEs ) were dizziness ( 4 subjects ) , balance disorder ( 4 subjects ) and somnolence ( 3 subjects ) .
+All TEAEs were rated as mild in intensity .
+Administration of gabapentin enacarbil with food enhanced gabapentin exposure compared with fasted conditions , regardless of the fat or caloric content , and gabapentin enacarbil was generally well tolerated .

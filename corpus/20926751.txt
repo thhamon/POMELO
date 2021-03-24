@@ -1,0 +1,14 @@
+Clinical pharmacokinetics of tonapofylline: evaluation of dose proportionality , oral bioavailability , and gender and food effects in healthy human subjects .
+Tonapofylline is an antagonist of adenosine A1 receptor being developed for heart failure .
+In the present studies , pharmacokinetic characteristics , including dose proportionality , bioavailability , and effects of gender and food , were evaluated in healthy subjects receiving single-dose tonapofylline ( 0.2-375 mg ) in a parallel or crossover design .
+Following oral administration , tonapofylline concentrations mostly peaked within 3 hours and declined over time in a multiple phasic manner .
+Based on a power model , dose proportionality of peak concentration ( C ( max ) ) , area under the time-concentration curve for all values ( AUC ( all ) ) , and area under the time-concentration curve to infinity ( AUC ( inf ) ) was concluded in a clinical setting .
+The bioavailability of tonapofylline was 81.2% ( 90% confidence interval , 70.6%-93.5% ) .
+Following intravenous administration , the steady-state volume of distribution of tonapofylline was estimated to be 756 mL  kg .
+The total clearance of tonapofylline was low ( 64.8 mL  h  kg ) , approximately 5% of hepatic blood flow .
+The terminal half-life was variable within groups and ranged from 11.2 to 24.2 hours across the dose range .
+Female subjects showed significantly higher C ( max ) , AUC ( all ) , and AUC ( inf ) than male subjects ( P sentinf .
+05 ) .
+Food decreased C ( max ) by approximately 39% , whereas it did not appear to affect AUC ( all ) and AUC ( inf ) .
+The intersubject variability of the pharmacokinetic parameters of tonapofylline was generally less than 30%. .
+In these studies , a single dose of tonapofylline was safe and well tolerated .

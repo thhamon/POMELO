@@ -1,0 +1,21 @@
+TS923362039	food 33 40	alcohol
+TS1323362039	food 180 187	alcohol
+TS723362039	food 679 686	alcohol
+TS2223362039	drug 1012 1030	sedative-hypnotics
+TS1523362039	food 1045 1052	alcohol
+TS1223362039	food 1087 1094	alcohol
+TS823362039	food 1142 1149	Alcohol
+TS1623362039	food 1455 1462	alcohol
+TS123362039	food 1569 1576	alcohol
+TS2323362039	sideeffect 1596 1613	drug interactions
+TS1823362039	food 1671 1678	alcohol
+TS1923362039	food 1852 1859	alcohol
+TS423362039	food 1910 1917	alcohol
+T1	drug 45 68	sedative-hypnotic drugs
+T2	drug 192 209	sedative-hypnotic
+T3	drug 1121 1139	sedative-hypnotics
+T4	drug 1347 1364	sedative-hypnotic
+T5	drug 1578 1595	sedative-hypnotic
+T6	sideeffect 1734 1774	addictive central nervous system effects
+R1	increase_side_effect Arg1:TS1823362039 Arg2:T6	
+T7	drug 1958 1981	sedative-hypnotic drugs

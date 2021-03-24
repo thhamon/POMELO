@@ -1,0 +1,12 @@
+Evaluation of the effect of food on the pharmacokinetics of axitinib in healthy volunteers .
+To evaluate the effect of food on axitinib pharmacokinetics in healthy volunteers with two different crystal polymorphs .
+Two separate open-label , randomized , single-dose , three-period , crossover trials were conducted .
+Study I , conducted first using 5-mg axitinib Form IV film-coated immediate-release ( FCIR ) tablets , enrolled 18 subjects to compare fed versus fasted states and 24 subjects to evaluate the effect of timing of food consumption on axitinib pharmacokinetics .
+Study II enrolled 30 subjects to assess the effect of food using 5-mg axitinib Form XLI FCIR tablets .
+Subjects received axitinib after overnight fasting , with limited fasting or , depending on the study design , after consuming high-fat , high-calorie or moderate-fat , standard-calorie meals .
+For Form IV FCIR , compared with overnight fasting , axitinib plasma exposure [area under the concentration curve ( AUC ) ] was decreased 23 % when administered with food .
+For Form XLI FCIR , mean axitinib plasma AUC and maximum plasma concentration ( C ( max ) ) were 19 and 11 % higher , respectively , with a high-fat , high-calorie meal compared with overnight fasting .
+When Form XLI FCIR was administered with moderate-fat , standard-calorie meal , AUC and C ( max ) were 10 and 16 % lower compared with overnight fasting .
+Both formulations were well tolerated .
+Adverse events , mostly gastrointestinal ( 7 % with Form IV FCIR and 13 % with Form XLI FCIR ) , were mild to moderate in both studies .
+While axitinib Form IV FCIR was associated with higher plasma exposure after overnight fasting , axitinib Form XLI FCIR can be administered with or without food as differences in axitinib pharmacokinetics under the two conditions were not clinically meaningful .

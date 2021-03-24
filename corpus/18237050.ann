@@ -1,0 +1,23 @@
+TS2218237050	sideeffect 0 13	[Hypertension
+TS1118237050	food 21 30	liquorice
+TS1918237050	food 35 48	liquorice tea
+TS318237050	food 98 107	liquorice
+TS718237050	food 203 216	liquorice tea
+TS1018237050	drug 266 278	glycyrrhizin
+TS118237050	food 421 430	liquorice
+TS918237050	drug 628 647	glycyrrhetinic acid
+TS818237050	sideeffect 675 701	increase in blood pressure
+TS218237050	drug 763 782	glycyrrhetinic acid
+TS1318237050	food 842 851	liquorice
+TS518237050	food 883 896	liquorice tea
+TS1518237050	sideeffect 922 934	hypertension
+TS1718237050	food 952 961	liquorice
+TS1618237050	food 966 979	liquorice tea
+T1	drug 330 342	glycyrrhizin
+T2	frequency 607 612	daily
+T3	dosage 651 656	95 mg
+T4	frequency 747 752	daily
+T5	dosage 795 801	9.5 mg
+T6	frequency 802 807	a day
+T7	dosage 834 841	10-30 g
+T8	frequency 897 902	a day

@@ -1,0 +1,21 @@
+TS118857073	drug 52 64	antiallergic
+TS18857073	drug 330 346	gelatin capsules
+TS158857073	drugEffect 830 841;872 903	suppression histamine-induced skin reaction
+TS138857073	drugEffect 1058 1069;1084 1107	suppression histamine-induced wheal
+TS68857073	mealTime 1468 1479	after meals
+T1	drug 225 243	indolyl piperidine
+T2	dosage 281 285	oral
+T3	dosage 305 306	5
+T4	dosage 309 311	10
+T5	dosage 316 321	20 mg
+T6	dosage 734 735	5
+T7	dosage 740 745	20 mg
+T8	dosage 1496 1498	20
+T9	dosage 1501 1503	30
+T10	dosage 1506 1508	40
+T11	dosage 1511 1513	50
+T12	dosage 1518 1523	60 mg
+T13	dosage 1551 1556	40 mg
+T14	frequency 1557 1568	twice daily
+T15	duration 1569 1581	for 6.5 days
+T16	dosage 1910 1915	30 mg

@@ -1,0 +1,22 @@
+TS614574774	drug 11 48	monoamine oxidase inhibitor inhibitor
+TS1314574774	drug 143 160;169 179	monoamine oxidase inhibitors
+TS1714574774	drug 292 303	-phenelzine
+TS214574774	drug 308 323	tranylcypromine
+TS314574774	sideeffect 389 401	interactions
+TS1514574774	drug 409 417	tyramine
+TS714574774	food 421 425	food
+TS114574774	sideeffect 504 516	hypertension
+TS1414574774	sideeffect 519 530	hypotension
+TS514574774	sideeffect 533 541	headache
+TS1214574774	sideeffect 544 562	sleep disturbances
+TS1114574774	treatedDisease 671 691	depressive disorders
+TS414574774	sideeffect 701 713	unresponsive
+T1	drug 163 166	MAO
+T2	treatedDisease 234 244	depression
+R1	treat Arg1:TS1314574774 Arg2:T2	
+T3	drug 263 290	nonselective MAO inhibitors
+T4	drug 428 446	sympathicomimetics
+T5	drug 451 482	serotonine re-uptake inhibitors
+T6	sideeffect 489 501	side-effects
+T7	sideeffect 567 589	neuromuscular symptoms
+T8	drug 634 648	MAO inhibitors

@@ -1,0 +1,20 @@
+Effect of food on the pharmacokinetic profile of etamicastat ( BIA 5-453 ) .
+Etamicastat is a novel , potent , and reversible peripheral dopamine-β-hydroxylase inhibitor that has been administered orally at doses up to 600 mg once daily for 10 days to male healthy volunteers and appears to be well tolerated .
+The aim of this study was to investigate the effect of food on the pharmacokinetics of etamicastat .
+A single-center , open-label , randomized , two-way crossover study in 12 healthy male subjects was performed .
+Subjects were administered a single dose of etamicastat 200 mg following either a standard high-fat and high-calorie content meal ( test ) or 10 hours of fasting ( reference ) .
+The statistical method for testing the effect of food on the pharmacokinetic parameters of interest was based upon the 90% confidence interval ( CI ) for the test  reference geometric mean ratio ( GMR ) .
+The parameters of interest were maximum plasma concentration ( C ( max ) ) , area under the plasma concentration-time curve ( AUC ) from time zero to the last measurable concentration ( AUC ( last ) ) , and AUC from time zero to infinity ( AUC ( ∞ ) ) .
+Bioequivalence was assumed when the 90% CI fell within the recommended acceptance interval ( 80 , 125 ) .
+Etamicastat C ( max ) , AUC ( last ) , and AUC ( ∞ ) were 229 ng  mL , 1856 ng bigasentdot h  mL , and 2238 ng bigasentdot h  mL , respectively , following etamicastat in the fasting , and 166 ng  mL , 1737 ng bigasentdot h  mL , and 2119 ng bigasentdot h  mL , respectively , following etamicastat in the fed condition .
+Etamicastat test  reference GMR was 72.27% ( 90% CI 64.98 , 80.38 ) for C ( max ) , 93.59% ( 90% CI 89.28 , 98.11 ) for AUC ( last ) , and 96.47% ( 90% CI 91.67 , 101.53 ) for AUC ( ∞ ) .
+Time to C ( max ) was prolonged by the presence of food ( p sentinf 0.001 ) .
+The C ( max ) , AUC ( last ) , and AUC ( ∞ ) values of the inactive metabolite BIA 5-961 were 275 ng  mL , 1827 ng bigasentdot h  mL , and 2009 ng bigasentdot h  mL , respectively , in the fasting , and 172 ng  mL , 1450 ng bigasentdot h  mL , and 1677 ng bigasentdot h  mL , respectively , in the fed condition .
+BIA 5-961 test  reference GMR was 62.42% ( 90% CI 56.77 , 68.63 ) for C ( max ) , 79.41% ( 90% CI 56.77 , 68.63 ) for AUC ( last ) , and 83.47% ( 90% CI 76.62 , 90.93 ) for AUC ( ∞ ) .
+A total of six mild to moderate unspecific adverse events were reported by four subjects .
+There was no clinically significant abnormality in laboratory assessments .
+Etamicastat was well tolerated .
+The C ( max ) of etamicastat decreased 28% following oral administration of etamicastat in the presence of food , while AUC remained within the pre-defined acceptance interval .
+The delay in absorption and decrease in peak exposure of etamicastat is not clinically significant , and therefore etamicastat could be administered without regard to meals .
+Trial Registration: EudraCT No .
+2007-006530-33. .

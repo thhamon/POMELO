@@ -1,0 +1,38 @@
+TS1022735461	food 10 14	food
+TS1522735461	food 155 159	food
+TS1122735461	drugEffect 183 198	bioavailability
+TS122735461	food 508 540	high fat  high calorie breakfast
+TS922735461	mealTime 531 540	breakfast
+TS1222735461	mealTime 545 576	after an overnight fast of 10 h
+TS522735461	food3 1069 1072	fed
+TS1722735461	food3 1074 1080	fasted
+TS722735461	drug 1145 1148	AUC
+R1	relation Arg1:TS1722735461 Arg2:TS722735461
+TS622735461	food 1240 1244	food
+TS822735461	food3 1402 1405	fed
+TS1822735461	food3 1439 1445	fasted
+TS1322735461	food 1487 1491	food
+TS322735461	drug 1508 1511	AUC
+R2	relation Arg1:TS1322735461 Arg2:TS322735461
+TS422735461	food 1628 1632	food
+TS1422735461	food 1829 1833	food
+T1	drug 63 68	R1663
+T2	drug 79 98	factor Xa inhibitor
+T3	drug 202 207	R1663
+T4	drugEffect 219 242	pharmacodynamic effects
+T5	modeadm 337 341	oral
+T6	dosage 350 356	200 mg
+T7	drug 475 480	R1663
+T8	drug 703 708	R1663
+T9	drug 1172 1177	R1663
+T10	drug 1363 1368	R1663
+T11	mealTime 1398 1401	fed
+T12	mealTime 1435 1441	fasted
+R3	slow_absorption Arg1:T11 Arg2:T10	
+T13	food 1483 1487	food
+T14	drug 1498 1503	R1663
+R4	no_effect_on_drug Arg1:T13 Arg2:T14	
+T15	food 1622 1626	food
+T16	drug 1799 1804	R1663
+T17	food 1823 1827	food
+R5	no_effect_on_drug Arg1:T17 Arg2:T16	

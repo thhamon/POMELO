@@ -1,0 +1,3 @@
+TS419646718	treatedDisease 0 23	[Primary hypothyroidism
+TS219646718	drug 77 90	levothyroxine
+R1	treat Arg1:TS219646718 Arg2:TS419646718	

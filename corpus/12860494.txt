@@ -1,0 +1,19 @@
+The effect of nateglinide taken with food on gastric emptying rates in healthy subjects .
+The aim of this study was to determine the effect of the timing of food intake on the pharmacokinetics and pharmacodynamics of oral nateglinide 60 mg and the effect of nateglinide on the rate of gastric emptying .
+A randomized , double-blind , placebo-controlled , single-dose , 6-period , crossover study conducted in healthy male volunteers aged 18 to 50 years .
+On 5 occasions , subjects received a single 60-mg tablet of nateglinide at -30 , -10 , -5 , -1 , or 40 minutes from the start of a standard metal .
+Treatment blind was maintained by administration of placebo tablets at all other time points .
+On the sixth occasion , subjects received placebo tablets at all dosing time points .
+Each subject received acetaminophen 1 g at the beginning of the standard breakfast on each treatment day as an indicator of the rate of gastric emptying .
+Plasma samples were collected over a 6-hour period to determine nateglinide , glucose , insulin , and acetaminophen concentrations .
+Twelve white men with a mean ( SD ) age of 30 ( 6.8 ) years ( range , 21-47 years ) and mean ( SD ) weight of 73.3 ( 11.0 ) kg completed all 6 periods of the study .
+Nateglinide absorption was faster when administered at -5 or -10 minutes relative to food , as characterized by higher nateglinide area under the concentration-time curve from 0 to 5 hours ( AUC ( 0-5 ) ) and maximum plasma concentration ( C ( max ) ) values , compared with those observed at other dosing time points .
+Mean time to C ( max ) ( T ( max ) ) was also shorter when nateglinide was given at -10 minutes versus other dosing time points .
+Mean nateglinide half-life was similar for all 5 treatments ( range , 81.3-94.6 minutes ) .
+The overall treatment effect was statistically significant for nateglinide AUC ( 0-5 ) ( P = 0.031 ) , C ( max ) ( P = 0.001 ) , and T ( max ) ( P sentinf 0.001 ) .
+Insulin T ( max ) was shorter after nateglinide administration at -30 or -10 minutes , which was associated with lower glucose C ( max ) values ( -30 minutes , P sentinf 0.05 ) and a tendency for lower glucose AUC ( 0-5 ) values ( -10 minutes , P = NS ) .
+NS ) .
+No treatment effects were observed for any of the acetaminophen indices , as demonstrated by the absence of any change in acetaminophen T ( max ) or C ( max ) value .
+Nateglinide was well tolerated and no treatment-limiting adverse events were reported in the population studied .
+Nateglinide administration appeared to have no effect on the rate of gastric emptying as indicated by acetaminophen indices , regardless of the time of nateglinide administration .
+The findings imply that the time for nateglinide administration to obtain optimal pharmacodynamic effects is prior to food consumption .

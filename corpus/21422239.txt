@@ -1,0 +1,9 @@
+Evaluation of safety and pharmacokinetics of sodium 2 , 2 dimethylbutyrate , a novel short chain fatty acid derivative , in a phase 1 , double-blind , placebo-controlled , single-dose , and repeat-dose studies in healthy volunteers .
+Pharmacologic induction of fetal globin synthesis is an accepted therapeutic strategy for treatment of the beta hemoglobinopathies and thalassemias , as even small increases in hemoglobin F ( HbF ) levels reduce clinical severity in sickle cell disease ( SCD ) and reduce anemia in beta thalassemia .
+Prior generation short chain fatty acid therapeutics , arginine butyrate ( AB ) , and phenylbutyrate , increased fetal and total hemoglobin levels in patients , but were limited by high doses or intravenous ( IV ) infusion .
+A fetal globin-inducing therapeutic with convenient oral dosing would be an advance for these classic molecular diseases .
+Healthy adult human subjects were treated with a novel short chain fatty acids ( SCFA ) derivative , sodium 2 , 2 dimethylbutyrate ( SDMB ) , or placebo , with 1 of 4 single dose levels ( 2 , 5 , 10 , and 20 mg  kg ) or daily doses ( 5 , 10 , or 15 mg  kg ) over 14 days , and monitored for adverse clinical and laboratory events , drug levels , reticulocytes , and HbF assays .
+SDMB was well-tolerated with no clinically significant adverse events related to study medication .
+The terminal half-life ranged from 9 to 15 hours .
+Increases in mean absolute reticulocytes were observed at all dose levels in the 14-day study .
+The favorable pharmacokinetics ( PK ) profiles and safety findings indicate that SDMB warrants further investigation for treatment of anemic subjects with beta hemoglobinopathies .

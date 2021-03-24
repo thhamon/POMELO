@@ -1,0 +1,28 @@
+TS1014531370	food 29 35	herbal
+TS3114531370	food 53 72	dietary supplements
+TS314531370	drug 90 105	Herbal medicine
+TS3214531370	drug 269 285	herbal medicines
+TS1814531370	drug 501 516	herbal medicine
+TS3014531370	drug 641 657	herbal medicines
+TS714531370	drug 663 671	fish oil
+TS114531370	drug 674 680	ginkgo
+TS1314531370	drug 683 692	Echinacea
+TS1214531370	drug 704 710	garlic
+TS2514531370	drug 749 772	nutritional supplements
+TS814531370	food 792 798	spread
+TS1514531370	drug 854 877	nutritional supplements
+TS914531370	drug 984 999	herbal medicine
+TS2114531370	drug 1080 1095	herbal medicine
+TS3314531370	drug 1188 1204	herbal medicines
+TS1414531370	sideeffect 1257 1269	interactions
+TS2614531370	drug 1278 1293	herbal medicine
+TS2914531370	drug 1414 1430	herbal medicines
+T1	duration 366 382	two-month period
+T2	numbers 396 399	115
+T3	numbers 433 435	69
+T4	numbers 454 456	46
+T5	drug 695 701	Co-Q10
+T6	drug 717 720	hip
+T7	drug 883 890	Gerimax
+T8	drug 893 903	LongoVital
+T9	drug 910 919	Melbrosia

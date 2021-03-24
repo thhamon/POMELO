@@ -1,0 +1,7 @@
+TS417880476	sideeffect 63 91	nasoenteral tube obstruction
+TS817880476	drug 122 139	enteral nutrition
+TS117880476	sideeffect 392 403	obstruction
+TS1617880476	sideeffect 781 804	Nasoenteral obstruction
+TS1317880476	sideeffect 923 939	tube obstruction
+TS1217880476	sideeffect 1172 1187	NET obstruction
+R2	has_sideeffect Arg1:TS817880476 Arg2:TS417880476	

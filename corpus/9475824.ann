@@ -1,0 +1,55 @@
+TS459475824	drug 12 25	zinc lozenges
+TS179475824	treatedDisease 46 57	common cold
+TS389475824	drug 123 136	zinc lozenges
+TS219475824	treatedDisease 158 169	common cold
+TS429475824	drug 263 276	zinc lozenges
+TS319475824	treatedDisease 302 313	common cold
+TS419475824	drug 418 431	zinc lozenges
+TS299475824	treatedDisease 467 478	common cold
+TS439475824	drug 645 658	zinc lozenges
+TS79475824	treatedDisease 684 695	common cold
+TS399475824	drug 723 736	zinc lozenges
+TS89475824	treatedDisease 761 772	common cold
+TS469475824	drug 910 923	zinc lozenges
+TS349475824	drug 994 998	zinc
+TS49475824	drug 1177 1181	zinc
+TS309475824	sideeffect 1196 1211	adverse effects
+TS19475824	sideeffect 1239 1255	mouth irritation
+TS329475824	sideeffect 1262 1268	nausea
+TS209475824	treatedDisease 1288 1299	common cold
+TS409475824	drug 1305 1328	zinc gluconate lozenges
+TS269475824	drug 1365 1369	zinc
+TS39475824	drugEffect 1392 1400;1414 1439	reducing severity of cold symptoms
+TS279475824	food 1631 1642	citric acid
+TS169475824	food 1646 1659	tartaric acid
+TS289475824	sideeffect 1687 1708	chelation of zinc ion
+TS479475824	drug 1720 1743	zinc gluconate lozenges
+TS379475824	drug 1844 1865	zinc acetate lozenges
+TS489475824	drug 1949 1972	zinc gluconate lozenges
+TS449475824	drug 2108 2121	zinc lozenges
+TS369475824	sideeffect 2146 2161	adverse effects
+R1	treat Arg1:TS459475824 Arg2:TS179475824	
+R2	treat Arg1:TS389475824 Arg2:TS219475824	
+R3	treat Arg1:TS429475824 Arg2:TS319475824	
+R4	treat Arg1:TS419475824 Arg2:TS299475824	
+T1	drugEffect 513 534	reduction in duration
+T2	drugEffect 513 522;543 568	reduction severity of cold symptoms
+R5	has_effect Arg1:TS419475824 Arg2:T2	
+R6	has_effect Arg1:TS419475824 Arg2:T1	
+R7	treat Arg1:TS439475824 Arg2:TS79475824	
+T3	drugEffect 795 814	reduce the duration
+T4	drugEffect 795 801;819 844	reduce severity of cold symptoms
+R8	treat Arg1:TS399475824 Arg2:TS89475824	
+R9	has_effect Arg1:TS399475824 Arg2:T3	
+R10	has_effect Arg1:TS399475824 Arg2:T4	
+T5	sideeffect 1220 1236	unpleasant taste
+R11	treat Arg1:TS409475824 Arg2:TS209475824	
+T6	drugEffect 1392 1409	reducing duration
+R12	has_effect Arg1:TS409475824 Arg2:TS39475824	
+R13	has_effect Arg1:TS409475824 Arg2:T6	
+T7	sideeffect 1664 1679	reduce efficacy
+R14	increase_side_effect Arg1:TS169475824 Arg2:T7	
+R15	increase_side_effect Arg1:TS279475824 Arg2:T7	
+R16	increase_side_effect Arg1:TS169475824 Arg2:TS289475824	
+R17	increase_side_effect Arg1:TS279475824 Arg2:TS289475824	
+R18	has_sideeffect Arg1:TS449475824 Arg2:TS369475824	

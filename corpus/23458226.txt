@@ -1,0 +1,20 @@
+The effect of food on the absorption and pharmacokinetics of rivaroxaban .
+Doses of 10 mg , 15 mg , and 20 mg of rivaroxaban are approved for the treatment and prevention of thromboembolic disorders in adult patients .
+In six Phase I studies , the pharmacokinetics , safety , and tolerability of 2.5 mg , 5 mg , 10 mg , 15 mg , and 20 mg rivaroxaban were investigated in healthy male subjects , and the influence of food on these parameters was investigated for the 10 mg , 15 mg , and 20 mg tablet doses .
+In addition , an oral suspension containing 1 ml rivaroxaban , which is under investigation for future use in the pediatric population , was investigated at doses of 10 mg and 20 mg .
+Rivaroxaban was obtained from Bayer Pharma AG , Wuppertal , Germany .
+Six independent , single-dose , cross-over studies were performed in healthy male subjects ( between 13 and 24 subjects were enrolled in each study ) to determine the pharmacokinetics , safety , and tolerability of rivaroxaban under fasting and fed conditions .
+Study 1 was an absolute bioavailability study that compared 5 mg and 20 mg tablet doses with a 1 mg intravenous solution .
+Studies 2 and 3 were confirmatory food- food-effect studies that assessed 10 mg and 20 mg tablet doses , respectively , under fed and fasting conditions .
+Study 4 was a formulation study that evaluated oral suspensions of 10 mg ( fasting ) and 20 mg ( fasting and fed ) rivaroxaban vs. .
+a 10 mg tablet ( fasted ) .
+Study 5 was a dose-proportionality study that assessed 2.5 mg , 5 mg , and 10 mg tablets under fasting conditions .
+Study 6 was a dose-proportionality study that assessed tablet doses of 10 mg , 15 mg , and 20 mg under fed conditions .
+Pharmacokinetic parameters , including the area under the plasma concentration-time curve after a single dose , the maximum drug concentration in plasma after a single dose , dose-adjusted values of area under the plasma concentration-time curve and maximum drug concentration in plasma after a single dose , half-life associated with the terminal slope , and time to maximum concentration in plasma after a single dose were evaluated .
+Adverse events were classified according to their degree of severity and were summarized using Medical Dictionary for Regulatory Activities preferred terms .
+At all doses , rivaroxaban showed an acceptable safety profile and was well tolerated in healthy individuals .
+Independent of food and formulation , pharmacokinetic parameters of doses up to 10 mg rivaroxaban were dose proportional and had high oral bioavailability ( â¥ 80% ) .
+Under fasting conditions , pharmacokinetic parameters of 15 mg and 20 mg rivaroxaban increased with dose but were less than dose proportional .
+However , when taken with food , high bioavailability ( â¥ 80% ) of these doses was achieved independent of formulation .
+Pharmacokinetic parameters of doses up to 10 mg rivaroxaban were dose proportional and had high oral bioavailability independent of food or whether administered as tablet or solution .
+High bioavailability ( â¥ 80% ) of 15 mg and 20 mg rivaroxaban was achieved when taken with food ; therefore , these doses need to be taken with food .

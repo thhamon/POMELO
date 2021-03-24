@@ -1,0 +1,20 @@
+TS310718785	drugEffect 17 32	bioavailability
+TS1510718785	drug 36 61	azimilide dihydrochloride
+TS410718785	mealTime 69 72	fed
+TS1810718785	mealTime 77 83	fasted
+TS1310718785	drugEffect 135 150	bioavailability
+TS210718785	drug 154 179	azimilide dihydrochloride
+TS610718785	mealTime 212 215	fed
+TS1910718785	food 218 231	high-fat meal
+TS1710718785	mealTime 238 244	fasted
+TS1010718785	mealTime 692 695	fed
+TS2110718785	mealTime 700 706	fasted
+TS1610718785	food 800 815	a high-fat meal
+TS110718785	drug 912 937	Azimilide dihydrochloride
+T1	numbers 319 321	30
+T2	modeadm 370 374	oral
+T3	duration 421 433	over 27 days
+T4	drug 451 460	azimilide
+T5	mealTime 811 815	meal
+T6	mealTime 999 1013	prandial state
+R1	no_effect_on_drug Arg1:T6 Arg2:TS110718785	

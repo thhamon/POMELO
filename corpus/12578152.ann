@@ -1,0 +1,36 @@
+TS2212578152	food 18 22	food
+TS512578152	drugEffect 30 45	bioavailability
+TS2512578152	drug 55 77	ketolide antibacterial
+TS312578152	drug 80 93	telithromycin
+TS1312578152	drug 96 109	Telithromycin
+TS2312578152	drug 127 140	antibacterial
+TS1212578152	treatedDisease 171 218	community-acquired respiratory tract infections
+TS2112578152	food 255 259	food
+TS612578152	drugEffect 267 282	bioavailability
+TS212578152	drug 308 321	telithromycin
+R2	relation Arg1:TS2112578152 Arg2:TS212578152
+TS412578152	drug 527 540	telithromycin
+TS812578152	food 585 602	standard high-fat
+TS2012578152	drug 741 754	Telithromycin
+TS3212578152	mealTime 859 866	fasting
+TS3412578152	mealTime 955 966	non-fasting
+TS1612578152	mealTime 971 978	fasting
+TS1412578152	drug 1055 1068	telithromycin
+TS3712578152	mealTime 1112 1123	non-fasting
+TS2712578152	mealTime 1128 1135	fasting
+TS3612578152	mealTime 1302 1321	non-fasting:fasting
+TS1812578152	drug 1435 1448	Telithromycin
+TS2812578152	drugEffect 1474 1489	bioavailability
+TS712578152	drug 1533 1555	ketolide antibacterial
+TS3112578152	drug 1556 1569	telithromycin
+TS912578152	food 1589 1593	food
+R1	has_effect Arg1:TS2512578152 Arg2:TS512578152	
+R3	has_effect Arg1:TS312578152 Arg2:TS512578152	
+T1	modeadm 295 299	oral
+T2	dosage 322 328	800 mg
+T3	modeadm 514 518	oral
+T4	dosage 541 547	800 mg
+T5	mealTime 548 571	after an overnight fast
+T6	mealTime 577 582;603 612	after breakfast
+T7	mealTime 871 889	non-fasting states
+R4	no_effect_on_drug Arg1:TS912578152 Arg2:TS3112578152	

@@ -1,0 +1,32 @@
+TS814606933	drug 20 32	pimecrolimus
+TS1414606933	drug 43 76	nonsteroid anti-inflammatory drug
+TS914606933	drug 202 219	anti-inflammatory
+TS1814606933	drug 220 232	pimecrolimus
+TS2014606933	drug 249 255	Elidel
+TS314606933	treatedDisease 521 530	psoriasis
+TS1114606933	drug 729 741	pimecrolimus
+TS1914606933	drug 1135 1147	pimecrolimus
+TS1214606933	drug 1201 1213	Pimecrolimus
+TS1014606933	food 1289 1304	A high-fat meal
+TS2214606933	mealTime 1472 1478	fasted
+TS114606933	treatedDisease 1537 1546	psoriasis
+TS1714606933	drug 2051 2063	pimecrolimus
+T1	modeadm 105 109	oral
+T2	modeadm 264 268	oral
+T3	frequency 288 299	single-dose
+T4	modeadm 715 719	oral
+T5	dosage 744 750	5-60mg
+T6	dosage 759 763	60mg
+T7	food 816 834	fat-rich breakfast
+T8	modeadm 935 939	oral
+T9	frequency 959 969	once daily
+T10	dosage 972 978	5-20mg
+T11	frequency 984 995	twice daily
+T12	dosage 998 1009	20 and 30mg
+T13	duration 1012 1023	for 28 days
+T14	dosage 1192 1196	60mg
+T15	dosage 1828 1832	30mg
+T16	frequency 1833 1844	twice daily
+T17	modeadm 2046 2050	oral
+T18	treatedDisease 2085 2106	inflammatory diseases
+R1	treat Arg1:TS1714606933 Arg2:T18	

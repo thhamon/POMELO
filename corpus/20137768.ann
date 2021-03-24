@@ -1,0 +1,26 @@
+TS620137768	drugEffect 15 30	bioavailability
+TS3720137768	drug 48 58	nifedipine
+TS4220137768	mealTime 91 97	fasted
+TS1120137768	mealTime 102 105	fed
+TS1820137768	drugEffect 175 190	bioavailability
+TS2120137768	drug 239 249	nifedipine
+TS4020137768	drug 252 266	Gen-Nifedipine
+TS2420137768	drug 344 353	Adalat XL
+TS4120137768	mealTime 437 443	fasted
+TS2920137768	mealTime 448 451	fed
+TS3320137768	food 913 922	tap water
+TS2720137768	mealTime 936 943	fasting
+TS1020137768	food 982 990	high-fat
+TS1920137768	food 993 1005	high-calorie
+TS2820137768	drug 1249 1259	nifedipine
+TS1720137768	drug 1610 1620	nifedipine
+TS2320137768	mealTime 1677 1684	fasting
+TS2020137768	mealTime 2535 2538	fed
+T1	dosage 39 44	60 mg
+T2	modeadm 59 84	osmotic push-pull systems
+T3	dosage 233 238	60 mg
+T4	modeadm 267 283	extended release
+T5	mealTime 958 990	immediately following a high-fat
+T6	mealTime 993 1015	high-calorie breakfast
+T7	modeadm 3616 3639	osmotic release systems
+T8	modeadm 3734 3758	osmotic delivery systems

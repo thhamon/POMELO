@@ -1,0 +1,11 @@
+Comparative oral bioavailability of azimilide dihydrochloride in the fed and fasted states .
+This study investigated the relative oral bioavailability of azimilide dihydrochloride following administration in the fed ( high-fat meal ) and fasted states .
+This was a single-dose , randomized , two-way crossover study in 30 healthy , Caucasian , male subjects .
+Following oral administration , blood samples were collected over 27 days and analysed for azimilide using h.p.l.c. .
+with u.v. .
+detection .
+Pharmacokinetic parameters were determined using 'noncompartmental' analysis and compared using an ANOVA and 90% or 95% confidence intervals .
+The extent of absorption was equivalent in the fed and fasted states ( ratio = 96.2% ; 90% CI=90.5% -102.4% ) .
+However , Cmax was decreased 19% following a high-fat meal ( ratio=81.4% ; 90% CI= 76.2% -87.0% ) .
+No difference in tmax or t ( 1  2 ) , z was observed .
+Azimilide dihydrochloride may be orally administered to patients without regard to the prandial state .

@@ -1,0 +1,31 @@
+TS3121501216	drug 45 57	atorvastatin
+TS2821501216	food 77 93	grapefruit juice
+TS321501216	food 145 161	grapefruit juice
+TS1521501216	sideeffect 230 245	adverse effects
+TS2421501216	drug 249 261	atorvastatin
+R1	relation Arg1:TS321501216 Arg2:TS2421501216
+TS1421501216	drug 344 356	atorvastatin
+TS2021501216	food 791 794	GFJ
+TS2321501216	drug 547 559	atorvastatin
+TS2121501216	food 833 836	GFJ
+TS3021501216	drug 637 649	atorvastatin
+TS1921501216	food 1341 1344	GFJ
+TS2621501216	drug 866 878	atorvastatin
+TS421501216	sideeffect 996 1011	adverse effects
+TS2921501216	food 1596 1599	GFJ
+TS1621501216	drug 1071 1083	atorvastatin
+TS2521501216	sideeffect 1218 1233	adverse effects
+TS1121501216	food 1237 1242	liver
+TS621501216	drug 1298 1310	atorvastatin
+TS721501216	drug 1391 1403	atorvastatin
+TS1321501216	drug 1551 1563	atorvastatin
+T1	frequency 94 99	daily
+T2	food 164 167	GFJ
+T3	dosage 359 375	10 , 20 or 40 mg
+T4	frequency 376 379	day
+T5	food 441 444	GFJ
+T6	duration 446 468	or a period of 90 days
+R2	relation Arg1:TS2121501216 Arg2:TS2621501216	
+T7	frequency 1335 1340	daily
+T8	sideeffect 1512 1535	liver or muscle effects
+R3	relation Arg1:TS2921501216 Arg2:TS1321501216	

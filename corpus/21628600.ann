@@ -1,0 +1,51 @@
+TS1621628600	drug 4 38	monoamine oxidase type B inhibitor
+TS1321628600	drug 39 49	rasagiline
+TS221628600	drug 92 100	tyramine
+TS2421628600	drug 115 125	Rasagiline
+TS1921628600	drug 132 189	irreversible monoamine oxidase type B ( MAO-B ) inhibitor
+TS1221628600	drug 325 333	levodopa
+TS1121628600	drugEffect 350 398	inhibition of monoamine oxidase type A ( MAO-A )
+TS1421628600	sideeffect 459 471	hypertensive
+TS2321628600	drug 499 507	tyramine
+TS621628600	drug 545 553	Tyramine
+TS921628600	drug 600 610	rasagiline
+TS721628600	sideeffect 648 668	tyramine sensitivity
+TS1021628600	drug 688 698	rasagiline
+TS821628600	sideeffect 798 818	tyramine sensitivity
+TS421628600	drug 903 913	rasagiline
+TS321628600	food 1010 1038	dietary tyramine restriction
+TS2121628600	drug 1085 1095	rasagiline
+TS121628600	food 0 1122	The monoamine oxidase type B inhibitor rasagiline in the treatment of Parkinson disease: is tyramine a challenge ?
+Rasagiline is an irreversible monoamine oxidase type B ( MAO-B ) inhibitor indicated for the treatment of the signs and symptoms of idiopathic Parkinson disease as initial monotherapy and as adjunct therapy to levodopa .
+Pharmacologic inhibition of monoamine oxidase type A ( MAO-A ) , but not MAO-B , poses a risk of the " cheese effect , " a hypertensive response to excess dietary tyramine , a biogenic sympathomimetic amine .
+Tyramine challenge studies , conducted to characterize rasagiline selectivity for the MAO-B enzyme and tyramine sensitivity , demonstrate that rasagiline , when used at the recommended dose , is selective for MAO-B and is not associated with heightened tyramine sensitivity .
+This conclusion is also supported by safety results from large clinical trials of rasagiline in Parkinson disease involving 2066 rasagiline- rasagiline-treated patients who did not require dietary tyramine restriction per protocol .
+In late 2009 , US labeling for rasagiline was modified to state that
+TS2221628600	drug 1186 1196	rasagiline
+TS2021628600	drug 1258 1268	rasagiline
+TS1821628600	treatedDisease 1542 1558	pheochromocytoma
+T1	treatedDisease 70 87	Parkinson disease
+R1	treat Arg1:TS1321628600 Arg2:T1	
+R2	treat Arg1:TS1621628600 Arg2:T1	
+T2	treatedDisease 258 275	Parkinson disease
+R3	treat Arg1:TS1921628600 Arg2:T2	
+R4	treat Arg1:TS2421628600 Arg2:T2	
+R5	treat Arg1:TS1221628600 Arg2:T2	
+T3	sideeffect 439 452	cheese effect
+R6	has_sideeffect Arg1:TS2321628600 Arg2:TS1421628600	
+R7	has_sideeffect Arg1:TS2321628600 Arg2:T3	
+T4	drug 512 542	biogenic sympathomimetic amine
+T5	drugEffect 611 643	selectivity for the MAO-B enzyme
+R8	has_effect Arg1:TS921628600 Arg2:T5	
+R9	has_sideeffect Arg1:TS921628600 Arg2:TS721628600	
+T6	treatedDisease 917 934	Parkinson disease
+R10	treat Arg1:TS421628600 Arg2:T6	
+R11	no_effect_on_drug Arg1:TS321628600 Arg2:TS421628600	
+T7	food 1123 1152	dietary tyramine restrictions
+T8	drugEffect 1297 1316	selective for MAO-B
+R12	has_effect Arg1:TS2021628600 Arg2:T8	
+T9	dosage 1341 1351	up to 1 mg
+T10	drug 1406 1428	sympathomimetic amines
+T11	drug 1438 1466	sympathomimetic vasopressors
+T12	drug 1487 1494;1498 1514	general local anesthesia
+R13	relation Arg1:T7 Arg2:TS2221628600	

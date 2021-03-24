@@ -1,0 +1,46 @@
+TS2120481649	drug 95 131	lipophilic triazole antifungal agent
+TS1420481649	drugEffect 172 191	antifungal activity
+TS1220481649	drug 439 451	itraconazole
+TS820481649	drug 477 488	fluconazole
+TS3320481649	treatedDisease 642 659	fungal infections
+TS1720481649	sideeffect 763 769	cancer
+TS920481649	drug 790 802	chemotherapy
+TS2020481649	food 938 942	food
+TS3020481649	drugEffect 1099 1114	bioavailability
+TS2820481649	food 1681 1685	food
+TS2320481649	drugEffect 1714 1729	bioavailability
+TS2520481649	mealTime 1773 1784	a full meal
+TS2620481649	sideeffect 2442 2471	inhibitor primarily of CYP3A4
+TS3620481649	treatedDisease 3114 3287	infected with Blastomyces dermatitidis , C. .
+neoformans , Aspergillus fumigatus , Aspergillus flavus , Aspergillus terreus , Coccidioides immitis or Pseudallescheria boydii
+TS720481649	treatedDisease 3663 3689	Candida albicans infection
+T1	drug 44 56	posaconazole
+T2	drug 59 71	Posaconazole
+R1	has_effect Arg1:TS2120481649 Arg2:TS1420481649	
+R2	has_effect Arg1:T2 Arg2:TS1420481649	
+T3	drug 369 381	posaconazole
+T4	drug 593 601	triazole
+R3	treat Arg1:T4 Arg2:TS3320481649	
+T5	drug 811 824	posanconazole
+T6	drug 1118 1130	posaconazole
+T7	drug 1284 1296	Posaconazole
+T8	drug 1389 1401	Posaconazole
+T9	modeadm 1457 1461	oral
+T10	drug 1732 1744	posaconazole
+R4	increase_absorption Arg1:TS2820481649 Arg2:T10	
+R5	has_effect Arg1:T10 Arg2:TS2320481649	
+R6	during Arg1:TS2520481649 Arg2:T10	
+T11	drug 1953 1965	Posaconazole
+T12	drug 2166 2178	posaconazole
+T13	drug 2423 2435	posaconazole
+R7	has_sideeffect Arg1:T13 Arg2:TS2620481649	
+T14	drug 2570 2582	posaconazole
+T15	drug 2684 2696	posaconazole
+T16	drug 3012 3024	Posaconazole
+T17	drugEffect 3071 3095	reduce the fungal tissue
+R8	has_effect Arg1:T16 Arg2:T17	
+T18	drugEffect 3043 3059	improve survival
+R9	has_effect Arg1:T16 Arg2:T18	
+T19	drug 3352 3364	posaconazole
+T20	drug 3616 3622	azoles
+R10	treat Arg1:T20 Arg2:TS720481649	

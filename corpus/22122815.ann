@@ -1,0 +1,47 @@
+TS1822122815	drug 59 68	trazodone
+TS1522122815	drug 219 250	trazodone hydrochloride ( HCl )
+TS1122122815	drug 295 301	TzCOAD
+TS1622122815	drug 253 292	Trazodone Contramidbigasentr Once-a-Day
+TS422122815	drugEffect 390 405	bioavailability
+TS1022122815	drug 458 467	trazodone
+TS2322122815	food 584 588	food
+TS922122815	drug 690 699	trazodone
+TS2022122815	drug 1036 1045	Trazodone
+TS822122815	drug 1218 1224	TzCOAD
+TS1722122815	mealTime 1273 1277	meal
+TS2422122815	mealTime 1318 1325	fasting
+TS1322122815	food 1388 1392	food
+TS522122815	mealTime 1560 1564	meal
+T1	frequency 48 58	once-daily
+T2	modeadm 69 93	extended-release caplets
+T3	modeadm 187 215	extended-release formulation
+T4	drug 447 453	TzCOAD
+T5	modeadm 468 485	immediate-release
+T6	drug 488 492	TzIR
+T7	frequency 513 553	single- and multiple-dose administration
+T8	drug 616 622	TzCOAD
+R1	relation Arg1:TS2322122815 Arg2:T8	
+T9	frequency 644 655	single-dose
+T10	dosage 674 680	300 mg
+T11	drug 681 687	TzCOAD
+T12	drug 781 785	TzIR
+T13	frequency 845 872	multipledose administration
+T14	dosage 876 882	300 mg
+T15	frequency 883 888	daily
+T16	duration 889 899	for 7 days
+T17	drug 902 908	TzCOAD
+T18	frequency 915 925	once daily
+T19	drug 930 934	TzIR
+T20	frequency 941 954	3 times a day
+T21	drug 1027 1033	TzCOAD
+T22	frequency 1060 1086	single-dose administration
+T23	drug 1090 1096	TzCOAD
+T24	food 1264 1277	high-fat meal
+T25	drug 1413 1419	TzCOAD
+T26	dosage 1420 1426	300 mg
+T27	frequency 1427 1437	once daily
+T28	drug 1515 1519	TzIR
+T29	dosage 1520 1526	100 mg
+T30	frequency 1533 1546	3 times a day
+T31	food 1551 1564	high-fat meal
+R2	increase_absorption Arg1:T24 Arg2:TS822122815	

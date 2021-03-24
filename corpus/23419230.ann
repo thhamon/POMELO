@@ -1,0 +1,13 @@
+TS223419230	drug 118 133	antidepressants
+TS323419230	drug 944 958	antidepressant
+T1	drug 0 5	MAOIs
+T2	treatedDisease 174 184	depression
+R1	treat Arg1:TS223419230 Arg2:T2	
+T3	treatedDisease 390 400	depression
+T4	drug 409 414	MAOIs
+T5	treatedDisease 440 450	depression
+R2	treat Arg1:T4 Arg2:T5	
+T6	treatedDisease 507 526	atypical depression
+T7	sideeffect 484 503	treatment-resistant
+R3	treat Arg1:T4 Arg2:T6	
+T8	drug 709 713	MAOI

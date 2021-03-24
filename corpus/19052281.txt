@@ -1,0 +1,13 @@
+Medication administration through enteral feeding tubes .
+An overview of enteral feeding tubes , drug administration techniques , considerations for dosage form selection , common drug interactions with enteral formulas , and methods to minimize tube occlusion is given .
+Enteral nutrition through a feeding tube is the preferred method of nutrition support in patients who have a functioning gastrointestinal tract but who are unable to be fed orally .
+This method of delivering nutrition is also commonly used for administering medications when patients cannot swallow safely .
+However , several issues must be considered with concurrent administration of oral medications and enteral formulas .
+Incorrect administration methods may result in clogged feeding tubes , decreased drug efficacy , increased adverse effects , or drug-formula incompatibilities .
+Various enteral feeding tubes are available and are typically classified by site of insertion and location of the distal tip of the feeding tube .
+Liquid medications , particularly elixirs and suspensions , are preferred for enteral administration ; however , these formulations may be hypertonic or contain large amounts of sorbitol , and these properties increase the potential for adverse effects .
+Before solid dosage forms are administered through the feeding tube , it should be determined if the medications are suitable for manipulation , such as crushing a tablet or opening a capsule .
+Medications should not be added directly to the enteral formula , and feeding tubes should be properly flushed with water before and after each medication is administered .
+To minimize drug-nutrient interactions , special considerations should be taken when administering phenytoin , carbamazepine , warfarin , fluoroquinolones , and proton pump inhibitors via feeding tubes .
+Precautions should be implemented to prevent tube occlusions , and immediate intervention is required when blockages occur .
+Successful drug delivery through enteral feeding tubes requires consideration of the tube size and placement as well as careful selection and appropriate administration of drug dosage forms .

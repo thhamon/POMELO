@@ -1,0 +1,11 @@
+Bioequivalence study of two oral tablet formulations containing tenofovir disoproxil fumarate in healthy volunteers .
+Tenofovir disoproxil fumarate ( TDF , CAS 147127-20-6 ) is a nucleotide reverse transcriptase inhibitor which is indicated in combination with other antiretroviral agents for the management of HIV-1 infection .
+The objective of this study was to compare the rate and extent of absorption and to assess the bioequivalence between a new pharmaceutical equivalent tablet formulation containing 300 mg of TDF and the innovator product .
+A randomized , single-center , open-label , single-dose , two-way crossover bioequivalence study in 40 healthy adult subjects was conducted .
+Dosing was separated by a wash-out period of 14 days .
+Blood samples were collected over 48 h and plasma levels of tenofovir ( TFV ) were determined by a validated HPLC assay .
+Rate and extent of absorption were similar between products .
+The 90% confidence interval ( CI ) of the ratio of the geometric means for log-transformed C ( max ) , AUC ( last ) and AUC ( inf ) values were used to assess bioequivalence between the two formulations using the equivalence interval of 80 and 125%. .
+In healthy subjects , the point estimate and 90% CI of the ratios of C ( max ) , AUC ( last ) and AUC ( inf ) values were 0.99 ( 0.92-1.02 ) , 0.99 ( 0.95-1.03 ) and 0.93 ( 0.85-1.02 ) , respectively .
+Both treatments exhibited similar tolerability and safety .
+It was concluded that the new pharmaceutical product was bioequivalent to the innovator .

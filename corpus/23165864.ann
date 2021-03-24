@@ -1,0 +1,29 @@
+TS1323165864	sideeffect 74 93	teratogenic effects
+TS1123165864	sideeffect 352 365	birth defects
+TS1223165864	treatedDisease 440 456	multiple myeloma
+TS223165864	treatedDisease 468 493	erythema nodosum leprosum
+TS1923165864	sideeffect 1094 1116	drug-drug interactions
+TS623165864	treatedDisease 1150 1164	liver diseases
+TS123165864	treatedDisease 1167 1172;1177 1192	Liver kidney diseases
+TS1823165864	sideeffect 1422 1444	drug-drug interactions
+T1	drug 48 59	thalidomide
+T2	drug 97 108	thalidomide
+R2	has_sideeffect Arg1:T2 Arg2:TS1323165864	
+T3	drug 238 249	thalidomide
+T4	drug 260 271	Thalidomide
+T5	drug 302 310	sedative
+T6	drug 323 334	thalidomide
+R3	has_sideeffect Arg1:T6 Arg2:TS1123165864	
+T7	drug 396 407	Thalidomide
+R4	treat Arg1:T7 Arg2:TS1223165864	
+R5	treat Arg1:T7 Arg2:TS223165864	
+T8	drug 529 540	thalidomide
+T9	drug 734 745	thalidomide
+T10	drug 1019 1030	thalidomide
+T11	sideeffect 984 1015	adverse drug reactions ( ADRs )
+T12	sideeffect 1251 1255	ADRs
+T13	drug 1259 1270	thalidomide
+R6	has_sideeffect Arg1:T10 Arg2:T11	
+T14	sideeffect 1320 1340	teratogenic activity
+T15	sideeffect 1459 1463	ADRs
+T16	drug 1532 1543	thalidomide

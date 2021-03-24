@@ -1,0 +1,39 @@
+TS1116855078	sideeffect 0 28	Tyramine pressor sensitivity
+TS416855078	drug 55 65	selegiline
+TS1816855078	drug 127 148	tyramine pressor test
+TS1916855078	drug 207 217	selegiline
+TS2116855078	sideeffect 264 291	tyramine sensitivity factor
+TS516855078	sideeffect 359 375	tyramine pressor
+TS2016855078	sideeffect 388 415	tyramine sensitivity factor
+TS1216855078	drug 461 471	selegiline
+TS2316855078	drug 654 664	selegiline
+TS2416855078	drug 746 756	selegiline
+TS216855078	drug 815 830	tranylcypromine
+TS1416855078	sideeffect 868 895	tyramine sensitivity factor
+TS1316855078	drug 928 938	selegiline
+TS1516855078	drug 1067 1075	tyramine
+TS916855078	mealTime 1090 1096	a meal
+TS716855078	drug 1128 1136	tyramine
+TS1616855078	drug 1159 1169	selegiline
+TS1716855078	drug 1230 1240	selegiline
+TS816855078	food 1295 1324	dietary tyramine restrictions
+R1	has_sideeffect Arg1:TS416855078 Arg2:TS1116855078	
+T1	modeadm 66 77	transdermal
+T2	dosage 85 89	6 mg
+T3	frequency 91 95	24 h
+T4	modeadm 218 229	transdermal
+T5	dosage 245 249	6 mg
+T6	frequency 251 255	24 h
+T7	modeadm 122 126	oral
+T8	modeadm 472 483	transdermal
+T9	sideeffect 618 645	tyramine sensitivity factor
+T10	modeadm 665 676	transdermal
+T11	dosage 729 734	10 mg
+T12	modeadm 741 745	oral
+T13	modeadm 939 950	transdermal
+T14	dosage 987 992	12 mg
+T15	frequency 994 998	24 h
+T16	modeadm 1170 1181	transdermal
+T17	dosage 1219 1223	6-mg
+T18	dosage 1225 1229	24-h
+R2	no_effect_on_drug Arg1:TS816855078 Arg2:TS1716855078	

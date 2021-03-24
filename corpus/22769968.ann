@@ -1,0 +1,27 @@
+TS222769968	sideeffect 123 131	toxicity
+TS922769968	sideeffect 617 634	drug interactions
+TS122769968	treatedDisease 876 896	erectile dysfunction
+TS322769968	drug 1100 1112	nitric oxide
+TS622769968	drug 1121 1151	cyclic guanosine monophosphate
+TS1022769968	sideeffect 1616 1638	drug-drug interactions
+T1	drug 25 55	phosphodiesterase-5 inhibitors
+T2	sideeffect 661 683	adverse drug reactions
+T3	drug 706 736	phosphodiesterase-5 inhibitors
+T4	drug 739 745	PDE5Is
+T5	drug 828 834	PDE5Is
+R1	treat Arg1:T5 Arg2:TS122769968	
+T6	drug 948 954	PDE5Is
+T7	drug 978 986	udenafil
+T8	drug 963 973	aildenafil
+T9	drug 1086 1092	PDE5Is
+T10	drug 1115 1117	NO
+T11	drug 1154 1158	cGMP
+T12	drug 1180 1186	PDE5Is
+T13	drug 1492 1497	PDE5I
+T14	drug 1523 1529	PDE5Is
+T15	sideeffect 1650 1662	side effects
+T16	sideeffect 1665 1669	ADRs
+T17	sideeffect 686 690	ADRs
+R2	has_sideeffect Arg1:T14 Arg2:TS1022769968	
+R3	has_sideeffect Arg1:T14 Arg2:T15	
+R4	has_sideeffect Arg1:T14 Arg2:T16	

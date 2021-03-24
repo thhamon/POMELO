@@ -1,0 +1,19 @@
+Dose proportionality and the effects of food on bioavailability of an immediate-release oxycodone hydrochloride tablet designed to discourage tampering and its relative bioavailability compared with a marketed oxycodone tablet under fed conditions: a single-dose , randomized , open-label , 5-way crossover study in healthy volunteers .
+An immediate-release oxycodone hydrochloride formulation ( IRO-A ) indicated for moderate to severe pain was designed ( by adding functional excipients ) to discourage tampering associated with intranasal and intravenous abuse of prescription opioids .
+The primary objective of this study was to determine the dose proportionality of oxycodone in IRO-A tablets under fasted conditions .
+Secondary objectives were to assess food effects on the pharmacokinetics of IRO-A tablets , to compare the relative bioavailability of oxycodone in IRO-A tablets versus marketed oxycodone hydrochloride ( IRO ) tablets under fed conditions and to evaluate the single-dose safety profile of the IRO-A tablets in healthy volunteers pretreated with naltrexone .
+This open-label , single-dose , randomized , 5-way crossover study was conducted in healthy adults who received each of the following treatments , separated by a washout period of â¥7 days: IRO-A 1 Ã 5 mg , 2 Ã 5 mg , and 2 Ã 7.5 mg under fasted conditions , and IRO-A 2 Ã 7.5 mg and IRO 1 Ã 15 mg after a high-fat , high-calorie breakfast .
+Naltrexone was administered to minimize untoward pharmacologic effects of oxycodone .
+Dose proportionality ( IRO-A ) , food effects ( IRO-A ) , and relative bioavailability in a fed state ( IRO-A and IRO ) were assessed by using bioequivalence criteria ( 90% CIs between 80% and 125% for C ( max ) and AUC ) .
+Of the 35 adults enrolled in the study , 33 completed at least 1 dosing period .
+Most participants were male ( 54% ) and white ( 69% ) , with a mean ( SD ) age of 32.6 ( 11.1 ) years and mean weight of 75.5 ( 12.3 ) kg .
+Plasma levels of oxycodone in IRO-A suggested dose-proportional pharmacokinetics ; 90% CIs for dose-normalized C ( max ) , AUC ( 0-last ) , and AUC ( 0-â ) fell within the 80% to 125% range .
+Concomitant food intake with IRO-A resulted in an senttild14% reduction in oxycodone C ( max ) and an senttild21% increase in AUC ( 0-last ) .
+The bioavailability of oxycodone from IRO-A tablets in the fed state was comparable with IRO tablets based on AUC parameters , although C ( max ) was senttild16.5% lower .
+Reported or observed treatment-emergent adverse events were monitored throughout the study and were similar for IRO-A and IRO tablets .
+Nausea , headache , abdominal pain , and dizziness were the most common and are consistent with known effects of oxycodone after naltrexone blockade .
+Plasma levels of oxycodone in IRO-A tablets were compatible with proportional single-dose pharmacokinetics from 5 to 15 mg under fasted conditions .
+Administration of IRO-A with food suggested increased overall bioavailability relative to fasting conditions and a reduction in peak systemic exposure of oxycodone that is not expected to be clinically significant .
+When comparing IRO-A tablets with IRO tablets in the fed state , the overall systemic exposure of oxycodone was comparable , and peak systemic exposure was lower .
+Copyright bigasentc 2012 Elsevier HS Journals , Inc. .
+All rights reserved .

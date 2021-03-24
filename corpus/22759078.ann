@@ -1,0 +1,37 @@
+TS1322759078	drug 128 136	peroxide
+TS422759078	drug 137 150	antimalarials
+TS122759078	drug 204 234	synthetic ozonide antimalarial
+TS322759078	mealTime 436 439	fed
+TS1422759078	mealTime 444 450	fasted
+TS222759078	drug 570 581	metabolites
+TS1022759078	drug 863 874	metabolites
+TS922759078	food 1056 1060	food
+TS522759078	drug 1345 1356	metabolites
+TS722759078	drugEffect 1430 1451	antimalarial activity
+TS822759078	drugEffect 1515 1536	antimalarial activity
+TS1222759078	drug 1587 1598	metabolites
+T1	drug 44 61	synthetic ozonide
+T2	drug 62 67	OZ439
+T3	food 237 242	OZ439
+T4	drug 308 313	OZ439
+T5	modeadm 341 345	oral
+T6	frequency 346 351	daily
+T7	dosage 385 395	50-1200 mg
+T8	modeadm 404 419	oral dispersion
+T9	dosage 422 433	400-1600 mg
+T10	duration 468 480	up to 3 days
+T11	modeadm 487 502	oral dispersion
+T12	dosage 505 515	200-800 mg
+T13	frequency 516 519	day
+T14	drug 556 561	OZ439
+T15	drug 645 650	OZ439
+T16	drug 1107 1112	OZ439
+R1	no_effect_on_drug Arg1:TS922759078 Arg2:T16	
+T17	drug 1235 1240	OZ439
+T18	drug 1331 1336	OZ439
+T19	drug 1388 1393	OZ439
+T20	drug 1553 1558	OZ439
+R2	has_effect Arg1:T20 Arg2:TS822759078	
+T21	drug 1643 1648	OZ439
+T22	treatedDisease 1753 1760	malaria
+R3	treat Arg1:T21 Arg2:T22	

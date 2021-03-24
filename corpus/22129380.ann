@@ -1,0 +1,38 @@
+TS1622129380	food 0 11	Pomegranate
+TS1322129380	food 28 32	food
+TS422129380	food 60 71	Pomegranate
+TS522129380	food 76 81	fruit
+TS2122129380	food 159 163	food
+TS122129380	food 223 228	fruit
+TS2622129380	food2 246 252	juices
+TS922129380	treatedDisease 359 381	cardiovascular disease
+TS1722129380	treatedDisease 384 392	diabetes
+TS322129380	treatedDisease 399 414	prostate cancer
+TS622129380	food 500 511	pomegranate
+TS1522129380	food 857 861	food
+TS2722129380	drug 864 876	Anthocyanins
+TS1422129380	drug 892 902	fatty acid
+TS722129380	food 918 926	seed oil
+TS1022129380	food 1031 1042	pomegranate
+T1	drug 37 50	nutraceutical
+T2	drug 168 181	nutraceutical
+T3	food2 257 265	extracts
+T4	treatedDisease 314 330	chronic diseases
+T5	drugEffect 476 496	antioxidant activity
+T6	drug 539 556	high polyphenolic
+R1	has_effect Arg1:T6 Arg2:T5	
+R3	relation Arg1:TS622129380 Arg2:T6	
+T7	drug 580 592	punicalagins
+T8	drug 595 605	punicalins
+T9	drug 608 621	gallagic acid
+T10	drug 628 640	ellagic acid
+R4	has_effect Arg1:T7 Arg2:T5	
+R5	has_effect Arg1:T8 Arg2:T5	
+R6	has_effect Arg1:T9 Arg2:T5	
+R7	has_effect Arg1:T10 Arg2:T5	
+T11	drug 695 707	ellagic acid
+T12	drug 712 722	urolithins
+T13	drugEffect 786 806	antioxidant activity
+R8	has_effect Arg1:T12 Arg2:T13	
+R9	has_effect Arg1:T11 Arg2:T13	
+T14	drugEffect 964 992	pomegranate's health effects

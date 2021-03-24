@@ -1,0 +1,9 @@
+[Pharmacokinetics and interactions of raltegravir]. .
+Raltegravir is the first integrase inhibitor approved for the treatment of HIV-1 infection in pretreated adults with evidence of viral replication despite receiving antiretroviral therapy .
+Raltegravir is administered orally at a dose of 400 mg every 12 hours , with or without food .
+This drug is mainly eliminated through UGT1A1-mediated glucuronidation and is not an inhibitor or inducer of the main liver cytochrome P450 isoenzymes ; consequently there is virtually no risk of pharmacological interactions with most commonly used drugs such as methadone , azole antifungal agents or drugs used to treat erectile dysfunction .
+Studies of interaction with other antiretroviral agents show that raltegravir can be used in combination with tenofovir , efavirenz , atazanavir , ritonavir or tipranavir  ritonavir without the need for dose adjustments .
+When combined with rifampicin , the dose of raltegravir should be increased to 800 mg  12 h .
+Proton pump inhibitors increase plasma levels of raltegravir ( a 3-fold increase in exposure or AUC levels ) , and consequently their combined use should be avoided as far as posible .
+Raltegravir is well tolerated and does not require dose adjustments in patients with severe renal impairment or mild-to-moderate liver impairment .
+There are no studies in patients with severe liver impairment .

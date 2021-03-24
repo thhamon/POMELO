@@ -1,0 +1,32 @@
+TS79793622	drugEffect 0 15	Bioavailability
+TS159793622	food 18 22	food
+TS319793622	drug 50 94	S-naproxen betainate sodium salt monohydrate
+R1	relation Arg1:TS159793622 Arg2:TS319793622
+TS449793622	drug 113 157	S-Naproxen betainate sodium salt monohydrate
+TS459793622	drug 170 186	naproxen-beta Na
+TS409793622	drug 265 273	naproxen
+TS259793622	drugEffect 393 408	bioavailability
+TS69793622	sideeffect 411 427	food interaction
+TS219793622	drug 472 480	naproxen
+TS189793622	mealTime 698 705	fasting
+TS89793622	mealTime 746 752	dinner
+TS419793622	food 818 844	high-fat content breakfast
+TS369793622	mealTime 1183 1190	fasting
+TS329793622	food 1260 1286	high-fat content breakfast
+TS279793622	treatedDisease 1446 1460	arthritis pain
+TS109793622	drugEffect 1720 1738	therapeutic effect
+TS439793622	sideeffect 1885 1900	blood in stools
+TS149793622	drug 2047 2055	naproxen
+TS19793622	food 2255 2259	food
+TS179793622	sideeffect 2260 2271	interaction
+TS379793622	drug 2328 2336	naproxen
+R2	relation Arg1:TS19793622 Arg2:TS379793622
+T1	dosage 220 226	550 mg
+T2	dosage 255 261	327 mg
+T3	numbers 296 298	24
+T4	mealTime 719 741	after the evening dose
+T5	mealTime 770 792	after the morning dose
+T6	mealTime 810 815;835 844	after breakfast
+T7	dosage 2037 2043	500 mg
+T8	mealTime 1250 1255;1277 1286	after breakfast
+T9	frequency 2056 2062	b.i.d.

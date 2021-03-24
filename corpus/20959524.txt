@@ -1,0 +1,9 @@
+Safety , tolerability , and pharmacokinetics of KNS-760704 ( dexpramipexole ) in healthy adult subjects .
+Dexpramipexole ( KNS-760704 ; [6R]-4 , 5 , 6 , 7-tetrahydro-N6-propyl-2 , 6-benzothiazole-diamine ) is a novel synthetic amino-benzothiazole in development for the treatment of amyotrophic lateral sclerosis ( ALS ) .
+Preclinical studies have shown that dexpramipexole is neuroprotective in vitro and in vivo , is highly orally bioavailable and water soluble , and rapidly achieves and maintains high central nervous system concentrations relative to plasma .
+Two phase 1 clinical studies were conducted to assess the safety , tolerability , and pharmacokinetics ( PK ) of single and multiple doses of dexpramipexole in 54 healthy male and female adults .
+The effect of food on the single-dose PK of dexpramipexole was also evaluated .
+Single doses ( 50 mg , 150 mg , or 300 mg ) and multiple doses ( 50 mg twice daily , 100 mg twice daily , or 150 mg twice daily ) of dexpramipexole over 4.5 days were safe and well tolerated .
+Dexpramipexole was rapidly absorbed , with time to maximum plasma concentration ranging from 1.8 to 2.6 hours and half-life ranging from 6.4 to 8.1 hours under fasted conditions , and was mostly eliminated in urine as unchanged parent drug ( 84%-90% of dose ) .
+Food had no effect on the single-dose PK of dexpramipexole .
+These findings support the ongoing development of dexpramipexole for the treatment of ALS and further evaluation of the compound's therapeutic potential in other neurodegenerative diseases .

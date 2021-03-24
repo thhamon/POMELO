@@ -1,0 +1,38 @@
+Pharmacokinetics of vandetanib: three phase I studies in healthy subjects .
+Vandetanib is an orally available inhibitor of vascular endothelial growth factor receptor 2 and epidermal growth factor receptor and is rearranged during transfection tyrosine kinase activity .
+Development has included studies in non-small cell lung cancer and other tumor types .
+Accurate elimination kinetics were not determined in patient studies , and so the current human volunteer studies were performed to derive detailed kinetic data .
+The aim of this study was to investigate pharmacokinetics , metabolism , excretion , and elimination kinetics after single oral doses of vandetanib in healthy subjects .
+Three studies were conducted .
+In Study A ( n = 23 ) , cohorts of 8 subjects were randomized to receive double-blind , ascending doses of vandetanib ( 300-1200 mg ) or placebo ( 6:2 ) .
+Study B had a crossover design ; subjects ( n = 16 ) received vandetanib 300 mg under fed and fasted conditions .
+In Study C , subjects ( n = 4 ) received [ ( 14 ) C] vandetanib 800 mg .
+Blood samples were collected for pharmacokinetic analysis for up to 28 days after the dose ( Studies A and B ) and 42 days after the dose ( Study C ) .
+Plasma ( all studies ) and urine ( Study A only ) samples were collected for determination of vandetanib concentrations .
+In Study C radioactivity was measured in plasma , blood , urine , and feces , and metabolites were identified chromatographically .
+Tolerability was evaluated by recording of adverse events , clinical chemistry , hematology and urinalysis parameters , vital signs , and ECGs ( all studies ) .
+Study A: mean ( SD ) age 34.4 ( 6.9 ) years ; 23  23 male ; mean ( SD ; range ) weight 80.6 ( 8.1 ; 62-97 ) kg .
+Study B: mean ( SD ) age 35.3 ( 8.4 ) years ; 15  16 male ; mean ( SD ; range ) weight 80.7 ( 11.2 ; 57-100 ) kg .
+Study C: mean ( SD ) age 60.3 ( 7.4 ) years ; 4  4 male ; mean ( SD ; range ) weight 78.0 ( 7.7l ; 72-87 ) kg .
+Pharmacokinetic parameters were consistent across all studies ( Studies A and C , vandetanib 800 mg: geometric mean CL  F , 13.1-13.3 L  h ; geometric mean apparent volume of distribution at steady state [V ( SS )  F] , 3592-4103 L ; mean t ( bigasenttydemi ) , 215.8-246.6 hours ) .
+Vandetanib was absorbed and eliminated slowly after single oral doses .
+AUC ( 0-â ) and C ( max ) were not significantly affected by ingestion of food .
+Median ( range ) T ( max ) was 8 ( 3-18 ) hours after food and 6 ( 5-18 ) hours after fasting .
+In plasma , concentrations of total radioactivity were higher than vandetanib concentrations at all time points , indicating the presence of circulating metabolites .
+Unchanged vandetanib and 2 anticipated metabolites ( N-desmethylvandetanib and vandetanib N-oxide ) were detected in plasma , urine , and feces .
+A further trace minor metabolite ( glucuronide conjugate ) was found in urine and feces .
+Approximately two thirds of the dose was recovered in feces ( 44% ) and urine ( 25% ) over 21 days , underlining the importance of both routes of elimination .
+Adverse events were reported by all subjects in Study A apart from 2 at a vandetanib dose of 300 mg ; 12  15 ( 80% ) and 14  16 ( 88% ) subjects who took vandetanib under fed and fasted conditions , respectively , in Study B ; and 2  4 ( 50% ) subjects in Study C. .
+No serious adverse events were reported .
+Increasing doses of vandetanib , in Study A , were associated with variable increases in systolic and diastolic blood pressures and variable increases from baseline in QTc interval .
+Hematuria was reported by 3 subjects ( vandetanib 300 mg ) in Study A. .
+Small but consistent increases from baseline in serum creatinine were noted in subjects who received vandetanib in these studies .
+No other clinically important changes were observed in clinical chemistry , hematology and urinalysis parameters , vital signs , and ECGs in any of the studies .
+The pharmacokinetics of vandetanib after single oral doses to healthy subjects were defined and the metabolic pathway was proposed .
+Vandetanib was absorbed and eliminated slowly with a t ( bigasenttydemi ) of â¼10 days after single oral doses .
+The extent of absorption was not significantly affected by the presence of food .
+Approximately two thirds of the dose was recovered in feces ( 44% ) and urine ( 25% ) over 21 days .
+Unchanged vandetanib and N-desmethyl and N-oxide metabolites were detected in plasma , urine , and feces .
+Vandetanib appeared to be was well tolerated in the populations studied .
+Copyright bigasentc 2012 Elsevier HS Journals , Inc. .
+All rights reserved .

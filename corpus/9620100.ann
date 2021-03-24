@@ -1,0 +1,101 @@
+TS519620100	food 14 18	food
+TS389620100	drug 22 31	bromfenac
+TS139620100	drug 34 49	naproxen sodium
+TS199620100	drug 56 69	acetaminophen
+TS79620100	treatedDisease 73 91	postoperative pain
+R1	relation Arg1:TS519620100 Arg2:TS389620100
+TS699620100	mealTime 156 160	meal
+TS179620100	drugEffect 164 179	bioavailability
+TS649620100	drug 183 192	bromfenac
+TS279620100	drugEffect 215 233	analgesic efficacy
+TS399620100	drug 266 275	bromfenac
+TS309620100	drug 284 299	naproxen sodium
+TS259620100	drug 313 326	acetaminophen
+TS479620100	treatedDisease 354 358	pain
+TS579620100	treatedDisease 570 604	steady , moderate , or severe pain
+TS449620100	mealTime 707 711	meal
+TS809620100	mealTime 727 733	fasted
+TS359620100	drug 786 795	bromfenac
+TS489620100	drug 804 819	naproxen sodium
+TS339620100	drug 832 845	acetaminophen
+TS249620100	treatedDisease 877 911	steady , moderate , or severe pain
+TS49620100	drug 929 938	analgesic
+R2	relation Arg1:TS809620100 Arg2:TS359620100
+TS379620100	treatedDisease 991 995	pain
+TS419620100	drug 1139 1148	bromfenac
+TS709620100	mealTime 1167 1170	fed
+TS779620100	mealTime 1204 1210	fasted
+TS599620100	food 1235 1239	food
+TS239620100	drug 1249 1258	bromfenac
+TS19620100	drug 1269 1284	naproxen sodium
+TS89620100	drug 1323 1336	acetaminophen
+TS499620100	drugEffect 1372 1381	analgesia
+R3	relation Arg1:TS599620100 Arg2:TS239620100
+TS429620100	drug 1384 1393	Bromfenac
+TS619620100	drug 1398 1406	naproxen
+TS349620100	drug 1424 1437	acetaminophen
+TS129620100	food 1492 1496	Food
+TS159620100	drug 1563 1571	naproxen
+TS169620100	drug 1575 1588	acetaminophen
+TS569620100	mealTime 1604 1608	meal
+TS99620100	sideeffect 1609 1620	interaction
+R4	worsen_drug_effect Arg1:TS129620100 Arg2:T11
+R5	no_effect_on_drug Arg1:TS129620100 Arg2:TS159620100
+TS209620100	drug 1669 1678	Analgesic
+TS189620100	food3 1692 1695	fed
+TS529620100	drug 1696 1705	bromfenac
+TS769620100	food3 1748 1754	fasted
+R6	relation Arg1:TS189620100 Arg2:TS529620100
+TS669620100	drug 1863 1872	bromfenac
+TS749620100	drug 1885 1893	naproxen
+TS149620100	drug 1911 1924	acetaminophen
+TS269620100	drug 1946 1955	analgesic
+TS559620100	food 1985 1989	food
+TS219620100	drug 2047 2056	bromfenac
+TS29620100	drug 2067 2082	naproxen sodium
+TS299620100	drugEffect 2111 2120	analgesia
+TS589620100	drug 2135 2148	acetaminophen
+TS609620100	mealTime 2245 2249	meal
+TS319620100	sideeffect 2252 2267	Adverse effects
+R7	treat Arg1:TS389620100 Arg2:TS79620100	
+R8	treat Arg1:TS139620100 Arg2:TS79620100	
+R9	treat Arg1:TS199620100 Arg2:TS79620100	
+R10	relation Arg1:TS519620100 Arg2:TS139620100	
+R11	relation Arg1:TS519620100 Arg2:TS199620100	
+R12	has_effect Arg1:TS649620100 Arg2:TS279620100	
+T1	dosage 276 281	25 mg
+T2	dosage 300 306	550 mg
+T3	dosage 327 333	325 mg
+R13	treat Arg1:TS399620100 Arg2:TS479620100	
+R14	treat Arg1:TS309620100 Arg2:TS479620100	
+R15	treat Arg1:TS259620100 Arg2:TS479620100	
+T4	dosage 796 801	25 mg
+T5	dosage 820 826	550 mg
+T6	dosage 846 852	325 mg
+T7	modeadm 773 777	oral
+R16	treat Arg1:TS359620100 Arg2:TS249620100	
+R17	treat Arg1:TS489620100 Arg2:TS249620100	
+R18	treat Arg1:TS339620100 Arg2:TS249620100	
+R19	treat Arg1:TS49620100 Arg2:TS249620100	
+T8	dosage 1259 1264	25 mg
+T9	dosage 1285 1291	550 mg
+T10	dosage 1337 1343	325 mg
+R20	has_effect Arg1:TS89620100 Arg2:TS499620100	
+R21	has_effect Arg1:TS19620100 Arg2:TS499620100	
+R22	has_effect Arg1:TS239620100 Arg2:TS499620100	
+R23	relation Arg1:TS599620100 Arg2:TS19620100	
+R24	relation Arg1:TS599620100 Arg2:TS89620100	
+R25	relation Arg1:TS709620100 Arg2:TS419620100	
+R26	relation Arg1:TS779620100 Arg2:TS419620100	
+T11	drugEffect 1516 1544	bromfenac's analgesic effect
+R27	no_effect_on_drug Arg1:TS129620100 Arg2:TS169620100	
+T12	sideeffect 1819 1833	adverse effect
+T13	dosage 2057 2062	25 mg
+T14	dosage 2083 2089	550 mg
+T15	dosage 2149 2155	325 mg
+R28	has_effect Arg1:TS219620100 Arg2:TS299620100	
+R29	has_effect Arg1:TS29620100 Arg2:TS299620100	
+T16	drug 2169 2180	bromfenac's
+T17	drugEffect 2181 2189	efficacy
+R30	has_effect Arg1:T16 Arg2:T17	
+R31	worsen_drug_effect Arg1:TS609620100 Arg2:T16	

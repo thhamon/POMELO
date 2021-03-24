@@ -1,0 +1,15 @@
+TS720529767	drug 34 43	nilotinib
+TS520529767	drug 46 53	Tasigna
+TS320529767	treatedDisease 81 109	chronic myelogenous leukemia
+TS820529767	drug 185 194	Nilotinib
+TS1020529767	drug 197 204	Tasigna
+TS220529767	drug 230 254	BCR-ABL kinase inhibitor
+TS620529767	drug 378 386	imatinib
+T1	sideeffect 65 77	side effects
+R1	has_sideeffect Arg1:TS720529767 Arg2:T1	
+R2	treat Arg1:TS720529767 Arg2:TS320529767	
+T2	treatedDisease 160 163	CML
+T3	treatedDisease 307 339	chronic or accelerated phase CML
+R3	treat Arg1:TS220529767 Arg2:T3	
+T4	sideeffect 351 386	intolerant or resistant to imatinib
+T5	sideeffect 499 511	side effects

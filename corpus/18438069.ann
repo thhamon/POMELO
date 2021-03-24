@@ -1,0 +1,5 @@
+TS518438069	sideeffect 0 13	[Hypertension
+TS318438069	food 21 30	liquorice
+TS118438069	food 35 48	liquorice tea
+R1	increase_side_effect Arg1:TS318438069 Arg2:TS518438069	
+R2	increase_side_effect Arg1:TS118438069 Arg2:TS518438069	

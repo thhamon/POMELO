@@ -1,0 +1,10 @@
+The pharmacokinetics , pharmacodynamics , and safety of orally dosed INCB018424 phosphate in healthy volunteers .
+INCB018424 phosphate , a potent inhibitor of JAK enzymes with selectivity for JAK1sentand2 , is in development for the treatment of myelofibrosis ( MF ) .
+The oral dose pharmacokinetics , pharmacodynamics , safety , and tolerability of INCB018424 were evaluated in healthy volunteers in 2 double-blind , randomized , and placebo-controlled studies .
+The first study evaluated single ascending doses of 5 to 200 mg INCB018424 and the effect of food , whereas the second study evaluated multiple ascending doses , including both once- and twice-daily dosing for 10 days .
+As a Biopharma-ceutical Classification System class I drug , INCB018424 exhibited good oral bioavailability and dose-proportional systemic exposures .
+INCB018424 showed low oral dose clearance and a small volume of distribution , with an approximate 3-hour plasma half-life and insignificant accumulation following repeat dosing .
+A high-fat meal reduced INCB018424 C ( max ) by 24% but had little effect on INCB018424 AUC .
+INCB018424 was cleared primarily by metabolism with negligible renal excretion .
+The pharmacodynamics of INCB018424 , evaluated by the inhibition of phosphorylated STAT3 following cytokine stimulation in whole blood , showed good correlation with INCB018424 plasma concentrations .
+INCB018424 was generally safe and well tolerated , with 25 mg bid and 100 mg qd established as the maximum tolerated doses in healthy volunteers .

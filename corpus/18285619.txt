@@ -1,0 +1,10 @@
+Relative bioavailability of lisdexamfetamine 70-mg capsules in fasted and fed healthy adult volunteers and in solution: a single-dose , crossover pharmacokinetic study .
+The relative bioavailability of oral lisdexamfetamine dimesylate , a prodrug of d-amphetamine , and active d-amphetamine was assessed in an open-label , single-dose , 3-treatment , 3-period , randomized , crossover study in 18 healthy adult volunteers .
+Following a fast of at least 10 hours , subjects were administered an intact capsule of 70 mg lisdexamfetamine , a solution containing the capsule contents , or an intact capsule with a high-fat meal .
+Standard meals started 4 hours following lisdexamfetamine administration .
+Blood samples were taken predose ( 0 hours ) and 0.5 to 72 hours postdose , and the concentrations of d-amphetamine and lisdexamfetamine were measured .
+AUC and C ( max ) for d-amphetamine were similar when lisdexamfetamine 70 mg was administered to healthy adults in the fed or fasted state .
+The AUC of intact lisdexamfetamine was similar when the latter was taken without food or in solution , but C ( max ) was lower when lisdexamfetamine was administered with food .
+The t ( max ) of d-amphetamine and intact lisdexamfetamine was similar when taken in solution or in the fasted state but was about 1 hour longer when taken with food .
+Adverse events were typical for amphetamine products .
+These findings indicate that food does not have a significant effect on d-amphetamine or lisdexamfetamine bioavailability in healthy adults and that lisdexamfetamine was well tolerated .

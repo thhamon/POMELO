@@ -1,0 +1,9 @@
+An approach to evaluating drug-nutrient interactions .
+Although the significance of interactions between drugs is widely appreciated , little attention has been given to interactions between drugs and nutrients .
+Pharmacists are challenged to remember documented interactions involving available drugs , and they face the possibility that each newly approved therapeutic agent may be involved not only in unrecognized drug-drug interactions but in drug-nutrient interactions as well .
+A more consistent approach to evaluating drug-nutrient interactions is needed .
+The approach must be systematic in order to assess the influence of nutritional status , food , or specific nutrients on a drug's pharmacokinetics and pharmacodynamics , as well as the influence of a drug on overall nutritional status or on the status of a specific nutrient .
+We provide such a process , using several recently approved drugs as working examples .
+Risk factors and clinical relevance are described , with distinctions made between documented and potential interactions .
+Application of this process by the pharmacist to any drug will help increase their expertise .
+Furthermore , full consideration by pharmacists of all possible interactions of the drug regimens used in practice can allow for improved patient care .

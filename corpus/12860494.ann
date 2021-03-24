@@ -1,0 +1,36 @@
+TS3012860494	drug 14 25	nateglinide
+TS3612860494	food 26 41	taken with food
+TS3412860494	food 157 161	food
+TS1312860494	drug 222 233	nateglinide
+TS2112860494	drug 258 269	nateglinide
+R1	relation Arg1:TS3412860494 Arg2:TS1312860494
+TS2912860494	drug 515 526	nateglinide
+TS3512860494	drug 806 819	acetaminophen
+TS1512860494	mealTime 831 866	beginning of the standard breakfast
+TS2512860494	drug 1003 1014	nateglinide
+TS3312860494	drug2 1017 1024	glucose
+TS1912860494	drug 1027 1034	insulin
+TS1612860494	drug 1041 1054	acetaminophen
+TS412860494	drug 1238 1249	Nateglinide
+TS1112860494	food 1323 1327	food
+TS512860494	drug 1357 1368	nateglinide
+R2	speed_up_absorption Arg1:TS1112860494 Arg2:TS512860494
+TS912860494	drug 1617 1628	nateglinide
+TS1212860494	drug 1693 1704	nateglinide
+TS3212860494	drug 1843 1854	nateglinide
+TS1012860494	drug 1945 1952	Insulin
+TS2612860494	drug 1981 1992	nateglinide
+TS2712860494	drug2 2064 2071	glucose
+TS2812860494	drug2 2147 2154	glucose
+TS2312860494	drug 2258 2271	acetaminophen
+TS2412860494	drug 2330 2343	acetaminophen
+TS3112860494	drug 2375 2386	Nateglinide
+TS112860494	drug 2489 2500	Nateglinide
+TS1712860494	drug 2591 2604	acetaminophen
+TS212860494	drug 2641 2652	nateglinide
+TS1812860494	drug 2707 2718	nateglinide
+TS2212860494	mealTime 2788 2792	food
+T1	dosage 234 239	60 mg
+T2	dosage 499 504	60-mg
+T3	dosage 820 823	1 g
+R3	before Arg1:TS2212860494 Arg2:TS1812860494	

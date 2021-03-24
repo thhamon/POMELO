@@ -1,0 +1,84 @@
+TS418162024	drug 24 34	duloxetine
+TS3218162024	treatedDisease 70 95	major depressive disorder
+TS2718162024	drug 142 152	duloxetine
+TS3018162024	food 175 179	food
+TS318162024	treatedDisease 226 251	major depressive disorder
+TS2618162024	drug 621 631	duloxetine
+TS1818162024	food 814 818	food
+TS1918162024	mealTime 841 850	with food
+TS3418162024	mealTime 866 889	within 1 hour of eating
+TS2418162024	sideeffect 1049 1055	nausea
+TS2818162024	sideeffect 1113 1119	nausea
+TS218162024	food 1597 1601	food
+TS1318162024	sideeffect 1664 1670	nausea
+TS1418162024	sideeffect 1815 1821	nausea
+TS2018162024	food 1865 1869	food
+TS918162024	sideeffect 1902 1913	interaction
+TS3118162024	food 1922 1926	food
+TS618162024	sideeffect 1987 1998	interaction
+TS1118162024	food 2048 2052	food
+TS2918162024	food 2197 2201	food
+TS2118162024	food 2244 2248	food
+TS2518162024	food 2580 2584	food
+TS818162024	food 2824 2828	food
+TS2318162024	food 3044 3048	food
+TS1618162024	food 3318 3322	food
+TS118162024	drug 3335 3345	duloxetine
+R1	relation Arg1:TS1618162024 Arg2:TS118162024
+TS518162024	food 3393 3397	food
+TS2218162024	drug 3504 3514	duloxetine
+R2	treat Arg1:TS418162024 Arg2:TS3218162024	
+T1	treatedDisease 254 257	MDD
+T2	duration 575 585	for 1 week
+T3	dosage 632 637	30 mg
+T4	dosage 961 966	60 mg
+T5	dosage 1059 1064	30 mg
+T6	frequency 967 977	once daily
+T7	dosage 1697 1702	30 mg
+T8	dosage 1716 1721	60 mg
+R3	relation Arg1:TS2018162024 Arg2:TS1418162024	
+T9	food 1974 1986	food-by-dose
+T10	drug 2038 2042	drug
+R4	positive_effect_on_drug Arg1:TS1118162024 Arg2:T10	
+T11	dosage 2089 2094	60 mg
+T12	frequency 1065 1070	q.a.m
+T13	frequency 1703 1708	q.a.m
+T14	frequency 1722 1727	q.a.m
+T15	frequency 2095 2100	q.a.m
+T16	dosage 2137 2142	30 mg
+T17	frequency 2143 2149	q.a.m.
+T18	sideeffect 2340 2354	adverse events
+T19	sideeffect 2317 2332	discontinuation
+T20	dosage 2357 2362	30 mg
+T21	frequency 2363 2368	q.a.m
+T22	dosage 2381 2386	30 mg
+T23	dosage 2406 2411	60 mg
+T24	dosage 2431 2436	30 mg
+T25	dosage 2452 2457	30 mg
+T26	dosage 2481 2486	30 mg
+T27	dosage 2502 2507	60 mg
+T28	frequency 2387 2392	b.i.d
+T29	frequency 2412 2417	q.a.m
+T30	frequency 2437 2442	q.a.m
+T31	frequency 2458 2464	b.i.d.
+T32	frequency 2487 2493	q.a.m.
+T33	frequency 2508 2513	q.a.m
+T34	dosage 2657 2662	30 mg
+T35	frequency 2663 2668	q.a.m
+T36	dosage 2681 2686	30 mg
+T37	dosage 2705 2710	60 mg
+T38	dosage 2783 2788	30 mg
+T39	dosage 3021 3026	30 mg
+T40	dosage 3109 3114	30 mg
+T41	dosage 3128 3133	60 mg
+T42	dosage 3276 3281	30 mg
+T43	frequency 2687 2693	b.i.d.
+T44	frequency 2711 2717	q.a.m.
+T45	frequency 2789 2795	b.i.d.
+T46	frequency 3027 3032	q.a.m
+T47	frequency 3115 3120	b.i.d
+T48	frequency 3134 3139	q.a.m
+T49	frequency 3282 3287	q.a.m
+T50	dosage 3373 3378	60 mg
+T51	frequency 3379 3384	q.a.m
+R5	positive_effect_on_drug Arg1:TS518162024 Arg2:TS118162024	

@@ -1,0 +1,13 @@
+TS315488686	drugEffect 136 151	bioavailability
+TS215488686	food 167 171	food
+TS915488686	drug 214 224	aprepitant
+TS1115488686	drug 291 296	EMEND
+TS1015488686	sideeffect 377 417	chemotherapy-induced nausea and vomiting
+TS115488686	food 485 489	food
+TS715488686	drugEffect 585 600	bioavailability
+TS615488686	food 778 782	food
+TS1215488686	food 1175 1179	food
+TS1415488686	drugEffect 1600 1615	bioavailability
+T1	drug 238 260	substance P antagonist
+T2	dosage 1230 1237	2mg  kg
+T3	modeadm 1190 1194	oral

@@ -1,0 +1,33 @@
+TS29205821	drug 73 103	prolyl endopeptidase inhibitor
+TS99205821	drug 337 375	prolyl endopeptidase ( PEP ) inhibitor
+TS159205821	food 850 854	food
+TS129205821	drugEffect 862 877	bioavailability
+TS149205821	drugEffect 1290 1333	elevation of plasma cholinesterase activity
+TS79205821	drug 1635 1643	JTP-4819
+TS19205821	mealTime 1669 1682	fasting state
+TS59205821	food 1976 1980	food
+T1	drug 31 39	JTP-4819
+T2	modeadm 59 65	orally
+T3	drug 193 201	JTP-4819
+T4	drug 204 303	( - ) - ( 2S ) -1-benzylaminocarbonyl- [ ( 2S ) -2-glycoloylpyrrolidinyl ]-2-pyrrolidinecarboxamide
+T5	modeadm 323 329	orally
+T6	drug 378 386	JTP-4819
+T7	dosage 453 458	30 mg
+T8	dosage 471 476	60 mg
+T9	dosage 489 495	120 mg
+T10	dosage 550 555	60 mg
+T11	frequency 556 573	three times daily
+T12	frequency 437 449	single doses
+T13	duration 606 616	for 7 days
+T14	dosage 709 710	3
+T15	dosage 713 715	10
+T16	dosage 720 725	30 mg
+T17	dosage 784 789	60 mg
+T18	drug 914 922	JTP-4819
+T19	drug 1209 1217	JTP-4819
+T20	drug 1368 1376	JTP-4819
+R1	has_effect Arg1:T20 Arg2:TS149205821	
+T21	dosage 1647 1649	30
+T22	dosage 1652 1654	60
+T23	dosage 1659 1665	120 mg
+T24	drug 2096 2104	JTP-4819

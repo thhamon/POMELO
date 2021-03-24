@@ -1,0 +1,22 @@
+TS620001610	drug 0 9	Efavirenz
+TS720001610	treatedDisease 28 41	HIV infection
+TS120001610	drug 123 132	efavirenz
+TS220001610	drug 312 325	emtricitabine
+TS320001610	drug 330 359	tenofovir disoproxil fumarate
+TS420001610	drug 458 461	EFV
+R1	treat Arg1:TS620001610 Arg2:TS720001610	
+T1	drug 76 122	non-nucleoside reverse transcriptase inhibitor
+T2	drug 135 138	EFV
+T3	drug 170 184	antiretroviral
+T4	drug 223 226	EFV
+T5	drug 239 259	antiretroviral agent
+T6	frequency 396 406	once daily
+T7	drug 498 501	EFV
+T8	drug 564 567	EFV
+T9	drug 791 794	EFV
+T10	sideeffect 774 787	neurotoxicity
+R2	has_sideeffect Arg1:T9 Arg2:T10	
+T11	drug 885 888	EFV
+T12	sideeffect 918 949	development of viral resistance
+R3	has_sideeffect Arg1:T11 Arg2:T12	
+T13	drug 1142 1145	EFV

@@ -1,0 +1,92 @@
+TS2422717418	food 40 44	food
+TS522717418	drugEffect 48 63	bioavailability
+TS4922717418	drug 88 111	oxycodone hydrochloride
+TS622717418	drugEffect 169 184	bioavailability
+TS2722717418	drug 210 219	oxycodone
+TS1022717418	mealTime 233 236	fed
+R1	relation Arg1:TS2422717418 Arg2:TS4922717418
+TS1222717418	drug 358 381	oxycodone hydrochloride
+TS1522717418	treatedDisease 418 441	moderate to severe pain
+TS1422717418	sideeffect 558 563	abuse
+TS722717418	drug 580 587	opioids
+TS4222717418	drug 671 680	oxycodone
+TS4522717418	mealTime 704 721	fasted conditions
+TS6522717418	food 760 764	food
+TS3622717418	drugEffect 840 855	bioavailability
+TS5122717418	drug 859 868	oxycodone
+TS5622717418	drug 902 925	oxycodone hydrochloride
+TS4022717418	mealTime 948 951	fed
+TS6322717418	drug 1069 1079	naltrexone
+R2	relation Arg1:TS6522717418 Arg2:TS5122717418
+TS2322717418	mealTime 1325 1342	fasted conditions
+TS822717418	food 1394 1427	high-fat , high-calorie breakfast
+TS3022717418	mealTime 1418 1427	breakfast
+TS5722717418	drug 1430 1440	Naltrexone
+TS2922717418	drug 1504 1513	oxycodone
+TS1622717418	food 1549 1553	food
+TS2822717418	drugEffect 1587 1602	bioavailability
+TS4122717418	mealTime 1608 1611	fed
+TS5322717418	drugEffect 1961 1974	Plasma levels
+TS2522717418	drug 1978 1987	oxycodone
+TS3922717418	food 2167 2171	food
+TS3822717418	drug 2230 2239	oxycodone
+R4	decrease_absorption Arg1:TS3922717418 Arg2:TS3822717418
+TS2022717418	drugEffect 2302 2317	bioavailability
+TS3422717418	drug 2321 2330	oxycodone
+TS1822717418	mealTime 2357 2360	fed
+TS422717418	sideeffect 2606 2612	Nausea
+TS3722717418	sideeffect 2615 2623	headache
+TS2222717418	sideeffect 2626 2640	abdominal pain
+TS3322717418	sideeffect 2647 2656	dizziness
+TS6122717418	drug 2719 2728	oxycodone
+TS6422717418	drug 2735 2745	naltrexone
+TS6022717418	drugEffect 2757 2770	Plasma levels
+TS4322717418	drug 2774 2783	oxycodone
+TS3522717418	mealTime 2886 2903	fasted conditions
+TS3222717418	food 2935 2939	food
+TS1322717418	drugEffect 2968 2983	bioavailability
+TS5422717418	mealTime 2996 3003	fasting
+TS122717418	drug 3060 3069	oxycodone
+R6	increase_absorption Arg1:TS3222717418 Arg2:TS122717418
+TS3122717418	mealTime 3175 3178	fed
+TS1922717418	drug 3220 3229	oxycodone
+R7	relation Arg1:TS3122717418 Arg2:TS1922717418
+T1	modeadm 70 87	immediate-release
+T2	modeadm 340 357	immediate-release
+T3	modeadm 396 401	IRO-A
+R8	treat Arg1:TS1222717418 Arg2:TS1522717418	
+T4	modeadm 546 557	intravenous
+T5	modeadm 684 697	IRO-A tablets
+T6	modeadm 800 813	IRO-A tablets
+T7	modeadm 872 885	IRO-A tablets
+T8	modeadm 928 931	IRO
+T9	modeadm 1017 1030	IRO-A tablets
+T10	modeadm 1273 1278	IRO-A
+T11	dosage 1279 1288	1 Ã 5 mg
+T12	dosage 1291 1300	2 Ã 5 mg
+T13	dosage 1307 1318	2 Ã 7.5 mg
+T14	modeadm 1349 1354	IRO-A
+T15	dosage 1355 1366	2 Ã 7.5 mg
+T16	modeadm 1371 1374	IRO
+T17	dosage 1375 1385	1 Ã 15 mg
+T18	modeadm 1539 1544	IRO-A
+T19	modeadm 1564 1569	IRO-A
+T20	modeadm 1620 1633	IRO-A and IRO
+T21	modeadm 1991 1996	IRO-A
+T22	numbers 1747 1749	35
+T23	numbers 1781 1783	33
+T24	modeadm 2184 2189	IRO-A
+T25	modeadm 2336 2349	IRO-A tablets
+T26	modeadm 2387 2398	IRO tablets
+T27	sideeffect 2510 2524	adverse events
+T28	modeadm 2582 2587	IRO-A
+T29	modeadm 2592 2603	IRO tablets
+R3	has_sideeffect Arg1:TS6122717418 Arg2:TS3322717418	
+R5	has_sideeffect Arg1:TS6122717418 Arg2:TS2222717418	
+R9	has_sideeffect Arg1:TS6122717418 Arg2:TS3722717418	
+R10	has_sideeffect Arg1:TS6122717418 Arg2:TS422717418	
+T30	modeadm 2787 2800	IRO-A tablets
+T31	dosage 2869 2879	5 to 15 mg
+T32	modeadm 2924 2929	IRO-A
+T33	modeadm 3137 3150	IRO-A tablets
+T34	modeadm 3156 3167	IRO tablets

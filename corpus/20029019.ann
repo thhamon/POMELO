@@ -1,0 +1,27 @@
+TS1020029019	sideeffect 9 20	interaction
+TS520029019	food 29 46	pomegranate juice
+TS2620029019	drug 51 59	warfarin
+R1	relation Arg1:TS520029019 Arg2:TS2620029019
+TS2720029019	food 62 79	Pomegranate juice
+TS1220029019	sideeffect 139 150	interaction
+TS2520029019	food 159 176	pomegranate juice
+TS1720029019	drug 181 189	warfarin
+R2	relation Arg1:TS2520029019 Arg2:TS1720029019
+TS2120029019	food 227 244	pomegranate juice
+TS3020029019	sideeffect 245 277	inhibits cytochrome P450 enzymes
+TS1820029019	drug 290 298	warfarin
+R3	increase_side_effect Arg1:TS2120029019 Arg2:TS3020029019
+R4	relation Arg1:TS2120029019 Arg2:TS1820029019
+TS1120029019	sideeffect 340 352	interactions
+TS1320029019	food 361 365	food
+TS220029019	drug 370 378	warfarin
+TS620029019	food 443 460	pomegranate juice
+TS320029019	drug 487 495	warfarin
+TS1420029019	food 566 570	food
+TS820029019	food 575 580	juice
+TS2320029019	drugEffect 627 642	anticoagulation
+R5	relation Arg1:TS1320029019 Arg2:TS220029019
+R6	relation Arg1:TS620029019 Arg2:TS320029019
+R7	negative_effect_on_drug Arg1:TS1420029019 Arg2:TS2320029019
+T1	drugEffect 496 507	bioactivity
+R8	has_effect Arg1:TS320029019 Arg2:T1	

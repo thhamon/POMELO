@@ -1,0 +1,12 @@
+The effect of a high-fat meal on the pharmacodynamics of a model lipophilic compound that binds extensively to triglyceride- triglyceride-rich lipoproteins .
+A high-fat meal induces transient hyperlipidemia characterized by elevated triglyceride- triglyceride-rich lipoproteins ( TRL ) which are composed mainly of chylomicrons .
+The purpose of this work was to investigate the effect of this transient hyperlipidemia on the pharmacodynamics of lipophilic drugs , using DDT as a model compound since it binds extensively to TRL and has a distinct neurotoxic effect .
+The postprandial hyperlipidemia in rats was induced by oral administration of peanut oil and was monitored by measurement of plasma triglyceride levels .
+The control group received water instead of oil .
+The rats received a continuous intravenous infusion of DDT ( 10 mg  h ) until onset of a predefined pharmacodynamic endpoint ( facial muscle tremor ) .
+Plasma and brain samples were then obtained and assayed for DDT .
+Rats with postprandial hyperlipidemia required higher dose of DDT to induce onset of facial muscle tremor .
+At the pharmacodynamic endpoint , oil treated rats had significantly higher concentrations of DDT in plasma and in the chylomicron fraction , but DDT brain concentrations were the same in both groups .
+In conclusion , a high-fat meal induces postprandial hyperlipidemia that may significantly alter the pharmacological profile of lipophilic compounds that bind to TRL .
+This is due to alteration of the distribution characteristics of the lipophilic compound through its association with postprandial lipoproteins .
+However , this pharmacokinetic phenomenon did not affect the concentration-effect relationship at the site of action in the brain .

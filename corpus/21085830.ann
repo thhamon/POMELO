@@ -1,0 +1,24 @@
+TS1821085830	sideeffect 24 41	drug interactions
+TS421085830	sideeffect 44 59	adverse effects
+TS1021085830	drug 144 164	tuberculosis therapy
+TS821085830	sideeffect 276 291	Adverse effects
+TS1721085830	sideeffect 321 338	drug interactions
+TS621085830	treatedDisease 555 567	tuberculosis
+TS1421085830	sideeffect 818 830	interactions
+TS1221085830	food 852 856	food
+TS321085830	drug 863 871	antacids
+TS1521085830	sideeffect 977 990	liver failure
+TS1621085830	sideeffect 997 1011	kidney failure
+TS921085830	sideeffect 1059 1071	interactions
+TS121085830	sideeffect 1141 1163	drug-induced hepatitis
+T1	drug 0 22	Antituberculosis drugs
+T2	drugEffect 172 189	cure the patients
+R1	has_effect Arg1:TS1021085830 Arg2:T2	
+T3	drugEffect 197 237	minimize the possibility of transmission
+R2	has_effect Arg1:TS1021085830 Arg2:T3	
+T4	drug 295 317	antituberculosis drugs
+T5	drug 347 369	antituberculosis drugs
+T6	drug 381 403	antituberculosis drugs
+R3	relation Arg1:TS1221085830 Arg2:TS1421085830	
+T7	drug 1082 1104	antituberculosis drugs
+R4	has_sideeffect Arg1:T7 Arg2:TS121085830	

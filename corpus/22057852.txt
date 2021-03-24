@@ -1,0 +1,11 @@
+The effect of food on the bioavailability of panobinostat , an orally active pan- histone deacetylase inhibitor , in patients with advanced cancer .
+Panobinostat is a novel oral pan- pan-deacetylase inhibitor with promising anti-cancer activity .
+The study aimed to determine the influence of food on the oral bioavailability of panobinostat .
+This multicenter study consisted of a randomized , three-way crossover , food- food-effect study period ( cycle 1 ) followed by single-agent panobinostat continual treatment phase in patients with advanced cancer .
+Patients received panobinostat 20 mg twice weekly , and panobinostat pharmacokinetics was investigated on days 1 , 8 , and 15 with a randomly assigned sequence of three prandial states ( fasting , high-fat , and normal breakfast ) .
+Thirty-six patients were assessed for the food effect on pharmacokinetics and safety in cycle 1 , after which 29 patients continued treatment , receiving single-agent panobinostat .
+Safety and antitumor activity were assessed during the extension period .
+Panobinostat systemic exposure was marginally reduced ( 14-16% ) following food [geometric mean ratio ( GMR ) of the AUC ( 0-∞ )  high-fat breakfast  fasting , 0.84 ( 90% confidence interval {CI} , 0.74-0.96 ) ; normal breakfast  fasting , 0.86 ( 90% CI , 0.75-1.00 ) ] , and interpatient variability ( coefficient of variation , 59% ) remained essentially unchanged with or without food .
+Panobinostat C ( max ) was reduced by 44% ( high-fat ) and 36% ( normal ) with median T ( max ) prolonged by 1-1.5 h following food .
+Panobinostat was well tolerated , with thrombocytopenia , fatigue , nausea , and vomiting as common adverse events , and demonstrated antitumor activity with one patient with a partial response and six patients with stable disease as best response .
+Food produced minor changes in oral panobinostat exposure ; thus , panobinostat can be given without regard to food intake in future clinical studies .

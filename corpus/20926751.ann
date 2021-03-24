@@ -1,0 +1,26 @@
+TS820926751	drugEffect 86 101	bioavailability
+TS620926751	food 119 123	food
+TS1320926751	drug 180 215	antagonist of adenosine A1 receptor
+TS1520926751	treatedDisease 236 249	heart failure
+TS920926751	drugEffect 344 359	bioavailability
+TS520926751	food 388 392	food
+TS1220926751	drugEffect 931 946	bioavailability
+TS1420926751	food 1489 1493	Food
+T1	drug 160 173	Tonapofylline
+R2	treat Arg1:TS1320926751 Arg2:TS1520926751	
+R3	treat Arg1:T1 Arg2:TS1520926751	
+T2	modeadm 81 85	oral
+T3	drug 29 42	tonapofylline
+T4	frequency 440 451	single-dose
+T5	drug 452 465	tonapofylline
+T6	dosage 468 478	0.2-375 mg
+T7	modeadm 527 531	oral
+T8	drug 549 562	tonapofylline
+T9	drug 950 963	tonapofylline
+R4	has_effect Arg1:T9 Arg2:TS1220926751	
+T10	modeadm 1028 1039	intravenous
+T11	drug 1100 1113	tonapofylline
+T12	drug 1170 1183	tonapofylline
+T13	drug 1669 1682	tonapofylline
+T14	drug 1750 1763	tonapofylline
+T15	frequency 1735 1746	single dose

@@ -1,0 +1,24 @@
+Factors influencing patient knowledge of warfarin therapy after mechanical heart valve replacement .
+Patients with mechanical heart valves must follow lifelong warfarin therapy .
+Warfarin , however , is a difficult drug to manage because it has a narrow therapeutic window and potentially serious side effects .
+Successful anticoagulation treatment is dependent upon the patient's knowledge of this drug ; however , little is known regarding the determinants of such knowledge .
+Therefore , the purpose of this study was to determine the influence of both in-hospital teaching practices as well as socioeconomic status and demographic variables on patients' knowledge of warfarin therapy .
+A telephone survey was conducted among 100 patients 3 to 6 months after mechanical heart valve replacement .
+A previously validated 20-item questionnaire was used to measure the patient's knowledge of warfarin , its side effects , and vitamin K food sources .
+Demographic information , socioeconomic status data , and medical education information were also collected .
+Knowledge scores were compared using the Student t test or one-way analysis of variance .
+Variables with P sentinf or = .
+2 on univariate analysis were entered in multiple stepwise regression analysis .
+Sixty-one percent of participants had scores indicative of insufficient knowledge of warfarin therapy ( score sentinf or = 80% ) .
+Age was negatively related to warfarin knowledge scores ( r = 0.27 , P = .
+007 ) .
+Patients with family incomes greater than sentdol25 , 000 , who had greater than a grade 8 education , and who were employed or self-employed had significantly higher warfarin knowledge scores ( P = .
+007 , P = .
+002 , and P = .
+001 , respectively ) .
+Gender , ethnicity , and warfarin therapy before surgery were not related to warfarin knowledge scores .
+Furthermore , none of the in-hospital teaching practices significantly influenced knowledge scores , whereas receiving postdischarge community counseling significantly improved knowledge scores ( P = .
+001 ) .
+Multivariate regression analysis revealed that understanding the concept of International Normalized Ratio , knowing the acronym , age , and receiving community counseling after discharge were the strongest predictors of warfarin knowledge .
+Accessing postdischarge counseling resulted in significantly improved warfarin knowledge scores .
+Because improved knowledge has been associated with improved compliance and control , our findings support the need to develop a comprehensive postdischarge education program or at least to ensure that patients have access to a community counselor to compliment the in-hospital education program .

@@ -1,0 +1,14 @@
+Systematic review of randomised controlled trials of the effects of caffeine or caffeinated drinks on blood glucose concentrations and insulin sensitivity in people with diabetes mellitus .
+Compounds other than macronutrients have been shown to influence blood glucose concentrations and insulin sensitivity in people with diabetes , with caffeine being one such substance .
+The present study systematically reviewed the evidence of the effects of caffeine on blood glucose concentrations and  or insulin sensitivity in people with diabetes .
+Four databases , including MEDLINE and EMBASE , were searched up to 1 February 2012. .
+Randomised controlled trials ( RCTs ) investigating the effects of caffeine on blood glucose and  or insulin sensitivity in humans , diagnosed with type I , type II or gestational diabetes mellitus ( GDM ) , were included .
+Quality assessment and data extraction were conducted and agreed by both authors .
+Of 253 articles retrieved , nine trials ( 134 participants ) were identified .
+Trials in people with type II diabetes demonstrated that the ingestion of caffeine ( approximately 200-500 mg ) significantly increased blood glucose concentrations by 16-28% of the area under the curve ( AUC ) and insulin concentrations by 19-48% of the AUC when taken prior to a glucose load , at the same time as decreasing insulin sensitivity by 14-37%. .
+In type I diabetes , trials indicated enhanced recognition and a reduced duration of hypoglycaemic episodes following ingestion of 400-500 mg caffeine , without altering glycated haemoglobin .
+In GDM , a single trial demonstrated that approximately 200 mg of caffeine induced a decrease in insulin sensitivity by 18% and a subsequent increase in blood glucose concentrations by 19% of the AUC .
+Evidence indicates a negative effect of caffeine intake on blood glucose control in individuals with type II diabetes , as replicated in a single trial in GDM .
+Larger-scale RCTs of longer duration are needed to determine the effects of timing and dose .
+Early indications of a reduced duration and an improved awareness of hypoglycaemia in type I diabetes require further confirmation .
+bigasentc 2013 The Authors Journal of Human Nutrition and Dietetics bigasentc 2013 The British Dietetic Association Ltd. .

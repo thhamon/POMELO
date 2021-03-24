@@ -1,0 +1,24 @@
+TS267722187	treatedDisease 62 86	congestive heart failure
+TS207722187	treatedDisease 153 177	congestive heart failure
+TS57722187	drug 199 208	diuretics
+TS167722187	sideeffect 214 228;233 254	inhibit sodium chloride reabsorption
+TS107722187	foodSupplement 367 374	thiamin
+TS297722187	treatedDisease 411 435	congestive heart failure
+TS67722187	drug 455 468	loop diuretic
+R3	relation Arg1:TS107722187 Arg2:TS67722187
+TS177722187	foodSupplement 720 727	Thiamin
+TS37722187	foodSupplement 849 856	thiamin
+TS97722187	food 898 902	food
+TS217722187	foodSupplement 1017 1024	thiamin
+TS287722187	foodSupplement 1084 1091	thiamin
+TS237722187	foodSupplement 1172 1179	thiamin
+TS17722187	foodSupplement 1285 1292	thiamin
+TS187722187	foodSupplement 1492 1499	thiamin
+TS317722187	treatedDisease 1556 1596	poor left ventricular ejection fractions
+TS247722187	foodSupplement 1612 1619	Thiamin
+TS117722187	treatedDisease 1686 1710	congestive heart failure
+T1	drug 17 25	diuretic
+T2	treatedDisease 117 135	thiamin deficiency
+R1	treat Arg1:TS57722187 Arg2:TS207722187	
+R2	treat Arg1:TS67722187 Arg2:TS297722187	
+R4	has_sideeffect Arg1:TS57722187 Arg2:TS167722187	

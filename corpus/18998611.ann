@@ -1,0 +1,4 @@
+TS418998611	drug 7 20	acetaminophen
+TS118998611	treatedDisease 37 51	arthritis pain
+TS318998611	food 81 85	wine
+R1	treat Arg1:TS418998611 Arg2:TS118998611	

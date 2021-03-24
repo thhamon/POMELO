@@ -1,0 +1,47 @@
+TS319829163	drug 0 28	Monoamine oxidase inhibitors
+TS29829163	drug 75 113	Monoamine oxidase inhibitors ( MAOIs )
+TS179829163	treatedDisease 165 185	depressive disorders
+TS309829163	treatedDisease 224 243	Parkinson's disease
+TS109829163	drug 315 325	phenelzine
+TS129829163	drug 330 345	tranylcypromine
+TS139829163	sideeffect 392 411	hypertensive crisis
+TS299829163	drug 425 433	tyramine
+TS349829163	drug 452 510	selective monoamine oxidase- oxidase-B ( MAO-B ) inhibitor
+TS149829163	drug 511 521	selegiline
+TS359829163	drug 560 633	selective and reversible monoamine oxidase- oxidase-A ( MAO-A ) inhibitor
+TS49829163	drug 634 645	moclobemide
+TS259829163	sideeffect 677 688	interaction
+TS329829163	drug 740 751	moclobemide
+TS199829163	drug 798 808	Selegiline
+TS159829163	drug 852 860	levodopa
+TS119829163	sideeffect 873 881	anorexia
+TS169829163	sideeffect 884 893	dry mouth
+TS239829163	sideeffect 896 906	dyskinesia
+TS219829163	sideeffect 932 955	orthostatic hypotension
+TS59829163	drug 986 996	phenelzine
+TS19829163	drug 1001 1016	tranylcypromine
+TS289829163	sideeffect 1172 1195	orthostatic hypotension
+TS229829163	drug 1357 1382	tricyclic antidepressants
+R1	treat Arg1:TS29829163 Arg2:TS179829163	
+R2	treat Arg1:TS29829163 Arg2:TS309829163	
+T1	drug 268 304	nonselective and nonreversible MAOIs
+R3	has_sideeffect Arg1:T1 Arg2:TS139829163	
+R4	has_sideeffect Arg1:TS109829163 Arg2:TS139829163	
+R5	has_sideeffect Arg1:TS129829163 Arg2:TS139829163	
+T2	food 417 433	dietary tyramine
+R6	increase_side_effect Arg1:T2 Arg2:TS139829163	
+R7	has_sideeffect Arg1:TS299829163 Arg2:TS139829163	
+R8	has_sideeffect Arg1:TS199829163 Arg2:TS119829163	
+R9	has_sideeffect Arg1:TS199829163 Arg2:TS169829163	
+R10	has_sideeffect Arg1:TS199829163 Arg2:TS239829163	
+R11	has_sideeffect Arg1:TS199829163 Arg2:TS219829163	
+R12	has_sideeffect Arg1:TS159829163 Arg2:TS119829163	
+R13	has_sideeffect Arg1:TS159829163 Arg2:TS169829163	
+R14	has_sideeffect Arg1:TS159829163 Arg2:TS239829163	
+R15	has_sideeffect Arg1:TS159829163 Arg2:TS219829163	
+T3	drug 978 983	MAOIs
+T4	drug 1245 1250	MAOIs
+R16	has_sideeffect Arg1:T4 Arg2:TS289829163	
+T5	treatedDisease 1292 1302	depression
+R17	treat Arg1:TS229829163 Arg2:T5	
+R18	treat Arg1:T4 Arg2:T5	

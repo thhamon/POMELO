@@ -1,0 +1,48 @@
+TS2419925488	sideeffect 20 47	wheat-dependent anaphylaxis
+TS3319925488	drug 59 66	aspirin
+TS2819925488	drug 104 111	Aspirin
+TS5219925488	drug 122 158	nonsteroidal anti-inflammatory drugs
+TS4319925488	drug 161 167	NSAIDs
+TS4419925488	food 223 228	wheat
+TS2319925488	sideeffect 223 277	wheat-dependent exercise-induced anaphylaxis ( WDEIA )
+TS4619925488	food 364 369	wheat
+TS4719925488	drug 380 388	aspirin-
+TS3919925488	sideeffect 364 416	wheat-dependent aspirin- aspirin-induced anaphylaxis
+TS1419925488	food 451 456	wheat
+TS4519925488	food 497 502	wheat
+TS1519925488	sideeffect 497 524	wheat-dependent anaphylaxis
+TS1219925488	drug 681 688	aspirin
+TS3219925488	food 716 721	wheat
+TS619925488	food 724 730	gluten
+TS3619925488	food 737 752	omega-5 gliadin
+TS519925488	sideeffect 796 818	anaphylactic reactions
+TS1619925488	food 839 844	wheat
+TS1019925488	drug 848 855	aspirin
+TS1719925488	food 887 892	wheat
+TS1819925488	food 947 952	wheat
+TS1119925488	drug 957 964	aspirin
+R7	relation Arg1:TS1819925488 Arg2:TS1119925488
+TS2519925488	drug 1076 1083	aspirin
+TS3119925488	food 1114 1119	wheat
+TS219925488	food 1124 1130	gluten
+TS3819925488	food 1177 1182	wheat
+TS3719925488	food 1187 1193	gluten
+TS819925488	food 1254 1269	omega-5 gliadin
+TS5119925488	food 1366 1371	wheat
+TS2119925488	sideeffect 1366 1393	wheat-dependent anaphylaxis
+TS3019925488	drug 1405 1412	aspirin
+TS119925488	drug 1469 1476	aspirin
+TS2019925488	sideeffect 1543 1555	food allergy
+TS4119925488	food 1583 1587	food
+TS4219925488	food 1602 1606	food
+T1	food 20 25	wheat
+T2	sideeffect 311 316	WDEIA
+R1	has_sideeffect Arg1:TS1119925488 Arg2:TS519925488	
+R2	increase_side_effect Arg1:TS1819925488 Arg2:TS519925488	
+T3	sideeffect 1084 1100	enhanced the SPT
+R3	has_sideeffect Arg1:TS2519925488 Arg2:T3	
+R4	negative_effect_on_drug Arg1:TS3119925488 Arg2:TS2519925488	
+R5	negative_effect_on_drug Arg1:TS219925488 Arg2:TS2519925488	
+R6	has_sideeffect Arg1:TS3019925488 Arg2:TS2119925488	
+R8	has_sideeffect Arg1:TS119925488 Arg2:TS2019925488	
+R9	increase_side_effect Arg1:TS4119925488 Arg2:TS2019925488	

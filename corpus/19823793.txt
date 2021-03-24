@@ -1,0 +1,9 @@
+[Drug interactions in geriatric medicine]. .
+Drug interactions are often seen in elder patients due to polymedication .
+They can lead to unwanted side effects attended with unspecific symptoms such as vertigo , lateropulsion , fatigue or confusion .
+This can result in a prescribing cascade .
+Interactions can take place on all pharmacodynamic and pharmacokinetic levels , whereas the CYP enzyme- enzyme-dependent metabolism seems to play a key role .
+The incidence of drug interactions is quite high and clinical relevant interactions are also not uncommon .
+Especially drugs with a low therapeutic index are more likely to be the target of clinical relevant interactions .
+However , most of the drug interactions can be managed by dose-reduction or by replacing one of the possibly interacting drugs .
+An important point is to remember the possibility of drug interactions .

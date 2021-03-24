@@ -1,0 +1,22 @@
+TS619766437	drug 20 40	vitamin K antagonist
+TS1519766437	food 54 70	grapefruit juice
+TS119766437	drug 86 115	Vitamin K antagonists ( VKA )
+TS819766437	food 208 213	foods
+TS1419766437	food 216 232	Grapefruit juice
+TS1619766437	sideeffect 330 341	interaction
+TS919766437	food 506 522	grapefruit juice
+TS519766437	sideeffect 535 555	excessive VKA dosage
+TS1119766437	sideeffect 569 580	haemorrhage
+T1	sideeffect 1 16	Severe overdose
+R1	negative_effect_on_drug Arg1:TS1519766437 Arg2:TS619766437	
+R2	increase_side_effect Arg1:TS1519766437 Arg2:T1	
+T2	drug 198 203	drugs
+T3	sideeffect 245 321	interact with some drugs metabolized by the enterocytary cytochrome P450 3A4
+R3	relation Arg1:TS1419766437 Arg2:T3	
+T4	drug 356 359	VKA
+R4	negative_effect_on_drug Arg1:TS1419766437 Arg2:T4	
+T5	drug 472 475	VKA
+R5	negative_effect_on_drug Arg1:TS919766437 Arg2:T5	
+R6	increase_side_effect Arg1:TS919766437 Arg2:TS519766437	
+R7	has_sideeffect Arg1:T5 Arg2:TS1119766437	
+R8	increase_side_effect Arg1:TS919766437 Arg2:TS1119766437	

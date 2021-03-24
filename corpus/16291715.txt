@@ -1,0 +1,11 @@
+The pharmacokinetics of escitalopram after oral and intravenous administration of single and multiple doses to healthy subjects .
+The pharmacokinetics of escitalopram ( S-citalopram ) and its principal metabolite , S-demethylcitalopram ( S-DCT ) , were investigated after intravenous and oral administration to healthy subjects .
+After intravenous infusion of escitalopram , the mean systemic clearance and volume of distribution were 31 L  h and 1 , 100 L , respectively .
+After oral administration of single or multiple doses , the absorption was relatively fast , with the maximum observed plasma or serum concentration ( C ( max ) ) attained after 3 to 4 hours .
+The mean half-lives were 27 and 33 hours , respectively ; steady state was attained within 10 days .
+The area under the plasma or serum concentration time curve from time zero to 24 hours and C ( max ) was both linear and proportional to the dose .
+The apparent volume of distribution was around 20 L  kg .
+Comparison of the systemic and oral clearance implied a high absolute bioavailability .
+There was no evidence of interconversion from S-citalopram to R-citalopram either in plasma or in urine .
+Concurrent intake of food had no effect on the pharmacokinetics of escitalopram or its metabolite .
+All treatments were well tolerated .

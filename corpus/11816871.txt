@@ -1,0 +1,18 @@
+Repeated ingestion of grapefruit juice does not alter clozapine' clozapine's steady-state plasma levels , effectiveness , and tolerability .
+Grapefruit juice can inhibit the gastrointestinal activity of cytochrome P450 ( CYP ) 3A4 , while its effect on CYP1A2 remains controversial .
+Several grapefruit juice bioflavonoids also modulate the activity of the drug transporter P-glycoprotein in the gut and in the blood-brain barrier .
+Both CYP1A2 and CYP3A4 are involved in clozapine metabolism .
+This study investigated the effects of repeated ingestion of grapefruit juice on multiple-dose pharmacokinetics and pharmacodynamics of clozapine in schizophrenic patients .
+Clozapine therapy was initiated for fifteen treatment-resistant schizophrenic inpatients ( DSM-IV criteria ) .
+The doses were individually titrated from day -35 to day -15 and then kept unchanged from day -14 to day 49. .
+Regular-strength grapefruit juice ( 250 mL ) was coadministered b.i.d. .
+with each clozapine dose from day 15 to day 28. .
+Plasma levels of clozapine and its main metabolites ( norclozapine and clozapine N-oxide ) were obtained , and clinical efficacy and safety assessments were completed prior to juice administration ( days 0 , 7 , and 14 ) , during the coadministration ( days 17 , 21 , and 28 ) , and after cessation of the juice ( days 35 , 42 , and 49 ) .
+After reaching steady states , plasma concentrations of clozapine and its metabolites and Positive and Negative Syndrome Scale scores were not significantly altered by the effect of grapefruit juice ingestion .
+The Clinical Global Impressions scale scores , Calgary Depression Scale scores , and side effect profiles ( by the Extrapyramidal Symptom Rating Scale , the UKU Side Effect Rating Scale , and thorough examinations including electrocardiography and electroencephalography ) also remained constant during the study .
+Consumption of regular-strength grapefruit juice , 250 mL b.i.d. .
+, for 14 days did not significantly impact clozapine metabolism , clinical efficacy , or tolerability .
+One reason is that enzymes other than CYP3A4 also mediate clozapine disposition .
+Also , grapefruit juice inhibits CYP3A4 in the gut , but not in the liver .
+The preliminary results also suggest that clozapine is unlikely to be a P-glycoprotein substrate .
+Further rigorous studies are necessary to reconfirm these findings .

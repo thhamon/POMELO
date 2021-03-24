@@ -1,0 +1,40 @@
+TS511531805	drug 0 7	Aspirin
+TS911531805	food 78 82	food
+TS2811531805	sideeffect 119 162	food-dependent exercise-induced anaphylaxis
+TS311531805	drug 191 198	aspirin
+TS2511531805	sideeffect 240 249	urticaria
+TS2311531805	sideeffect 251 262	anaphylaxis
+TS2411531805	sideeffect 292 335	food-dependent exercise-induced anaphylaxis
+TS1111531805	food 399 404	wheat
+TS1911531805	food 437 443	shrimp
+TS1211531805	drug 464 471	aspirin
+TS2611531805	food 492 496	food
+TS3211531805	drug 497 506	allergens
+TS1411531805	sideeffect 515 524	urticaria
+TS1511531805	sideeffect 544 553	urticaria
+TS2111531805	sideeffect 558 569	hypotension
+TS1311531805	drug 589 596	aspirin
+TS2711531805	food 606 610	food
+R1	relation Arg1:TS2611531805 Arg2:TS3211531805
+TS811531805	sideeffect 668 677	urticaria
+TS611531805	drug 723 730	aspirin
+TS211531805	food 733 737	food
+TS1711531805	drug 874 881	aspirin
+TS3011531805	sideeffect 894 919	type I allergic responses
+TS1611531805	food 923 927	food
+TS1811531805	drug 976 983	aspirin
+R3	relation Arg1:TS1611531805 Arg2:TS1811531805
+TS411531805	drug 1092 1099	aspirin
+TS711531805	sideeffect 1112 1121	urticaria
+TS2011531805	sideeffect 1123 1134	anaphylaxis
+T1	sideeffect 21 58	induction of type I allergic symptoms
+R4	has_sideeffect Arg1:TS511531805 Arg2:T1	
+R5	relation Arg1:TS911531805 Arg2:TS511531805	
+R6	has_sideeffect Arg1:TS3211531805 Arg2:TS1411531805	
+R7	has_sideeffect Arg1:TS3211531805 Arg2:TS2111531805	
+T2	sideeffect 945 950	FDEIA
+T3	sideeffect 338 343	FDEIA
+R2	has_sideeffect Arg1:TS1811531805 Arg2:T2	
+T4	sideeffect 1032 1037	FDEIA
+R8	has_sideeffect Arg1:TS411531805 Arg2:TS711531805	
+R9	has_sideeffect Arg1:TS411531805 Arg2:TS2011531805	

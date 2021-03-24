@@ -1,0 +1,13 @@
+TS611334060	treatedDisease 166 179	organ failure
+TS1011334060	treatedDisease 253 275	cardiovascular disease
+TS311334060	sideeffect 465 477	hypertension
+TS711334060	sideeffect 495 503	diabetes
+TS1111334060	sideeffect 506 520	hyperlipidemia
+TS911334060	sideeffect 628 639	Weight gain
+TS111334060	sideeffect 773 780	obesity
+TS211334060	sideeffect 833 855	cardiovascular disease
+TS511334060	sideeffect 938 960	cardiovascular disease
+T1	drug 596 625	immunosuppressive medications
+R1	has_sideeffect Arg1:T1 Arg2:TS1111334060	
+R2	has_sideeffect Arg1:T1 Arg2:TS711334060	
+R3	has_sideeffect Arg1:T1 Arg2:TS311334060	

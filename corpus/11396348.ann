@@ -1,0 +1,23 @@
+TS2411396348	sideeffect 0 13	[Interactions
+TS1211396348	food 17 21	food
+TS1411396348	food 116 125	nutrients
+TS411396348	food 274 283	nutrients
+TS811396348	sideeffect 299 314	drug metabolism
+TS2511396348	sideeffect 473 506	modulating coenzymes availability
+TS2811396348	drug2 531 537	acid..
+TS1011396348	food 550 554	Food
+TS2311396348	food 637 650	carbohydrates
+TS711396348	food 653 659	lipids
+TS2611396348	food 662 670	proteins
+TS311396348	food 703 711	vitamins
+TS111396348	food 714 722	minerals
+TS2711396348	food 747 761	Drug-nutrients
+TS2011396348	sideeffect 762 774	interactions
+TS2111396348	sideeffect 824 827	i.e
+TS1711396348	sideeffect 887 902	adverse effects
+R1	increase_side_effect Arg1:TS411396348 Arg2:TS811396348	
+T1	drugEffect 151 167	drug disposition
+R4	increase_side_effect Arg1:TS411396348 Arg2:TS2511396348	
+T2	sideeffect 578 607	drug metabolism modifications
+R2	increase_side_effect Arg1:TS1011396348 Arg2:T2	
+T3	food2 730 744	phytochemicals

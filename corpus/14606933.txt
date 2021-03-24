@@ -1,0 +1,16 @@
+Pharmacokinetics of pimecrolimus , a novel nonsteroid anti-inflammatory drug , after single and multiple oral administration .
+To investigate the pharmacokinetics and tolerability of the new nonsteroid anti-inflammatory pimecrolimus ( SDZ ASM 981 , Elidel ) after oral administration .
+A single-dose , randomised , double-blind , placebo-controlled , dose-rising , parallel-group study in healthy male volunteers , and a multiple-dose , randomised , double-blind , placebo-controlled , dose-rising study in patients with psoriasis .
+One centre in France ( single-dose study ) and one centre in Austria ( multiple-dose study ) .
+The first study investigated the pharmacokinetics and tolerability of ascending single oral doses of pimecrolimus ( 5-60mg ) .
+The 60mg dose was repeated in the same subjects after a fat- fat-rich breakfast .
+The second study investigated the pharmacokinetics , tolerability , safety and efficacy of rising oral doses administered once daily ( 5-20mg ) or twice daily ( 20 and 30mg ) for 28 days .
+Only the pharmacokinetic , safety and tolerability data of this study are presented .
+Oral administration of pimecrolimus was well tolerated up to the highest dose ( 60mg ) .
+Pimecrolimus was rapidly absorbed ( time to maximum blood concentration 0.7-2 hours ) .
+A high-fat meal before drug administration delayed the time to peak concentration .
+Blood concentrations appear to have a long-terminal half-life ( 30-40 hours after a single dose in fasted subjects , 50-100 hours after the final dose on day 28 in psoriasis patients ) .
+After multiple doses , steady state was attained after 6-13 days .
+Maximum blood concentrations ( C ( max ) ) and exposure ( area under the concentration-time curve ; AUC ) were broadly dose proportional .
+At the highest dose administered in the multiple-dose study ( 30mg twice daily ) , a C ( max ) of 54.7 microg  L was measured and an AUC ( 24 ) of 589.8 microg.h  L was calculated at steady state ( day 13 ) .
+The results support further evaluation of the therapeutic potential of oral pimecrolimus for the treatment of inflammatory diseases .

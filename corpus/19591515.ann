@@ -1,0 +1,98 @@
+TS2119591515	food 10 14	food
+TS5919591515	drug 42 51	clozapine
+R1	relation Arg1:TS2119591515 Arg2:TS5919591515
+TS1019591515	food 161 165	Food
+TS2219591515	drugEffect 207 222	bioavailability
+TS7019591515	drug 230 257	atypical antipsychotic drug
+TS719591515	drug 258 267	clozapine
+R2	no_effect_on_drug Arg1:TS1019591515 Arg2:TS7019591515
+TS5119591515	food 353 357	food
+TS3619591515	drug 387 396	clozapine
+R3	relation Arg1:TS5119591515 Arg2:TS3619591515
+TS6019591515	food 460 464	food
+TS3319591515	drugEffect 472 487	bioavailability
+TS5219591515	drug 512 521	clozapine
+TS4819591515	modeadm 522 558	orally disintegrating tablet ( ODT )
+TS6719591515	mealTime 617 623	fasted
+TS3519591515	mealTime 628 631	fed
+R4	relation Arg1:TS6019591515 Arg2:TS5219591515
+TS4219591515	drug 821 830	clozapine
+TS2619591515	mealTime 852 866	overnight fast
+TS4319591515	drug 910 919	clozapine
+TS1119591515	food 963 993	a high-fat  -calorie breakfast
+TS319591515	mealTime 984 993	breakfast
+R5	relation Arg1:TS2619591515 Arg2:TS4319591515
+TS4119591515	drug 1123 1132	clozapine
+TS6619591515	mealTime 1529 1535	fasted
+TS2819591515	mealTime 1540 1543	fed
+TS5619591515	drug 1564 1573	clozapine
+TS5719591515	drug 1653 1666	clozapine ODT
+R6	relation Arg1:TS6619591515 Arg2:TS5619591515
+R7	relation Arg1:TS6619591515 Arg2:TS5719591515
+TS4419591515	drug 1691 1700	clozapine
+TS4519591515	drug 1894 1903	clozapine
+TS1319591515	drug 2008 2017	clozapine
+TS1419591515	drug 2081 2094	clozapine ODT
+TS5419591515	food 2120 2148	high-fat  -calorie breakfast
+TS2719591515	mealTime 2139 2148	breakfast
+TS3119591515	drug 2377 2386	clozapine
+TS3219591515	drug 2495 2504	clozapine
+TS3419591515	sideeffect 2843 2853	somnolence
+TS3719591515	sideeffect 2902 2909	syncope
+TS6219591515	mealTime 2918 2924	fasted
+TS4019591515	sideeffect 2935 2952	vasovagal syncope
+TS2919591515	mealTime 2961 2964	fed
+TS3019591515	drug 3035 3048	clozapine ODT
+TS1719591515	sideeffect 3053 3061	asystole
+TS3919591515	sideeffect 3099 3106	syncope
+TS6319591515	mealTime 3114 3120	fasted
+R10	relation Arg1:TS2919591515 Arg2:TS3019591515
+R11	relation Arg1:TS6219591515 Arg2:TS3019591515
+TS6519591515	mealTime 3177 3183	fasted
+TS5319591515	food 3212 3216	food
+TS2319591515	drug 3251 3260	clozapine
+TS2419591515	drug 3277 3290	clozapine ODT
+TS2519591515	drug 3359 3368	clozapine
+R12	relation Arg1:TS6519591515 Arg2:TS2319591515
+R13	decrease_absorption Arg1:TS5319591515 Arg2:TS2319591515
+TS5519591515	drug 3455 3464	clozapine
+TS219591515	mealTime 3500 3503	fed
+TS6819591515	mealTime 3515 3521	fasted
+TS919591515	drug 3537 3550	clozapine ODT
+TS419591515	mealTime 3597 3602	meals
+TS5819591515	mealTime 3620 3624	meal
+TS519591515	drug 3753 3762	clozapine
+T1	modeadm 52 80	orally disintegrating tablet
+T2	dosage 81 88	12.5 mg
+R14	no_effect_on_drug Arg1:TS1019591515 Arg2:TS719591515	
+R15	has_effect Arg1:TS719591515 Arg2:TS2219591515	
+R16	has_effect Arg1:TS7019591515 Arg2:TS2219591515	
+T3	dosage 576 583	12.5 mg
+T4	modeadm 831 834	ODT
+T5	dosage 835 842	12.5 mg
+T6	modeadm 920 923	ODT
+T7	dosage 924 931	12.5 mg
+T8	mealTime 932 962	within 30 minutes of consuming
+T9	drug 1137 1155	desmethylclozapine
+T10	modeadm 1663 1666	ODT
+T11	dosage 1667 1674	12.5 mg
+R17	relation Arg1:TS2819591515 Arg2:TS5619591515	
+R18	relation Arg1:TS2819591515 Arg2:TS5719591515	
+T12	drug 1705 1723	desmethylclozapine
+T13	drug 1908 1926	desmethylclozapine
+T14	drug 2022 2040	desmethylclozapine
+T15	modeadm 2091 2094	ODT
+T16	drug 2405 2423	desmethylclozapine
+T17	drug 2523 2541	desmethylclozapine
+R8	increase_side_effect Arg1:TS6219591515 Arg2:TS3719591515	
+R9	increase_side_effect Arg1:TS2919591515 Arg2:TS4019591515	
+T18	modeadm 3045 3048	ODT
+R19	increase_side_effect Arg1:TS6319591515 Arg2:TS1719591515	
+R20	increase_side_effect Arg1:TS6319591515 Arg2:TS3919591515	
+T19	modeadm 3287 3290	ODT
+T20	dosage 3291 3298	12.5 mg
+R21	without_food Arg1:TS6819591515 Arg2:TS5519591515	
+R22	decrease_absorption Arg1:TS219591515 Arg2:TS5519591515	
+T21	modeadm 3547 3550	ODT
+R23	before Arg1:TS419591515 Arg2:TS919591515	
+R24	after Arg1:TS5819591515 Arg2:TS919591515	

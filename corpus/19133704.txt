@@ -1,0 +1,20 @@
+Pharmacokinetic profile of armodafinil in healthy subjects: pooled analysis of data from three randomized studies .
+Armodafinil ( R-modafinil ) is the R- and longer-lasting isomer of the racemic compound modafinil , a wakefulness- wakefulness-promoting medication .
+Armodafinil is eliminated approximately three times more slowly than the S-isomer of racemic modafinil .
+Published studies have demonstrated the efficacy of armodafinil for treating excessive sleepiness associated with obstructive sleep apnoea , shift work disorder and narcolepsy .
+The objectives of this study were to describe the pharmacokinetic profile , tolerability and safety of armodafinil in healthy subjects .
+Pooled pharmacokinetic data from three separate randomized studies in 119 healthy subjects who received single or multiple ( once daily for up to 14 days ) oral doses of armodafinil ranging between 50 and 400 mg were analysed .
+The impact of food on the single-dose pharmacokinetic profile of armodafinil was also assessed in subjects following an overnight fast and after the consumption of a standard fatty meal .
+Armodafinil was readily absorbed and exhibited linear pharmacokinetics over the 50-400 mg dose range .
+Peak plasma concentrations were reached around 2 hours after administration in the fasted state .
+Food had no effect on the overall bioavailability of armodafinil ; however , the peak concentration was delayed by approximately 2-4 hours .
+In the multiple-dose study , dose proportionality was confirmed by linear regression analyses of the log-transformed area under the plasma concentration versus time curve ( AUC ) and maximum plasma concentration ( Cmax ) values as a function of dose .
+After reaching the peak , plasma concentrations of armodafinil declined in a monophasic manner , with a mean elimination half-life of approximately 15 hours .
+Steady state appeared to be reached within 7 days .
+At steady state , the systemic exposure to armodafinil was 1.8 times that observed after single-dose administration .
+Armodafinil was generally well tolerated , the most frequent adverse events being headache , dizziness and nausea .
+In the present analysis , armodafinil exhibited linear pharmacokinetics over the dose range of 50-400 mg .
+While food affected the rate but not the extent of absorption , peak plasma concentrations were reached in approximately 2 hours when the drug was taken on an empty stomach .
+With once-daily dosing , steady state appeared to be reached within 7 days .
+After reaching peak plasma levels , concentrations of armodafinil declined monophasically , with a mean elimination half-life of around 15 hours .
+Armodafinil was generally well tolerated .

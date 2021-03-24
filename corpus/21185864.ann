@@ -1,0 +1,36 @@
+TS721185864	drug 31 45	anticoagulants
+TS2921185864	treatedDisease 81 96	thromboembolism
+TS521185864	drugEffect 184 199	anticoagulation
+TS1121185864	drug 351 358	Heparin
+TS1221185864	drug 382 389	heparin
+TS2321185864	drug 396 408	fondaparinux
+TS1921185864	food 512 521	vitamin K
+TS121185864	drug 544 552	warfarin
+TS1421185864	drug 656 671	anticoagulation
+TS3021185864	food 684 687	e.g
+TS2021185864	sideeffect 715 735	deep vein thrombosis
+R1	relation Arg1:TS1921185864 Arg2:TS121185864
+TS2221185864	drug 748 769	vitamin K antagonists
+TS1821185864	drugEffect 789 811	anticoagulant response
+TS3321185864	sideeffect 836 845;850 872	drug-drug food-drug interactions
+TS2721185864	drugEffect 999 1014	anticoagulation
+TS2421185864	drug 1205 1216	rivaroxaban
+TS321185864	drug 1219 1227	apixaban
+TS1321185864	drug 1287 1307	dabigatran etexilate
+TS1521185864	drug 1629 1642	anticoagulant
+T1	modeadm 26 30	oral
+R4	treat Arg1:TS721185864 Arg2:TS2921185864	
+T2	treatedDisease 99 123	Thromboembolic disorders
+T3	modeadm 492 498	orally
+R2	has_effect Arg1:TS2221185864 Arg2:TS1821185864	
+R5	has_sideeffect Arg1:TS2221185864 Arg2:TS3321185864	
+T4	drug 1166 1193	direct Factor Xa inhibitors
+T5	drug 1234 1242	edoxaban
+T6	drug 1249 1275	direct thrombin inhibitors
+T7	treatedDisease 1416 1440	thromboembolic disorders
+R3	treat Arg1:T4 Arg2:T7	
+R6	treat Arg1:TS2421185864 Arg2:T7	
+R7	treat Arg1:TS321185864 Arg2:T7	
+R8	treat Arg1:T5 Arg2:T7	
+R9	treat Arg1:T6 Arg2:T7	
+R10	treat Arg1:TS1321185864 Arg2:T7	

@@ -1,0 +1,67 @@
+TS5622940371	food 11 21	grapefruit
+TS7722940371	food 26 47	Seville orange juices
+TS6122940371	drug 85 95	colchicine
+R1	relation Arg1:TS5622940371 Arg2:TS6122940371
+TS4922940371	drug 135 145	colchicine
+TS8022940371	treatedDisease 162 179	acute gout flares
+TS3322940371	sideeffect 258 275	food interactions
+TS422940371	food 315 325	grapefruit
+TS2422940371	food 329 345	grapefruit juice
+TS4222940371	food 393 409	grapefruit juice
+TS3222940371	food 414 434	Seville orange juice
+TS1522940371	drug 527 537	colchicine
+TS5322940371	other 538 548	metabolism
+TS7922940371	sideeffect 574 584	toxicities
+TS7522940371	food2 613 619	juices
+TS822940371	food 776 796	Seville orange juice
+TS722940371	food 800 816	grapefruit juice
+TS1122940371	drug 854 864	colchicine
+R4	relation Arg1:TS822940371 Arg2:TS1122940371
+TS5022940371	food2 968 973	juice
+TS4722940371	drug 1096 1106	colchicine
+TS2822940371	food2 1136 1141	juice
+TS4822940371	drug 1186 1196	colchicine
+TS2922940371	food2 1217 1222	juice
+R5	relation Arg1:TS2822940371 Arg2:TS4822940371
+TS1322940371	drug 1325 1335	colchicine
+TS5122940371	food 1673 1689	grapefruit juice
+TS2122940371	food 1722 1742	Seville orange juice
+TS3622940371	sideeffect 1842 1858	CYP3A4 inhibitor
+TS5422940371	food 1861 1877	grapefruit juice
+TS4122940371	drug 1941 1951	colchicine
+R6	relation Arg1:TS5422940371 Arg2:TS4122940371
+TS2322940371	drug 1959 1969	colchicine
+TS1222940371	food 1992 2012	Seville orange juice
+R7	relation Arg1:TS1222940371 Arg2:T10
+TS5222940371	food 2109 2129	Seville orange juice
+TS3022940371	drug 2187 2197	Colchicine
+TS7322940371	food 2218 2228	grapefruit
+TS6922940371	food 2232 2252	Seville orange juice
+TS3722940371	food 2452 2468	grapefruit juice
+TS1622940371	drug 2508 2518	colchicine
+R8	relation Arg1:TS3722940371 Arg2:TS1622940371
+TS3922940371	food 2521 2541	Seville orange juice
+TS1422940371	drug 2578 2588	colchicine
+R9	decrease_absorption Arg1:TS3922940371 Arg2:TS1422940371
+TS2622940371	drug 2741 2751	colchicine
+TS6222940371	food2 2762 2767	juice
+TS2722940371	drug 2790 2800	colchicine
+R10	relation Arg1:TS6222940371 Arg2:TS2722940371
+R11	relation Arg1:TS7722940371 Arg2:TS6122940371	
+R12	treat Arg1:TS4922940371 Arg2:TS8022940371	
+T1	drug 376 389	furocoumarins
+T2	sideeffect 439 512	inhibit intestinal cytochrome P450 ( CYP ) isozyme 3A4 and P-glycoprotein
+R2	increase_side_effect Arg1:TS4222940371 Arg2:T2	
+R3	increase_side_effect Arg1:TS3222940371 Arg2:T2	
+R13	has_sideeffect Arg1:T1 Arg2:T2	
+T3	frequency 1002 1013	twice daily
+T4	duration 1014 1024	for 4 days
+T5	dosage 1081 1087	0.6-mg
+T6	dosage 1171 1177	0.6-mg
+T7	frequency 754 759	daily
+T8	sideeffect 1444 1466	adverse events ( AEs )
+T9	sideeffect 1559 1562	AEs
+T10	sideeffect 2017 2035	moderate inhibitor
+T11	sideeffect 2318 2321	AEs
+T12	sideeffect 2353 2356	AEs
+T13	sideeffect 2370 2393	gastrointestinal events

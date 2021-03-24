@@ -1,0 +1,4 @@
+TS420457591	mealTime 42 47	meals
+T1	food 10 47	low- , moderate- , and high-fat meals
+T2	drug 51 62	raltegravir
+R1	relation Arg1:T1 Arg2:T2	

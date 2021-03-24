@@ -1,0 +1,16 @@
+TS222951237	drug 12 40	monoamine oxidase inhibitors
+TS422951237	drug 44 64	depression treatment
+TS522951237	drug 78 116	Monoamine oxidase inhibitors ( MAOIs )
+TS622951237	treatedDisease 265 272	anxiety
+TS922951237	treatedDisease 275 301	anergic bipolar depression
+TS822951237	drug 632 642	selegiline
+TS122951237	drug 738 753	antidepressants
+T1	treatedDisease 151 161	depression
+R1	treat Arg1:TS522951237 Arg2:T1	
+T2	treatedDisease 228 247	atypical depression
+T3	treatedDisease 308 338	treatment-resistant depression
+T4	drug 351 356	MAOIs
+T5	food 436 443	dietary
+T6	drug 516 521	MAOIs
+T7	modeadm 605 628	transdermal formulation
+T8	treatedDisease 883 893	depression

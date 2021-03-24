@@ -1,0 +1,34 @@
+TS46282186	food 0 4	Food
+TS346282186	sideeffect 9 26	drug interactions
+TS66282186	sideeffect 259 281	food-drug interactions
+TS176282186	food 355 359	food
+TS166282186	food 519 523	diet
+TS326282186	food 602 606	diet
+TS206282186	food2 622 629	protein
+TS136282186	food2 641 653	carbohydrate
+TS76282186	drug 691 701	antipyrine
+TS316282186	drug 706 718	theophylline
+TS336282186	food 751 755	diet
+R1	relation Arg1:TS206282186 Arg2:TS76282186
+R2	relation Arg1:TS326282186 Arg2:TS76282186
+R3	relation Arg1:TS136282186 Arg2:TS76282186
+TS16282186	food 872 907	high-protein-low carbohydrate diets
+TS406282186	food 1109 1114	diets
+TS286282186	sideeffect 1256 1272	enzyme induction
+TS96282186	food 1295 1300	foods
+TS196282186	food 1305 1321	food ingredients
+TS356282186	foodSupplement 1713 1734	weight-reducing diets
+TS366282186	food 1737 1753	vegetarian diets
+TS416282186	food 1809 1814	diets
+T1	sideeffect 539 565	effects on drug metabolism
+R4	relation Arg1:TS166282186 Arg2:T1	
+T2	food 948 966	high protein diets
+T3	sideeffect 986 1009	hepatic drug metabolism
+R5	increase_side_effect Arg1:T2 Arg2:T3	
+R6	relation Arg1:TS326282186 Arg2:TS316282186	
+R7	relation Arg1:TS206282186 Arg2:TS316282186	
+R8	relation Arg1:TS136282186 Arg2:TS316282186	
+T4	food 759 797	low protein- protein-high carbohydrate
+T5	sideeffect 1322 1344	affect drug metabolism
+R9	relation Arg1:TS96282186 Arg2:T5	
+R10	relation Arg1:TS196282186 Arg2:T5	

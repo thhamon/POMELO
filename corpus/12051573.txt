@@ -1,0 +1,19 @@
+Nitazoxanide pharmacokinetics and tolerability in man using single ascending oral doses .
+Nitazoxanide ( N ) is a new broad-spectrum intestinal antiparasitic agent .
+Deacetyl-N or tizoxanide ( T ) and its glucuronide ( TG ) are the major circulating species metabolites after oral administration of N. .
+Bioavailability is substantially increased by food .
+The objectives of this phase IA study were to assess the tolerability and to determine the pharmacokinetic linearity of T and TG after single oral administration of increasing doses of N with and without food in healthy volunteer subjects .
+Thirty-two healthy male volunteers were randomly assigned to 1 of 4 treatment groups .
+In each successive group , 2 subjects received a placebo and 6 received a single oral dose of 1 g , 2 g , 3 g , or 4 g of N , first under fasted conditions and a week later with a standardized breakfast .
+Blood samples were collected during 24 h for plasma determination of T and TG .
+General tolerability , adverse reactions , ECG , vital signs and laboratory tests were recorded .
+Tolerability was good up to the maximum dose of 4 g .
+Mild , mostly gastrointestinal side effects were observed and their frequency increased significantly with the dose level .
+No significant changes were noted in the ECGs , vital signs and laboratory tests .
+Plasma concentrations increased linearly with the dose from 1 - 4 g , although a trend to increased bioavailability was observed at 4 g .
+Food approximately doubled the concentrations of T and TG irrespective of dose .
+Peak times and apparent half-lives increased in proportion to the dose .
+The apparent body clearance for total T ( T+TG ) at the highest dose was only half that at the low dose .
+TG was eliminated more slowly than T. .
+Nitazoxanide can be safely administered up to 4 g single oral doses , with or without food .
+The slow elimination of TG and the overproportional concentrations at the highest dose can be accounted for by solubility- or transport-limited elimination mechanisms becoming apparent at the upper dose level .

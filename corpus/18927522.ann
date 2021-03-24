@@ -1,0 +1,3 @@
+TS318927522	sideeffect 0 17	Drug interactions
+TS218927522	drug 23 34	simvastatin
+R1	has_sideeffect Arg1:TS218927522 Arg2:TS318927522	

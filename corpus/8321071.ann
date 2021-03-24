@@ -1,0 +1,19 @@
+TS28321071	food 17 21	food
+TS238321071	sideeffect 66 88	Food-drug interactions
+TS18321071	food 193 197	food
+TS88321071	drugEffect 246 261	bioavailability
+TS148321071	food 345 350	foods
+TS198321071	sideeffect 420 442	food-drug interactions
+TS48321071	sideeffect 526 548	food- drug interaction
+TS158321071	food 612 617	order
+TS188321071	sideeffect 894 916	food-drug interactions
+T1	drug 58 63	drugs
+R1	relation Arg1:TS28321071 Arg2:T1	
+T2	sideeffect 103 131	loss of therapeutic efficacy
+T3	sideeffect 135 148	toxic effects
+R2	negative_effect_on_drug Arg1:TS18321071 Arg2:TS88321071	
+T4	sideeffect 277 305	alteration in drug clearance
+R3	relation Arg1:TS148321071 Arg2:T4	
+T5	sideeffect 390 412	adverse drug reactions
+T6	sideeffect 767 794	food-drug incompatibilities
+T7	sideeffect 865 886	adverse drug reaction

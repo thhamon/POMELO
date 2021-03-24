@@ -1,0 +1,21 @@
+TS1118382075	sideeffect 0 25	Food and drug interaction
+TS3018382075	sideeffect 87 109	Food-drug interactions
+TS2218382075	sideeffect 453 479	drug-nutrient interactions
+TS618382075	sideeffect 530 556	drug-nutrient interactions
+TS2618382075	drug 606 617	antibiotics
+TS318382075	sideeffect 634 670	suboptimal antibiotic concentrations
+TS518382075	sideeffect 686 695	infection
+TS1618382075	sideeffect 750 784	Induction or inhibition of enzymes
+TS2418382075	food 799 808	nutrients
+TS1818382075	drugEffect 850 865	bioavailability
+TS118382075	food 905 921	grapefruit juice
+TS418382075	sideeffect 948 964	CYP3A4 inhibitor
+TS2518382075	food 1057 1073	grapefruit juice
+TS1918382075	sideeffect 1099 1114	adverse effects
+TS718382075	food 1221 1226	fluid
+TS1718382075	sideeffect 1402 1428	drug-nutrient interactions
+T1	modeadm 601 605	oral
+R1	relation Arg1:TS2418382075 Arg2:TS1618382075	
+R3	relation Arg1:TS2418382075 Arg2:TS1818382075	
+R2	increase_side_effect Arg1:TS118382075 Arg2:TS418382075	
+R4	increase_side_effect Arg1:TS2518382075 Arg2:TS1918382075	

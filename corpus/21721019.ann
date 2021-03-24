@@ -1,0 +1,54 @@
+TS2121721019	food 0 8	Caffeine
+TS1321721019	drug 171 179	hormones
+TS1821721019	food 301 309	Caffeine
+TS1121721019	food 400 408	caffeine
+TS221721019	food 513 521	caffeine
+TS521721019	food3 660 667	protein
+TS721721019	food 702 710	caffeine
+TS421721019	food 723 731	Caffeine
+TS1021721019	drug 749 770	aryl sulfotransferase
+TS1621721019	drug 801 832	hydroxysteroid sulfotransferase
+TS921721019	food 859 864	liver
+R1	relation Arg1:TS421721019 Arg2:TS1021721019
+TS1721721019	food 923 931	Caffeine
+TS1921721019	food 1030 1035	liver
+TS121721019	food 1047 1055	caffeine
+TS821721019	food 1103 1108	liver
+TS1221721019	food 1179 1187	caffeine
+TS2021721019	food 1329 1337	caffeine
+TS321721019	drug2 1367 1374	hormone
+TS621721019	drugEffect 1398 1404	levels
+R2	relation Arg1:TS2021721019 Arg2:TS321721019
+TS1421721019	food 1447 1455	caffeine
+T1	sideeffect 9 39	induction of sulfotransferases
+R3	increase_side_effect Arg1:TS2121721019 Arg2:T1	
+T2	drug 345 368	psychoactive substances
+T3	sideeffect 381 396	SULT regulation
+R4	increase_side_effect Arg1:TS1121721019 Arg2:T3	
+T4	modeadm 499 503	oral
+T5	dosage 524 541	2 , 10 , 50 mg kg
+T6	frequency 556 563	per day
+T7	duration 566 576	for 7 days
+T8	food 700 708	caffeine
+T9	food 721 729	Caffeine
+T10	food 921 929	Caffeine
+T11	sideeffect 730 737;747 790;799 849	induced aryl sulfotransferase ( rSULT1A1 , AST-IV ) hydroxysteroid sulfotransferase ( rSULT2A1 , STa )
+R5	increase_side_effect Arg1:T9 Arg2:T11	
+T12	sideeffect 930 964	induction of rSULT1A1 and rSULT2A1
+R6	increase_side_effect Arg1:T10 Arg2:T12	
+T13	food 1045 1053	caffeine
+T14	sideeffect 1054 1070	induced rSULT1A1
+R7	increase_side_effect Arg1:T13 Arg2:T14	
+T15	food 1177 1185	caffeine
+T16	sideeffect 1200 1216	induced rSULT2A1
+R8	increase_side_effect Arg1:T15 Arg2:T16	
+T17	sideeffect 1234 1249	SULTs induction
+T18	food 1327 1335	caffeine
+T19	sideeffect 1300 1323	regulation of rat SULTs
+R9	increase_side_effect Arg1:T18 Arg2:T17	
+R10	relation Arg1:T18 Arg2:T19	
+T20	food 1445 1453	caffeine
+T21	sideeffect 1458 1488	induce drug metabolizing SULTs
+R11	increase_side_effect Arg1:T20 Arg2:T21	
+T22	drug 1492 1496	drug
+R12	negative_effect_on_drug Arg1:T20 Arg2:T22	

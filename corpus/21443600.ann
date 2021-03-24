@@ -1,0 +1,43 @@
+TS1521443600	food 13 17	food
+TS1021443600	drug 50 62	alitretinoin
+R1	relation Arg1:TS1521443600 Arg2:TS1021443600
+TS2821443600	food 152 156	food
+TS1821443600	drugEffect 173 188	bioavailability
+TS1421443600	food 236 240	food
+TS1621443600	drug 275 287	alitretinoin
+R2	relation Arg1:TS1421443600 Arg2:TS1621443600
+TS2121443600	drug 473 485	alitretinoin
+TS521443600	mealTime 499 512	after fasting
+TS2021443600	drug 1041 1053	alitretinoin
+TS3121443600	food 1058 1073	taken with food
+TS821443600	mealTime 1088 1095	fasting
+TS221443600	food 1267 1271	food
+TS621443600	food 1353 1357	food
+TS1321443600	drug 1390 1401	metabolites
+R3	positive_effect_on_drug Arg1:TS621443600 Arg2:TS1321443600
+TS2621443600	drug 1452 1464	alitretinoin
+TS2421443600	food 1494 1498	food
+TS1221443600	drug 1593 1605	Alitretinoin
+TS121443600	sideeffect 1697 1705	headache
+TS321443600	drug 1718 1730	alitretinoin
+TS921443600	food 1736 1740	food
+TS2321443600	drugEffect 1769 1784	bioavailability
+TS421443600	drug 1788 1800	alitretinoin
+R4	increase_absorption Arg1:TS921443600 Arg2:TS421443600
+TS2221443600	drug 1865 1877	alitretinoin
+TS3221443600	food 1888 1903	taken with food
+T1	modeadm 45 49	oral
+T2	drug 65 84	9-cis retinoic acid
+T3	modeadm 192 196	oral
+T4	drug 197 206	retinoids
+R5	relation Arg1:TS2821443600 Arg2:T4	
+T5	dosage 486 491	40 mg
+T6	mealTime 532 578	5 min after completion of a standard breakfast
+R6	decrease_absorption Arg1:TS3121443600 Arg2:TS2021443600	
+R7	positive_effect_on_drug Arg1:TS2421443600 Arg2:TS2621443600	
+T7	sideeffect 1642 1676	typical retinoid adverse reactions
+R8	has_sideeffect Arg1:TS1221443600 Arg2:T7	
+R9	has_sideeffect Arg1:TS1221443600 Arg2:TS121443600	
+R10	has_effect Arg1:TS421443600 Arg2:TS2321443600	
+T8	modeadm 1860 1864	oral
+R11	positive_effect_on_drug Arg1:TS3221443600 Arg2:TS2221443600	

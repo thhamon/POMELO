@@ -1,0 +1,5 @@
+TS712920426	food 0 17	Grapefruit juice-
+TS812920426	drug 24 35	fluvoxamine
+TS312920426	sideeffect 36 47	interaction
+R1	relation Arg1:TS712920426 Arg2:TS812920426	
+R2	relation Arg1:TS712920426 Arg2:TS312920426	

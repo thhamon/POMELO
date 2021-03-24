@@ -1,0 +1,24 @@
+TS29786475	drugEffect 226 254	broad antibacterial spectrum
+TS39786475	sideeffect 492 517	Gastrointestinal symptoms
+TS79786475	sideeffect 522 536	skin reactions
+TS59786475	food 1385 1403	high-fat breakfast
+T1	drug 54 75	long-acting quinolone
+T2	drug 76 82	DW-116
+T3	drug 188 194	DW-116
+T4	drug 203 218	fluoroquinolone
+T5	modeadm 328 332	oral
+T6	dosage 342 368	100 , 200 , 300 and 800 mg
+T7	frequency 397 416	multiple oral doses
+T8	dosage 420 433	300 or 400 mg
+T9	duration 451 461	for 7 days
+T10	drug 464 470	DW-116
+T11	drug 589 595	DW-116
+R1	has_sideeffect Arg1:T11 Arg2:TS79786475	
+R2	has_sideeffect Arg1:T11 Arg2:TS39786475	
+T12	dosage 916 922	300 mg
+T13	dosage 986 992	400 mg
+T14	drug 1359 1365	DW-116
+T15	mealTime 1370 1382;1394 1403	taken before breakfast
+T16	drug 1451 1457	DW-116
+T17	frequency 1563 1573	once-daily
+R3	no_effect_on_drug Arg1:T15 Arg2:T14	

@@ -1,0 +1,37 @@
+TS139274239	food 0 7	Calcium
+TS49274239	drug 26 33	Calcium
+TS79274239	treatedDisease 100 112	osteoporosis
+TS59274239	treatedDisease 115 127	hypertension
+TS129274239	treatedDisease 147 159	colon cancer
+TS109274239	foodSupplement 193 208	dietary calcium
+TS339274239	food 343 353	supplement
+TS399274239	drug 376 393	calcium carbonate
+TS39274239	food 467 471	food
+TS169274239	food 536 543	calcium
+TS309274239	drug 563 585	chelated calcium salts
+TS409274239	mealTime 611 618	fasting
+TS189274239	food 655 662	calcium
+TS239274239	food 675 685	supplement
+TS259274239	sideeffect 688 699	Interaction
+TS289274239	drug 703 710	calcium
+TS199274239	food 722 739	mineral nutrients
+TS209274239	drug 843 859	chelated calcium
+TS269274239	drug 872 889	calcium carbonate
+TS29274239	drug 927 935	antacids
+TS389274239	treatedDisease 1054 1066	osteoporosis
+TS19274239	drug 1105 1112	calcium
+TS349274239	drug 1279 1287	thiazide
+TS359274239	treatedDisease 1311 1324	renal failure
+TS279274239	sideeffect 1366 1375	alkalosis
+TS149274239	sideeffect 1380 1393	hypercalcemia
+TS429274239	food 1405 1424	calcium supplements
+T1	foodSupplement 8 23	supplementation
+R5	treat Arg1:TS49274239 Arg2:TS79274239	
+R6	treat Arg1:TS49274239 Arg2:TS59274239	
+R7	treat Arg1:TS49274239 Arg2:TS129274239	
+T2	dosage 1091 1101	2 , 000 mg
+T3	sideeffect 1247 1268	milk- alkali syndrome
+R1	increase_side_effect Arg1:TS429274239 Arg2:T3	
+R2	relation Arg1:TS429274239 Arg2:TS349274239	
+R3	increase_side_effect Arg1:TS429274239 Arg2:TS279274239	
+R4	increase_side_effect Arg1:TS429274239 Arg2:TS149274239	

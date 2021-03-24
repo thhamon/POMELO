@@ -1,0 +1,15 @@
+TS1115033405	drug 37 60	emergency contraception
+TS815033405	drug 182 195	norethindrone
+TS115033405	food 301 305	food
+TS415033405	mealTime 533 553	within 1 h of a meal
+TS1315033405	food2 557 562	snack
+TS1515033405	sideeffect 593 612	nausea and vomiting
+TS515033405	mealTime 638 658	within 1 h of a meal
+TS1415033405	food2 662 667	snack
+TS1615033405	sideeffect 698 717	nausea and vomiting
+TS1215033405	drug 756 766	antiemetic
+T1	drug 203 212	progestin
+R1	increase_side_effect Arg1:TS415033405 Arg2:TS1515033405	
+R2	increase_side_effect Arg1:TS1315033405 Arg2:TS1515033405	
+R3	reduce_side_effect Arg1:TS515033405 Arg2:TS1615033405	
+R4	reduce_side_effect Arg1:TS1415033405 Arg2:TS1615033405	

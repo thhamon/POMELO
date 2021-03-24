@@ -1,0 +1,51 @@
+TS422206795	drug 110 205	inhibitor of vascular endothelial growth factor receptor 2 and epidermal growth factor receptor
+TS522206795	drug 183 196	growth factor
+TS1322206795	mealTime 963 966	fed
+TS922206795	mealTime 971 988	fasted conditions
+TS2322206795	drug 1420 1431	metabolites
+TS622206795	drug 2573 2583	vandetanib
+TS1222206795	food 2403 2407	food
+TS2222206795	food 2464 2468	food
+TS2122206795	mealTime 2496 2503	fasting
+TS2022206795	drug 2659 2670	metabolites
+TS222206795	drug 2712 2723	metabolites
+TS822206795	mealTime 3240 3243	fed
+TS122206795	mealTime 3248 3265	fasted conditions
+TS722206795	sideeffect 3561 3570	Hematuria
+TS1822206795	food 4249 4253	food
+TS2422206795	drug 4382 4417	N-desmethyl and N-oxide metabolites
+T1	drug 20 30	vandetanib
+T2	drug 76 86	Vandetanib
+T3	modeadm 93 99	orally
+T4	modeadm 644 648	oral
+T5	drug 658 668	vandetanib
+T6	drug 829 839	vandetanib
+T7	dosage 842 853	300-1200 mg
+T8	drug 939 949	vandetanib
+T9	drug 1044 1054	vandetanib
+T10	dosage 950 956	300 mg
+T11	dosage 1055 1061	800 mg
+T12	drug 1310 1320	vandetanib
+T13	sideeffect 1513 1527	adverse events
+T14	drug 2053 2063	vandetanib
+T15	dosage 2064 2070	800 mg
+T16	drug 2255 2265	Vandetanib
+T17	modeadm 2314 2318	oral
+T18	drug 2683 2693	vandetanib
+T19	drug 2726 2747	N-desmethylvandetanib
+T20	drug 2752 2770	vandetanib N-oxide
+T21	sideeffect 3069 3083	Adverse events
+T22	drug 3143 3153	vandetanib
+T23	dosage 3162 3168	300 mg
+T24	drug 3223 3233	vandetanib
+T25	sideeffect 3347 3361	adverse events
+T26	sideeffect 3454 3505	increases in systolic and diastolic blood pressures
+T27	sideeffect 3519 3528;3546 3558	increases QTc interval
+T28	drug 3600 3610	vandetanib
+T29	dosage 3611 3617	300 mg
+T30	drug 3735 3745	vandetanib
+T31	drug 3951 3961	vandetanib
+T32	drug 4060 4070	Vandetanib
+T33	modeadm 4161 4165	oral
+T34	drug 4367 4377	vandetanib
+T35	drug 4464 4474	Vandetanib

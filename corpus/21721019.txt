@@ -1,0 +1,14 @@
+Caffeine induction of sulfotransferases in rat liver and intestine .
+Sulfotransferases ( SULTs ) are important phase II drug-metabolizing enzymes .
+Regulation of SULTs by hormones and other endogenous molecules is relatively well understood , while xenobiotic induction of SULTs is not well studied .
+Caffeine is one of the most widely consumed psychoactive substances .
+However , SULT regulation by caffeine has not been reported .
+In this report , male and female rats were treated with different oral doses of caffeine ( 2 , 10 , 50 mg kg⁻bigasenttyone per day ) for 7 days .
+Western blot and real-time RT-PCR were used to investigate the changes in SULT protein and mRNA expression following the caffeine treatment .
+Caffeine induced both rat aryl sulfotransferase ( rSULT1A1 , AST-IV ) and rat hydroxysteroid sulfotransferase ( rSULT2A1 , STa ) in the liver and intestine of female rats in a dose-dependent manner .
+Caffeine induction of rSULT1A1 and rSULT2A1 in the female rat intestine was much stronger than that in the liver .
+Although caffeine induced rSULT1A1 significantly in the male rat liver , it did not significantly induce rSULT2A1. .
+In male rat intestine , caffeine significantly induced rSULT2A1. .
+The different SULTs induction patterns in male and female rats suggest that the regulation of rat SULTs by caffeine may be affected by different hormone secretion patterns and levels .
+Our results suggest that consumption of caffeine can induce drug metabolizing SULTs in drug detoxification tissues .
+Copyright bigasentc 2011 John Wiley sentand Sons , Ltd. .

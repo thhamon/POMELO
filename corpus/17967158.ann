@@ -1,0 +1,8 @@
+TS517967158	treatedDisease 383 395	tuberculosis
+TS417967158	treatedDisease 398 410	hypertension
+TS717967158	sideeffect 904 926	drug-drug interactions
+TS817967158	sideeffect 929 954	disease-drug interactions
+TS917967158	sideeffect 963 985	food-drug interactions
+TS1017967158	sideeffect 988 1019	nutraceutical-drug interactions
+T1	treatedDisease 377 380	HIV
+T2	sideeffect 881 901	adverse drug effects

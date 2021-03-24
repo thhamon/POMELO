@@ -1,0 +1,14 @@
+Pharmacokinetics of cycloserine under fasting conditions and with high-fat meal , orange juice , and antacids .
+To determine the effect of a high-fat meal , orange juice , and antacids on absorption of a single oral dose of cycloserine and to estimate its population pharmacokinetic parameters .
+Randomized , four-period , crossover study .
+Clinical research center .
+Twelve healthy volunteers .
+Subjects received single doses of cycloserine 500 mg after a 12-hour fast ( reference ) , with a high-fat meal , with orange juice , and with antacids .
+They also received clofazimine 200 mg , ethionamide 500 mg , and p-aminosalicylic acid granules 6000 mg .
+Plasma samples were collected for 48 hours and assayed by validated high-performance capillary electrophoresis assay .
+Concentration-time data were analyzed with noncompartmental , one-compartment , and population methods .
+The maximum concentration ( Cmax ) of cycloserine was decreased ( p=0.02 ) by the high-fat meal .
+No other statistically significant differences were observed for Cmax and area under the curve from time zero to infinity across the four treatments .
+The high-fat meal significantly ( psentinf0.0001 ) delayed time to maximum concentration by 4.7 times compared with that of the reference ( 1.1 hr ) .
+The pharmacokinetics of cycloserine were minimally affected by orange juice and antacids , whereas the high-fat meal delayed absorption .
+Administering cycloserine without a high-fat meal avoids potential alterations in the pattern of absorption .

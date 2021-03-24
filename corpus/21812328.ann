@@ -1,0 +1,44 @@
+TS621812328	sideeffect 40 63	CYP3A inhibitory effect
+TS1721812328	food 67 83	grapefruit juice
+TS1221812328	food 86 102	Grapefruit juice
+TS121812328	sideeffect 219 249	inhibition of intestinal CYP3A
+TS421812328	sideeffect 364 388	inhibitors of the enzyme
+TS2021812328	sideeffect 654 681	CYP3A inhibitory potentials
+TS1821812328	drug 834 842	naringin
+TS521812328	food 875 878	GFJ
+TS721812328	sideeffect 964 1000	inhibitory effects on CYP3A activity
+TS1121812328	drug 1288 1296	naringin
+TS1921812328	sideeffect 1328 1344	CYP3A inhibition
+TS1021812328	sideeffect 1910 1921	interaction
+R2	increase_side_effect Arg1:TS1721812328 Arg2:TS621812328	
+T1	food 105 108	GFJ
+R1	increase_side_effect Arg1:TS1221812328 Arg2:TS121812328	
+T2	drug 315 329	furanocoumarin
+R3	has_sideeffect Arg1:T2 Arg2:TS421812328	
+T3	sideeffect 411 432;450 476	inhibitory potentials CYP3A-oxidation activities
+T4	food 436 439	GFJ
+R4	increase_side_effect Arg1:T4 Arg2:T3	
+T5	food 685 688	GFJ
+R5	increase_side_effect Arg1:T5 Arg2:TS2021812328	
+T6	drug 1443 1454	bergamottin
+T7	drug 1459 1488	6' , 7' -dihydroxybergamottin
+T8	drug 788 799	bergamottin
+T9	drug 776 785	bergaptol
+T10	drug 802 831	6' , 7' -dihydroxybergamottin
+T11	drug 849 859	naringenin
+T12	food 752 755	GFJ
+T13	food 1102 1105	GFJ
+R6	relation Arg1:T13 Arg2:TS721812328	
+T14	sideeffect 1177 1205	enzymatic inhibitory effects
+T15	drug 1238 1249	bergamottin
+T16	drug 1252 1281	6' , 7' -dihydroxybergamottin
+T17	food 1348 1351	GFJ
+R7	relation Arg1:T17 Arg2:T15	
+R8	relation Arg1:T17 Arg2:T16	
+R9	relation Arg1:T17 Arg2:TS1121812328	
+R10	has_sideeffect Arg1:T15 Arg2:TS1921812328	
+R11	has_sideeffect Arg1:T16 Arg2:TS1921812328	
+R12	has_sideeffect Arg1:TS1121812328 Arg2:TS1921812328	
+R13	increase_side_effect Arg1:T17 Arg2:TS1921812328	
+T18	food 1906 1909	GFJ
+R14	increase_side_effect Arg1:T18 Arg2:TS1021812328	

@@ -1,0 +1,31 @@
+TS3412611197	food 0 17	[Grapefruit juice
+TS212611197	food 77 93	grapefruit juice
+TS1212611197	drugEffect 115 130	bioavailability
+TS1012611197	sideeffect 194 209	adverse effects
+TS2512611197	food 260 276	Grapefruit juice
+TS2812611197	sideeffect 377 388	interaction
+TS1712611197	food 554 570	grapefruit juice
+TS3712611197	sideeffect 608 629	food-drug interaction
+TS2412611197	drug 739 747	naringin
+TS1412611197	food 916 932	grapefruit juice
+TS2712611197	sideeffect 941 953	interactions
+TS1512611197	food 962 978	grapefruit juice
+TS3112611197	sideeffect 1028 1039	interaction
+TS412611197	food 1118 1134	grapefruit juice
+T1	sideeffect 285 348	inhibiting presystemic drug metabolism mediated by CYP P450 3A4
+T2	drug 726 736	flavonoids
+T3	drug 750 760	naringenin
+T4	drug 765 780	furanocoumarins
+T5	drug 783 812	6' , 7' -dihydroxybergamottin
+T6	drug 815 826	bergamottin
+T7	drug 833 845	sesquiterpen
+T8	drug 848 858	nootkatone
+R1	has_sideeffect Arg1:T2 Arg2:TS3712611197	
+R2	has_sideeffect Arg1:TS2412611197 Arg2:TS3712611197	
+R3	has_sideeffect Arg1:T3 Arg2:TS3712611197	
+R4	has_sideeffect Arg1:T4 Arg2:TS3712611197	
+R5	has_sideeffect Arg1:T5 Arg2:TS3712611197	
+R6	has_sideeffect Arg1:T6 Arg2:TS3712611197	
+R7	has_sideeffect Arg1:T7 Arg2:TS3712611197	
+R8	has_sideeffect Arg1:T8 Arg2:TS3712611197	
+R9	relation Arg1:TS1412611197 Arg2:TS2712611197	

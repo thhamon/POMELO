@@ -1,0 +1,10 @@
+Potential interaction between warfarin and high dietary protein intake .
+A 55-year-old Caucasian man was receiving warfarin therapy after undergoing aortic valve replacement .
+His international normalized ratio ( INR ) was stabilized with warfarin 95 mg  week for 5 weeks .
+Commencement of a low-carbohydrate , high-protein diet resulted in a series of subtherapeutic INRs that led to a 16% increase in the dosage requirement to maintain therapeutic INRs .
+After the patient discontinued the diet , his INR increased , and several dosage reductions were required until his INR stabilized with his original dosage of 95 mg  week .
+Two additional case reports have described a possible interaction between warfarin and a high-protein diet .
+The potential for increased dietary protein intake to raise serum albumin levels and  or cytochrome P450 activity has been postulated as mechanisms for the resulting decrease in INRs .
+Given the available animal and human data that demonstrate alterations in drug metabolism in the presence of altered dietary protein intake , an increase in warfarin metabolism due to cytochrome P450 activation appears to be the most likely cause .
+In addition to the previously reported cases , this case indicates a potential interaction between warfarin and a high-protein diet .
+Because of the popularity of high-protein diets and because of the risks associated with inadequate or excessive warfarin anticoagulation , patients and health care providers should be aware of this interaction to ensure appropriate monitoring when warranted .

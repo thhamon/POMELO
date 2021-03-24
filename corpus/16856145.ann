@@ -1,0 +1,41 @@
+TS716856145	drug 11 19	tyramine
+TS1416856145	treatedDisease 38 57	Parkinson's disease
+TS1716856145	drug 106 116	rasagiline
+TS2716856145	drug 119 129	Rasagiline
+TS2316856145	treatedDisease 208 227	Parkinson's disease
+TS2616856145	food 296 312	dietary tyramine
+TS316856145	sideeffect 313 325	interactions
+TS1816856145	sideeffect 342 354	hypertensive
+TS2216856145	drug 384 392	tyramine
+TS2916856145	drug 438 449	rasagiline-
+TS1316856145	treatedDisease 492 511	Parkinson's disease
+TS1116856145	drug 588 598	rasagiline
+TS816856145	sideeffect 604 629	abnormal pressor response
+TS2016856145	sideeffect 756 767	bradycardia
+TS2416856145	drug 853 863	rasagiline
+TS2516856145	drug 904 914	rasagiline
+TS516856145	drug 1029 1037	tyramine
+TS2816856145	drug 1082 1091	levodopa-
+TS2116856145	drug 1140 1150	rasagiline
+TS916856145	drug 1317 1327	rasagiline
+TS616856145	drug 1397 1405	tyramine
+TS1216856145	drug 1446 1456	rasagiline
+TS1516856145	sideeffect 1521 1539	tyramine reactions
+TS1916856145	drug 1585 1593	levodopa
+TS1616856145	food 1626 1654	dietary tyramine restriction
+T1	drug 80 105	selective MAO-B inhibitor
+T2	drug 156 181	selective MAO-B inhibitor
+R3	treat Arg1:T1 Arg2:TS1416856145	
+R4	treat Arg1:TS1716856145 Arg2:TS1416856145	
+R5	treat Arg1:T2 Arg2:TS2316856145	
+R6	treat Arg1:TS2716856145 Arg2:TS2316856145	
+T3	drug 242 269	nonselective MAO inhibitors
+T4	dosage 406 414	50-75 mg
+T5	treatedDisease 514 516	PD
+T6	sideeffect 693 724	blood pressure ( BP ) increases
+T7	treatedDisease 847 849	PD
+T8	dosage 917 927	1 mg  2 mg
+T9	dosage 1307 1311	1 mg
+T10	dosage 1457 1468	0.5 to 2 mg
+T11	frequency 1469 1474	daily
+R1	no_effect_on_drug Arg1:TS1616856145 Arg2:TS1916856145	

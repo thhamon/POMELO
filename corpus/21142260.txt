@@ -1,0 +1,9 @@
+Grapefruit- -drug interactions .
+Grapefruit juice and grapefruit product consumption have potential health benefits ; however , their intake is also associated with interactions with certain drugs , including calcium channel blockers , immunosuppressants and antihistamines .
+The primary mechanism through which interactions are mediated is mechanism-based intestinal cytochrome P450 3A4 inhibition by furanocoumarins resulting in increased bioavailability of administered medications that are substrates .
+Grapefruit products have also been associated with interactions with P-glycoprotein ( P-gp ) and uptake transporters ( e.g e.g. organic anion- anion-transporting polypeptides [OATPs] ) .
+Polyphenolic compounds such as flavonoids have been proposed as the causative agents of the P-gp and OATP interactions .
+The mechanisms and magnitudes of the interactions can be influenced by the concentrations of furanocoumarins and flavonoids in the grapefruit product , the volume of juice consumed , and the inherent variability of specific enzymes and transporter components in humans .
+It is therefore challenging to predict the extent of grapefruit product-drug interactions and to compare available in vitro and in vivo data .
+The clinical significance of such interactions also depends on the disposition and toxicity profile of the drug being administered .
+The aim of this review is to outline the mechanisms of grapefruit- grapefruit-drug interactions and present a comprehensive summary of those agents affected and whether they are likely to be of clinical relevance .

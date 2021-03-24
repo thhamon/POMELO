@@ -1,0 +1,54 @@
+A comparison of initial duloxetine dosing strategies in patients with major depressive disorder .
+To compare the effects of starting doses of duloxetine taken with or without food on tolerability and efficacy in patients with major depressive disorder ( MDD ) .
+This double-blind , concurrent-dose-controlled , parallel-design trial contained a variable expected-duration placebo lead-in period and was conducted in adult outpatients with DSM-IV-TR-defined MDD at psychiatric outpatient sites between October 2004 and January 2006. .
+In actuality , patients received placebo for 1 week and then were randomly assigned to duloxetine 30 mg once daily in the morning ( q.a.m. .
+) ( N = 219 ) , 30 mg twice daily ( b.i.d. .
+) ( N = 213 ) , or 60 mg q.a.m. .
+( N = 215 ) for 1 week along with 1 of 2 instructions about food food: take study drug with food or do not take within 1 hour of eating .
+For the remaining 5 weeks of acute treatment , all patients received 60 mg once daily .
+The primary objective was to compare incidence of treatment-emergent nausea at 30 mg q.a.m. .
+versus 60 mg q.a.m. .
+using item 112 ( nausea ) of the Association for Methodology and Documentation in Psychiatry adverse event scale ( AMDP-5 ) .
+Secondary outcome measures included mean change on AMDP-5 item 112 , discontinuations due to adverse events , mean changes in AMDP-5 items and subscales , spontaneously reported treatment-emergent adverse events , and vital signs .
+Efficacy was evaluated by the 17-item Hamilton Rating Scale for Depression ( HAM-D-17 ) .
+The primary analysis , which combined data from both food groups , showed no significant difference in the incidence of nausea between starting doses of 30 mg q.a.m. .
+and 60 mg q.a.m. .
+( 23% vs. .
+29% , respectively ; p = .
+207 ) .
+However , mean changes on the AMDP-5 nausea item revealed a significant main effect of food ( p = .
+010 ) and a significant interaction between food and starting dose ( p = .
+033 ) .
+The food-by- food-by-dose interaction indicated that the benefit from taking drug with food was greatest in patients started at 60 mg q.a.m. .
+, and the benefit of starting at 30 mg q.a.m. .
+was greatest in patients taking drug without food .
+In patients who took study drug without food , there was a significant difference across initial-dose groups for discontinuation due to adverse events ( 30 mg q.a.m. .
+= 3.6% , 30 mg b.i.d. .
+= 14.0% , 60 mg q.a.m. .
+= 10.2% ; 30 mg q.a.m. .
+vs. .
+30 mg b.i.d. .
+, p = .
+008 ; 30 mg q.a.m. .
+vs. .
+60 mg q.a.m. .
+, p = .
+066 ) ; however , in patients who took study drug with food , discontinuations due to adverse events did not significantly differ ( 30 mg q.a.m. .
+= 5.4% , 30 mg b.i.d. .
+= 7.5% , 60 mg q.a.m. .
+= 7.4% ; all p values sentsup .
+50 ) .
+Patients who started at 30 mg b.i.d. .
+or 60 mg q.a.m. .
+without food did not differ regarding mean changes ( i.e. , increases ) in the common adverse events score after 1 week of treatment but had significantly greater mean changes than patients who started at 30 mg q.a.m. .
+without food ( 0.87 , 0.82 , and 0 , respectively ; p sentinf .
+05 vs. .
+30 mg b.i.d. .
+and 60 mg q.a.m. .
+) .
+No significant differences were found between initial-dose groups in vital signs .
+These data imply that starting dulox-etine at 30 mg q.a.m. .
+for 1 week with or without food or starting duloxetine at the therapeutic dose of 60 mg q.a.m. .
+with food can improve the initial tolerability of the medication .
+Adding this information to existing knowledge of duloxetine will enable the clinician to tailor therapy most appropriately for the individual patient .
+ClinicalTrials.gov identifier NCT 00191061. .

@@ -1,0 +1,35 @@
+TS59144013	sideeffect 0 19	Histamine poisoning
+TS139144013	food 39 55	spoiled raw tuna
+TS79144013	drug 76 85	isoniazid
+R1	relation Arg1:TS139144013 Arg2:TS79144013
+TS149144013	drug 116 125	isoniazid
+TS119144013	sideeffect 155 163	headache
+TS129144013	sideeffect 166 178	palpitations
+TS229144013	sideeffect 185 199	skin eruptions
+TS29144013	sideeffect 205 212	itching
+TS49144013	food 226 234	raw tuna
+TS19144013	sideeffect 280 302	histamine intoxication
+TS89144013	food 322 330	raw tuna
+TS109144013	food 452 468	spoiled raw tuna
+TS189144013	sideeffect 526 547	histaminase inhibitor
+R3	increase_side_effect Arg1:TS109144013 Arg2:TS189144013
+TS159144013	sideeffect 595 610	adverse effects
+TS209144013	sideeffect 622 634	interactions
+TS39144013	food 653 658	foods
+R4	increase_side_effect Arg1:TS139144013 Arg2:TS59144013	
+T1	drug 128 131	INH
+R5	has_sideeffect Arg1:TS149144013 Arg2:TS119144013	
+R6	has_sideeffect Arg1:TS149144013 Arg2:TS129144013	
+R7	has_sideeffect Arg1:TS149144013 Arg2:TS229144013	
+R8	has_sideeffect Arg1:TS149144013 Arg2:TS29144013	
+R9	new_side_effect Arg1:TS49144013 Arg2:TS149144013	
+R10	increase_side_effect Arg1:TS49144013 Arg2:TS119144013	
+R11	increase_side_effect Arg1:TS49144013 Arg2:TS129144013	
+R12	increase_side_effect Arg1:TS49144013 Arg2:TS229144013	
+R13	increase_side_effect Arg1:TS49144013 Arg2:TS29144013	
+T2	drug 511 514	INH
+R14	has_sideeffect Arg1:T2 Arg2:TS189144013	
+R15	negative_effect_on_drug Arg1:TS109144013 Arg2:T2	
+T3	drug 643 648	drugs
+R2	relation Arg1:TS39144013 Arg2:T3	
+R16	relation Arg1:TS39144013 Arg2:TS209144013	

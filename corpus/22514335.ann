@@ -1,0 +1,17 @@
+TS222514335	food 20 26	coffee
+TS722514335	food 55 76	charcoal-broiled beef
+TS922514335	sideeffect 270 285	carcinogenicity
+TS1522514335	drug 292 304	aminoazo dye
+TS1422514335	sideeffect 314 352	induction of drug-metabolizing enzymes
+TS1722514335	drug 388 402	benzo[a]pyrene
+TS1222514335	sideeffect 474 498	enhanced drug metabolism
+TS1122514335	food 522 528	coffee
+TS822514335	food 559 580	charcoal-broiled beef
+TS522514335	food 646 652	coffee
+TS1022514335	food 685 706	charcoal-broiled beef
+T1	sideeffect 221 262	inhibitory effect of 3-methylcholanthrene
+R1	has_sideeffect Arg1:TS1522514335 Arg2:TS922514335	
+R2	has_sideeffect Arg1:TS1522514335 Arg2:T1	
+T2	drug 356 376	3-methylcholanthrene
+T3	drug 415 447	polycyclic aromatic hydrocarbons
+T4	drug 738 770	polycyclic aromatic hydrocarbons

@@ -1,0 +1,19 @@
+TS1918926963	drug 53 67	anticoagulant]
+TS418926963	sideeffect 151 159	bleeding
+TS818926963	drug 190 203	acenocoumarol
+TS318926963	sideeffect 286 301	adverse effects
+TS118926963	sideeffect 304 316	interactions
+TS1118926963	food 337 346	nutrition
+TS918926963	drug 357 370	acenocoumarol
+R1	relation Arg1:TS1118926963 Arg2:TS918926963
+TS1418926963	sideeffect 733 748	adverse effects
+TS1218926963	food 899 903	diet
+TS518926963	sideeffect 960 972	interactions
+TS618926963	drug 981 994	acenocoumarol
+TS1618926963	drug 1025 1032	aspirin
+TS718926963	drug 1078 1087	vitamin K
+TS218926963	drug 1124 1137	acenocoumarol
+T1	modeadm 48 52	oral
+R2	has_sideeffect Arg1:TS818926963 Arg2:TS418926963	
+R3	relation Arg1:TS1118926963 Arg2:TS118926963	
+T2	drug 1054 1064	analgetics

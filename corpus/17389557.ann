@@ -1,0 +1,38 @@
+TS317389557	mealTime 24 28	meal
+TS1317389557	drug 62 71	darunavir
+TS2317389557	drug 84 93	ritonavir
+TS2417389557	drugEffect 195 210	bioavailability
+TS3017389557	drug 253 262	darunavir
+TS3317389557	drug 303 312	ritonavir
+TS2017389557	mealTime 319 336	fasted conditions
+TS1517389557	mealTime 357 361	meal
+TS3117389557	drug 429 438	ritonavir
+TS3517389557	drug 489 498	darunavir
+TS1717389557	drug 530 539	darunavir
+TS2517389557	drug 580 589	darunavir
+TS117389557	drug 594 603	ritonavir
+TS1117389557	mealTime 626 643	fasted conditions
+TS917389557	food 660 678	standard breakfast
+TS3217389557	food 683 701	high-fat breakfast
+TS2817389557	food2 706 717;727 745	nutritional protein-rich drink
+TS217389557	food 768 774	coffee
+TS2617389557	drug 795 804	darunavir
+TS1917389557	mealTime 815 828	fasting state
+TS2717389557	drug 855 864	darunavir
+TS817389557	food 950 963	standard meal
+TS517389557	drug 996 1005	darunavir
+TS717389557	mealTime 1060 1063	fed
+TS2117389557	drug 1073 1082	Darunavir
+TS1817389557	food 1126 1130	food
+TS2217389557	drug 1149 1158	darunavir
+TS417389557	mealTime 1190 1194	meal
+R1	relation Arg1:TS1817389557 Arg2:TS2217389557
+T1	dosage 439 445	100 mg
+T2	frequency 446 457	twice daily
+T3	dosage 499 505	400-mg
+T4	food 753 762	croissant
+R2	decrease_absorption Arg1:TS1917389557 Arg2:TS2617389557	
+R3	relation Arg1:TS717389557 Arg2:TS517389557	
+R4	no_effect_on_drug Arg1:TS1817389557 Arg2:TS2117389557	
+R5	relation Arg1:TS817389557 Arg2:TS2717389557	
+R6	during Arg1:TS417389557 Arg2:TS2217389557	

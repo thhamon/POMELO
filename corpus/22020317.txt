@@ -1,0 +1,10 @@
+Effect of food and a proton pump inhibitor on the pharmacokinetics of S-1 following oral administration of S-1 in patients with advanced solid tumors .
+S-1 is a novel oral fluoropyrimidine comprised of FT and two modulators , gimeracil ( CDHP ) and oteracil potassium ( Oxo ) .
+This study investigated the food effects on the pharmacokinetics ( PK ) of Oxo , other components of S-1 , and their metabolites at different gastric pH adjusted by proton pump inhibitor ( PPI ) .
+Patients with and without PPI were treated with S-1 at 30 mg  m ( 2 ) twice daily orally on days 1-7 under either fed or fasting condition , and then were crossed over to fasting  fed conditions on days 15-21 with washout on days 8-14 and 22-28. .
+The study enrolled 55 patients including 27 PK-evaluable patients .
+For the single-dose and multiple-dose pharmacokinetics , the administration of S-1 under fed conditions resulted in decreased exposure to Oxo relative to fasting administration .
+There was a marginal decrease in exposure to CDHP and 5-FU under fed versus fasting conditions , although FT exposure was not altered by food , which demonstrated lack of food effect .
+PPI administration together with S-1 did not significantly change its bioavailability .
+Oxo exposure was reduced under fed compared to fasting condition .
+To increase the bioavailability of S-1 , the administration of S-1 under fasting condition was more effective in the western countries .

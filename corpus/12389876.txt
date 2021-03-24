@@ -1,0 +1,13 @@
+Imatinib mesylate , the first molecularly targeted gene suppressor .
+To review the pharmacology , pharmacokinetics , efficacy , safety , and drug-drug and drug-food food interactions of imatinib and the economic considerations of imatinib in the treatment of chronic myeloid leukemia ( CML ) .
+Literature accessed through MEDLINE ( January 1970-January 2002 ) , abstracts from the 2001 annual meetings of the American Society of Clinical Oncology and the American Society of Hematology , imatinib product labeling , and additional studies or abstracts identified from the bibliographies of the reviewed literature were used to compile data .
+Key search terms were allogeneic bone marrow transplant and stem cell transplant , chronic myeloid leukemia , imatinib , interferon , Gleevec , leukemia , gastrointestinal stromal tumors , STI-571 , and tyrosine kinase inhibitors .
+Imatinib is a distinctively characteristic drug targeted toward inhibition of tyrosine kinase activity .
+Imatinib is indicated for the treatment of patients with CML who failed interferon ( IFN ) -alpha therapy and for the treatment of patients with gastrointestinal stromal tumors ( GISTs ) expressing the tyrosine kinase receptor c-kit .
+Imatinib produces positive short-term hematologic and cytogenetic responses in patients with CML ; short-term positive objective responses have been shown for patients with GISTs .
+To our knowledge , there are no controlled trials demonstrating long-term safety , improvement in disease-related symptoms , or increased survival with imatinib .
+Serious adverse effects requiring dosage decreases and  or therapy termination are edema , hepatotoxicity , and hematologic toxicity .
+Imatinib also has been found to inhibit tyrosine kinases involved in the growth of other malignancies .
+The role of imatinib in tumors that express a tyrosine kinase is constantly evolving with new research results .
+Imatinib therapy should be limited to patients whose tumor growth is related to a genetically defective tyrosine kinase .
+In cases of CML , imatinib should be further limited to patients who have tried and failed IFN-alpha therapy or who are not candidates for an allogeneic stem cell transplant .

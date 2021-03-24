@@ -1,0 +1,6 @@
+TS316850557	drug 33 39	statin
+TS516850557	food 75 91	grapefruit juice
+TS716850557	food 99 109	grapefruit
+TS216850557	food 160 165	fruit
+R1	relation Arg1:TS516850557 Arg2:TS316850557	
+R2	relation Arg1:TS716850557 Arg2:TS316850557	

@@ -1,0 +1,11 @@
+Pharmacokinetics of GW433908 , a prodrug of amprenavir , in healthy male volunteers .
+These two Phase I , open-label , single-dose , randomized , crossoverstudies in 40 healthymale subjects investigated the pharmacokinetic and safety profiles of various formulations of the amprenavir prodrug GW433908 in the presence and absence of food compared with amprenavir capsules .
+GW433908 is a phosphate ester prodrug of the antiretroviral protease inhibitor amprenavir , with improved solubility over the parent molecule and a potential for reduced pill burden on current dosing regimens .
+The calcium salt of the prodrug , GW433908G , was selected for further investigation , as it appeared to offer the greatest potential for the development of new drug formulations .
+In the fasting state , ( 1 ) GW433908G tablet and suspension were bioequivalent in terms of both AUC and Cmax , and ( 2 ) GW433908G tablet and suspension were bioequivalent to amprenavir capsules for AUC ; however , Cmax was lower with GW433908G .
+After a high-fat meal compared with fasting , ( 1 ) the bioavailability of GW433908G suspension was decreased by 20% and Cmax by 41% , and ( 2 ) for GW433908G tablets , there was no influence on AUC ( 12% lower Cmax ) .
+After a low-fat meal compared with fasting , ( 1 ) there was bioequivalence for GW433908G tablets , but ( 2 ) bioavailability was decreased by 23% for amprenavir capsules ( Cmax was also lower , by 46% ) .
+Overall , for GW433908G and amprenavir capsules , food had a negligible influence on plasma concentration at 12 hours postdose ( C12 ) .
+Whether administered as tablets or suspension , GW433908G pharmacokinetics was only slightly affected by food .
+GW433908G tablets were well tolerated and delivered plasma amprenavir concentrations equivalent to the recommended therapeutic amprenavir dose but with fewer tablets .
+The possibility of a lower pill burden offered by GW433908 may be of clinical benefit in the treatment of HIV infection .

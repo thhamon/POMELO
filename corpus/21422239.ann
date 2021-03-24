@@ -1,0 +1,30 @@
+TS2121422239	drug 45 74	sodium 2 , 2 dimethylbutyrate
+TS421422239	drug 85 118	short chain fatty acid derivative
+TS1521422239	drugEffect 398 438	increases in hemoglobin F ( HbF ) levels
+TS1821422239	drugEffect 439 486	reduce clinical severity in sickle cell disease
+TS321422239	sideeffect 506 512	anemia
+TS821422239	treatedDisease 516 532	beta thalassemia
+TS1021422239	drug 552 574	short chain fatty acid
+TS221422239	drug 590 607	arginine butyrate
+TS1621422239	drug 610 612	AB
+TS1921422239	drug 621 635	phenylbutyrate
+TS721422239	drugEffect 638 681	increased fetal and total hemoglobin levels
+TS1721422239	drug 938 981	short chain fatty acids ( SCFA ) derivative
+TS921422239	drug 984 1022	sodium 2 , 2 dimethylbutyrate ( SDMB )
+TS1321422239	sideeffect 1643 1649	anemic
+T1	treatedDisease 341 364	beta hemoglobinopathies
+T2	treatedDisease 369 381	thalassemias
+T3	drugEffect 499 512	reduce anemia
+R1	has_effect Arg1:TS221422239 Arg2:TS721422239	
+T4	modeadm 730 741	intravenous
+T5	modeadm 744 746	IV
+T6	modeadm 812 816	oral
+T7	frequency 1043 1061	1 of 4 single dose
+T8	dosage 1071 1097	2 , 5 , 10 , and 20 mg  kg
+T9	frequency 1103 1114	daily doses
+T10	dosage 1117 1138	5 , 10 , or 15 mg  kg
+T11	duration 1141 1153	over 14 days
+T12	drug 1262 1266	SDMB
+T13	drug 1590 1594	SDMB
+T14	treatedDisease 1664 1687	beta hemoglobinopathies
+R2	treat Arg1:T13 Arg2:T14	

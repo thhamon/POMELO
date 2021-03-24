@@ -1,0 +1,72 @@
+TS2110594469	drug 29 38	doxazosin
+TS4310594469	drug 203 221	doxazosin mesylate
+TS2610594469	drug 487 496	doxazosin
+TS3310594469	drugEffect 659 674	bioavailability
+TS1810594469	drug 678 687	doxazosin
+TS3910594469	food 723 727	food
+TS1210594469	drugEffect 945 960	bioavailability
+TS110594469	drug 964 973	doxazosin
+TS4010594469	mealTime 985 988	fed
+TS3010594469	mealTime 993 1000	fasting
+TS210594469	drug 1016 1025	doxazosin
+TS3110594469	mealTime 1041 1048	fasting
+R1	relation Arg1:TS4010594469 Arg2:TS110594469
+TS3410594469	drugEffect 1164 1179	bioavailability
+TS1610594469	drug 1183 1192	doxazosin
+TS1710594469	drug 1202 1211	doxazosin
+TS1510594469	drugEffect 1364 1379	bioavailability
+TS3810594469	drug 1383 1392	doxazosin
+TS4510594469	drug 1483 1492	doxazosin
+TS1410594469	drug 1659 1668	doxazosin
+TS1910594469	drug 2019 2028	doxazosin
+TS2010594469	drug 2188 2197	doxazosin
+TS3510594469	drug 2277 2286	doxazosin
+TS3610594469	drug 2310 2319	doxazosin
+TS610594469	drugEffect 2382 2397	bioavailability
+TS710594469	drug 2401 2410	doxazosin
+TS4410594469	food 2445 2460	a high-fat meal
+TS4110594469	drug 2668 2677	doxazosin
+TS4210594469	drug 2704 2713	doxazosin
+TS3710594469	drug 2820 2829	doxazosin
+TS410594469	drug 2875 2884	Doxazosin
+TS810594469	drug 3007 3016	doxazosin
+TS910594469	drug 3068 3077	doxazosin
+TS1010594469	drug 3125 3134	doxazosin
+TS1110594469	drug 3158 3167	doxazosin
+TS1310594469	drug 3212 3221	doxazosin
+T1	modeadm 44 107	controlled-release gastrointestinal therapeutic system ( GITS )
+T2	modeadm 124 187	controlled-release gastrointestinal therapeutic system ( GITS )
+T3	drug 226 278	long-acting selective alpha1-adrenoceptor antagonist
+T4	dosage 446 450	4 mg
+T5	frequency 451 461	once daily
+T6	dosage 521 525	1 mg
+T7	modeadm 688 692	GITS
+T8	numbers 908 910	24
+T9	modeadm 974 978	GITS
+R2	relation Arg1:TS3010594469 Arg2:TS110594469	
+R3	without_food Arg1:TS3110594469 Arg2:TS210594469	
+T10	numbers 1106 1108	35
+T11	modeadm 1193 1197	GITS
+T12	dosage 1221 1231	4 and 8 mg
+T13	modeadm 1393 1397	GITS
+T14	dosage 1398 1402	4 mg
+T15	numbers 1406 1408	41
+T16	modeadm 1493 1497	GITS
+T17	modeadm 1669 1673	GITS
+T18	modeadm 1823 1827	GITS
+T19	modeadm 2029 2033	GITS
+T20	modeadm 2220 2224	GITS
+T21	modeadm 2412 2413	I
+T22	mealTime 2456 2460	meal
+T23	dosage 2663 2667	4 mg
+T24	modeadm 2678 2682	GITS
+T25	dosage 2699 2703	8 mg
+T26	modeadm 2714 2718	GITS
+T27	modeadm 2830 2834	GITS
+T28	frequency 2835 2845	once daily
+T29	duration 2846 2856	for 7 days
+T30	modeadm 2885 2889	GITS
+T31	modeadm 2987 2991	GITS
+T32	modeadm 3222 3226	GITS
+T33	modeadm 3277 3281	4 mg
+T34	sideeffect 3295 3320	haemodynamic side-effects

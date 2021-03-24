@@ -1,0 +1,16 @@
+Food interaction and steady-state pharmacokinetics of itraconazole oral solution in healthy volunteers .
+To evaluate the effect of food on the bioavailability of itraconazole ( ITR ) hydroxypropyl-beta-cyclodextrin ( HP-beta-CD ) solution under multiple-dose to steady-state conditions , and to determine the pharmacokinetics of ITR solution at steady state .
+Open-label , randomized , multiple-dose , crossover study University-affiliated health center .
+Thirty healthy men randomized to one of two treatment sequences ( fasted-fed , fed- fed-fasted ) .
+Subjects were either fasted or fed a standard breakfast before receiving ITR oral solution 200 mg once  day for 15 days .
+Crossover phases were separated by a 4-week washout period .
+On day 1 , blood samples were collected before the dose ( time zero ) and 0.5 , 1 , 2 , 3 , 4 , 5 , 6 , 8 , 12 , and 24 hours after the dose .
+Trough samples were obtained before the dose on days 4 , 7 , 12 , 13 , and 14. .
+On day 15 , samples were obtained at the same times as day 1 , and at 36 , 48 , 72 , 96 , 168 , 240 , and 360 hours .
+Samples were analyzed by high-performance liquid chromatography for ITR and its major metabolite hydroxyitraconazole ( OH-ITR ) .
+Urine was collected on days 1 and 15 before and 0-8 and 8-24 hours after the dose ; HP-beta-CD was measured by size-exclusion chromatography .
+Mean bioavailabilities of ITR and OH-ITR were 43% and 38% higher , respectively , when ITR solution was taken as a single dose under fasted conditions .
+With multiple dosing , steady state was achieved by day 14. .
+At steady state , mean bioavailabilities were 29% and 17% higher , respectively , in the fasted state ; terminal half-life was similar under fasted and fed conditions ( mean 39.8 and 37.5 hrs for ITR , respectively ; 27.3 and 26.2 hrs for OH-ITR , respectively ) .
+HP-beta-CD was eliminated almost exclusively in urine .
+The bioavailability of ITR and OH-ITR is enhanced when ITR oral solution is given in the fasted state ; this was true for both single and multiple dosing to steady state .

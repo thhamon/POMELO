@@ -1,0 +1,49 @@
+TS2710354963	drug 0 10	zidovudine
+TS1810354963	drug 74 84	lamivudine
+TS910354963	drug 89 99	zidovudine
+TS1510354963	food 144 148	food
+TS3810354963	drug 308 318	lamivudine
+TS1210354963	drug 327 337	zidovudine
+TS5410354963	food 449 453	food
+TS1610354963	drugEffect 461 476	bioavailability
+TS4910354963	drug 655 665	zidovudine
+TS4310354963	drug 715 725	lamivudine
+TS2210354963	drug 748 758	zidovudine
+TS510354963	mealTime 797 811	overnight fast
+TS5010354963	drug 821 831	zidovudine
+TS3210354963	food 893 901	high-fat
+TS4010354963	food 919 922	fat
+TS610354963	food2 930 942	carbohydrate
+TS2110354963	food 954 961	protein
+TS4510354963	drug 1051 1061	lamivudine
+TS5610354963	drug 1066 1076	zidovudine
+TS110354963	drug 1275 1285	lamivudine
+TS3310354963	drug 1290 1300	zidovudine
+TS310354963	drug 1496 1506	zidovudine
+TS2510354963	mealTime 1696 1713	fasted conditions
+TS2010354963	drug 1868 1878	lamivudine
+TS1910354963	drug 1950 1960	zidovudine
+TS4110354963	drug 1991 2001	lamivudine
+TS2810354963	drug 2006 2016	zidovudine
+TS2910354963	mealTime 2084 2089	meals
+TS1410354963	food 2161 2165	food
+TS2310354963	food 2178 2182	food
+TS210354963	drug 2258 2268	lamivudine
+TS5510354963	drug 2273 2283	zidovudine
+TS6010354963	mealTime 2386 2392	fasted
+TS1110354963	mealTime 2397 2400	fed
+T1	numbers 239 241	24
+T2	dosage 319 325	150 mg
+T3	dosage 338 344	300 mg
+T4	mealTime 694 708	overnight fast
+T5	dosage 726 732	150 mg
+T6	dosage 759 765	300 mg
+T7	mealTime 851 911	5 minutes after completing a standardized high-fat breakfast
+T8	dosage 949 953	33 g
+T9	dosage 914 918	67 g
+T10	dosage 925 929	58 g
+R1	no_effect_on_drug Arg1:TS2910354963 Arg2:TS2810354963	
+R2	no_effect_on_drug Arg1:TS2910354963 Arg2:TS4110354963	
+R4	relation Arg1:TS1410354963 Arg2:TS4110354963	
+R3	slow_absorption Arg1:TS2310354963 Arg2:TS210354963	
+R5	slow_absorption Arg1:TS2310354963 Arg2:TS5510354963	

@@ -1,0 +1,46 @@
+TS2310048159	food 0 4	Diet
+TS4110048159	sideeffect 17 47	ethanol-induced hepatotoxicity
+TS4410048159	food2 64 82	carbohydrate- -fat
+TS2410048159	food 349 356	alcohol
+TS1510048159	sideeffect 364 379	adverse effects
+TS2210048159	food 401 408	alcohol
+TS2510048159	sideeffect 409 422	liver disease
+TS1610048159	food 445 449	diet
+TS410048159	sideeffect 466 496	ethanol-induced hepatotoxicity
+TS4710048159	food 523 528	diets
+TS3310048159	food2 582 597	unsaturated fat
+TS4210048159	food2 657 670	carbohydrates
+TS110048159	food2 676 688	carbohydrate
+TS610048159	food 692 695	fat
+TS3110048159	sideeffect 751 763	liver injury
+TS5010048159	food 870 875	diets
+TS3510048159	food2 884 899	unsaturated fat
+TS2710048159	food2 942 949	protein
+TS210048159	food2 1017 1029	carbohydrate
+TS4610048159	food 1084 1108	ethanol-containing diets
+TS710048159	food2 1121 1133	carbohydrate
+TS3010048159	food2 1248 1275	carbohydrate-deficient diet
+TS1710048159	sideeffect 1448 1462	focal necrosis
+TS1010048159	food2 1505 1529	low dietary carbohydrate
+TS910048159	sideeffect 1562 1578	hepatic necrosis
+TS1110048159	food2 1612 1628	low carbohydrate
+TS1910048159	sideeffect 1708 1716	necrosis
+TS3410048159	food2 1830 1853	unsaturated fatty acids
+R5	increase_side_effect Arg1:TS1010048159 Arg2:T8
+R6	increase_side_effect Arg1:TS1110048159 Arg2:T9
+T1	frequency 308 313	daily
+T2	food 383 390	ethanol
+T3	food 962 969	ethanol
+T4	duration 1045 1059	for 42-55 days
+T5	sideeffect 1144 1153	steatosis
+R1	increase_side_effect Arg1:TS710048159 Arg2:T5	
+R2	increase_side_effect Arg1:TS4610048159 Arg2:T5	
+T6	sideeffect 1182 1199	hepatic pathology
+T7	sideeffect 1372 1421	induction of hepatic microsomal CYP2E1 apoprotein
+R3	increase_side_effect Arg1:TS3010048159 Arg2:T7	
+T8	sideeffect 1532 1557	enhanced CYP2E1 induction
+R4	increase_side_effect Arg1:TS1010048159 Arg2:TS910048159	
+T9	sideeffect 1638 1665	ethanol induction of CYP2E1
+R7	increase_side_effect Arg1:TS1110048159 Arg2:TS1910048159	
+T10	sideeffect 1770 1793	free radicals generated
+R8	increase_side_effect Arg1:TS3410048159 Arg2:T10	

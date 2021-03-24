@@ -1,0 +1,38 @@
+TS516773618	food 8 25	low-protein foods
+TS1616773618	treatedDisease 80 99	Parkinson's disease
+TS716773618	food 102 109	Protein
+TS1916773618	drug 133 141	levodopa
+R2	relation Arg1:TS716773618 Arg2:TS1916773618
+TS816773618	treatedDisease 175 194	Parkinson's disease
+TS1316773618	food 224 231	protein
+TS1416773618	food 249 256	protein
+TS316773618	food 306 313	protein
+TS2116773618	foodSupplement 360 380	low-protein products
+TS1716773618	food 422 426	food
+TS216773618	mealTime 439 448	breakfast
+TS1516773618	mealTime 453 458	lunch
+TS1816773618	drug 540 548	levodopa
+TS916773618	food 673 677	diet
+TS1116773618	foodSupplement 794 802	LPP diet
+TS1216773618	food 823 827	diet
+TS616773618	foodSupplement 1017 1025	LPP diet
+T1	sideeffect 37 53	postprandial off
+T2	mealTime 218 223	daily
+T3	mealTime 271 278	evening
+T4	foodSupplement 488 491	LPP
+T5	foodSupplement 383 386	LPP
+T6	foodSupplement 693 701	LPP diet
+T7	treatedDisease 708 710	PD
+T8	treatedDisease 197 199	PD
+R1	reduce_side_effect Arg1:TS516773618 Arg2:T1	
+T9	sideeffect 495 511	postprandial off
+T10	treatedDisease 525 527	PD
+R3	treat Arg1:TS1816773618 Arg2:T10	
+R4	has_sideeffect Arg1:TS1816773618 Arg2:T9	
+R5	relation Arg1:T4 Arg2:TS1816773618	
+T11	sideeffect 750 760	off phases
+R6	reduce_side_effect Arg1:TS1116773618 Arg2:T11	
+T12	foodSupplement 1348 1351	LPP
+T13	sideeffect 1393 1404	off periods
+T14	treatedDisease 1408 1410	PD
+R7	reduce_side_effect Arg1:T12 Arg2:T13	

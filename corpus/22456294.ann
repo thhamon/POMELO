@@ -1,0 +1,39 @@
+TS222456294	mealTime 11 15	meal
+TS1722456294	treatedDisease 129 144	Type 2 diabetes
+TS1222456294	mealTime 172 176	meal
+TS2722456294	drug 236 279	dipeptidyl peptidase IV ( DPP-4 ) inhibitor
+TS422456294	treatedDisease 319 334	Type 2 diabetes
+TS1822456294	treatedDisease 416 431	Type 2 diabetes
+TS522456294	drug 931 943	Vildagliptin
+TS2022456294	mealTime 1004 1008	meal
+TS2422456294	mealTime 1120 1124	Meal
+TS722456294	drugEffect 1253 1300	active glucagon-like peptide-1 levels increased
+TS1422456294	drugEffect 1328 1410	Fasting plasma glucose ( FPG ) and postprandial plasma glucose ( PPPG ) reductions
+TS122456294	mealTime 1459 1463	meal
+TS1022456294	mealTime 1666 1671	meals
+TS1622456294	sideeffect 1763 1778	Type 2 diabetes
+T1	drug 90 102	vildagliptin
+R1	treat Arg1:T1 Arg2:TS1722456294	
+T2	drug 280 292	vildagliptin
+R2	treat Arg1:TS2722456294 Arg2:TS422456294	
+R3	treat Arg1:T2 Arg2:TS422456294	
+T3	frequency 451 462	twice-daily
+T4	drug 463 475	vildagliptin
+T5	dosage 476 481	50 mg
+R4	treat Arg1:T4 Arg2:TS1822456294	
+T6	mealTime 497 510;533 542;547 553	30 min before breakfast dinner
+T7	mealTime 514 542;547 553	immediately before breakfast dinner
+T8	duration 554 564	for 7 days
+T9	drug 690 702	vildagliptin
+T10	drug 761 773	Vildagliptin
+T11	mealTime 819 832;864 869	30 min before meals
+R5	slow_absorption Arg1:T11 Arg2:T10	
+T12	mealTime 845 869	immediately before meals
+T13	drugEffect 1175 1191	DPP-4 inhibition
+R6	no_effect_on_drug Arg1:TS122456294 Arg2:TS1422456294	
+T14	drug 1595 1607	Vildagliptin
+T15	mealTime 1665 1670	meals
+T16	drug 1686 1698	vildagliptin
+T17	treatedDisease 1762 1777	Type 2 diabetes
+R7	treat Arg1:T16 Arg2:T17	
+R8	no_effect_on_drug Arg1:T15 Arg2:T16	

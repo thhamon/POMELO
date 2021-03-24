@@ -1,0 +1,6 @@
+TS219253346	drug 11 25	anticoagulants
+TS319253346	food 30 34	diet
+TS119253346	sideeffect 59 70	interaction
+T1	modeadm 6 10	oral
+R1	relation Arg1:TS319253346 Arg2:TS119253346	
+R2	relation Arg1:TS319253346 Arg2:TS219253346	

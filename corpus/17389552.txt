@@ -1,0 +1,17 @@
+Safety , tolerability , and pharmacokinetics of PTC124 , a nonaminoglycoside nonsense mutation suppressor , following single- and multiple-dose administration to healthy male and female adult volunteers .
+Nonsense ( premature stop codon ) mutations are causative in 5% to 15% of patients with monogenetic inherited disorders .
+PTC124 , a 284-Dalton 1 , 2 , 4-oxadiazole , promotes ribosomal readthrough of premature stop codons in mRNA and offers therapeutic potential for multiple genetic diseases .
+The authors conducted 2 phase I studies of PTC124 in 62 healthy adult volunteers .
+The initial , single-dose study evaluated doses of 3 to 200 mg  kg and assessed fed-fasting status on pharmacokinetics following a dose of 50 mg  kg .
+The subsequent multiple-dose study evaluated doses from 10 to 50 mg  kg  dose twice per day ( bid ) for up to 14 days .
+PTC124 administered orally as a liquid suspension was palatable and well tolerated through single doses of 100 mg  kg .
+At 150 and 200 mg  kg , PTC124 induced mild headache , dizziness , and gastrointestinal events .
+With repeated doses through 50 mg  kg  dose bid , reversible transaminase elevations sentinf2 times the upper limit of normal were sometimes observed .
+Immunoblot analyses of peripheral blood mononuclear cell extracts revealed no protein elongation due to nonspecific ribosomal readthrough of normal stop codons .
+PTC124 plasma concentrations exceeding the 2- to 10-microg  mL values associated with activity in preclinical genetic disease models were safely achieved .
+No sex-related differences in pharmacokinetics were seen .
+No drug accumulation with repeated dosing was apparent .
+Diurnal variation was observed , with greater PTC124 exposures after evening doses .
+PTC124 excretion in the urine was sentinf2%. .
+PTC124 pharmacokinetics were described by a 1-compartment model .
+Collectively , the data support initiation of phase II studies of PTC124 in patients with nonsense mutation-mediated cystic fibrosis and Duchenne muscular dystrophy .

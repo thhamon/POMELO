@@ -1,0 +1,28 @@
+TS122697192	drug 10 20	selegiline
+TS1622697192	drug 187 197	selegiline
+TS722697192	sideeffect 585 604	hypertensive crisis
+TS1022697192	sideeffect 607 623	suicide attempts
+TS222697192	sideeffect 1180 1187;1192 1210	cardiac vascular disorders
+TS622697192	sideeffect 1298 1317	hypertensive events
+TS522697192	sideeffect 1321 1333	hypertension
+TS1922697192	sideeffect 1421 1443	drug-drug interactions
+TS2022697192	sideeffect 1541 1567	application site reactions
+TS822697192	sideeffect 1572 1580	insomnia
+TS1122697192	sideeffect 1612 1630	hypertensive event
+TS1722697192	sideeffect 1684 1703	hypertensive crisis
+TS1422697192	food 1709 1713	food
+T1	modeadm 21 39	transdermal system
+T2	modeadm 198 216	transdermal system
+T3	drug 219 222	STS
+T4	drug 630 643	STS overdoses
+T5	sideeffect 711 713	AE
+T6	drug 717 720	STS
+T7	sideeffect 932 935	AEs
+T8	sideeffect 996 1036	central nervous system ( CNS ) disorders
+T9	sideeffect 941 958	general disorders
+T10	sideeffect 1127 1130	AEs
+T11	sideeffect 1532 1535	AEs
+T12	drug 1721 1724	STS
+R1	relation Arg1:TS1422697192 Arg2:T12	
+R2	relation Arg1:TS1422697192 Arg2:TS1722697192	
+T13	drug 1753 1756	STS

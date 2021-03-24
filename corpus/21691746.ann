@@ -1,0 +1,48 @@
+TS3621691746	drug 93 102	bosutinib
+TS1321691746	drug 143 152	Bosutinib
+TS3421691746	drug 174 208	Src  Abl tyrosine kinase inhibitor
+TS3521691746	treatedDisease 273 301	chronic myelogenous leukemia
+TS2221691746	drug 468 477	bosutinib
+TS1121691746	drug 613 622	bosutinib
+TS421691746	drug 652 661	bosutinib
+TS921691746	food 696 700	food
+TS1021691746	food 726 730	food
+TS621691746	drug 1023 1032	bosutinib
+TS1921691746	sideeffect 1055 1063	diarrhea
+TS2021691746	sideeffect 1074 1080	nausea
+TS3021691746	sideeffect 1095 1103	headache
+TS2321691746	drug 1114 1123	Bosutinib
+TS3221691746	food 1140 1144	food
+TS821691746	drug 1175 1184	Bosutinib
+TS521691746	food 1275 1279	food
+TS121691746	food 1557 1561	food
+TS2421691746	drug 1604 1613	bosutinib
+TS2521691746	drug 1729 1738	bosutinib
+TS221691746	food 1761 1765	food
+TS2921691746	mealTime 1801 1808	fasting
+TS2621691746	drug 1847 1856	bosutinib
+TS321691746	food 1862 1866	food
+R2	relation Arg1:TS221691746 Arg2:TS2621691746
+TS2821691746	drug 1979 1988	Bosutinib
+TS3121691746	food 2005 2009	food
+TS2721691746	mealTime 2046 2049	fed
+TS1221691746	drug 2063 2072	bosutinib
+R5	relation Arg1:TS2721691746 Arg2:TS1221691746
+T1	drug 105 112	SKI-606
+T2	drug 155 162	SKI-606
+R6	treat Arg1:TS3421691746 Arg2:TS3521691746	
+R7	treat Arg1:TS1321691746 Arg2:TS3521691746	
+T3	treatedDisease 304 307	CML
+T4	modeadm 608 612	oral
+T5	dosage 662 690	200 , 400 , 600 , and 800 mg
+T6	dosage 703 717	200 and 400 mg
+T7	sideeffect 984 1006	adverse events ( AEs )
+T8	sideeffect 1042 1045	AEs
+T9	dosage 1124 1134	200-600 mg
+T10	dosage 1256 1269	200 to 800 mg
+R1	relation Arg1:TS121691746 Arg2:TS2421691746	
+T11	dosage 1722 1728	200 mg
+T12	dosage 1840 1846	400 mg
+R3	increase_absorption Arg1:TS321691746 Arg2:TS2621691746	
+T13	dosage 1989 1999	200-600 mg
+T14	frequency 2195 2205	once-daily

@@ -1,0 +1,10 @@
+Influence of food on the oral bioavailability of loratadine and pseudoephedrine from extended-release tablets in healthy volunteers .
+The effect of a high-fat breakfast on the bioavailability of the components of an extended-release tablet containing 10 mg loratadine in the immediate-release coating and 240 mg pseudoephedrine sulfate in the extended-release core was studied in 24 healthy male volunteers in a single-dose , two-way crossover study .
+The drug was administered after a 10-hour overnight fast or within 5 minutes of consuming a standardized high-fat breakfast .
+Serial blood samples were collected over a 48-hour period , and plasma was analyzed for loratadine and its active metabolite descarboethoxyloratadine ( DCL ) , and pseudoephedrine .
+For pseudoephedrine , maximum concentration ( Cmax ) and area under the concentration-time curve extrapolated to infinity ( AUCzero-infinity ) were similar after both treatments , indicating no relevant food effect on the bioavailability of pseudoephedrine .
+Also , the absorption profiles of pseudoephedrine ( from Wagner-Nelson analysis ) were similar for the fed and fasted treatments , indicating no apparent differences in absorption .
+Plasma concentration-time profiles and values for Cmax and AUCzero-infinity of DCL were similar for the two treatments , indicating no relevant food effect on the pharmacokinetics of DCL .
+In contrast , for loratadine , administration with food resulted in a significantly increased mean Cmax ( 53% ) and AUC from time zero to the final quantifiable sample ( AUCif ) ( 76% ) .
+However , the resultant Cmax and AUC of loratadine under fed conditions were well below those previously obtained at steady-state after multiple-dose administration of loratadine ( 40 mg  day ) that were shown to be safe and well-tolerated in several clinical studies .
+The effect of food on the bioavailability and pharmacokinetic profiles of the components of a combination pseudoephedrine extended-release tablet is not likely to be clinically significant .

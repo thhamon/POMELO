@@ -1,0 +1,11 @@
+TS520694287	food 0 13	Dietary fiber
+TS320694287	sideeffect 22 33	interaction
+TS720694287	food 73 87	dietary fibers
+TS820694287	food 153 159	fibers
+TS1120694287	drugEffect 238 257	therapeutic effects
+TS920694287	sideeffect 284 299	adverse effects
+TS420694287	sideeffect 343 355	interactions
+TS620694287	food 392 398	fibers
+T1	drug 411 416	drugs
+R1	relation Arg1:TS620694287 Arg2:T1	
+R2	relation Arg1:TS620694287 Arg2:TS420694287	

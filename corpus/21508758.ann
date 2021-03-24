@@ -1,0 +1,10 @@
+TS621508758	drug 0 19	Dietary supplements
+TS721508758	drug 94 113	dietary supplements
+TS521508758	drug 194 205	supplements
+TS321508758	drug 345 363	dietary supplement
+TS821508758	sideeffect 407 424	drug interactions
+TS221508758	drug 506 517	supplements
+TS421508758	drug 712 723	supplements
+T1	sideeffect 390 402	side effects
+R1	has_sideeffect Arg1:TS321508758 Arg2:T1	
+R2	has_sideeffect Arg1:TS321508758 Arg2:TS821508758	

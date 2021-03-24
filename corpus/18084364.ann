@@ -1,0 +1,23 @@
+TS2018084364	food 0 6	[Fruit
+TS1518084364	food 11 18	berries
+TS1918084364	sideeffect 28 41	-interactions
+TS1418084364	food2 57 61	Diet
+TS1718084364	food 142 148	fruits
+TS318084364	food 153 160	berries
+TS1618084364	sideeffect 209 241	affect drug-metabolizing enzymes
+TS418084364	food 244 254	Grapefruit
+TS718084364	food 297 313	Sevillian orange
+TS118084364	food 316 322	pomelo
+TS518084364	food 327 337	star fruit
+R2	relation Arg1:TS518084364 Arg2:T1
+R3	relation Arg1:TS718084364 Arg2:T1
+R4	relation Arg1:TS418084364 Arg2:T1
+TS218084364	sideeffect 518 530	interactions
+TS1818084364	food 549 555	fruits
+TS1218084364	food 557 564	berries
+TS818084364	sideeffect 587 634	nhibition and induction of metabolizing enzymes
+R1	increase_side_effect Arg1:TS318084364 Arg2:TS1618084364	
+R6	increase_side_effect Arg1:TS1718084364 Arg2:TS1618084364	
+T1	sideeffect 358 385	inhibit cytochrome P450 3A4
+R5	relation Arg1:TS1218084364 Arg2:TS818084364	
+R7	relation Arg1:TS1818084364 Arg2:TS818084364	

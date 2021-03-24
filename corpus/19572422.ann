@@ -1,0 +1,35 @@
+TS1219572422	sideeffect 22 34	interactions
+TS419572422	drug 79 98	integrase inhibitor
+TS119572422	treatedDisease 129 144	HIV-1 infection
+TS1719572422	food 332 336	food
+TS1919572422	sideeffect 551 563	interactions
+TS1319572422	drug 602 611	methadone
+TS2819572422	drug 614 637	azole antifungal agents
+TS2119572422	treatedDisease 661 681	erectile dysfunction
+TS2219572422	sideeffect 695 706	interaction
+TS219572422	drug 794 803	tenofovir
+TS1419572422	drug 806 815	efavirenz
+TS2019572422	drug 818 828	atazanavir
+TS1519572422	drug 831 840	ritonavir
+TS1619572422	drug 856 865	ritonavir
+TS1019572422	drug 1000 1022	Proton pump inhibitors
+TS919572422	sideeffect 1032 1060	plasma levels of raltegravir
+TS1119572422	treatedDisease 1277 1293	renal impairment
+TS2419572422	treatedDisease 1314 1330	liver impairment
+TS319572422	treatedDisease 1378 1394	liver impairment
+T1	drug 38 49	raltegravir
+T2	drug 54 65	Raltegravir
+R2	treat Arg1:TS419572422 Arg2:TS119572422	
+R3	treat Arg1:T2 Arg2:TS119572422	
+T3	drug 219 233	antiretroviral
+T4	drug 244 255	Raltegravir
+T5	modeadm 272 278	orally
+T6	dosage 292 298	400 mg
+T7	frequency 299 313	every 12 hours
+T8	sideeffect 424 447;463 489	inhibitor or inducer of cytochrome P450 isoenzymes
+T9	drug 718 739	antiretroviral agents
+T10	drug 750 761	raltegravir
+T11	drug 844 856	tipranavir  
+T12	drug 1049 1060	raltegravir
+R1	has_sideeffect Arg1:TS1019572422 Arg2:TS919572422	
+T13	drug 1185 1196	Raltegravir

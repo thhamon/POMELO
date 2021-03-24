@@ -1,0 +1,37 @@
+TS1522650326	drugEffect 312 358;361 374;379 397	antibacterial activities against Gram-positive Gram-negative atypical pathogens
+TS1022650326	mealTime 1460 1467	fasting
+TS1322650326	mealTime 1574 1577	fed
+TS822650326	mealTime 1865 1872	fasting
+TS622650326	food 1934 1938	food
+TS522650326	sideeffect 2165 2171	nausea
+TS1222650326	sideeffect 2176 2180	rash
+TS222650326	sideeffect 2197 2205	pruritus
+TS1422650326	drug 2665 2676	Nemonoxacin
+TS322650326	food 2789 2793	Food
+TS122650326	drug 2975 2978	AUC
+TS1122650326	drug 3045 3048	AUC
+TS922650326	food 3289 3293	food
+T1	drug 40 51	nemonoxacin
+T2	drug 62 87	non-fluorinated quinolone
+T3	drug 163 174	Nemonoxacin
+T4	drug 185 222	C-8-methoxy non-fluorinated quinolone
+T5	treatedDisease 424 467	methicillin-resistant Staphylococcus aureus
+R1	treat Arg1:T3 Arg2:T5	
+T6	drug 500 511	nemonoxacin
+T7	drug 1217 1228	nemonoxacin
+T8	modeadm 1203 1207	oral
+T9	dosage 1229 1261	125 , 250 , 500 , 750 or 1000 mg
+T10	dosage 1332 1352	250 , 500 and 750 mg
+T11	drug 1358 1369	nemonoxacin
+T12	modeadm 1388 1394	orally
+T13	numbers 1398 1400	12
+T14	modeadm 1532 1538	orally
+T15	dosage 1561 1567	500 mg
+T16	dosage 1683 1696	500 or 750 mg
+T17	drug 1847 1858	nemonoxacin
+T18	drug 2338 2349	Nemonoxacin
+T19	drug 3198 3209	Nemonoxacin
+T20	dosage 3247 3257	250-750 mg
+T21	sideeffect 3283 3295	food effects
+T22	drug 3405 3416	nemonoxacin
+T23	frequency 3459 3469	once-daily

@@ -1,0 +1,21 @@
+The absolute bioavailability and effect of food on the pharmacokinetics of zolmitriptan in healthy volunteers .
+Zolmitriptan ( Zomig ( formerly 311C90 ) ) is a novel 5-HT1B  1D receptor agonist developed for the acute oral treatment of migraine .
+A highly sensitive LCMS-MS assay has been developed which allows quantification of plasma concentrations of zolmitriptan and its active metabolite , 183C91 , after therapeutic doses .
+Two studies using this assay method were conducted to investigate the pharmacokinetics , including absolute bioavailability , of 2.5 and 5 mg oral doses of zolmitriptan in men and women , the dose-proportionality of 2.5 , 5 and 10 mg doses and the effect of food on the pharmacokinetics of a 5 mg oral dose .
+Two randomized , balanced , open-label , 4-period crossover studies were conducted in a total of 32 healthy volunteers .
+The first study determined the absolute bioavailability of 2.5 and 5 mg doses of zolmitriptan and compared the pharmacokinetics in men and women .
+The second study examined the dose-proportionality in pharmacokinetics after fasting doses of 2.5 , 5 and 10 mg , and the effect of food on a 5 mg dose .
+Blood pressure , heart rate , ECG , clinical chemistry , haematology and adverse events were also monitored .
+The mean ( s.d. .
+) absolute oral bioavailability was 0.41 ( 0.14 and 0.40 ) 0.09 after 2.5 mg and 0.48+  -0.14 and 0.36+  -0.07 after 5 mg in women and men , respectively .
+Without adjustment for bodyweight , plasma concentrations of zolmitriptan , but not 183C91 , were higher in women than men .
+Mean ( +  -s .
+d. .
+) AUC was 32.7+  -10.1 and 60.2+  -26.8 ng ml ( -1 ) h after 5 mg in men and women , respectively ( 95% CI for ratio 0.43-0.77 ) .
+After 2.5 mg mean ( +  -s .
+d. .
+) AUC was 18.4+  -5.4 and 23.1+  -9.9 ng ml ( -1 ) h in men and women , respectively ( 95% CI for ratio 0.61-1.09 ) .
+However , these differences were of no clinical significance .
+Cmax and AUC of oral zolmitriptan were dose-proportional and there was a 13 and 16% fall in mean zolmitriptan Cmax and AUC , respectively , when administered after food .
+Adverse effects were minor , predominantly mild and transient , and there were no clinically significant effects on ECG , blood pressure , or laboratory parameters .
+At therapeutic doses zolmitriptan has good oral bioavailability in healthy volunteers and has dose-proportional pharmacokinetics that are not affected by food to any clinically relevant extent .

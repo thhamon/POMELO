@@ -1,0 +1,18 @@
+Effects of grapefruit juice and smoking on verapamil concentrations in steady state .
+Human gut wall cytochrome P ( 450 ) ( CYP ) 3A4 is inhibited by grapefruit juice ( G ) , whereas smoking increases CYP1A2 activity .
+Both enzymes contribute to verapamil biotransformation .
+This study was performed to quantitatively assess the effect of these factors on verapamil pharmacokinetics in steady state .
+Twenty-four young healthy volunteers of both sexes ( 12 smokers , 12 non-smokers ) participated in this randomised crossover study .
+Prolonged release verapamil ( 120 mg , Isoptin KHK ) was given bid for 7 days in two periods .
+During days 5-7 , 1 l of either G or water was coadministered daily .
+On day 7 , concentrations of verapamil and norverapamil enantiomers were determined during one dosing interval , and model independent pharmacokinetic parameters were estimated .
+PR intervals were monitored for pharmacodynamics .
+Statistical evaluation was done essentially using bioequivalence methods .
+G significantly increased ( R , S ) -verapamil the area under the concentration-time curve at steady state ( AUC ( tau , ss ) ) by a mean of 1.45-fold [90% confidence interval ( CI ) 1.29 , 1.63] and peak plasma concentration at steady state ( C ( max , ss ) ) by 1.63-fold ( 90% CI 1.38 , 1.91 ) .
+The increase in concentrations present for ( R ) - and ( S ) -enantiomers was slightly greater for verapamil than for norverapamil .
+Smokers had significantly lower AUC ( tau , ss ) and C ( max , ss ) values than non-smokers by ( means ) 0.61-fold to 0.85-fold for verapamil and norverapamil enantiomers , respectively .
+G effects were unrelated to naringenin pharmacokinetics .
+Prolongation of PR intervals by G coadministration was borderline significant ; an increase above 350 ms occurred in two individuals during the G period .
+Significantly increased urinary 6-beta-hydroxycortisol excretion by G suggests induction of hepatic CYP3A .
+Patients on verapamil treatment should abstain from grapefruit juice .
+Smoking habits should be considered for verapamil dosing .

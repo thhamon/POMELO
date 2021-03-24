@@ -1,0 +1,33 @@
+TS522773284	treatedDisease 188 207	infectious diseases
+TS1222773284	treatedDisease 365 384	infectious diseases
+TS622773284	drug 654 662	antigens
+TS122773284	drug 710 728	aluminum adjuvants
+TS222773284	food 907 911	milk
+TS1022773284	food 927 936	nutrients
+TS2322773284	food 1483 1497	breast-feeding
+T1	drug 39 47	vaccines
+T2	drug 287 295	vaccines
+R1	treat Arg1:T2 Arg2:TS1222773284	
+T3	drug 514 522	vaccines
+T4	drugEffect 538 560	cell-mediated immunity
+T5	drugEffect 565 593	specific antibody production
+R2	has_effect Arg1:T3 Arg2:T4	
+R3	has_effect Arg1:T3 Arg2:T5	
+T6	drug 667 677	excipients
+T7	drug 865 876	vaccination
+T8	drug 999 1007	vaccines
+T9	drug 633 640	vaccine
+T10	drug 1171 1179	vaccines
+T11	drug 1306 1313	vaccine
+T12	food 1245 1259	breast-feeding
+T13	food 0 14	Breast-feeding
+R4	relation Arg1:T13 Arg2:T1	
+T14	food 219 233	breast-feeding
+T15	food 1089 1103	breast-feeding
+T16	sideeffect 1271 1295	altered immune responses
+R5	positive_effect_on_drug Arg1:T12 Arg2:T11	
+R6	relation Arg1:T12 Arg2:T16	
+T17	sideeffect 1391 1403	excitoxicity
+T18	sideeffect 1410 1424	immunotoxicity
+T19	drug 1434 1445	vaccination
+R7	positive_effect_on_drug Arg1:TS2322773284 Arg2:T19	

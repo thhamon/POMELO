@@ -1,0 +1,33 @@
+TS1618484490	drug 76 94	Alendronate sodium
+TS718484490	treatedDisease 174 186	osteoporosis
+TS1418484490	drugEffect 258 273	bioavailability
+TS1518484490	food 292 296	food
+TS618484490	sideeffect 335 350	adverse effects
+TS218484490	sideeffect 359 368	gastritis
+TS118484490	sideeffect 371 384	gastric ulcer
+TS1118484490	sideeffect 391 402	esophagitis
+TS1318484490	drug 1048 1080	polyethylene glycol ( PEG ) 1500
+TS818484490	treatedDisease 1473 1485	osteoporosis
+T1	drug 18 40	( 99m ) Tc-alendronate
+T2	drug 108 122	bisphosphonate
+R1	treat Arg1:TS1618484490 Arg2:TS718484490	
+R2	treat Arg1:T2 Arg2:TS718484490	
+T3	modeadm 210 214	oral
+R3	worsen_drug_effect Arg1:TS1518484490 Arg2:TS1418484490	
+T4	drug 97 100	ALD
+T5	drug 590 593	ALD
+T6	drug 642 652	( 99m ) Tc
+T7	drug 625 639	Technetium-99m
+T8	drug 716 730	( 99m ) Tc-ALD
+T9	drug 858 872	( 99m ) Tc-ALD
+T10	drug 996 1010	( 99m ) Tc-ALD
+T11	drug 1088 1110	( 99m ) Tc-labeled ALD
+T12	modeadm 50 56	rectal
+T13	drug 466 469	ALD
+T14	modeadm 444 450	rectal
+T15	dosage 964 970	rectal
+T16	modeadm 1158 1164	rectal
+T17	drug 1327 1341	( 99m ) Tc-ALD
+T18	modeadm 1306 1312	rectal
+T19	drug 1433 1436	ALD
+R4	treat Arg1:T19 Arg2:TS818484490	

@@ -1,0 +1,29 @@
+TS1811956673	food 11 27	grapefruit juice
+TS211956673	drug 43 52	verapamil
+R1	relation Arg1:TS1811956673 Arg2:TS211956673
+TS2711956673	food 150 166	grapefruit juice
+TS1611956673	drug 246 255	verapamil
+TS1211956673	drug 357 366	verapamil
+TS811956673	drug 553 562	verapamil
+TS1311956673	drug 574 581	Isoptin
+TS1111956673	food 667 672	water
+TS1911956673	drug 729 738	verapamil
+TS511956673	drug 743 755	norverapamil
+TS3611956673	drug 1041 1051	-verapamil
+TS611956673	drug 1403 1412	verapamil
+TS911956673	drug 1422 1434	norverapamil
+TS311956673	drug 1569 1578	verapamil
+TS1711956673	drug 1583 1595	norverapamil
+TS1411956673	drug 1958 1967	verapamil
+TS2211956673	food 1998 2014	grapefruit juice
+TS3411956673	drug 2057 2066	verapamil
+T1	sideeffect 191 216	increases CYP1A2 activity
+T2	sideeffect 101 146	cytochrome P ( 450 ) ( CYP ) 3A4 is inhibited
+R2	increase_side_effect Arg1:TS2711956673 Arg2:T2	
+T3	dosage 565 571	120 mg
+T4	duration 602 612	for 7 days
+T5	frequency 692 697	daily
+T6	drug 1653 1663	naringenin
+T7	sideeffect 1852 1902	increased urinary 6-beta-hydroxycortisol excretion
+T8	sideeffect 1917 1943	induction of hepatic CYP3A
+R3	without_food Arg1:TS2211956673 Arg2:TS1411956673	

@@ -1,0 +1,82 @@
+TS423184666	drug 25 35	anagrelide
+TS5223184666	food 68 76	caffeine
+TS2023184666	food 81 85	food
+TS4223184666	treatedDisease 137 170	Essential thrombocythaemia ( ET )
+TS1823184666	treatedDisease 181 215	clonal myeloproliferative disorder
+TS4123184666	treatedDisease 277 302	megakaryocyte hyperplasia
+TS4623184666	drug 305 315	Anagrelide
+TS3723184666	drug 400 410	Anagrelide
+TS5923184666	food 497 501	food
+TS3223184666	drugEffect 509 524	bioavailability
+TS3823184666	drug 549 559	anagrelide
+R1	relation Arg1:TS5923184666 Arg2:TS3823184666
+TS1023184666	food 713 717	food
+TS1423184666	drug 758 768	anagrelide
+TS5623184666	sideeffect 940 952	palpitations
+TS923184666	food 980 995	caffeine intake
+TS1523184666	drug 1046 1056	anagrelide
+TS2123184666	food 1155 1161	coffee
+R2	relation Arg1:TS1023184666 Arg2:TS1423184666
+TS1123184666	drug 1242 1252	anagrelide
+TS4023184666	mealTime 1270 1273	fed
+TS6323184666	mealTime 1291 1297	fasted
+TS5723184666	drug 1403 1413	anagrelide
+TS4323184666	mealTime 1489 1492	fed
+TS4723184666	food 1494 1502	caffeine
+TS6123184666	mealTime 1507 1513	fasted
+TS4423184666	mealTime 1606 1609	fed
+TS4823184666	food 1611 1619	caffeine
+TS6223184666	mealTime 1624 1630	fasted
+TS1223184666	sideeffect 1686 1694	headache
+TS523184666	sideeffect 1708 1720	palpitations
+TS6023184666	sideeffect 1892 1912	Heart rate increased
+TS3923184666	drug 1919 1929	anagrelide
+TS3323184666	mealTime 1953 1956	fed
+TS123184666	food 1958 1966	caffeine
+TS6423184666	mealTime 1971 1977	fasted
+TS623184666	sideeffect 2016 2036	increased heart rate
+TS3423184666	mealTime 2076 2079	fed
+TS223184666	food 2081 2089	caffeine
+TS6523184666	mealTime 2108 2114	fasted
+TS2823184666	sideeffect 2143 2162	heart rate increase
+TS2223184666	sideeffect 2247 2266	heart rate increase
+TS5523184666	sideeffect 2289 2301	palpitations
+TS323184666	food 2554 2558	food
+TS5423184666	food 2560 2568	caffeine
+TS5023184666	drug 2591 2601	anagrelide
+R5	slow_absorption Arg1:TS5423184666 Arg2:TS5023184666
+TS5823184666	drug 2604 2614	Anagrelide
+TS3523184666	food 2701 2709	Caffeine
+TS2423184666	sideeffect 2740 2762	increase in heart rate
+TS3123184666	sideeffect 2790 2802	palpitations
+TS5123184666	drug 2840 2850	anagrelide
+TS3023184666	food 2856 2860	food
+TS3623184666	food 2862 2870	caffeine
+TS5323184666	mealTime 2878 2885	fasting
+R6	new_side_effect Arg1:TS3523184666 Arg2:TS5123184666
+T1	sideeffect 117 134	adverse reactions
+R7	relation Arg1:TS5223184666 Arg2:TS423184666	
+R8	relation Arg1:TS2023184666 Arg2:TS423184666	
+T2	treatedDisease 344 346	ET
+R9	treat Arg1:TS4623184666 Arg2:T2	
+T3	drugEffect 376 397	reduce platelet count
+T4	drug 630 649	3-hydroxyanagrelide
+T5	food 722 730	caffeine
+R3	relation Arg1:T5 Arg2:TS1423184666	
+T6	drug 797 816	3-hydroxyanagrelide
+R10	relation Arg1:T5 Arg2:T6	
+R11	relation Arg1:TS1023184666 Arg2:T6	
+T7	sideeffect 955 966	ECG changes
+T8	dosage 1038 1042	1 mg
+T9	mealTime 1074 1085	a 10-h fast
+T10	mealTime 1089 1130	within 30 min of a standardized breakfast
+T11	drug 1359 1378	3-hydroxyanagrelide
+T12	drug 1574 1593	3-hydroxyanagrelide
+T13	sideeffect 1658 1680	adverse events ( AEs )
+T14	sideeffect 1806 1831;1834 1844;1849 1860	reductions in PR interval QRS length QT interval
+R4	has_sideeffect Arg1:TS3923184666 Arg2:TS6023184666	
+R12	increase_side_effect Arg1:TS223184666 Arg2:TS623184666	
+R13	increase_side_effect Arg1:TS3423184666 Arg2:TS623184666	
+R14	slow_absorption Arg1:TS323184666 Arg2:TS5023184666	
+R15	increase_side_effect Arg1:TS3523184666 Arg2:TS2423184666	
+R16	increase_side_effect Arg1:TS3523184666 Arg2:TS3123184666	

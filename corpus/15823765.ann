@@ -1,0 +1,46 @@
+TS2015823765	drug 42 51	oxycodone
+TS3015823765	drug 65 74	ibuprofen
+TS3415823765	drug 207 216	analgesic
+TS815823765	drug 272 281	oxycodone
+TS615823765	drug 287 296	ibuprofen
+TS3315823765	treatedDisease 336 346	acute pain
+TS3115823765	drug 486 495	oxycodone
+TS2215823765	drug 499 508	ibuprofen
+TS3915823765	food 732 736	food
+TS4715823765	drug 889 898	oxycodone
+TS1215823765	drug 906 915	ibuprofen
+TS3615823765	mealTime 976 990	overnight fast
+TS4315823765	drug 1208 1217	oxycodone
+TS3715823765	drug 1228 1237	ibuprofen
+TS715823765	mealTime 1261 1275	overnight fast
+TS3815823765	food 1317 1335	high-fat breakfast
+TS2115823765	drug 1564 1573	oxycodone
+TS2915823765	drug 1578 1587	ibuprofen
+TS1115823765	food2 1741 1746	white
+TS4815823765	drug 2034 2043	ibuprofen
+TS515823765	drug 2048 2057	oxycodone
+TS2815823765	food 2129 2133	Food
+TS4515823765	drug 2168 2177	oxycodone
+TS4915823765	mealTime 2214 2220	fasted
+TS215823765	mealTime 2230 2233	fed
+TS5015823765	mealTime 2291 2297	fasted
+TS315823765	mealTime 2307 2310	fed
+TS5115823765	mealTime 2371 2377	fasted
+TS415823765	mealTime 2387 2390	fed
+TS915823765	drug 2411 2420	ibuprofen
+R4	no_effect_on_drug Arg1:TS2815823765 Arg2:TS4515823765
+TS3515823765	drug 2448 2457	oxycodone
+TS2315823765	food 2528 2532	food
+TS5215823765	mealTime 2567 2573	fasted
+TS2715823765	mealTime 2583 2586	fed
+TS115823765	drug 2651 2660	oxycodone
+TS1315823765	drug 2665 2674	ibuprofen
+TS2515823765	food 2809 2813	Food
+TS4615823765	drug 2894 2903	ibuprofen
+TS1815823765	drug 2975 2984	oxycodone
+R7	no_effect_on_drug Arg1:TS2515823765 Arg2:TS4615823765
+T1	dosage 899 903	5 mg
+T2	dosage 916 922	400 mg
+T3	dosage 1218 1222	5 mg
+T4	dosage 1238 1244	400 mg
+R1	speed_up_absorption Arg1:TS2515823765 Arg2:TS1815823765	

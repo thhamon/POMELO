@@ -1,0 +1,10 @@
+Effects of regular consumption of grapefruit juice on the pharmacokinetics of simvastatin .
+Simvastatin , a substrate for CYP3A4 , is extensively metabolized during the first pass .
+Our aim was to investigate the effect of regular consumption of grapefruit juice on the pharmacokinetics of simvastatin .
+In a randomized cross-over study with two phases , 10 healthy volunteers ingested grapefruit juice 200 ml or water ( control ) for 3 days .
+On day 3 , a single 40-mg dose of simvastatin was administered with grapefruit juice 200 ml or water .
+Plasma concentrations of simvastatin and simvastatin acid were determined up to 24 h .
+Grapefruit juice increased the area under the plasma concentration-time curves from 0 to 24 h [AUC ( 0-24 ) ] of simvastatin 3.6-fold ( range 1.8-6.0-fold ; P sentinf 0.01 ) and that of simvastatin acid 3.3-fold ( range 2.1-5.6-fold ; P sentinf 0.01 ) , respectively .
+The peak concentrations ( C ( max ) ) of simvastatin and simvastatin acid were increased 3.9-fold ( range 2.3-9.3-fold ; P sentinf 0.01 ) and 4.3-fold ( range 2.7-7.9-fold ; P sentinf 0.01 ) by grapefruit juice .
+Even one glass of grapefruit juice , taken daily , considerably increases the plasma concentrations of simvastatin and simvastatin acid .
+Grapefruit juice may increase both the cholesterol-lowering effect and the risk of adverse effects of simvastatin .

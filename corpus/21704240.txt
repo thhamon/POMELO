@@ -1,0 +1,20 @@
+Effects of food intake on the pharmacokinetic properties of dalcetrapib: findings from three phase I , single-dose crossover studies in healthy volunteers .
+Preclinical studies have reported that the relative bioavailability of dalcetrapib , a modulator of cholesteryl ester transfer protein ( CETP ) inhibitor activity , was ∼60% higher when administered in the fed state compared with the fasting state .
+This article reports on 3 studies conducted to assess the effects of food intake , timing of administration with respect to meals , and meal size and content on the relative bioavailability of dalcetrapib in healthy male subjects .
+Three Phase I studies were performed in healthy subjects: ( 1 ) a 2-period crossover study of a single dose of dalcetrapib 900 mg administered in the fed and fasting states ( fed versus fasting study [1999] ) ; ( 2 ) a 3-period crossover study of a single dose of dalcetrapib 600 mg administered after a light morning meal , a standard evening meal , and a light evening meal ( meal timing  size study [2005] ) ; and ( 3 ) a 4-period crossover study of a single dose of dalcetrapib 600 mg administered 30 minutes after a high-fat meal or a standard evening meal , and 30 minutes before or 3 hours after the latter ( high-fat meal study [2007] ) .
+Blood samples for pharmacokinetic analyses ( AUC ( 0-36 ) or AUC ( 0-∞ ) , C ( max ) ) were collected up to 36 , 144 , and 96 hours after study drug administration in the fed versus fasting , meal timing  size , and high-fat meal studies , respectively .
+CETP activity was measured using a radioisotopic method in the fed versus fasting study and a fluorometric method in the meal timing  size and high-fat meal studies .
+Tolerability was assessed using monitoring of adverse events , laboratory parameters , vital signs , and ECG .
+Six men were enrolled in the fed versus fasting study ( mean age , 37 years ; mean body mass index [BMI] , 23.6 kg  m ( 2 ) ) .
+Dalcetrapib exposure was increased by 64% ( AUC ( 0-36 ) ) and 126% ( C ( max ) ) after administration in the fed state .
+Eighteen men were enrolled in the analysis of the effects of meal timing and size on the properties of dalcetrapib ( mean age , 30.5 years ; mean BMI , 25.1 kg  m ( 2 ) ) .
+When dalcetrapib was administered after a light morning or a light evening meal , comparable values were found for mean dalcetrapib AUC ( 0-∞ ) ( 7400 and 7860 ngbigasentdoth  mL , respectively ) and C ( max ) ( 589 and 552 ng  mL ) , whereas administration after a standard evening meal was associated with increased AUC ( 0-∞ ) ( 14.3%-14.7% ) and C ( max ) ( 25.5%-35.3% ) .
+Forty-nine men were included in the analysis in the high-fat meal study ( mean age , 32.3 years ; mean BMI , 23.9 kg  m ( 2 ) ) .
+Compared with administration after a standard evening meal , administration after a high-fat evening meal was associated with increased AUC ( 0-∞ ) ( 34.9% ) and C ( max ) ( 43.7% ) .
+Between-treatment differences in exposure within each study also were reflected in apparent differences in CETP activity .
+All treatments were generally well tolerated .
+Dalcetrapib exposure was increased in the fed state and , to a lesser extent , was dependent on the size and fat content of the meal .
+Exposure was independent of dosing time .
+Dalcetrapib was generally well tolerated .
+Copyright bigasentc 2011 Elsevier HS Journals , Inc. .
+All rights reserved .

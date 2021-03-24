@@ -1,0 +1,42 @@
+TS49833595	drugEffect 13 28	bioavailability
+TS219833595	food 43 47	food
+TS279833595	drug 75 87	zolmitriptan
+R1	relation Arg1:TS219833595 Arg2:TS279833595
+TS29833595	drug 112 124	Zolmitriptan
+TS149833595	treatedDisease 236 244	migraine
+TS159833595	drug 355 367	zolmitriptan
+TS289833595	drugEffect 539 554	bioavailability
+TS269833595	drug 587 599	zolmitriptan
+TS299833595	food 689 693	food
+TS109833595	drugEffect 901 916	bioavailability
+TS79833595	drug 942 954	zolmitriptan
+TS259833595	mealTime 1085 1092	fasting
+TS119833595	food 1140 1144	food
+TS39833595	drugEffect 1306 1321	bioavailability
+TS139833595	drug 1507 1519	zolmitriptan
+TS89833595	drug 1957 1969	zolmitriptan
+TS99833595	drug 2033 2045	zolmitriptan
+TS129833595	food 2100 2104	food
+TS209833595	sideeffect 2107 2122	Adverse effects
+TS239833595	drug 2294 2306	zolmitriptan
+TS169833595	drugEffect 2321 2336	bioavailability
+TS249833595	food 2427 2431	food
+T1	drug 166 193	5-HT1B  1D receptor agonist
+T2	modeadm 218 222	oral
+R2	treat Arg1:TS29833595 Arg2:TS149833595	
+R3	treat Arg1:T1 Arg2:TS149833595	
+T3	dosage 920 932	2.5 and 5 mg
+T4	dosage 560 572	2.5 and 5 mg
+T5	modeadm 573 577	oral
+T6	dosage 647 664	2.5 , 5 and 10 mg
+T7	dosage 723 727	5 mg
+T8	modeadm 728 732	oral
+T9	dosage 1102 1119	2.5 , 5 and 10 mg
+T10	dosage 1150 1154	5 mg
+T11	dosage 1360 1366	2.5 mg
+T12	dosage 1407 1411	5 mg
+T13	drug 396 402	183C91
+T14	drug 1530 1536	183C91
+T15	dosage 1728 1734	2.5 mg
+T16	modeadm 1952 1956	oral
+R4	no_effect_on_drug Arg1:TS249833595 Arg2:TS239833595	

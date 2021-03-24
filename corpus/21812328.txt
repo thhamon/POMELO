@@ -1,0 +1,13 @@
+Construction of a model to estimate the CYP3A inhibitory effect of grapefruit juice .
+Grapefruit juice ( GFJ ) is known to affect the pharmacokinetics of a variety of drugs administered concomitantly and this is due to inhibition of intestinal CYP3A , a barrier protein for drug absorption .
+Some compounds such as furanocoumarin derivatives have been reported as inhibitors of the enzyme .
+On the other hand , inhibitory potentials of GFJ on CYP3A- CYP3A-oxidation activities differ widely between brands of juices .
+Information on the percentage contributed by ingredients in GFJ is also limited .
+Therefore , construction of prediction models for the CYP3A inhibitory potentials of GFJ brands was attempted by using concentrations of ingredients in GFJ .
+Concentrations of bergaptol , bergamottin , 6' , 7' -dihydroxybergamottin , naringin , and naringenin in 23 kinds of GFJ were determined with high-performance liquid chromatography ( HPLC ) .
+Furthermore , inhibitory effects on CYP3A activity were measured based on the initial rate for testosterone 6beta-hydroxylation in the presence of each GFJ .
+Results of multi-regression analyses between the ingredients and the enzymatic inhibitory effects revealed that concentrations of bergamottin , 6' , 7' -dihydroxybergamottin , and naringin were significant variables for CYP3A inhibition of GFJ .
+According to the standard partial regression coefficient for each explanatory variable , bergamottin and 6' , 7' -dihydroxybergamottin are the most important factors for inhibition .
+The multiple correlation coefficient ( R ) and the multiple correlation coefficient with leave-one-out cross validation ( Q ) of the model equation were 0.94 and 0.91 , respectively .
+These results suggest that the concentrations of ingredients can explain most variances of inhibitory effects among brands .
+This model may be a useful method for the prediction of the GFJ interaction potential .

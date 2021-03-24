@@ -1,0 +1,6 @@
+Drug-nutrient interactions in transplant recipients .
+Drug-nutrient interaction refers to an alteration of kinetics or dynamics of a drug or a nutritional element , or a compromise in nutritional status as a result of the addition of a drug .
+The potentials for drug-nutrient interaction increase with the number of drugs taken by the patient .
+Organ transplant recipients are therefore at high risk for drug-nutrient interactions because multiple medications are used to manage graft rejection , opportunistic infections , and other associated complications .
+Unrecognized or unmanaged drug-nutrient interactions in this patient population can have an adverse impact on their outcomes .
+This paper reviews the importance of recognizing drug-nutrient interaction when using cyclosporine- cyclosporine-based regimens .

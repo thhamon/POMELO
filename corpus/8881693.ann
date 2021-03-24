@@ -1,0 +1,4 @@
+TS38881693	food 0 11	Celery soup
+TS18881693	sideeffect 27 40	phototoxicity
+T1	drug 48 60	PUVA therapy
+R1	increase_side_effect Arg1:TS38881693 Arg2:TS18881693	

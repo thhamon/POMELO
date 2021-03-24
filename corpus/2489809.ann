@@ -1,0 +1,46 @@
+TS392489809	sideeffect 25 38	aspirin ulcer
+TS432489809	sideeffect 74 91	drug interactions
+TS62489809	sideeffect 127 149	food-drug interactions
+TS152489809	sideeffect 200 216	arteriosclerosis
+TS182489809	sideeffect 219 226	obesity
+TS372489809	sideeffect 229 246	diabetes mellitus
+TS82489809	sideeffect 249 272	toxicity to blood cells
+TS222489809	sideeffect 275 288	dental caries
+TS412489809	drug 432 455	anti-inflammatory drugs
+TS132489809	drug 626 633	aspirin
+TS272489809	sideeffect 636 649	aspirin ulcer
+TS12489809	food 959 964	water
+TS342489809	food 1077 1082	water
+TS72489809	drug 1242 1249	Aspirin
+TS192489809	drug 1542 1549	Aspirin
+TS102489809	drug 1554 1568	salicylic acid
+TS242489809	food2 1589 1594	juice
+TS322489809	food 1650 1657	stomach
+TS202489809	drug 1849 1856	aspirin
+TS162489809	drug 1951 1958	aspirin
+TS172489809	drug 2076 2083	aspirin
+TS212489809	drug 2235 2242	Aspirin
+TS312489809	drug 2387 2394	aspirin
+TS232489809	drug 2447 2467	10% neutral formalin
+TS262489809	sideeffect 2544 2549	Ulcer
+T1	food 14 21	sucrose
+T2	food 169 176	sucrose
+R2	increase_side_effect Arg1:T2 Arg2:TS152489809	
+R3	increase_side_effect Arg1:T2 Arg2:TS182489809	
+R4	increase_side_effect Arg1:T2 Arg2:TS372489809	
+R5	increase_side_effect Arg1:T2 Arg2:TS82489809	
+R6	increase_side_effect Arg1:T2 Arg2:TS222489809	
+T3	sideeffect 295 339	accumulations of metabolic products in blood
+R7	increase_side_effect Arg1:T2 Arg2:T3	
+T4	sideeffect 468 490	severe gastric lesions
+R8	has_sideeffect Arg1:TS412489809 Arg2:T4	
+T5	sideeffect 599 614	gastric lesions
+R9	has_sideeffect Arg1:TS132489809 Arg2:T5	
+R10	has_sideeffect Arg1:TS132489809 Arg2:TS272489809	
+T6	food 676 696	10% sucrose solution
+T7	food 720 727	sucrose
+T8	food 848 868	10% sucrose solution
+T9	dosage 1262 1271	100mg  kg
+T10	dosage 1884 1894	300 mg  kg
+T11	dosage 1976 1986	300 mg  kg
+T12	dosage 2305 2315	300 mg  kg

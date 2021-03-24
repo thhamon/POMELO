@@ -1,0 +1,8 @@
+Influence of food intake and formulation on the pharmacokinetics and metabolism of bosentan , a dual endothelin receptor antagonist .
+The purpose of the study was to investigate the effect of food intake on the pharmacokinetics and metabolism as well as the relative bioavailability of bosentan .
+Sixteen healthy male subjects were treated in a randomized , four-way , crossover design with single oral doses of 125 mg bosentan , given as one tablet ( with or without food ) , two tablets of 62.5 mg ( with food ) , and a suspension ( without food ) .
+The pharmacokinetic parameters of bosentan ( and also three of its metabolites ) were very similar after the four treatments: geometric means for Cmax and AUC0-infinity , ranged from 1.3 to 1.6 microg  ml and from 7.8 to 8.9 microg x h  ml , respectively , and median t ( max ) from 3.0 to 4.0 hours .
+The bioavailability of the 125 mg tablet relative to that of the suspension , both given fasted , was 102%. .
+In the presence of food , Cmax and AUC0-max increased by 22% and 10% , respectively , whereas the two 62.5 mg tablets were bioequivalent to the 125mg tablet , both under fed conditions .
+The pharmacokinetics of the metabolites was independent of the treatment administered .
+In conclusion , bosentan bioavailability from the newly developed 125 mg tablet formulation is similar to that of the suspension , and food intake does not influence its pharmacokinetics to a clinically relevant extent .

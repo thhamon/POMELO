@@ -1,0 +1,34 @@
+TS5419014838	drug 56 70	clarithromycin
+TS4019014838	mealTime 109 116	fasting
+TS1119014838	mealTime 121 124	fed
+TS5919014838	drug 255 269	Clarithromycin
+TS4919014838	treatedDisease 342 367	acute maxillary sinusitis
+TS1219014838	treatedDisease 457 527	acute bacterial exacerbation of chronic bronchitis due to H influenzae
+TS5219014838	drug 839 853	clarithromycin
+TS1319014838	mealTime 892 899	fasting
+TS519014838	mealTime 904 907	fed
+TS3419014838	mealTime 1084 1091	fasting
+TS4419014838	mealTime 1096 1099	fed
+TS619014838	drug 1267 1281	Clarithromycin
+TS1819014838	drug 1450 1464	clarithromycin
+TS4519014838	mealTime 1828 1835	fasting
+TS2919014838	mealTime 1840 1843	fed
+TS3019014838	mealTime 1891 1898	fasting
+TS2019014838	mealTime 1903 1906	fed
+TS2619014838	mealTime 2043 2050	fasting
+TS4219014838	mealTime 2487 2490	fed
+TS4119014838	mealTime 2587 2594	fasting
+TS3519014838	mealTime 3219 3226	fasting
+TS719014838	mealTime 3231 3234	fed
+TS5619014838	drug 3304 3318	clarithromycin
+TS4819014838	food 3475 3479	food
+T1	modeadm 71 87	extended-release
+T2	dosage 88 94	500-mg
+T3	modeadm 270 286	extended-release
+R3	treat Arg1:TS5919014838 Arg2:TS4919014838	
+R7	treat Arg1:TS5919014838 Arg2:TS1219014838	
+T4	modeadm 854 870	extended-release
+T5	dosage 871 877	500-mg
+T6	modeadm 3319 3335	extended-release
+T7	dosage 3336 3342	500-mg
+R1	increase_absorption Arg1:TS4819014838 Arg2:TS5619014838	

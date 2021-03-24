@@ -1,0 +1,33 @@
+TS1810890261	food 15 31	grapefruit juice
+TS2310890261	drug 35 45	sertraline
+R1	relation Arg1:TS1810890261 Arg2:TS2310890261
+TS1210890261	food 101 117	Grapefruit juice
+TS210890261	food 241 257	grapefruit juice
+TS1410890261	drug 261 271	sertraline
+R3	relation Arg1:TS210890261 Arg2:TS1410890261
+TS2010890261	drug 325 335	sertraline
+TS4110890261	drug 526 536	sertraline
+TS2810890261	drug 541 560	desmethylsertraline
+TS4210890261	drug 615 625	sertraline
+TS4310890261	drug 682 692	sertraline
+TS1110890261	food 698 714	grapefruit juice
+TS2610890261	food 765 781	grapefruit juice
+TS3510890261	drug 809 828	desmethylsertraline
+R5	negative_effect_on_drug Arg1:TS2610890261 Arg2:TS3510890261
+TS710890261	drug 892 902	sertraline
+TS1910890261	drug 1089 1099	sertraline
+TS2710890261	drug 1242 1252	sertraline
+TS2110890261	food 1388 1404	grapefruit juice
+TS610890261	food 1449 1465	grapefruit juice
+TS3210890261	drug 1496 1506	sertraline
+R6	slow_elimination Arg1:TS610890261 Arg2:TS3210890261
+T1	sideeffect 124 157	inhibitor of cytochrome P-450 3A4
+R7	increase_side_effect Arg1:TS1210890261 Arg2:T1	
+T2	numbers 564 565	5
+T3	dosage 601 611	usual dose
+T4	duration 642 649	6 weeks
+T5	duration 719 725	1 week
+T6	numbers 929 930	5
+T7	treatedDisease 958 968	depression
+T8	dosage 1111 1116	55 mg
+R2	slow_elimination Arg1:TS2110890261 Arg2:TS2710890261	

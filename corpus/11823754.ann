@@ -1,0 +1,33 @@
+TS1711823754	food 11 27	grapefruit juice
+TS4011823754	drug 55 65	sildenafil
+R1	relation Arg1:TS1711823754 Arg2:TS4011823754
+TS1311823754	drugEffect 118 133	bioavailability
+TS2511823754	drug 137 147	sildenafil
+TS4611823754	food 344 360	grapefruit juice
+TS4111823754	drug 435 445	sildenafil
+TS4511823754	drug 573 583	sildenafil
+TS2711823754	food 611 627	grapefruit juice
+TS311823754	food 631 636	water
+TS1411823754	drug 740 750	sildenafil
+TS3711823754	food 917 933	Grapefruit juice
+TS4211823754	drug 961 971	sildenafil
+TS3111823754	drug 1230 1252	N-Desmethyl sildenafil
+TS3411823754	drug 1376 1386	sildenafil
+TS2611823754	food 1515 1531	grapefruit juice
+TS3911823754	food 1745 1761	Grapefruit juice
+TS611823754	drug 1772 1782	sildenafil
+TS2211823754	drugEffect 1783 1798	bioavailability
+TS711823754	drug 1818 1828	sildenafil
+R5	slow_elimination Arg1:TS3911823754 Arg2:TS611823754
+TS4311823754	drug 1842 1852	Sildenafil
+TS1911823754	food 1903 1919	grapefruit juice
+TS811823754	food 1993 2009	grapefruit juice
+T1	drug 206 228	N -desmethylsildenafil
+T2	drug 450 472	N -desmethylsildenafil
+T3	drug 374 405	inhibitors of intestinal CYP3A4
+T4	dosage 558 563	50-mg
+T5	drug 755 777	N -desmethylsildenafil
+T6	duration 800 808	24 hours
+T7	drug 1391 1413	N -desmethylsildenafil
+R2	relation Arg1:TS1911823754 Arg2:TS4311823754	
+R3	slow_absorption Arg1:TS3911823754 Arg2:TS711823754	

@@ -1,0 +1,21 @@
+Population pharmacokinetics and pharmacodynamics of garenoxacin in patients with community-acquired respiratory tract infections .
+Garenoxacin ( T-3811ME , BMS-284756 ) is a novel , broad-spectrum des- des-F ( 6 ) quinolone currently under study for the treatment of community-acquired respiratory tract infections .
+This analysis assessed garenoxacin population pharmacokinetics and exposure-response relationships for safety ( adverse effects [AE] ) and antimicrobial activity ( clinical cure and bacteriologic eradication of Streptococcus pneumoniae and the grouping of Haemophilus influenzae , Haemophilus parainfluenzae , and Moraxella catarrhalis ) .
+Data were obtained from three phase II clinical trials of garenoxacin administered orally as 400 mg once daily for 5 to 10 days for the treatment of community-acquired pneumonia , acute exacerbation of chronic bronchitis , and sinusitis .
+Samples were taken from each patient before drug administration , 2 h following administration of the first dose , and on the day 3 to 5 visit .
+Individual Bayesian estimates of the fu ( fraction unbound ) , the Cmax , and the fu for the area under the concentration-time curve from 0 to 24 h ( fu AUC ( 0-24 ) ) were calculated as measurements of drug exposure by using an ex vivo assessment of average protein binding .
+Regression analysis was performed to examine the following relationships: treatment-emergent AE incidence and AUC ( 0-24 ) , Cmax , or patient factors ; clinical response or bacterial eradication and drug exposure ( fu Cmax  MIC , fu AUC ( 0-24 )  MIC , and other exposure covariates ) ; or disease and patient factors .
+Garenoxacin pharmacokinetics were described by a one-compartment model with first-order absorption and elimination .
+Clearance was dependent on creatinine clearance , ideal body weight , age , obesity , and concomitant use of pseudoephedrine .
+The volume of distribution was dependent on weight and gender .
+Patients with mild or moderate renal dysfunction had , on average , approximately a 16 or 26% decrease in clearance , respectively , compared to patients of the same gender and obesity classification with normal renal function .
+AE occurrence was not related to garenoxacin exposure .
+Overall , clinical cure and bacterial eradication rates were 91 and 90% , respectively , for S. .
+pneumoniae and 93 and 92% , respectively , for the grouping of H. .
+influenzae , H. .
+parainfluenzae , and M. .
+catarrhalis .
+The fu AUC ( 0-24 )  MIC ratios were high ( sentsup90% were sentsup200 ) , and none of the pharmacokinetic-pharmacodynamic exposure measurements indexed to the MIC or other factors were significant predictors of clinical or bacteriologic response .
+Garenoxacin clearance was primarily related to creatinine clearance and ideal body weight .
+Although garenoxacin exposure was approximately 25% higher for patients with moderate renal dysfunction , this increase does not appear to be clinically significant as exposures in this patient population were not significant predictors of AE occurrence .
+Garenoxacin exposures were at the upper end of the exposure-response curves for measurements of antimicrobial activity , suggesting that 400 mg of garenoxacin once daily is a safe and adequate dose for the treatment of the specified community-acquired respiratory tract infections .

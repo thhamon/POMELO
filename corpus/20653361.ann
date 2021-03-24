@@ -1,0 +1,47 @@
+TS1720653361	sideeffect 23 40	food interactions
+TS6720653361	drug 46 69	azole antifungal agents
+TS6520653361	drug 97 120	Azole antifungal agents
+TS2820653361	treatedDisease 237 263	invasive fungal infections
+TS720653361	drug 401 418	azole antifungals
+TS5920653361	sideeffect 537 554	drug interactions
+TS4220653361	drug 579 596	azole antifungals
+TS320653361	sideeffect 728 744	drug interaction
+TS6620653361	drug 767 790	azole antifungal agents
+TS3020653361	drug 791 802	fluconazole
+TS3320653361	drug 805 817	itraconazole
+TS220653361	drug 915 933	immunosuppressants
+TS3920653361	drug 934 946	cyclosporine
+TS120653361	drug 949 959	tacrolimus
+TS4520653361	drug 966 975	sirolimus
+TS3520653361	drug 993 1008	corticosteroids
+TS4720653361	drug 1009 1027	methylprednisolone
+TS5120653361	drug 1030 1043	dexamethasone
+TS420653361	drug 1046 1058	prednisolone
+TS5420653361	drug 1065 1075	prednisone
+TS5820653361	drug 1140 1164	immunosuppressive agents
+TS6120653361	sideeffect 1198 1215	drug interactions
+TS3720653361	sideeffect 1229 1254	extreme immunosuppression
+TS1420653361	sideeffect 1258 1266	toxicity
+TS2620653361	sideeffect 1302 1313	interaction
+TS4020653361	drug 1333 1351	immunosuppressants
+TS6420653361	sideeffect 1473 1490	Drug interactions
+TS2420653361	drug 1563 1574	antibiotics
+TS1620653361	drug 1679 1695	azole antifungal
+TS5020653361	sideeffect 1748 1764	drug interaction
+TS1820653361	sideeffect 1824 1836	interactions
+TS5620653361	sideeffect 1879 1895	drug interaction
+TS5720653361	sideeffect 2044 2060	drug interaction
+TS4920653361	drug 2074 2096	immunosuppressive drug
+TS920653361	sideeffect 2136 2144	toxicity
+TS3820653361	sideeffect 2166 2182	drug interaction
+TS2920653361	drug 2238 2243;2255 2273	azole antifungal therapy
+T1	drug 820 832	voriconazole
+T2	drug 839 851	posaconazole
+T3	drug 900 906	azoles
+R2	has_sideeffect Arg1:TS5820653361 Arg2:TS3720653361	
+R3	has_sideeffect Arg1:TS5820653361 Arg2:TS1420653361	
+T4	drug 1322 1328	azoles
+T5	drug 1381 1387	azoles
+T6	drug 1529 1534	azole
+T7	drug 1577 1600	chemotherapeutic agents
+T8	drug 1613 1639	acid-suppressive therapies

@@ -1,0 +1,30 @@
+TS922648492	drug 4 18	anticoagulants
+TS2322648492	drug 45 74	Low molecular weight heparins
+TS1522648492	drug 89 110	vitamin K antagonists
+TS1122648492	treatedDisease 164 186	venous thromboembolism
+TS1922648492	drug 312 331	anticoagulant drugs
+TS422648492	food 395 399	food
+TS2022648492	sideeffect 395 399;404 421	food drug interactions
+TS622648492	drug 582 593	rivaroxaban
+TS322648492	drug 597 605	apixaban
+TS1422648492	drug 728 739	rivaroxaban
+TS1022648492	drug 891 899	antidote
+TS1822648492	drug 965 984	anticoagulant drugs
+TS1222648492	drug 1154 1169	anticoagulation
+TS1322648492	drug 1215 1230	anticoagulation
+T1	treatedDisease 39 42	VTE
+R3	treat Arg1:TS922648492 Arg2:T1	
+T2	drug 77 82	LMWHs
+T3	treatedDisease 189 192	VTE
+R4	treat Arg1:TS1522648492 Arg2:TS1122648492	
+R5	treat Arg1:TS2322648492 Arg2:TS1122648492	
+T4	drug 640 644	LMWH
+T5	drug 658 668	dabigatran
+T6	drug 672 680	edoxaban
+T7	drug 744 754	dabigatran
+T8	treatedDisease 814 817	VTE
+R1	treat Arg1:T7 Arg2:T8	
+R2	treat Arg1:TS1422648492 Arg2:T8	
+T9	treatedDisease 1086 1089	VTE
+T10	treatedDisease 1234 1237	VTE
+R6	treat Arg1:TS1322648492 Arg2:T10	

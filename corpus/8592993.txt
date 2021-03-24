@@ -1,0 +1,16 @@
+Single- and multiple-dose pharmacokinetics of AM-1155 , a new 6-fluoro-8-methoxy quinolone , in humans .
+The pharmacokinetics of AM-1155 , a new 6-fluoro-8-methoxy quinolone , was examined in healthy male volunteers after the oral administration of a single dose of 100 , 200 , 400 , or 600 mg and multiple doses of 300 mg twice daily for 6.5 days ( 13 total doses ) .
+Throughout the whole study period , AM-1155 was well tolerated in every subject .
+In the single-dose study , the concentrations in serum reached a peak between 1 and 2 h , and the peak concentrations were 0.873 , 1.71 , 3.35 , and 5.41 micrograms  ml at the doses of 100 , 200 , 400 , and 600 mg , respectively .
+The elimination half-life was 7 to 8 h , independently of the doses .
+The unchanged drug was excreted mainly in the urine , with 82 to 88% of the doses appearing for 72 h .
+The fecal recovery of the unchanged drug amounted to 5.7% for 72 h after a single oral administration of a 400-mg dose .
+Urinary excretion of metabolites was minimal .
+The serum protein binding was 20% , independently of the concentrations in serum .
+The concentrations in saliva were approximately 80% of those in serum .
+The intake of food had no effect on the pharmacokinetic parameters and urinary excretion of AM-1155 except the slight decrease in area under the concentration-time curve .
+The concurrent administration of probenecid prolonged the elimination half-life , increased the area under the concentration-time curve , and decreased the apparent total body clearance , renal clearance , urinary recovery of unchanged drug , and the excretion ratio ( intrinsic renal clearance of AM-1155  creatinine clearance ) .
+This indicated that the tubular secretion contributed to the renal excretion of AM-1155. .
+In the multiple-dose study , the concentrations of AM-1155 in serum and urine reached a steady state within 2 to 3 days .
+The measured concentrations in serum fitted well the simulation curve , which reflected the persistence of linear pharmacokinetics of AM-1155. .
+In conclusion , AM-1155 is expected to be clinically useful because of its potent antibacterial activity and favorable pharmacokinetics .

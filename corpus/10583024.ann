@@ -1,0 +1,33 @@
+TS710583024	drug 56 67	risedronate
+TS1310583024	drug 107 118	risedronate
+TS2510583024	food 136 140	food
+TS1410583024	drug 174 185	risedronate
+TS1710583024	drug 494 505	risedronate
+TS2810583024	mealTime 520 565	fasted for 10 h prior to and 4 h after dosing
+TS2910583024	mealTime 568 574	fasted
+TS3010583024	mealTime 605 620	fasted for 10 h
+TS510583024	food 674 692	high-fat breakfast
+TS2310583024	mealTime 683 692	breakfast
+TS1610583024	food 721 744	after a standard dinner
+TS310583024	drug 881 892	risedronate
+TS1010583024	drug 962 973	risedronate
+TS2210583024	mealTime 1043 1059	2 h after dinner
+TS2010583024	mealTime 1064 1086	0.5 h before breakfast
+TS1110583024	drug 1158 1169	risedronate
+TS1210583024	mealTime 1180 1204	1 or 4 h prior to a meal
+R2	relation Arg1:TS2010583024 Arg2:TS1110583024
+R3	relation Arg1:TS2210583024 Arg2:TS1110583024
+TS210583024	mealTime 1251 1283	0.5 , 1 , or 4 h prior to a meal
+TS410583024	mealTime 1417 1433	2 h after dinner
+TS810583024	drug 1461 1472	risedronate
+TS2110583024	mealTime 1509 1533	0.5-1 h before breakfast
+TS2610583024	mealTime 1537 1562	2 h after an evening meal
+TS910583024	drug 1603 1614	risedronate
+R4	relation Arg1:TS2110583024 Arg2:TS910583024
+TS2410583024	drug 1719 1730	risedronate
+T1	modeadm 221 225	oral
+T2	dosage 488 493	30 mg
+R1	relation Arg1:TS2510583024 Arg2:TS1410583024	
+T3	mealTime 738 744	dinner
+R5	increase_absorption Arg1:TS1210583024 Arg2:TS1110583024	
+R6	relation Arg1:TS2610583024 Arg2:TS910583024	

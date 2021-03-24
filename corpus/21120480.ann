@@ -1,0 +1,39 @@
+TS521120480	treatedDisease 65 78	solid tumours
+TS221120480	food 102 106	food
+TS121120480	food 314 318	food
+TS321120480	food3 596 599	fed
+TS1221120480	food3 601 607	fasted
+TS1321120480	food3 611 617	fasted
+TS421120480	food3 619 622	fed
+TS1121120480	food 741 744	arm
+TS621120480	drug 871 874	AUC
+TS821120480	food 932 936	food
+TS721120480	drug 986 989	AUC
+TS921120480	food 1037 1041	food
+R1	relation Arg1:TS821120480 Arg2:TS721120480
+TS1021120480	food 1410 1414	food
+T1	drug 29 38	cediranib
+T2	frequency 110 121	single-dose
+T3	drug 209 218	Cediranib
+T4	drug 221 229	RECENTIN
+T5	modeadm 239 243	oral
+T6	drug 260 274	VEGF inhibitor
+T7	food 312 316	food
+T8	drug 344 353	cediranib
+T9	drug 574 583	cediranib
+T10	mealTime 594 599	fed  
+T11	mealTime 599 605	fasted
+T12	drug 890 899	cediranib
+T13	food 1035 1039	food
+T14	drug 1048 1057	cediranib
+R2	decrease_absorption Arg1:T13 Arg2:T14	
+T15	drug 1088 1097	cediranib
+T16	dosage 1098 1103	30 mg
+T17	drug 1177 1186	cediranib
+T18	drugEffect 1225 1245	antivascular effects
+R3	has_effect Arg1:T17 Arg2:T18	
+T19	duration 1246 1260	up to 16 weeks
+T20	mealTime 1384 1412	1 h before or 2 h after food
+T21	drug 1349 1358	cediranib
+R4	without_food Arg1:T20 Arg2:T21	
+T22	drugEffect 1427 1446	antitumour activity

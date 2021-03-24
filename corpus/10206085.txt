@@ -1,0 +1,10 @@
+Systemic exposure to rosiglitazone is unaltered by food .
+To evaluate the effect of food on the bioavailability and pharmacokinetics of the insulin sensitizer rosiglitazone .
+In a randomized , open-label , period-balanced , single-dose , crossover study , rosiglitazone 2 mg was administered to 12 healthy male volunteers either in the fasting state or following a standard high-fat breakfast .
+The primary end points of the study were AUC ( 0-inf ) and Cmax .
+Single oral doses of rosiglitazone were safe and well tolerated .
+Overall exposure to rosiglitazone was unaffected by food .
+The geometric mean ratio of AUC ( 0-inf ) in the fed: fed:fasted regimens was 0.94 ( 95% CI: 0.82 , 1.06 ) ; t1  2 was unaffected .
+Absorption of rosiglitazone in the fed state was more gradual and sustained than in the fasted state .
+Cmax was reduced by approximately 20% ( point estimate 0.80 ; 95% CI 0.65 to 0.97 ) and tmax was modestly delayed in the fed state .
+These data support dosing guidelines that will permit the administration of rosiglitazone without regard to meals for treatment of type 2 diabetes mellitus .

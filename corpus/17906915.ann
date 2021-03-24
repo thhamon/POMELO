@@ -1,0 +1,47 @@
+TS1217906915	foodSupplement 0 19	Dietary supplements
+TS3317906915	food 22 27	herbs
+TS2117906915	drug 37 51	anticoagulants
+R1	relation Arg1:TS3317906915 Arg2:TS2117906915
+TS917906915	foodSupplement 120 139	dietary supplements
+TS3617906915	food 152 160	vitamins
+TS317906915	food 163 171	minerals
+TS2317906915	food 174 185	amino acids
+TS4517906915	food 192 207	herbal products
+TS217906915	sideeffect 338 353	adverse effects
+TS117906915	sideeffect 394 406	interactions
+TS2517906915	drug 449 457	warfarin
+TS1317906915	sideeffect 484 496	interactions
+TS3917906915	foodSupplement 502 521	dietary supplements
+TS617906915	food 550 556	herbal
+TS4017906915	foodSupplement 576 587	supplements
+TS2017906915	sideeffect 675 706	dietary supplement interactions
+TS4317906915	sideeffect 797 814	drug interactions
+TS717906915	drug 823 831	warfarin
+TS1817906915	foodSupplement 836 855	dietary supplements
+TS1617906915	sideeffect 970 986	Drug Interaction
+TS1917906915	sideeffect 1046 1062	drug interaction
+TS517906915	sideeffect 1170 1181	interaction
+TS4617906915	food 1242 1257	cranberry-juice
+TS2717906915	drug 1259 1267	warfarin
+TS2917906915	sideeffect 1268 1279	interaction
+TS1117906915	sideeffect 1426 1438	interactions
+TS3517906915	drug 1449 1457	warfarin
+TS1717906915	foodSupplement 1462 1481	dietary supplements
+TS3017906915	sideeffect 1498 1524	anticoagulant interactions
+TS2617906915	foodSupplement 1530 1549	dietary supplements
+TS4717906915	sideeffect 1742 1759	drug interactions
+TS1517906915	drug 1768 1782	anticoagulants
+TS1017906915	foodSupplement 1787 1806	dietary supplements
+TS3817906915	sideeffect 1825 1837	interactions
+TS817906915	sideeffect 1949 1965	Drug Interaction
+T1	modeadm 32 36	oral
+R4	relation Arg1:TS1217906915 Arg2:TS2117906915	
+R2	relation Arg1:TS1817906915 Arg2:TS717906915	
+R3	has_sideeffect Arg1:TS1817906915 Arg2:TS4317906915	
+R5	relation Arg1:TS4617906915 Arg2:TS2717906915	
+R6	increase_side_effect Arg1:TS4617906915 Arg2:TS2917906915	
+R7	relation Arg1:TS1717906915 Arg2:TS3517906915	
+R8	has_sideeffect Arg1:TS1717906915 Arg2:TS1117906915	
+R9	has_sideeffect Arg1:TS2617906915 Arg2:TS3017906915	
+R10	relation Arg1:TS1017906915 Arg2:TS1517906915	
+R11	has_sideeffect Arg1:TS1017906915 Arg2:TS4717906915	

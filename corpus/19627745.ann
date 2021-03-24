@@ -1,0 +1,13 @@
+TS1919627745	sideeffect 0 18	[Food intolerance]
+TS1419627745	sideeffect 43 57	food reactions
+TS219627745	food 146 160	food allergens
+TS1619627745	sideeffect 418 432	food allergies
+TS1119627745	sideeffect 482 498	food intolerance
+TS1219627745	sideeffect 563 579	food intolerance
+TS1019627745	food 611 615	food
+TS119627745	sideeffect 657 673	food intolerance
+TS819627745	sideeffect 718 737	lactose intolerance
+T1	sideeffect 151 160	allergens
+T2	sideeffect 378 397	non-toxic reactions
+R1	relation Arg1:TS1019627745 Arg2:TS1219627745	
+T3	drug 676 695	beta-galactosidases

@@ -1,0 +1,56 @@
+TS4317322161	sideeffect 0 11	Interaction
+TS4917322161	food 30 45	cranberry juice
+TS2217322161	drug 50 58	warfarin
+R1	relation Arg1:TS4917322161 Arg2:TS2217322161
+TS3117322161	sideeffect 65 76	interaction
+TS2617322161	drug 95 103	warfarin
+TS5017322161	food 108 123	cranberry juice
+TS1117322161	sideeffect 200 211	interaction
+TS1217322161	food 230 245	cranberry juice
+TS4217322161	drug 250 258	warfarin
+R2	relation Arg1:TS1217322161 Arg2:TS4217322161
+TS5117322161	drug 261 269	Warfarin
+TS3817322161	drug 322 337	anticoagulation
+TS217322161	food 348 363	Cranberry juice
+TS117322161	drug 369 378	flavonoid
+R3	relation Arg1:TS217322161 Arg2:TS117322161
+TS5517322161	food 531 546	cranberry juice
+TS5617322161	sideeffect 551 581	inhibit the activity of CYP2C9
+TS5917322161	drug 636 646	S-warfarin
+R4	relation Arg1:TS5517322161 Arg2:TS5617322161
+TS2817322161	drug 844 852	warfarin
+TS4517322161	drug 855 867	flurbiprofen
+TS1817322161	drug 872 884	cyclosporine
+TS2717322161	sideeffect 911 923	interactions
+TS2517322161	food 932 947	cranberry juice
+TS2917322161	drug 952 960	warfarin
+R5	relation Arg1:TS2517322161 Arg2:TS2917322161
+TS717322161	food 995 1010	cranberry juice
+TS617322161	drug 1083 1091	warfarin
+TS817322161	food 1125 1140	cranberry juice
+R6	relation Arg1:TS717322161 Arg2:TS617322161
+TS4117322161	food 1248 1263	cranberry juice
+TS4717322161	drug 1268 1276	warfarin
+R7	relation Arg1:TS4117322161 Arg2:TS4717322161
+TS2117322161	sideeffect 1336 1347	interaction
+TS5417322161	food 1356 1371	cranberry juice
+TS5817322161	drug 1435 1443	warfarin
+R8	relation Arg1:TS5417322161 Arg2:TS5817322161
+TS1717322161	sideeffect 1510 1521	interaction
+TS917322161	food 1530 1545	cranberry juice
+TS2317322161	drug 1550 1558	warfarin
+R9	relation Arg1:TS917322161 Arg2:TS2317322161
+TS1517322161	sideeffect 1622 1633	interaction
+TS3617322161	food 1642 1657	cranberry juice
+TS3417322161	drug 1662 1670	warfarin
+TS3517322161	drug 1699 1707	warfarin
+TS3717322161	food 1713 1728	cranberry juice
+TS1617322161	sideeffect 1769 1780	interaction
+TS2417322161	sideeffect 1845 1853	bleeding
+R10	relation Arg1:TS3617322161 Arg2:TS3417322161
+T1	modeadm 302 306	oral
+T2	sideeffect 1011 1063	increased the International Normalized Ratio ( INR )
+R11	increase_side_effect Arg1:TS717322161 Arg2:T2	
+T3	sideeffect 1807 1818	INR changes
+R12	has_sideeffect Arg1:TS3517322161 Arg2:T3	
+R13	has_sideeffect Arg1:TS3517322161 Arg2:TS2417322161	

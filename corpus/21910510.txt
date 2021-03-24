@@ -1,0 +1,20 @@
+Safety , tolerability , pharmacokinetics , and pharmacodynamics of fimasartan following single and repeated oral administration in the fasted and fed states in healthy subjects .
+Fimasartan ( BR-A-657 ) is a novel , non-peptide angiotensin II receptor antagonist with a selective type I receptor blockade effect .
+Two first-in-human studies investigated the safety , tolerability , pharmacokinetics ( PK ) , and pharmacodynamics ( PD ) of fimasartan .
+Fasted single oral tablet doses of fimasartan 20-480 mg or placebo were administered to 40 healthy male subjects ( aged 19-54 years ) in a double-blind , randomized , sequential-group design .
+Subjects receiving fimasartan 240 mg also received the same treatment in the fed state after an interval of 7 days .
+In another study , oral tablet doses of fimasartan 120 and 360 mg or placebo were given once daily for 7 days to groups of eight fasted healthy male subjects ( aged 20-55 years ) in a double-blind , randomized , sequential-group design .
+Safety and tolerability were assessed .
+The PK and PD of fimasartan were also evaluated and compared for the different doses .
+Fimasartan was safe and well tolerated , but with an increased incidence of low BP and postural dizziness for the 360 mg dose after repeated administration .
+Fimasartan produced increases in plasma renin activity , angiotensin I and II , which were not dose dependent .
+Maximal increases occurred between 6 and 8 hours post-dose , lasting up to 48 hours .
+Fimasartan was absorbed rapidly after all doses and had a multiphasic distribution .
+Two peaks in the plasma concentration-time profile were observed in most subjects .
+Steady state was achieved after three doses , and accumulation was minimal after repeated doses for 7 days ( 24-30% ) .
+The effective half-life ranged from 9.84 to 13.2 hours .
+The systemic exposure of fimasartan was dose proportional , and no marked food effect was noted after administration of 240 mg in the fed state .
+Urinary excretion of fimasartan was very low ( 1.74-2.51% ) , suggesting non-renal elimination .
+Fimasartan had a good safety profile and was well tolerated after fasted single oral doses of 20-480 mg , a fed single oral dose of 240 mg , and fasted repeated oral doses of 120 and 360 mg in healthy subjects .
+In addition , the PK and PD of fimasartan in this population were well characterized .
+Further studies are needed to evaluate the safety , efficacy , and dose-response relationship of fimasartan in patients with hypertension .

@@ -1,0 +1,12 @@
+Pharmacokinetics of selective estrogen receptor modulators .
+Selective estrogen receptor modulators ( SERMs ) are a class of compounds used to treat and prevent breast cancer and osteoporosis .
+SERMs currently approved for use in patients include tamoxifen , toremifene and raloxifene .
+These compounds are well tolerated in patients , and the most common adverse effects experienced in patients undergoing SERM therapy include vasomotor symptoms such as hot flashes and vaginal discharge .
+New SERMs currently under development for use in the treatment and prevention of osteoporosis and breast cancer include ospemifene , a derivative of toremifene , and arzoxifene , a compound very similar in structure to raloxifene .
+SERMs are administered orally at doses ranging from 20 to 60 mg  day .
+Tamoxifen and toremifene have a bioavailability of approximately 100% , whereas that of raloxifene is only 2%. .
+SERMs are very highly bound to plasma proteins ( sentsup95% ) .
+Tamoxifen and toremifene are metabolised by the cytochrome p450 enzyme system , and raloxifene is metabolised by glucuronide conjugation .
+The terminal elimination half-lives of these drugs range from 27.7 hours to 7 days .
+The pharmacokinetics of these compounds are affected in hepatically impaired patients , but not in renally impaired patients .
+SERMs have several potential drug interactions with other agents , such as warfarin , rifampicin ( rifampin ) , cholestyramine and aromatase inhibitors .

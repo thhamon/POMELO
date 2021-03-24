@@ -1,0 +1,41 @@
+TS89545149	food 0 4	Food
+TS29545149	sideeffect 5 16	interaction
+TS99545149	drug 54 66	itraconazole
+TS159545149	food 131 135	food
+TS49545149	drugEffect 143 158	bioavailability
+TS129545149	drug 162 174	itraconazole
+R2	relation Arg1:TS159545149 Arg2:TS129545149
+TS219545149	mealTime 576 582	fasted
+TS109545149	mealTime 586 589	fed
+TS139545149	mealTime 601 610	breakfast
+TS79545149	mealTime 1486 1503	fasted conditions
+TS199545149	mealTime 1657 1663	fasted
+TS209545149	mealTime 1709 1715	fasted
+TS19545149	mealTime 1720 1723	fed
+TS149545149	drugEffect 1893 1908	bioavailability
+TS229545149	mealTime 1978 1984	fasted
+T1	modeadm 67 80	oral solution
+R1	relation Arg1:TS89545149 Arg2:TS29545149	
+R3	relation Arg1:TS89545149 Arg2:TS99545149	
+T2	drug 177 180	ITR
+T3	drug 329 332	ITR
+T4	drug 183 229	hydroxypropyl-beta-cyclodextrin ( HP-beta-CD )
+T5	food 592 610	standard breakfast
+T6	drug 628 631	ITR
+T7	modeadm 632 645	oral solution
+T8	dosage 646 652	200 mg
+T9	frequency 653 662	once  day
+T10	duration 663 674	for 15 days
+T11	drug 1166 1176	metabolite
+T12	drug 1177 1196	hydroxyitraconazole
+T13	drug 1199 1205	OH-ITR
+T14	food 1294 1304	HP-beta-CD
+T15	drug 1379 1382	ITR
+T16	drug 1387 1393	OH-ITR
+T17	drug 1440 1443	ITR
+T18	drug 1807 1813	OH-ITR
+T19	drug 1833 1843	HP-beta-CD
+T20	drug 1912 1915	ITR
+T21	drug 1920 1926	OH-ITR
+T22	drug 1944 1947	ITR
+T23	modeadm 1948 1961	oral solution

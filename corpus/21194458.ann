@@ -1,0 +1,26 @@
+TS1021194458	food 208 228	parenteral nutrition
+TS3121194458	sideeffect 208 228;240 271	parenteral nutrition antiepileptic drugs interaction
+TS321194458	sideeffect 486 497	interaction
+TS1821194458	food3 517 526	nutrition
+TS3221194458	sideeffect 580 600	anti-epileptic drugs
+TS1921194458	food 603 623	parenteral nutrition
+TS421194458	sideeffect 634 645	interaction
+TS2121194458	sideeffect 1238 1250	interactions
+TS2521194458	food 1259 1279	parenteral nutrition
+TS1321194458	sideeffect 1374 1383	illnesses
+TS2221194458	treatedDisease 1392 1416	traumatic brain injuries
+TS1521194458	treatedDisease 1420 1426	cancer
+TS1221194458	drug 1459 1479	parenteral nutrition
+TS821194458	sideeffect 1563 1603	parenteral nutrition -drugs interactions
+TS3521194458	sideeffect 1689 1710;1721 1752	parenteral nutrition- antiepileptic drugs interaction
+TS721194458	sideeffect 1865 1891	drug-nutrition interaction
+TS2821194458	food3 1964 1974	nutrition-
+TS2721194458	sideeffect 1975 1989;2018 2030	nutrition-drug interactions
+TS921194458	sideeffect 2224 2239	hypoalbuminemia
+T1	drug 46 65	antiepileptic drugs
+T3	drug 1302 1316	antiepileptics
+R1	increase_side_effect Arg1:TS2521194458 Arg2:TS2121194458	
+R2	relation Arg1:TS2521194458 Arg2:T3	
+T2	drug 1484 1498	antiepileptics
+R3	treat Arg1:TS1221194458 Arg2:TS1521194458	
+R4	treat Arg1:T2 Arg2:TS2221194458	

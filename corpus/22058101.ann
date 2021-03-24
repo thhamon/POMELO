@@ -1,0 +1,48 @@
+TS1322058101	food 10 14	food
+TS1122058101	drug 71 84	dalfampridine
+TS3922058101	modeadm 85 109	extended-release tablets
+R1	relation Arg1:TS1322058101 Arg2:TS1122058101
+TS1422058101	drugEffect 157 172	bioavailability
+TS3422058101	drug 195 208	dalfampridine
+TS4322058101	modeadm 209 233	extended-release tablets
+TS2622058101	mealTime 258 261	fed
+TS822058101	mealTime 266 283	fasted conditions
+TS922058101	drug 379 392	dalfampridine
+TS3722058101	mealTime 405 411	fasted
+TS422058101	mealTime 455 458	fed
+TS522058101	food 477 492	a high-fat meal
+TS1022058101	drug 563 576	dalfampridine
+R2	relation Arg1:TS3722058101 Arg2:TS1022058101
+R4	relation Arg1:TS422058101 Arg2:TS1022058101
+TS4222058101	food3 894 898	fed:
+TS622058101	food 1015 1019	food
+TS3622058101	food 1094 1098	food
+TS1222058101	drug 1192 1205	dalfampridine
+TS2222058101	drug 1255 1258	AUC
+R5	relation Arg1:TS3622058101 Arg2:TS1222058101
+TS2522058101	sideeffect 1372 1381	dizziness
+TS122058101	sideeffect 1386 1406	upper abdominal pain
+TS1622058101	drug 1519 1532	dalfampridine
+TS1722058101	mealTime 1571 1586	a high-fat meal
+TS322058101	drug 1673 1686	dalfampridine
+TS722058101	sideeffect 1757 1764	fasting
+TS2822058101	food3 1769 1772	fed
+TS2422058101	mealTime 1899 1904	meals
+T1	dosage 373 378	10-mg
+T2	mealTime 892 895	fed
+T3	sideeffect 1013 1024	food effect
+T4	food 1092 1096	food
+T5	drug 1190 1203	dalfampridine
+T6	sideeffect 1368 1377	dizziness
+T7	sideeffect 1388 1402	abdominal pain
+T8	dosage 1501 1506	10-mg
+T9	drug 1515 1528	dalfampridine
+T10	food 1569 1582	high-fat meal
+T11	mealTime 1578 1582	meal
+R3	increase_absorption Arg1:T10 Arg2:T9	
+T12	drug 1669 1682	dalfampridine
+T13	mealTime 1753 1760	fasting
+T14	mealTime 1765 1768	fed
+T15	modeadm 1835 1863	extended-release formulation
+T16	food 1895 1900	meals
+R6	no_effect_on_drug Arg1:T16 Arg2:T12	

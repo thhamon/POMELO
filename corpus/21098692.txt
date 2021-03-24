@@ -1,0 +1,10 @@
+A randomized study of the effects of food on the pharmacokinetics of once-daily extended-release hydromorphone in healthy volunteers .
+This randomized , open-label , crossover study investigated the influence of food on the pharmacokinetics of extended-release hydromorphone in 30 healthy volunteers .
+Participants received extended-release hydromorphone 16 mg in the fasted state and immediately after a high-fat breakfast .
+In addition , the pharmacokinetics of a 16-mg dose of extended-release hydromorphone and a 16-mg daily dose ( 4 mg qid ) of immediate-release hydromorphone in the fasted state were compared .
+Treatments were separated by washout periods of 7 to 14 days .
+Naltrexone was given throughout each treatment period to block the opioid effects of hydromorphone .
+The 90% confidence intervals ( CIs ) of the ratios of geometric means for maximum plasma concentrations ( C ( max ) ) and area under the plasma concentration-time curve ( AUC ) for extended-release hydromorphone in the fed and fasted states were within the bioequivalence criteria range of 80% to 125%. .
+In the fasted state , the 90% CIs of the ratios of AUC geometric means for extended-release hydromorphone and immediate-release hydromorphone were also within the bioequivalence range .
+Both hydromorphone treatments were well tolerated .
+This study shows that the bioavailability of extended-release hydromorphone is not affected by food and that the bioavailability of extended-release hydromorphone under fasting conditions is comparable with that of the immediate-release formulation when administered at the same total daily dose .

@@ -1,0 +1,44 @@
+TS3323331476	food 68 76	caffeine
+TS3523331476	food2 80 98	caffeinated drinks
+TS3723331476	drug2 108 115	glucose
+TS1423331476	drug 135 142	insulin
+TS523331476	treatedDisease 170 187	diabetes mellitus
+R2	relation Arg1:TS3323331476 Arg2:TS1423331476
+R3	relation Arg1:TS3523331476 Arg2:TS1423331476
+TS2823331476	sideeffect 245 283;288 307	influence blood glucose concentrations insulin sensitivity
+TS3623331476	drug 288 295	insulin
+TS1623331476	treatedDisease 323 331	diabetes
+TS4723331476	food 339 347	caffeine
+TS323331476	food 448 456	caffeine
+TS3423331476	drug 497 504	insulin
+TS823331476	treatedDisease 532 540	diabetes
+TS1123331476	food 697 705	caffeine
+TS3023331476	drug 731 738	insulin
+TS4823331476	treatedDisease 778 835	type I , type II or gestational diabetes mellitus ( GDM )
+TS2023331476	treatedDisease 1038 1054	type II diabetes
+TS1823331476	food 1090 1098	caffeine
+TS4123331476	sideeffect 1142 1180	increased blood glucose concentrations
+TS2423331476	drug 1231 1238	insulin
+TS2523331476	drug 1343 1350	insulin
+TS3223331476	treatedDisease 1379 1394	type I diabetes
+TS2723331476	food 1518 1526	caffeine
+TS123331476	food 1635 1643	caffeine
+TS1223331476	drug 1666 1673	insulin
+TS2923331476	drug2 1728 1735	glucose
+TS423331476	drug 1765 1768	AUC
+R9	relation Arg1:TS123331476 Arg2:TS1223331476
+TS2123331476	food 1811 1826	caffeine intake
+TS3923331476	treatedDisease 1872 1888	type II diabetes
+TS1923331476	sideeffect 2073 2108	improved awareness of hypoglycaemia
+TS1723331476	treatedDisease 2112 2127	type I diabetes
+TS623331476	food3 2203 2212	Nutrition
+R1	treat Arg1:TS1423331476 Arg2:TS523331476	
+T1	dosage 1115 1125	200-500 mg
+R4	increase_side_effect Arg1:TS1823331476 Arg2:TS4123331476	
+T2	dosage 1507 1517	400-500 mg
+T3	treatedDisease 1572 1575	GDM
+T4	sideeffect 1441 1483	reduced duration of hypoglycaemic episodes
+T5	treatedDisease 1926 1929	GDM
+T6	sideeffect 1792 1807;1827 1851	negative effect on blood glucose control
+R5	increase_side_effect Arg1:TS2123331476 Arg2:T6	
+T7	sideeffect 2049 2065;2092 2108	reduced duration of hypoglycaemia

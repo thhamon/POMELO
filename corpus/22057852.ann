@@ -1,0 +1,77 @@
+TS1022057852	food 14 18	food
+TS522057852	drugEffect 26 41	bioavailability
+TS2522057852	drug 45 57	panobinostat
+TS2822057852	drug 77 111	pan- histone deacetylase inhibitor
+TS3422057852	treatedDisease 131 146	advanced cancer
+R1	relation Arg1:TS1022057852 Arg2:TS2522057852
+R2	relation Arg1:TS1022057852 Arg2:TS2822057852
+TS3522057852	drug 149 161	Panobinostat
+TS5122057852	drug 178 208	pan- pan-deacetylase inhibitor
+TS5022057852	drugEffect 224 244	anti-cancer activity
+TS4022057852	food 293 297	food
+TS3022057852	drugEffect 310 325	bioavailability
+TS422057852	drug 329 341	panobinostat
+R3	relation Arg1:TS4022057852 Arg2:TS422057852
+TS2022057852	drug 485 497	panobinostat
+TS3922057852	treatedDisease 541 556	advanced cancer
+TS4222057852	drug 577 589	panobinostat
+TS4322057852	drug 615 627	panobinostat
+TS2922057852	mealTime 746 753	fasting
+TS622057852	food 756 764	high-fat
+TS1922057852	food 771 787	normal breakfast
+TS4522057852	food 834 838	food
+TS3322057852	drug 959 971	panobinostat
+R5	relation Arg1:TS4522057852 Arg2:TS3322057852
+TS4622057852	drug 1048 1060	Panobinostat
+TS722057852	food 1123 1127	food
+TS322057852	food 1180 1188	high-fat
+TS1522057852	food3 1189 1198	breakfast
+TS2322057852	sideeffect 1200 1207	fasting
+TS1622057852	food3 1269 1278	breakfast
+TS2422057852	sideeffect 1280 1287	fasting
+TS822057852	food 1433 1437	food
+TS3122057852	drug 1440 1452	Panobinostat
+TS922057852	food 1484 1492	high-fat
+TS1122057852	food 1567 1571	food
+TS1222057852	drug 1574 1586	Panobinostat
+TS3822057852	sideeffect 1613 1629	thrombocytopenia
+TS1822057852	sideeffect 1632 1639	fatigue
+TS4422057852	sideeffect 1642 1648	nausea
+TS122057852	sideeffect 1655 1663	vomiting
+TS2622057852	food 1824 1828	Food
+TS1322057852	drug 1860 1872	panobinostat
+TS1422057852	drug 1891 1903	panobinostat
+TS2722057852	food 1935 1939	food
+R7	relation Arg1:TS2622057852 Arg2:TS1322057852
+R8	has_effect Arg1:TS2522057852 Arg2:TS522057852	
+T1	modeadm 63 69	orally
+R9	treat Arg1:TS2822057852 Arg2:TS3422057852	
+T2	modeadm 173 177	oral
+R10	has_effect Arg1:TS3522057852 Arg2:TS5022057852	
+T3	sideeffect 423 434	food-effect
+T4	dosage 590 595	20 mg
+T5	frequency 596 608	twice weekly
+T6	numbers 902 904	29
+T7	numbers 792 802	Thirty-six
+T8	drugEffect 985 1003	antitumor activity
+T9	food 1178 1196	high-fat breakfast
+T10	food 1260 1276	normal breakfast
+T11	drug 1438 1450	Panobinostat
+T12	drug 1572 1584	Panobinostat
+T13	sideeffect 1611 1627	thrombocytopenia
+T14	sideeffect 1630 1637	fatigue
+T15	sideeffect 1640 1646	nausea
+T16	sideeffect 1653 1661	vomiting
+R4	has_sideeffect Arg1:T12 Arg2:T13	
+R6	has_sideeffect Arg1:T12 Arg2:T14	
+R11	has_sideeffect Arg1:T12 Arg2:T15	
+R12	has_sideeffect Arg1:T12 Arg2:T16	
+T17	drugEffect 1706 1724	antitumor activity
+R13	has_effect Arg1:T12 Arg2:T17	
+T18	drugEffect 1788 1802	stable disease
+R14	has_effect Arg1:T12 Arg2:T18	
+T19	food 1822 1826	Food
+T20	drug 1858 1870	panobinostat
+T21	drug 1889 1901	panobinostat
+T22	food 1933 1937	food
+R15	no_effect_on_drug Arg1:T22 Arg2:T21	

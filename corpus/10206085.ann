@@ -1,0 +1,31 @@
+TS310206085	drug 21 34	rosiglitazone
+TS1910206085	food 51 55	food
+TS3010206085	food 84 88	food
+TS2010206085	drugEffect 96 111	bioavailability
+TS2410206085	drug 140 158	insulin sensitizer
+TS510206085	drug 159 172	rosiglitazone
+R1	relation Arg1:TS3010206085 Arg2:TS2410206085
+R2	relation Arg1:TS3010206085 Arg2:TS510206085
+TS1310206085	drug 256 269	rosiglitazone
+TS1710206085	mealTime 336 349	fasting state
+TS710206085	food 365 392	standard high-fat breakfast
+TS910206085	drug 482 495	rosiglitazone
+TS2210206085	drug 547 560	rosiglitazone
+TS2710206085	food 579 583	food
+TS3110206085	mealTime 635 639	fed:
+TS1510206085	drug 732 745	rosiglitazone
+TS1210206085	mealTime 753 756	fed
+TS3210206085	mealTime 806 812	fasted
+TS1110206085	mealTime 942 945	fed
+TS2610206085	drug 1030 1043	rosiglitazone
+TS1010206085	mealTime 1062 1067	meals
+TS2810206085	treatedDisease 1085 1109	type 2 diabetes mellitus
+R3	no_effect_on_drug Arg1:TS1910206085 Arg2:TS310206085	
+R4	has_effect Arg1:TS510206085 Arg2:TS2010206085	
+T1	dosage 270 274	2 mg
+T2	numbers 295 297	12
+T3	mealTime 353 362;383 392	following breakfast
+T4	modeadm 468 472	oral
+R5	no_effect_on_drug Arg1:TS2710206085 Arg2:TS2210206085	
+R6	no_effect_on_drug Arg1:TS1010206085 Arg2:TS2610206085	
+R7	treat Arg1:TS2610206085 Arg2:TS2810206085	

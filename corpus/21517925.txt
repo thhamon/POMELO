@@ -1,0 +1,21 @@
+The effects of food on the pharmacokinetics of mitiglinide tablets in healthy volunteers and a novel mass-spectrometric ( UPLC-MS  MS ) method for such studies .
+Mitiglinide ( MGN ) is a new insulinotropic agent of the glinide class with rapid onset .
+The effects of food intake on the pharmacokinetic ( PK ) profile of mitiglinide tablets after single oral administration have not yet been reported in healthy adults .
+We aimed to assess the effects of food intake on the PK properties of mitiglinide ( MGN ) tablets , using a novel analytical method , after single escalating oral doses in healthy Chinese volunteers .
+In this open-label , randomized , single-dose ( three distinct doses ) , two-way crossover PK study , three doses of MGN 5 , 10 or 20 mg were administered to healthy adult volunteers after an overnight fast ( fasted condition ) or low-fat breakfast ( fed condition ) ( period 1 ) .
+After 7 days , the participants received the same dose under the opposite fed  fasted condition ( period 2 ) .
+Serial blood samples were obtained before and through 8 h after study drug administration .
+Concentrations of MGN in plasma were determined using UPLC-MS  MS .
+Adverse events ( AEs ) were monitored and recorded on each in-clinic day .
+Twenty-four Chinese volunteers ( eight [four men , four women] volunteers per group ) were enrolled in the study .
+The extent of absorption of MGN was similar in both fed and fasted conditions at single doses in the range 5-20 mg .
+Food intake was associated with decreases in C ( max ) by 60bigasentdot4% to 65bigasentdot2% in the three dose groups and greatly delayed T ( max ) [0bigasentdot36 ( Standard deviation 0bigasentdot16 ) vs. .
+1bigasentdot75 ( 0bigasentdot92 ) hours with 5 mg , 0bigasentdot29 ( 0bigasentdot19 ) vs. .
+1bigasentdot97 ( 0bigasentdot81 ) hours with 10 mg and 0bigasentdot30 ( 0bigasentdot10 ) vs. .
+1bigasentdot18 ( 0bigasentdot68 ) hours with 20 mg ; all , P sentinf 0bigasentdot05]. .
+t ( 1  2 ) , CL  F and V  F ( P sentsup 0bigasentdot05 ) were unaffected .
+MRT ( 0-8 ) at the 5 and 10-mg doses , but not at the 20-mg dose , were markedly lower in fasted volunteers than fed volunteers ( P sentinf 0bigasentdot05 ) .
+Using a novel UPLC-MS  MS method , we showed that food intake affected the rate but not the extent of absorption of MGN within the 5- to 20-mg dose range .
+Gender did not appear to affect the PK properties of MGN in either fasted or fed states .
+MGN should be preferably taken before food .
+bigasentc 2011 Blackwell Publishing Ltd. .

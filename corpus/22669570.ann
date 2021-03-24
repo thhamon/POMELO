@@ -1,0 +1,45 @@
+TS1522669570	food 22 26	food
+TS1322669570	drug 95 150	inhibitor of the mammalian target of rapamycin ( mTOR )
+TS822669570	treatedDisease 196 208	solid tumors
+TS1422669570	food 294 298	food
+TS2622669570	mealTime 499 505	fasted
+TS222669570	mealTime 545 554	breakfast
+TS1922669570	food 573 591	high-fat breakfast
+TS322669570	mealTime 582 591	breakfast
+TS922669570	food2 594 599	Whole
+TS2522669570	mealTime 779 785	fasted
+TS1822669570	drug 1508 1521	ridaforolimus
+TS2422669570	food3 1136 1142	fasted
+TS722669570	food3 1147 1150	fed
+TS1622669570	food3 1173 1182	breakfast
+TS2022669570	drug 1241 1244	AUC
+TS1222669570	food3 1271 1274	fed
+TS2722669570	food3 1276 1282	fasted
+TS622669570	food 1363 1371	high-fat
+TS1722669570	food3 1372 1381	breakfast
+TS2122669570	drug 1388 1391	AUC
+R2	relation Arg1:TS1622669570 Arg2:TS2022669570
+R3	relation Arg1:TS622669570 Arg2:TS2122669570
+TS1022669570	food 1566 1574	high-fat
+TS2322669570	mealTime 1575 1585	breakfasts
+TS422669570	food 1790 1794	food
+T1	drug 54 67	ridaforolimus
+T2	drug 70 83	Ridaforolimus
+R4	treat Arg1:T2 Arg2:TS822669570	
+R5	treat Arg1:TS1322669570 Arg2:TS822669570	
+T3	drug 326 339	ridaforolimus
+T4	dosage 340 345	40 mg
+T5	drug 407 420	Ridaforolimus
+T6	food 539 554	light breakfast
+T7	mealTime 1134 1140	fasted
+T8	mealTime 1145 1148	fed
+T9	food 1165 1180	light breakfast
+T10	food 1359 1377	high-fat breakfast
+T11	mealTime 1171 1180	breakfast
+T12	mealTime 1368 1377	breakfast
+T13	food 1550 1579	light and high-fat breakfasts
+R1	no_effect_on_drug Arg1:T13 Arg2:TS1822669570	
+T14	drug 1630 1643	Ridaforolimus
+T15	drug 1736 1749	Ridaforolimus
+T16	food 1784 1788	food
+R6	no_effect_on_drug Arg1:T16 Arg2:T15	

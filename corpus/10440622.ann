@@ -1,0 +1,55 @@
+TS1610440622	food 11 15	food
+TS5410440622	treatedDisease 194 222	community-acquired pneumonia
+TS3510440622	food 360 369	skim milk
+TS3810440622	food 376 394	high-fat breakfast
+TS4910440622	food 403 407	milk
+TS4510440622	drug 467 477	antibiotic
+R1	relation Arg1:TS3510440622 Arg2:TS4510440622
+R2	relation Arg1:TS3810440622 Arg2:TS4510440622
+TS5210440622	drugEffect 631 637	fasted
+TS2510440622	food 663 672	skim milk
+TS5010440622	food 693 720	standard high-fat breakfast
+TS310440622	mealTime 711 720	breakfast
+TS2810440622	food 853 862	skim milk
+TS910440622	food 871 889	high-fat breakfast
+R3	no_effect_on_drug Arg1:TS910440622 Arg2:T8
+R4	no_effect_on_drug Arg1:TS2810440622 Arg2:T8
+TS3610440622	food 1289 1298	skim milk
+TS4210440622	food 1304 1322	high-fat breakfast
+TS410440622	food 1455 1473	high-fat breakfast
+TS610440622	food 1530 1539	Skim milk
+TS1010440622	food 1548 1565	high-fat breakfas
+TS2310440622	drugEffect 1759 1774	bioavailability
+TS1110440622	food 1897 1906	skim milk
+TS1710440622	food 1910 1925	a high-fat meal
+TS4110440622	food 2035 2039	milk
+TS4710440622	mealTime 2043 2048	meals
+T1	drug 43 55	sparfloxacin
+T2	drug 58 70	Sparfloxacin
+T3	drug 75 90	fluoroquinolone
+T4	drugEffect 98 126	broad antimicrobial spectrum
+R5	has_effect Arg1:T3 Arg2:T4	
+R6	has_effect Arg1:T2 Arg2:T4	
+R7	treat Arg1:T3 Arg2:TS5410440622	
+R8	treat Arg1:T2 Arg2:TS5410440622	
+T5	treatedDisease 227 278	acute bacterial exacerbations of chronic bronchitis
+R9	treat Arg1:T2 Arg2:T5	
+R10	treat Arg1:T3 Arg2:T5	
+T6	dosage 513 519	200-mg
+T7	numbers 596 598	23
+T8	drug 932 944	sparfloxacin
+T9	drug 1260 1272	sparfloxacin
+T10	mealTime 1359 1376	fasted conditions
+R11	relation Arg1:TS3610440622 Arg2:T9	
+R12	relation Arg1:TS4210440622 Arg2:T9	
+R13	relation Arg1:T10 Arg2:T9	
+T11	drug 1624 1636	sparfloxacin
+R14	no_effect_on_drug Arg1:TS1010440622 Arg2:T11	
+R15	no_effect_on_drug Arg1:TS610440622 Arg2:T11	
+T12	drug 1639 1651	Sparfloxacin
+T13	drug 1778 1790	sparfloxacin
+T14	drug 1967 1979	sparfloxacin
+R16	no_effect_on_drug Arg1:TS4110440622 Arg2:T14	
+R17	no_effect_on_drug Arg1:TS4710440622 Arg2:T14	
+R18	slow_absorption Arg1:TS1110440622 Arg2:T13	
+R19	slow_absorption Arg1:TS1710440622 Arg2:T13	

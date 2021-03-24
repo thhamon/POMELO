@@ -1,0 +1,15 @@
+TS1314576716	food 13 34	nonmineral supplement
+TS814576716	food 216 226	supplement
+TS714576716	sideeffect 350 362	interactions
+TS614576716	food 392 402	supplement
+TS1614576716	drug 585 601	herbal medicines
+TS214576716	drug 606 625	dietary supplements
+TS1114576716	drug 720 731	supplements
+TS114576716	food 1202 1212	supplement
+TS414576716	food 1240 1245	herbs
+TS1514576716	food 1251 1260	Echinacea
+TS314576716	drug 1275 1288	Gingko biloba
+TS1214576716	drug 1312 1328	NVNM supplements
+TS1014576716	foodSupplement 1521 1539	dietary supplement
+T1	duration 46 61	12-month period
+T2	drug 334 349	drug-supplement

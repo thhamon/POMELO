@@ -1,0 +1,5 @@
+Understanding the grapefruit- drug interaction .
+The inhibitory interaction of grapefruit juice and CYP3A4 medication metabolism was discovered in 1989. .
+CYP3A4 enzymes are responsible for the metabolism of more than 60% of orally-administered drugs .
+Grapefruit components inhibit CYP3A4 drug oxidation and P-glycoprotein transportation , allowing more systemic drug bioavailability .
+This inhibitory interaction should be kept in mind when prescribing drugs that are metabolized by CYP3A4 , such as orally administered midazolam , triazolam , and diazepam .

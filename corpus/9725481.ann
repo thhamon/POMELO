@@ -1,0 +1,27 @@
+TS49725481	food 0 4	Food
+TS59725481	drugEffect 24 39	bioavailability
+TS179725481	drug 43 53	Manidipine
+R1	relation Arg1:TS49725481 Arg2:TS179725481
+TS219725481	food 150 154	food
+TS149725481	drugEffect 167 182	bioavailability
+TS19725481	drug 188 198	manidipine
+R2	relation Arg1:TS219725481 Arg2:TS19725481
+TS139725481	drug 434 444	manidipine
+TS159725481	mealTime 466 479	fasting state
+TS29725481	mealTime 483 488;504 513	after breakfast
+TS99725481	drug 641 651	manidipine
+TS79725481	drug 660 679	pyridine metabolite
+TS39725481	drug 775 785	manidipine
+TS89725481	sideeffect 815 828	mild headache
+TS189725481	food 873 877	Food
+TS129725481	drugEffect 1352 1367	bioavailability
+TS69725481	drug 1371 1381	manidipine
+TS199725481	food 1400 1404	food
+TS209725481	food 1507 1511	food
+T1	modeadm 162 166	oral
+T2	dosage 199 204	20 mg
+T3	numbers 257 259	12
+T4	dosage 428 433	20 mg
+T5	drug 682 699	M-XIII metabolite
+R4	has_sideeffect Arg1:TS39725481 Arg2:TS89725481	
+R3	increase_absorption Arg1:TS199725481 Arg2:TS69725481	

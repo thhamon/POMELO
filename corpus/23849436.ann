@@ -1,0 +1,29 @@
+TS1223849436	food 10 14	food
+TS2023849436	food 166 170	food
+TS823849436	mealTime 340 347	fasting
+TS223849436	mealTime 351 354	fed
+TS323849436	mealTime 497 500	fed
+TS923849436	mealTime 505 512	fasting
+TS1123849436	food2 815 820	whole
+TS1323849436	drug 869 873	Cmax
+TS623849436	other 966 979	fasting state
+TS123849436	food3 1013 1016	fed
+TS1423849436	other 1181 1194	fasting state
+TS423849436	food3 1257 1260	fed
+TS723849436	food 1293 1297	food
+TS523849436	drug 1351 1355	Cmax
+TS2123849436	drug 1387 1390	AUC
+R1	relation Arg1:TS723849436 Arg2:TS523849436
+T1	drug 71 83	clinofibrate
+R2	relation Arg1:TS1223849436 Arg2:T1	
+T2	drug 234 246	clinofibrate
+T3	numbers 258 260	12
+T4	drug 410 422	clinofibrate
+T5	dosage 423 429	400 mg
+T6	drug 880 905	clinofibrate glucuronides
+T7	drug 917 929	clinofibrate
+T8	drug 1062 1087	clinofibrate glucuronides
+T9	drug 1099 1111	clinofibrate
+T10	mealTime 1173 1180	fasting
+T11	mealTime 1247 1250	fed
+T12	food 1283 1287	food

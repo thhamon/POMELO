@@ -1,0 +1,35 @@
+TS2516291710	sideeffect 24 41	food interactions
+TS2816291710	drug 50 79	tenofovir disoproxil fumarate
+TS2216291710	drug 84 94	didanosine
+TS1616291710	sideeffect 125 142	food interactions
+TS916291710	drug 151 160	tenofovir
+TS2716291710	drug 168 178	didanosine
+TS516291710	drug 281 290	tenofovir
+TS316291710	drug 301 311	didanosine
+TS3216291710	mealTime 354 360	fasted
+TS416291710	mealTime 364 367	fed
+TS3416291710	food3 423 429	fasted
+TS1116291710	drug 445 455	didanosine
+TS1216291710	drug 494 504	didanosine
+TS2616291710	drug 555 564	tenofovir
+TS3516291710	mealTime 575 581	fasted
+TS716291710	mealTime 586 589	fed
+TS1316291710	drug 608 618	didanosine
+TS3616291710	mealTime 690 696	fasted
+R6	relation Arg1:TS3416291710 Arg2:TS1116291710
+TS116291710	drug 750 760	didanosine
+TS616291710	drug 795 804	tenofovir
+TS3016291710	sideeffect 819 840	drug-food interaction
+TS2016291710	drug 844 854	didanosine
+TS2116291710	drug 889 899	didanosine
+TS816291710	drug 924 933	tenofovir
+TS2316291710	drug 958 967	tenofovir
+TS1516291710	drug 975 985	didanosine
+R1	has_sideeffect Arg1:TS2816291710 Arg2:TS2516291710	
+R8	has_sideeffect Arg1:TS2216291710 Arg2:TS2516291710	
+T1	dosage 259 265	400 mg
+T2	dosage 464 470	250 mg
+R2	has_sideeffect Arg1:TS916291710 Arg2:TS1616291710	
+R3	has_sideeffect Arg1:TS2716291710 Arg2:TS1616291710	
+T3	dosage 670 676	400 mg
+R4	has_sideeffect Arg1:TS2016291710 Arg2:TS3016291710	

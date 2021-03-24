@@ -1,0 +1,5 @@
+TS522530414	sideeffect 10 21	interaction
+TS322530414	food 30 47	pomegranate juice
+TS622530414	drug 52 61	warfarin]
+R1	relation Arg1:TS322530414 Arg2:TS622530414
+R2	relation Arg1:TS322530414 Arg2:TS522530414	

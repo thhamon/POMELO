@@ -1,0 +1,32 @@
+TS1621831129	drug 0 13	Anticoagulant
+TS121831129	drug 57 78	Vitamin K antagonists
+TS1821831129	drug 102 116	anticoagulants
+TS1921831129	food 282 286	food
+TS2221831129	sideeffect 291 308	drug interactions
+TS1321831129	drugEffect 333 344	coagulation
+TS821831129	drug 412 420	warfarin
+TS2121831129	drugEffect 488 509	under-anticoagulation
+TS1021831129	sideeffect 517 527	thrombosis
+TS1521831129	sideeffect 571 579	bleeding
+TS621831129	drug 690 701	Rivaroxaban
+TS1721831129	drug 704 712	apixaban
+TS1421831129	drug 774 799	direct thrombin inhibitor
+TS921831129	drugEffect 826 849	anticoagulant responses
+TS221831129	sideeffect 858 880	drug-drug interactions
+TS521831129	drugEffect 908 919	coagulation
+T1	drug 119 123	OACs
+T2	drugEffect 543 563	over-anticoagulation
+R1	has_sideeffect Arg1:TS821831129 Arg2:TS1021831129	
+R2	has_effect Arg1:TS821831129 Arg2:TS2121831129	
+R3	has_effect Arg1:TS821831129 Arg2:T2	
+R4	has_sideeffect Arg1:TS821831129 Arg2:TS1521831129	
+T3	drug 720 752	oral direct Factor Xa inhibitors
+T4	drug 759 769	dabigatran
+T5	drug 604 608	OACs
+T6	drugEffect 662 687	antithrombotic management
+R5	has_effect Arg1:T5 Arg2:T6	
+R6	has_effect Arg1:T4 Arg2:TS921831129	
+R7	has_effect Arg1:TS1721831129 Arg2:TS921831129	
+R8	has_effect Arg1:TS621831129 Arg2:TS921831129	
+R9	has_effect Arg1:T3 Arg2:TS921831129	
+R10	has_effect Arg1:TS1421831129 Arg2:TS921831129	

@@ -1,0 +1,19 @@
+TS1016291715	drug 24 36	escitalopram
+TS316291715	drug 154 166	escitalopram
+TS1116291715	drug 169 181	S-citalopram
+TS616291715	drug 360 372	escitalopram
+TS116291715	drugEffect 1044 1059	bioavailability
+TS1216291715	drug 1108 1120	S-citalopram
+TS1316291715	drug 1124 1136	R-citalopram
+TS716291715	food 1189 1193	food
+TS416291715	drug 1235 1247	escitalopram
+R1	no_effect_on_drug Arg1:TS716291715 Arg2:TS416291715
+T1	modeadm 43 47	oral
+T2	modeadm 52 63	intravenous
+T3	frequency 82 88	single
+T4	frequency 93 107	multiple doses
+T5	drug 215 235	S-demethylcitalopram
+T6	modeadm 336 347	intravenous
+T7	modeadm 480 484	oral
+T8	frequency 503 509	single
+T9	frequency 513 527	multiple doses

@@ -1,0 +1,6 @@
+TS311216183	drug 0 9	Cisapride
+TS411216183	drug 12 21	Prepulsid
+TS111216183	sideeffect 26 38	interactions
+TS211216183	food 44 54	grapefruit
+R1	relation Arg1:TS211216183 Arg2:TS411216183	
+R2	relation Arg1:TS211216183 Arg2:TS311216183	

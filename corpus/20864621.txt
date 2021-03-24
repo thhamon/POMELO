@@ -1,0 +1,14 @@
+Safety , tolerability , and pharmacokinetics of eliglustat tartrate ( Genz-112638 ) after single doses , multiple doses , and food in healthy volunteers .
+Three phase 1 studies of eliglustat tartrate ( Genz-112638 ) , an oral inhibitor of glucosylceramide synthase under development for treating Gaucher disease type 1 ( GD1 ) , evaluated the safety , tolerability , and pharmacokinetics in healthy volunteers after escalating single doses ( n = 99 ) , escalating multiple doses ( n = 36 ) , and food ( n = 24 ) .
+Eliglustat tartrate was well tolerated at single doses ≤ 20 mg  kg and multiple doses ≤ 200 mg bid , with 50 mg bid producing plasma concentrations in the predicted therapeutic range .
+No serious adverse events occurred .
+Mild to moderate events of nausea , dizziness , and vomiting increased in frequency with escalating single and multiple doses .
+Single doses ≥ 10 mg  kg caused mild increases in electrocardiogram PR , QRS , and QT  QTc intervals .
+Single-dose pharmacokinetics showed dose linearity but not proportionality .
+Maximum plasma concentrations occurred at senttild2 hours , followed by a monophasic decline with a senttild6-hour terminal half-life .
+Unchanged drug in 8-hour urine collections was sentinf1.5% of administered doses .
+Food did not significantly affect the rate or extent of absorption .
+Multiple-dose pharmacokinetics was nonlinear , showing higher than expected plasma drug concentrations .
+Steady state was reached senttild60 hours after bid dosing .
+Higher drug exposure occurred in slower CYP2D6 metabolizers .
+Based on favorable results in healthy participants , a phase 2 trial of eliglustat tartrate was initiated in GD1 patients .

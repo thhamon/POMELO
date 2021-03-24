@@ -1,0 +1,25 @@
+TS99162174	sideeffect 53 64	intolerance
+TS219162174	drug 141 150	benzoates
+TS139162174	sideeffect 289 298	urticaria
+TS159162174	sideeffect 323 329	asthma
+TS79162174	sideeffect 342 355	atopic eczema
+TS39162174	sideeffect 368 393	dermorespiratory syndrome
+TS169162174	sideeffect 408 414	asthma
+TS189162174	drug 575 584	benzoates
+TS149162174	food 675 679	food
+TS29162174	sideeffect 868 877	urticaria
+TS49162174	sideeffect 880 886	asthma
+TS19162174	sideeffect 889 895	eczema
+TS89162174	food 959 963	food
+TS179162174	food 972 984	grey shrimps
+TS199162174	food 987 992	sodas
+TS109162174	drug 997 1007	antibiotic
+TS119162174	modeadm 1008 1014	syrups
+TS209162174	drug 1027 1036	benzoates
+TS59162174	drug 1044 1056	antiallergic
+TS129162174	modeadm 1057 1063	syrups
+T1	drug 44 52	benzoate
+R5	has_sideeffect Arg1:T1 Arg2:TS99162174	
+T2	sideeffect 122 133	intolerance
+R6	has_sideeffect Arg1:TS219162174 Arg2:T2	
+T3	modeadm 550 554	oral

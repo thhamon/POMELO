@@ -1,0 +1,47 @@
+TS1521682192	sideeffect 6 28	Food-drug interactions
+TS2621682192	food 43 59	grapefruit juice
+TS3521682192	sideeffect 62 84	Food-drug interactions
+TS2021682192	drugEffect 177 192	bioavailability
+TS1021682192	food 223 239	Grapefruit juice
+TS421682192	sideeffect 270 282	interactions
+TS3721682192	drugEffect 317 336	therapeutic effects
+TS1321682192	sideeffect 369 402	decreases pre-systemic metabolism
+TS1621682192	sideeffect 446 475;495 509;525 553	inhibition of gut wall CYP3A4 P-glycoprotein multidrug resistance protein
+TS2221682192	drug 711 719	naringin
+TS3321682192	sideeffect 849 877	pharmacokinetic interactions
+TS621682192	food 1034 1047	citrus fruits
+TS1721682192	food 1061 1068	pummelo
+TS321682192	food 1073 1084	sour orange
+TS2421682192	sideeffect 1160 1172	interactions
+T1	modeadm 196 200	oral
+T2	food 242 245	GFJ
+R3	increase_side_effect Arg1:TS1021682192 Arg2:TS421682192	
+R4	worsen_drug_effect Arg1:TS1021682192 Arg2:TS3721682192	
+T3	sideeffect 350 362	side-effects
+R5	increase_side_effect Arg1:TS1021682192 Arg2:T3	
+T4	food 365 368	GFJ
+R6	relation Arg1:T4 Arg2:TS1321682192	
+T5	sideeffect 581 588;596 646	organic anion-transporting polypeptide ( OATP ) inhibition
+R1	increase_side_effect Arg1:T4 Arg2:T5	
+T6	food 660 663	GFJ
+T7	drug 689 699	flavonoids
+T8	drug 725 726	i
+T9	drug 737 752	furanocoumarins
+T10	drug 769 793	7' -dihydroxybergamottin
+T11	drug 796 807	bergamottin
+R2	reduce_side_effect Arg1:T6 Arg2:TS3321682192	
+R7	has_sideeffect Arg1:T7 Arg2:TS3321682192	
+R8	has_sideeffect Arg1:TS2221682192 Arg2:TS3321682192	
+R9	has_sideeffect Arg1:T8 Arg2:TS3321682192	
+R10	has_sideeffect Arg1:T9 Arg2:TS3321682192	
+R11	has_sideeffect Arg1:T10 Arg2:TS3321682192	
+R12	has_sideeffect Arg1:T11 Arg2:TS3321682192	
+T12	food 896 899	GFJ
+T13	drug 953 968	furanocoumarins
+T14	sideeffect 999 1016	inhibitory effect
+R13	has_sideeffect Arg1:T13 Arg2:T14	
+R14	reduce_side_effect Arg1:T12 Arg2:T14	
+T15	food 1050 1058	sweeties
+T16	drug 1116 1131	furanocoumarins
+R15	has_sideeffect Arg1:T16 Arg2:TS2421682192	
+R16	reduce_side_effect Arg1:TS621682192 Arg2:TS2421682192	

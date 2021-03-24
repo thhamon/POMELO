@@ -1,0 +1,19 @@
+Relative bioavailability of tizanidine 4-mg capsule and tablet formulations after a standardized high-fat meal meal: a single-dose , randomized , open-label , crossover study in healthy subjects .
+An immediate-release , multiparticulate capsule formulation of tizanidine has been developed to modify tizanidine pharmacokinetic characteristics in an attempt to decrease adverse events ( AEs ) while maintaining effectiveness in the management of spasticity .
+This study was designed to compare the pharmacokinetic properties and tolerability of a single dose ( 4 mg ) of an immediate-release , multiparticulate tizanidine capsule versus a commercially available tablet ( reference ) administered after a standardized high-fat meal .
+This single-dose , randomized , open-label , 2-way crossover study in healthy , nonsmoking adult subjects was conducted at MDS Pharma Services , Belfast , United Kingdom .
+Subjects were randomly assigned to receive the capsule-tablet or tablet-capsule treatment .
+The 2 treatment periods were separated by a 6-day washout period .
+All treatments were administered after a standardized high-fat meal .
+To determine plasma tizanidine pharmacokinetic properties , blood samples were collected over 24 hours after administration .
+The predetermined bioequivalence range for the test drug ( capsule ) was 80% to 125% of the reference drug ( tablet ) .
+Drug tolerability was assessed using routine physical examination , including vital-sign measurements ; laboratory analysis ( hematology , biochemistry , and urinalysis ) ; 12-lead electrocardiography ; direct observation ; spontaneous reporting ; and non specific questioning .
+This study included 18 subjects ( 12 men , 6 women ; mean [SD] age , 26 [7] years ) .
+The mean height and body weight of the subjects were 176 ( 8 ) cm and 70.1 ( 9.6 ) kg , respectively .
+The peak exposure , as measured by mean natural logarithm-transformed C ( max ) values , was significantly lower with the capsule compared with the tablet ( 2.7 vs 4.0 ng  mL ; P sentinf 0.019 ) , and mean TmaX was significantly longer ( 2.6 vs 1.2 hours ; P sentinf 0.001 ) .
+The 90% CIs for the capsule:tablet treatment ratios were 70.55 to 121.94 for AUC ( 0-lat ) and 70.12 to 118.75 for AUC ( 0-infinity ) .
+The capsule did not achieve the protocol-defined definition of bioequivalence when given after a high-fat meal .
+All AEs were transient and mild in intensity , with asthenia being the most common event with the capsule and tablet formulations , occurring in 5 ( 28% ) and 8 ( 44% ) subjects , respectively .
+In this small study in healthy volunteers , after a single oral dose was administered following a high-fat meal , the mean C ( max ) was significantly lower and mean T ( max ) was significantly longer with the capsule formulation of tizanidine compared with the tablet .
+The capsule formulation was found not to be bioequivalent to the tablet when given with food .
+Based on these findings , caution is needed when a patient is switched between the capsule and tablet formulations of tizanidine , or when the timing of administration of either formulation is changed in relation to food ingestion .

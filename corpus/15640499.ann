@@ -1,0 +1,20 @@
+TS1115640499	food 79 83	food
+TS915640499	food 88 96	beverage
+TS815640499	food 164 169	foods
+TS1215640499	food 182 186	nuts
+TS2315640499	food 189 195	fruits
+TS1515640499	food 198 207	chocolate
+TS1815640499	food 210 213	tea
+TS1415640499	food 216 220	wine
+TS1015640499	food 227 234	soymilk
+TS2115640499	food 240 246	fruits
+TS1315640499	food 251 260	beverages
+TS2015640499	food 585 594	beverages
+TS615640499	food 730 735	foods
+TS115640499	food 747 756	beverages
+TS215640499	food 806 820	dark chocolate
+TS715640499	food 850 858	red wine
+TS515640499	food 874 888	milk chocolate
+T1	drug 0 11	Polyphenols
+T2	drug 354 362	flavanol
+T3	drug 374 391	proanthocyanidins

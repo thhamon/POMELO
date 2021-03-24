@@ -1,0 +1,7 @@
+TS420400647	drugEffect 15 30	bioavailability
+TS520400647	drug 34 46	itraconazole
+TS320400647	food 126 144	vitamin C beverage
+T1	modeadm 10 14	oral
+T2	drug 75 96	7-hydroxyitraconazole
+R1	relation Arg1:TS320400647 Arg2:TS520400647	
+R2	relation Arg1:TS320400647 Arg2:T2	

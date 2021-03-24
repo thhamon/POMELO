@@ -1,0 +1,15 @@
+Pharmacokinetics of para-aminosalicylic acid granules under four dosing conditions .
+To determine the pharmacokinetics and relative bioavailability of para-aminosalicylic acid ( PAS ) granules .
+Phase I pharmacokinetics study .
+University of Arizona School of Pharmacy .
+Sixteen healthy male and female volunteers aged 36 +  - 8 years .
+Subjects received single doses of PAS granules ( 6 g ) combined with cycloserine 500 mg , clofazimine 200 mg , ethionamide 500 mg , and pyridoxine 100 mg .
+Drugs were given on an empty stomach after an overnight fast ( reference ) with high-fat food , with orange juice , and with antacids .
+Four subjects did not complete all four treatments due to adverse events or personal reasons .
+Plasma and urine samples were collected for 48 hours and measured by a validated HPLC assay .
+Pharmacokinetic data analysis was performed with WinNonlin using noncompartmental methods and a one-compartmental model .
+Bioequivalence testing was performed using the mean ratios of the maximum concentrations ( Cmax ) and AUC ( 0-infinity ) of PAS , with 90% confidence intervals .
+Compared with the fasted condition , food increased Cmax 1.5-fold and AUC ( 0-infinity ) 1.7-fold , and it doubled the time to maximum concentration ( tmax ) .
+The least-squares mean ratios ( treatment  reference ) for Cmax were 0.90 ( 58% to 139% CI ) , 1.16 ( 75% to 179% CI ) , and 0.82 ( 52% to 127% CI ) with orange juice , food , or antacid treatment , respectively .
+Corresponding ratios for AUC ( 0-infinity ) were 1.05 ( 71% to 155% CI ) , 1.52 ( 103% to 224% CI ) , and 0.84 ( 57% to 125% CI ) , respectively .
+Food significantly enhanced the absorption of PAS , while orange juice and antacids had minor effects .

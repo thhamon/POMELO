@@ -1,0 +1,17 @@
+TS1911334062	foodSupplement 0 13	Drug-nutrient
+TS811334062	sideeffect 14 26	interactions
+TS2111334062	foodSupplement 54 67	Drug-nutrient
+TS1511334062	sideeffect 68 79	interaction
+TS1711334062	foodSupplement 262 275	drug-nutrient
+TS311334062	sideeffect 276 287	interaction
+TS1211334062	sideeffect 418 430	interactions
+TS1311334062	sideeffect 479 494	graft rejection
+TS1011334062	sideeffect 497 521	opportunistic infections
+TS2011334062	foodSupplement 587 600	drug-nutrient
+TS211334062	sideeffect 601 613	interactions
+TS1411334062	sideeffect 751 762	interaction
+TS1811334062	drug 774 787	cyclosporine-
+R1	relation Arg1:TS1711334062 Arg2:TS311334062	
+T1	foodSupplement 737 750	drug-nutrient
+R2	relation Arg1:T1 Arg2:TS1811334062	
+R3	has_sideeffect Arg1:TS1811334062 Arg2:TS1411334062	

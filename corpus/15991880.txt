@@ -1,0 +1,11 @@
+Effect of food on the pharmacokinetic profile of eslicarbazepine acetate ( BIA 2-093 ) .
+To investigate the effect of food on the pharmacokinetics of eslicarbazepine acetate ( BIA 2-093 ) , a new voltage-gated sodium channel antagonist .
+Single-centre , open-label , randomised , two-way crossover study in 12 healthy subjects .
+The study consisted of two consecutive treatment periods separated by a washout of 14 days or more .
+In each of the study periods subjects were administered a single dose of eslicarbazepine acetate 800 mg following either a standard high-fat content meal or 10 hours of fasting .
+Eslicarbazepine acetate was rapidly and extensively metabolised to BIA 2-005. .
+Maximum BIA 2-005 plasma concentrations ( C ( max ) ) in fed ( test ) and fasting ( reference ) conditions were , respectively , 12.8 +  - 1.8 microg  mL and 11.3 +  - 1.9 microg  mL , and the areas under the plasma concentration time curve from 0 to infinity ( AUC ( infinity ) ) were , respectively , 242.5 +  - 32.1 microg.h  mL and 243.6 +  - 31.1 microg.h  mL ( arithmetic mean +  - SD ) .
+The point estimate ( PE ) and 90% confidence interval ( 90% CI ) of the test  reference C ( max ) geometric mean ratio were 1.14 and 1.04 , 1.25 , respectively ; for the AUC ( infinity ) ratio , the PE and 90% CI were 1.00 and 0.95 , 1.04 , respectively .
+Bioavailability of eslicarbazepine acetate administered in fed and fasting conditions was similar and bioequivalence is accepted for both AUC ( infinity ) and C ( max ) because the 90% CI lies within the acceptance range of 0.80-1.25. .
+No statistically significant differences were found in time of occurrence of C ( max ) .
+The presence of food had no significant effect on the pharmacokinetics of eslicarbazepine acetate and therefore this new voltage-gated sodium channel antagonist may be administered without regard to meals .

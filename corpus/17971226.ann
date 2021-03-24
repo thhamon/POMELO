@@ -1,0 +1,19 @@
+TS2317971226	food 24 40	grapefruit juice
+TS817971226	sideeffect 49 60	interaction
+TS1917971226	drug 82 98	Grapefruit juice
+TS917971226	treatedDisease 175 198	cardiovascular diseases
+TS2417971226	treatedDisease 203 210	cancers
+TS2717971226	food 565 581	grapefruit juice
+TS117971226	sideeffect 587 618	inhibiting these enzyme systems
+TS1717971226	food 621 637	grapefruit juice
+TS2517971226	drug 785 811	calcium channel antagonist
+TS2617971226	drug 820 826	statin
+TS1217971226	sideeffect 981 996	adverse effects
+TS617971226	food 1056 1072	grapefruit juice
+TS717971226	food 1116 1132	grapefruit juice
+TS2817971226	sideeffect 1228 1240	interactions
+R2	treat Arg1:TS1917971226 Arg2:TS917971226	
+R3	treat Arg1:TS1917971226 Arg2:TS2417971226	
+R4	increase_side_effect Arg1:TS1717971226 Arg2:TS117971226	
+R1	relation Arg1:TS1717971226 Arg2:TS2517971226	
+R5	relation Arg1:TS1717971226 Arg2:TS2617971226	

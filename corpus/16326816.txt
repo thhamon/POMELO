@@ -1,0 +1,11 @@
+Transient inhibition of cyp3a in rats by star fruit juice .
+Star fruit juice is a potent in vitro inhibitor of CYP3A ; however , few reports are available on the inhibition of CYP3A activities by star fruit juice in vivo .
+Therefore , in this study , we investigated the CYP3A- CYP3A-mediated star fruit-drug interaction in vivo .
+The effect of star fruit juice on carbamazepine pharmacokinetics was examined in rats .
+In comparison with water , the area under the concentration-time curve ( AUC ) of carbamazepine was approximately 1.3-fold greater when star fruit juice ( 2 ml ) was orally administered 1 h before the oral administration of carbamazepine ( 50 mg  kg ) .
+In contrast , the elimination half-life of carbamazepine and the AUC ratio of carbamazepine 10 , 11-epoxide to carbamazepine were not altered by the administration of star fruit juice .
+These results suggest that star fruit juice impairs the function of enteric CYP3A , but not of hepatic CYP3A .
+In addition , we evaluated the time course of recovery of CYP3A activity that was reduced after the treatment with star fruit juice .
+The inhibition by star fruit juice was recovered within approximately 24 h .
+These data suggest that the effect of star fruit juice is mainly reversible and transient .
+Thus , we discovered that star fruit juice alters the carbamazepine pharmacokinetics in rats .

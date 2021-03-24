@@ -1,0 +1,11 @@
+ADMET considerations for phosphodiesterase-5 inhibitors .
+ADMET ( absorption , distribution , metabolism , excretion , and toxicity ) profiling is an important aspect of all drug developments .
+The pharmaceutical industry must always consider ADMET properties in order to optimize drug candidates and to introduce new formulations against existing marketed drugs .
+Consequently , candidate drug development may be halted early in the discovery phase or during the more costly drug development process because of their poor ADMET properties .
+The main focus of this article is ADMET profiling , pharmacokinetic ( PK ) drug interactions , mechanisms and possible adverse drug reactions ( ADRs ) for approved phosphodiesterase-5 inhibitors ( PDE5Is ) .
+The authors also look at the efficacy and non-erectogenic benefits of current PDE5Is , which are widely used by patients with erectile dysfunction ( ED ) .
+The authors also discuss other unapproved PDE5Is such as aildenafil and udenafil , which are currently in use in clinical trials .
+The authors believe that the enhancing effect of PDE5Is on the nitric oxide ( NO )  cyclic guanosine monophosphate ( cGMP ) pathway means that PDE5Is could be used to treat various conditions .
+An important issue in their development is 'cross-talk' between PDE5 and other PDEs and thus their specificity for other PDEs .
+But while it might be difficult to achieve the ideal ADMET profile , it should not necessarily prevent further development of a lead PDE5I .
+The risk assessment of PDE5Is , with respect to their ADMET properties , is therefore very important for predicting drug-drug interactions , possible side effects , ADRs and its future clinical applications .

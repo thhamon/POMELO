@@ -1,0 +1,20 @@
+Calcium carbonate does not affect nilotinib pharmacokinetics in healthy volunteers .
+Gastric upset is a common side effect of nilotinib therapy , and calcium carbonate is frequently used concomitantly , either as antacid or as calcium supplementation .
+With the increasing number of oral agents in cancer therapy , oral drug-drug interactions are becoming more relevant .
+Nilotinib has already been shown to be absorbed to a much lesser extent when co-administered with proton pump inhibitors .
+Because exposure to sub-therapeutic concentrations of anticancer drugs such as nilotinib may result in selection of resistant clones and ultimately relapse , we studied the effect of a calcium carbonate supplement ( Tums Ultra 1000bigasentr ) on nilotinib pharmacokinetics .
+Calcium carbonate may be co-administered with nilotinib without significantly affecting the pharmacokinetics of nilotinib and potentially impacting efficacy .
+Nilotinib is a second-generation oral tyrosine kinase inhibitor with superior efficacy compared with imatinib mesylate in the treatment for chronic phase chronic myelogenous leukemia .
+Calcium carbonate is commonly used as a source of calcium supplementation or as antacid to ameliorate the gastrointestinal side effects associated with nilotinib , which could have unknown effects on nilotinib absorption .
+The purpose of this study was to provide information on the effect of calcium carbonate on the PK of nilotinib in healthy volunteers .
+Healthy subjects were enrolled in a two-period , open-label , single-institution , randomized , cross-over , fixed-schedule study .
+In one period , each subject received 400 mg of nilotinib p.o. .
+In the other period , 4 , 000 mg of calcium carbonate ( 4 X Tums Ultra 1000bigasentr ) was administered p.o. .
+15 min prior to the nilotinib dose .
+Plasma samples were collected at specified timepoints , concentrations of nilotinib were quantitated by LC-MS , and data were analyzed non-compartmentally .
+Eleven subjects were evaluable .
+Calcium supplementation did not significantly affect nilotinib pharmacokinetic parameters including area under the plasma concentration versus time curve ( 18.4 μg  mL h alone vs. .
+16.9 μg  mL h with calcium carbonate , p = 0.83 ; 80 % power ) ; maximum plasma concentration ( C ( max ) ) ( 0.670 μg  mL alone vs. .
+6.18 μg  mL with calcium carbonate , p = 0.97 ) ; or half-life ( 18.9 h alone vs. .
+17.2 h with calcium carbonate , p = 0.18 ) .
+Our results indicate that the use of calcium carbonate does not significantly affect nilotinib pharmacokinetics .

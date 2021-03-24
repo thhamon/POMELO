@@ -1,0 +1,46 @@
+TS217612708	drug 12 22	selegiline
+TS1917612708	drug 40 78	monoamine oxidase inhibitors ( MAOIs )
+TS1517612708	treatedDisease 113 133	depressive disorders
+TS3417612708	sideeffect 207 218	interaction
+TS2417612708	food 234 258	tyramine-containing food
+TS2517612708	drug 374 384	selegiline
+TS2617612708	drug 394 423	selegiline transdermal system
+TS417612708	treatedDisease 528 544	major depression
+TS2917612708	drug 577 587	selegiline
+TS1117612708	drugEffect 677 737	inhibition of monoamine oxidase ( MAO ) -A and MAO-B enzymes
+TS3717612708	sideeffect 863 875	interactions
+TS3117612708	food 891 910	tyramine-rich foods
+TS117612708	drug 913 921	Tyramine
+TS317612708	drug 1136 1146	selegiline
+TS3317612708	sideeffect 1438 1464	application site reactions
+TS1217612708	sideeffect 1469 1477	insomnia
+TS1817612708	sideeffect 1541 1564	orthostatic hypotension
+TS717612708	sideeffect 1567 1585	sexual dysfunction
+TS3017612708	sideeffect 1590 1601	weight gain
+TS517612708	treatedDisease 1782 1802	depressive disorders
+TS2017612708	treatedDisease 1833 1849	major depression
+T1	modeadm 0 11	Transdermal
+R1	relation Arg1:TS2417612708 Arg2:TS1917612708	
+T2	modeadm 347 358	transdermal
+T3	drug 426 429	STS
+R2	treat Arg1:TS1917612708 Arg2:TS1517612708	
+T4	modeadm 547 558	Transdermal
+T5	drug 665 668	STS
+R3	has_effect Arg1:T5 Arg2:TS1117612708	
+T6	dosage 1006 1010	6 mg
+T7	drug 1011 1014	STS
+T8	dosage 1069 1073	9 mg
+T9	dosage 1078 1083	12 mg
+T10	drug 1084 1087	STS
+T11	food 1038 1059	dietary modifications
+R4	relation Arg1:T11 Arg2:T10	
+T12	modeadm 1124 1135	transdermal
+T13	drug 1321 1324	STS
+T14	drug 1513 1516	STS
+R5	has_sideeffect Arg1:T14 Arg2:TS1217612708	
+R6	has_sideeffect Arg1:T14 Arg2:TS3317612708	
+T15	drug 1626 1629	STS
+T16	drug 1671 1675	MAOI
+T17	drug 1644 1647	STS
+T18	drug 1714 1719	MAOIs
+T19	drug 1985 1988	STS

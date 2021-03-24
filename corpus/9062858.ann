@@ -1,0 +1,43 @@
+TS249062858	food 38 41	tea
+TS129062858	food 46 52	coffee
+TS279062858	drug 87 100	chlorhexidine
+TS289062858	drug 190 203	chlorhexidine
+TS239062858	drug 287 298	antiseptics
+TS89062858	drug 309 322	chlorhexidine
+TS99062858	food 393 398	foods
+TS189062858	food 403 412	beverages
+TS299062858	food 523 526	tea
+TS19062858	food 530 536	coffee
+TS109062858	drug 598 611	chlorhexidine
+TS39062858	drug 677 690	chlorhexidine
+TS199062858	food 705 708	tea
+TS159062858	food 713 719	coffee
+TS169062858	food 882 885	tea
+TS259062858	food 890 896	coffee
+TS119062858	food 910 916	coffee
+TS49062858	food 956 959	tea
+TS59062858	food 988 994	coffee
+TS219062858	food 1014 1017	tea
+TS29062858	food 1098 1106	beverage
+TS69062858	food 1176 1179	tea
+TS139062858	food 1184 1190	coffee
+TS149062858	sideeffect 1205 1231	dental and tongue staining
+TS269062858	drug 1248 1261	chlorhexidine
+TS209062858	food 1307 1310	tea
+TS229062858	food 1315 1321	coffee
+TS179062858	food 1434 1437	tea
+TS79062858	food 1442 1448	coffee
+T1	sideeffect 62 70	staining
+R5	has_sideeffect Arg1:TS279062858 Arg2:T1	
+R6	increase_side_effect Arg1:TS129062858 Arg2:T1	
+R7	increase_side_effect Arg1:TS249062858 Arg2:T1	
+T2	sideeffect 103 118	Dental staining
+T3	modeadm 204 208	oral
+T4	sideeffect 344 379	bind to surfaces anionic chromogens
+T5	sideeffect 567 581	cause staining
+R1	increase_side_effect Arg1:TS19062858 Arg2:T5	
+R8	increase_side_effect Arg1:TS299062858 Arg2:T5	
+R9	has_sideeffect Arg1:TS109062858 Arg2:T5	
+R2	increase_side_effect Arg1:TS139062858 Arg2:TS149062858	
+R10	reduce_side_effect Arg1:TS69062858 Arg2:TS149062858	
+R4	has_sideeffect Arg1:TS269062858 Arg2:TS149062858	

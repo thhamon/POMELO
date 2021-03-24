@@ -1,0 +1,47 @@
+TS229049582	drug 41 101	inhibitor of acyl coenzyme A A: cholesterol acyl transferase
+TS109049582	drugEffect 126 132	levels
+TS199049582	drug 225 291	inhibitor of acyl coenzyme A ( CoA ) : cholesterol acyltransferase
+TS149049582	mealTime 488 494	a meal
+TS219049582	mealTime 763 769	a meal
+TS129049582	food 1314 1318	food
+TS289049582	mealTime 1440 1446	fasted
+TS269049582	mealTime 1497 1504	fasting
+TS89049582	mealTime 1541 1547	a meal
+TS239049582	drugEffect 1563 1578	bioavailability
+TS19049582	food 1599 1603	food
+TS179049582	mealTime 1755 1764	breakfast
+TS259049582	mealTime 1775 1781	dinner
+TS189049582	mealTime 1862 1871	breakfast
+TS159049582	drugEffect 2310 2334	serum cholesterol levels
+TS279049582	sideeffect 2679 2688	diarrhoea
+T1	drug 30 35	YM17E
+T2	dosage 190 194	oral
+T3	drug 209 214	YM17E
+T4	drug 459 464	YM17E
+T5	dosage 605 606	3
+T6	dosage 609 611	60
+T7	dosage 616 622	300 mg
+T8	dosage 626 644	15 , 60 and 450 mg
+T9	food 645 650	YM17E
+T10	modeadm 725 729	oral
+T11	dosage 748 756	3-300 mg
+T12	dosage 863 869	450 mg
+T13	dosage 900 906	300 mg
+T14	drug 919 924	YM17E
+T15	drug 1186 1191	YM17E
+T16	dosage 1286 1297	3 to 300 mg
+T17	dosage 1415 1421	150 mg
+T18	drug 1422 1427	YM17E
+R1	no_effect_on_drug Arg1:TS19049582 Arg2:TS239049582	
+T19	dosage 1682 1688	150 mg
+T20	dosage 1692 1698	300 mg
+T21	frequency 1735 1746	twice a day
+T22	duration 1784 1794	for 7 days
+T23	drug 1837 1842	YM17E
+T24	frequency 1843 1853	once a day
+T25	dosage 1959 1965	150 mg
+T26	dosage 2089 2095	300 mg
+T27	dosage 2401 2407	150 mg
+T28	dosage 2560 2566	300 mg
+T29	frequency 2567 2578	twice daily
+T30	drugEffect 2604 2627	serum cholesterol level

@@ -1,0 +1,16 @@
+TS920970282	food 12 23	fruit juice
+TS1720970282	sideeffect 109 129	postprandial syncope
+TS1320970282	sideeffect 134 153	atrial fibrillation
+TS820970282	drug 162 172	amiodarone
+TS2020970282	sideeffect 258 281	ventricular arrhythmias
+TS320970282	sideeffect 308 326	torsade de pointes
+TS1420970282	food 463 479	grapefruit juice
+TS1020970282	sideeffect 496 531	inhibition of amiodarone metabolism
+TS520970282	food 543 559	grapefruit juice
+TS1820970282	sideeffect 594 615	proarrhythmic effects
+T1	sideeffect 226 241	QT prolongation
+R1	has_sideeffect Arg1:TS820970282 Arg2:T1	
+R2	has_sideeffect Arg1:TS820970282 Arg2:TS2020970282	
+R3	has_sideeffect Arg1:TS820970282 Arg2:TS320970282	
+R4	increase_side_effect Arg1:TS520970282 Arg2:TS1020970282	
+R5	increase_side_effect Arg1:TS520970282 Arg2:TS1820970282	

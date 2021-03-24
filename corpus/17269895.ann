@@ -1,0 +1,11 @@
+TS1617269895	sideeffect 75 104	drug-fruit juice interactions
+TS2517269895	drugEffect 418 433	bioavailability
+TS2017269895	drugEffect 983 998	bioavailability
+TS617269895	sideeffect 1050 1076	inhibit only enteric CYP3A
+TS217269895	food 1080 1096	grapefruit juice
+TS2417269895	food 1213 1229	grapefruit juice
+TS1117269895	sideeffect 1287 1309	drug-diet interactions
+TS3217269895	sideeffect 1388 1410	drug-drug interactions
+TS1817269895	sideeffect 1561 1583	drug-diet interactions
+T1	modeadm 413 417	oral
+R1	increase_side_effect Arg1:TS217269895 Arg2:TS617269895	

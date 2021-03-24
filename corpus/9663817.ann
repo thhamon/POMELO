@@ -1,0 +1,51 @@
+TS169663817	food 10 14	food
+TS49663817	drugEffect 22 37	bioavailability
+TS149663817	food 223 227	food
+TS229663817	mealTime 492 497;512 521	after breakfast
+TS79663817	mealTime 546 569	after an overnight fast
+TS69663817	mealTime 621 634	fasting state
+TS29663817	mealTime 659 674	after breakfast
+TS19663817	mealTime 690 699	breakfast
+TS199663817	mealTime 745 758	fasting state
+TS189663817	mealTime 779 792	fasting state
+TS59663817	food 827 831	food
+TS89663817	mealTime 958 965	fasting
+TS119663817	mealTime 982 985	fed
+TS99663817	mealTime 1030 1037	fasting
+TS129663817	mealTime 1053 1056	fed
+TS109663817	mealTime 1103 1110	fasting
+TS139663817	mealTime 1127 1130	fed
+TS159663817	food 1208 1212	food
+TS239663817	food 1577 1581	food
+T1	drug 41 56	triclabendazole
+T2	treatedDisease 74 86	fascioliasis
+T3	drug 139 154	triclabendazole
+T4	drug 157 161	TCBZ
+T5	mealTime 177 191	postprandially
+R2	increase_absorption Arg1:T5 Arg2:T3	
+T6	drug 255 259	TCBZ
+T7	drug 275 297;324 335	sulphoxide ( TCBZ-SO ) metabolites
+T8	drug 302 335	sulphone ( TCBZ-SO2 ) metabolites
+R1	relation Arg1:TS149663817 Arg2:T6	
+R3	relation Arg1:TS149663817 Arg2:T7	
+R4	relation Arg1:TS149663817 Arg2:T8	
+T9	food 500 521	high energy breakfast
+T10	numbers 582 584	10
+T11	food 679 699	low energy breakfast
+T12	drug 903 907	TCBZ
+T13	drug 910 917	TCBZ-SO
+T14	drug 922 930	TCBZ-SO2
+T15	drug 951 955	TCBZ
+T16	drug 1020 1027	TCBZ-SO
+T17	drug 1092 1100	TCBZ-SO2
+T18	drug 1257 1285	active sulphoxide metabolite
+T19	mealTime 1409 1421	postprandial
+T20	drug 1431 1446	triclabendazole
+T21	dosage 1449 1457	10 mg kg
+T22	drug 1556 1571	triclabendazole
+T23	treatedDisease 1649 1661	fascioliasis
+T24	treatedDisease 1665 1679	paragonimiasis
+R5	treat Arg1:T1 Arg2:T2	
+R6	improve_drug_effect Arg1:TS239663817 Arg2:T22	
+R7	treat Arg1:T22 Arg2:T23	
+R8	treat Arg1:T22 Arg2:T24	

@@ -1,0 +1,38 @@
+TS107859239	mealTime 10 15	meals
+TS307859239	drug 48 60	theophylline
+TS97859239	drugEffect 61 76	bioavailability
+TS227859239	drugEffect 132 147	bioavailability
+TS27859239	drug 151 163	theophylline
+TS297859239	food 350 354	food
+TS197859239	drug 505 517	theophylline
+TS127859239	mealTime 548 555	fasting
+TS207859239	drug 631 643	theophylline
+TS137859239	mealTime 654 661	fasting
+TS47859239	food 707 722	a high-fat meal
+TS147859239	mealTime 787 794	fasting
+TS157859239	mealTime 841 848	fasting
+TS77859239	mealTime 1128 1135	fasting
+TS247859239	mealTime 1167 1170	fed
+TS87859239	mealTime 1239 1246	fasting
+TS277859239	drug 1263 1275	theophylline
+TS257859239	drug 1514 1526	theophylline
+TS67859239	mealTime 1573 1576	fed
+TS267859239	mealTime 1689 1696	fasting
+TS287859239	drug 1833 1845	theophylline
+TS317859239	mealTime 1917 1924	fasting
+TS17859239	drug 2088 2100	theophylline
+TS217859239	food 2191 2195	food
+TS57859239	drug 2385 2397	theophylline
+TS177859239	drugEffect 2398 2410	serum levels
+T1	frequency 459 475	1-week intervals
+T2	dosage 538 544	100 mg
+T3	dosage 624 630	600-mg
+T4	dosage 687 693	600-mg
+T5	dosage 739 745	600-mg
+T6	dosage 824 830	400-mg
+T7	dosage 1119 1125	600 mg
+T8	mealTime 1158 1164	600 mg
+T9	dosage 1230 1236	400 mg
+T10	dosage 1773 1779	400-mg
+T11	dosage 1910 1916	600-mg
+R1	no_effect_on_drug Arg1:TS217859239 Arg2:TS17859239	

@@ -1,0 +1,28 @@
+TS1018955941	drug 0 28	Monoamine oxidase inhibitors
+TS318955941	drug 71 86	antidepressants
+TS918955941	drug 89 127	Monoamine oxidase inhibitors ( MAOIs )
+TS1918955941	sideeffect 282 299	drug interactions
+TS818955941	treatedDisease 658 672	panic disorder
+TS718955941	treatedDisease 685 702	anxiety disorders
+TS1218955941	sideeffect 1073 1098	hypertensive interactions
+TS618955941	food 1104 1120	dietary tyramine
+TS1818955941	sideeffect 1160 1177	drug interactions
+TS1318955941	sideeffect 1195 1217	hypertensive reactions
+TS1718955941	sideeffect 1238 1258	serotonin toxicities
+TS1618955941	food 1412 1417	foods
+T1	food 270 277	dietary
+T2	drug 303 308	MAOIs
+R1	relation Arg1:T1 Arg2:T2	
+R2	relation Arg1:T1 Arg2:TS1918955941	
+T3	drug 362 367	MAOIs
+T4	drug 517 522	MAOIs
+T5	treatedDisease 645 655	depression
+T6	drug 799 804	MAOIs
+T7	drug 999 1004	MAOIs
+T8	sideeffect 1048 1060	side effects
+R3	has_sideeffect Arg1:T7 Arg2:TS1218955941	
+R5	negative_effect_on_drug Arg1:TS618955941 Arg2:T7	
+R6	increase_side_effect Arg1:TS618955941 Arg2:TS1218955941	
+T9	sideeffect 1135 1151	cheese reactions
+T10	drug 1329 1334	MAOIs
+T11	drug 1474 1479	MAOIs

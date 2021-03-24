@@ -1,0 +1,28 @@
+TS1721909143	drug 431 438	aspirin
+TS2521909143	treatedDisease 545 572	acute myocardial infarction
+TS821909143	drug 575 582	aspirin
+TS621909143	sideeffect 630 646	thrombocytopenia
+TS2121909143	drug 871 886	anticoagulation
+TS1521909143	sideeffect 916 932	thrombocytopenia
+TS221909143	drug 935 950	Anticoagulation
+TS1821909143	drug 956 963	heparin
+TS1621909143	drug2 1099 1108	platelets
+TS321909143	sideeffect 1178 1195	venous thrombosis
+TS521909143	sideeffect 1254 1264	thrombosis
+TS2021909143	sideeffect 1268 1286	pulmonary embolism
+TS1921909143	drug 1313 1328	anticoagulation
+TS2321909143	sideeffect 1346 1365	catheter thrombosis
+TS1121909143	sideeffect 1415 1423	bleeding
+TS721909143	drug 1477 1491	anticoagulants
+TS1221909143	sideeffect 1514 1531	food interactions
+TS2621909143	food4 1549 1556	choices
+TS2721909143	food4 1688 1695	choices
+T1	drug 30 52	antithrombotic therapy
+T2	treatedDisease 317 333	arterial disease
+R1	treat Arg1:TS821909143 Arg2:TS2521909143	
+T3	treatedDisease 1169 1193	distal venous thrombosis
+T4	drug 1311 1326	anticoagulation
+R2	treat Arg1:T4 Arg2:T3	
+T5	treatedDisease 1329 1363	Central venous catheter thrombosis
+T6	sideeffect 1413 1421	bleeding
+T7	drug 1475 1489	anticoagulants

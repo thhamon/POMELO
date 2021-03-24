@@ -1,0 +1,67 @@
+TS4915456329	drug 0 10	Nabumetone
+TS1015456329	sideeffect 79 93	osteoarthritis
+TS1615456329	sideeffect 98 118	rheumatoid arthritis
+TS4615456329	drug 121 131	Nabumetone
+TS3215456329	drug 137 167	nonsteroidal anti-inflammatory
+TS1515456329	drug2 265 269	acid
+TS515456329	drug 282 292	Nabumetone
+TS5715456329	drug 303 313	non-acidic
+TS915456329	other 377 387	metabolism
+TS4515456329	drug 569 579	nabumetone
+TS2315456329	food 632 639	alcohol
+TS1815456329	drug 702 713	acetic acid
+R1	relation Arg1:TS2315456329 Arg2:TS1815456329
+TS5215456329	drug 753 763	nabumetone
+TS815456329	drug 917 927	Nabumetone
+TS5515456329	treatedDisease 990 1004	osteoarthritis
+TS5415456329	treatedDisease 1015 1035	rheumatoid arthritis
+TS2915456329	treatedDisease 1053 1057	pain
+TS4815456329	treatedDisease 1062 1074	inflammation
+TS3715456329	drug 1102 1112	nabumetone
+TS1315456329	treatedDisease 1154 1176	ankylosing spondylitis
+TS2715456329	drug 1245 1255	nabumetone
+TS1215456329	drug 1428 1438	nabumetone
+TS115456329	mealTime 1443 1453	at bedtime
+TS3515456329	drug 1576 1586	nabumetone
+TS4015456329	drug 1631 1638	aspirin
+TS3415456329	drug 1641 1661	acetylsalicylic acid
+TS2815456329	drug 1666 1676	diclofenac
+TS4415456329	drug 1679 1688	piroxicam
+TS2515456329	drug 1691 1700	ibuprofen
+TS3015456329	drug 1705 1713	naproxen
+TS4115456329	drug 1829 1839	nabumetone
+TS1115456329	sideeffect 1888 1903	adverse effects
+TS315456329	sideeffect 1964 1973	diarrhoea
+TS4215456329	sideeffect 1976 1985	dyspepsia
+TS3615456329	sideeffect 1988 1996	headache
+TS2615456329	sideeffect 1999 2013	abdominal pain
+TS4315456329	sideeffect 2018 2024	nausea
+TS3915456329	drug 2065 2075	nabumetone
+TS715456329	sideeffect 2119 2130	ulcerations
+TS5115456329	drug 2432 2442	nabumetone
+TS5615456329	drug 2523 2533	nabumetone
+TS1915456329	sideeffect 2603 2611	bleeding
+TS1715456329	drug 2774 2784	nabumetone
+TS5315456329	drug 2802 2819	anti-inflammatory
+TS3115456329	drug 2824 2833	analgesic
+TS415456329	treatedDisease 2862 2871	arthritis
+R2	treat Arg1:TS815456329 Arg2:TS5515456329	
+R3	treat Arg1:TS815456329 Arg2:TS5415456329	
+R4	treat Arg1:TS3715456329 Arg2:TS1315456329	
+T1	frequency 1279 1289	once daily
+T2	drug 1381 1408	nonselective COX inhibitors
+T3	dosage 1485 1492	0.5-1 g
+T4	drug 1933 1947	COX inhibitors
+R5	has_sideeffect Arg1:T4 Arg2:TS315456329	
+R6	has_sideeffect Arg1:T4 Arg2:TS4215456329	
+R7	has_sideeffect Arg1:T4 Arg2:TS3615456329	
+R8	has_sideeffect Arg1:T4 Arg2:TS2615456329	
+R9	has_sideeffect Arg1:T4 Arg2:TS4315456329	
+T5	drug 2048 2062	COX inhibitors
+T6	sideeffect 2101 2116	GI perforations
+T7	sideeffect 2135 2144	bleedings
+R10	has_sideeffect Arg1:TS3915456329 Arg2:T6	
+R11	has_sideeffect Arg1:TS3915456329 Arg2:TS715456329	
+R12	has_sideeffect Arg1:TS3915456329 Arg2:T7	
+T8	drug 2459 2481	COX-1  COX-2 inhibitor
+T9	drug 2745 2771	COX-2 selective inhibitors

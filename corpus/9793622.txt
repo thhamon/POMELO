@@ -1,0 +1,14 @@
+Bioavailability , food effect and tolerability of S-naproxen betainate sodium salt monohydrate in steady state .
+S-Naproxen betainate sodium salt monohydrate ( naproxen- naproxen-beta Na , CAS 104124-26-7 , Aprenin ) in 550 mg capsules ( corresponding to 327 mg of naproxen ) was administered to 24 healthy volunteers ( 12 males and 12 females ) b.i.d. .
+to steady state in order to check its bioavailability , food interaction and tolerability .
+Plasma concentrations of naproxen were measured by a well validated HPLC method with fluorimetric detection as a morning pre-dose on days 1 to 6 and in timed samples in three different situations , as follows: a ) after the morning dose on day 7 in a fasting status , b ) after the evening dose and dinner on day 7 and c ) after the morning dose of day 8 , taken after a high-fat content breakfast .
+Pharmacokinetic parameters were evaluated from plasma concentrations by non-compartmental analysis to describe the above three situations .
+The steady state was reached early , namely by the second day of treatment .
+The extent of absorption did not differ in the three situations tested , whereas the rate of absorption was fastest in fasting conditions , lowest with the evening dose and intermediate after the high-fat content breakfast .
+The slow absorption rate of the evening dose was attributed to a circadian rhythm and should allow therapeutically active levels early in the morning , when arthritis pain is particularly tedious .
+In the three situations explored Cmax , Cmin and AUC were associated with CV % values ranging from 11.7 to 17.2% , which are very low and rare in pharmacokinetic trials .
+This low variability should allow an accurate estimate of the therapeutic effect expected .
+Tolerability was checked by objective and subjective symptoms , including vital signs , blood  urine biochemical parameters and occult blood in stools , and proved to be very good .
+From the comparison of these data with those previously published by other authors who have administered 500 mg of naproxen b.i.d. .
+, pre-dose concentrations in a steady state proved to be similar , despite the different doses administered , whereas Cmax and AUC obtained in this study were marginally lower .
+The kind of food interaction was the same as previously described in literature with naproxen .

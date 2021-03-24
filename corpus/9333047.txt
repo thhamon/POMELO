@@ -1,0 +1,12 @@
+Effects of food and sucralfate on a single oral dose of 500 milligrams of levofloxacin in healthy subjects .
+The effects of food and sucralfate on the pharmacokinetics of levofloxacin following the administration of a single 500-mg oral dose were investigated in a randomized , three-way crossover study with young healthy subjects ( 12 males and 12 females ) .
+Levofloxacin was administered under three conditions: fasting , fed ( immediately after a standardized high-fat breakfast ) , and fasting with sucralfate given 2 h following the administration of levofloxacin .
+The concentrations of levofloxacin in plasma and urine were determined by high-pressure liquid chromatography .
+By noncompartmental methods , the maximum concentration of drug in serum ( Cmax ) , the time to Cmax ( Tmax ) , the area under the concentration-time curve ( AUC ) , half-life ( t1  2 ) , clearance ( CL  F ) , renal clearance ( CLR ) , and cumulative amount of levofloxacin in urine ( Ae ) were estimated .
+The individual profiles of the drug concentration in plasma showed little difference among the three treatments .
+The only consistent effect of the coadministration of levofloxacin with a high-fat meal for most subjects was that levofloxacin absorption was delayed and Cmax was slightly reduced ( Tmax , 1.0 and 2.0 h for fasting and fed conditions , respectively [P = 0.002] ; Cmax , 5.9 +  - 1.3 and 5.1 +  - 0.9 microg  ml [90% confidence interval = 0.79 to 0.94] for fasting and fed conditions , respectively ) .
+Sucralfate , which was administered 2 h after the administration of levofloxacin , appeared to have no effect on levofloxacin' levofloxacin's disposition compared with that under the fasting condition .
+Mean values of Cmax and AUC from time zero to infinity were 6.7 +  - 3.2 microg  ml and 47.9 +  - 8.4 microg x h  ml , respectively , following the administration of sucralfate compared to values of 5.9 +  - 1.3 microg  ml and 50.5 +  - 8.1 microg x h  ml , respectively , under fasting conditions .
+The mean t1  2 , CL  F , CLR , and Ae values were similar among all three treatment groups .
+In conclusion , the absorption of levofloxacin was slightly delayed by food , although the overall bioavailability of levofloxacin following a high-fat meal was not altered .
+Finally , sucralfate did not alter the disposition of levofloxacin when sucralfate was given 2 h after the administration of the antibacterial agent , thus preventing a potential drug-drug interaction .

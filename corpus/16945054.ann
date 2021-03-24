@@ -1,0 +1,22 @@
+TS1016945054	sideeffect 0 11	Interaction
+TS1716945054	drug 20 28	warfarin
+TS1616945054	food 33 48	cranberry juice
+TS716945054	drug 51 59	Warfarin
+TS516945054	drugEffect 84 99	anticoagulation
+TS1416945054	foodSupplement 239 258	dietary supplements
+TS2016945054	sideeffect 372 394	bleeding complications
+TS1316945054	drug 397 412	Cranberry juice
+TS1816945054	treatedDisease 481 505	urinary tract infections
+TS2116945054	sideeffect 600 611	interaction
+TS116945054	drug 620 628	warfarin
+TS1216945054	food 633 648	cranberry juice
+TS2316945054	food 790 805	cranberry juice
+TS916945054	drug 818 826	warfarin
+TS616945054	food2 854 859	juice
+TS2216945054	sideeffect 894 905	interaction
+TS816945054	sideeffect 953 964	interaction
+R2	relation Arg1:TS1616945054 Arg2:TS1716945054	
+R3	has_effect Arg1:TS716945054 Arg2:TS516945054	
+T1	sideeffect 349 368	therapeutic failure
+R4	treat Arg1:TS1316945054 Arg2:TS1816945054	
+R1	negative_effect_on_drug Arg1:TS2316945054 Arg2:TS916945054	

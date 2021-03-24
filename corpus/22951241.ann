@@ -1,0 +1,24 @@
+TS322951241	drug 11 39	monoamine oxidase inhibitors
+TS122951241	treatedDisease 155 180	major depressive disorder
+TS922951241	drug 359 397	monoamine oxidase inhibitors ( MAOIs )
+TS1022951241	drug 451 475	antidepressant treatment
+TS222951241	drug 478 506	Monoamine oxidase inhibitors
+TS1522951241	food 878 883	diets
+TS1622951241	sideeffect 965 982	drug interactions
+TS622951241	treatedDisease 1144 1151	anxiety
+TS1122951241	treatedDisease 1157 1183	anergic bipolar depression
+T1	modeadm 617 640	transdermal formulation
+T2	drug 647 651	MAOI
+T3	food 681 701	dietary restrictions
+T4	drug 710 715	MAOIs
+T5	modeadm 705 709	oral
+T6	drug 921 925	MAOI
+T7	modeadm 909 920	transdermal
+R1	has_sideeffect Arg1:T6 Arg2:TS1622951241	
+T8	drug 1055 1059	MAOI
+T9	treatedDisease 1089 1119	treatment-resistant depression
+T10	treatedDisease 1122 1141	atypical depression
+R2	treat Arg1:T8 Arg2:T9	
+R3	treat Arg1:T8 Arg2:T10	
+R4	treat Arg1:T8 Arg2:TS622951241	
+R5	treat Arg1:T8 Arg2:TS1122951241	

@@ -1,0 +1,16 @@
+TS3210994829	food 0 21	Drug-grapefruit juice
+TS2110994829	sideeffect 22 34	interactions
+TS1610994829	food 37 53	Grapefruit juice
+TS2010994829	food 58 66	beverage
+TS210994829	food 308 324	grapefruit juice
+TS1710994829	drug 452 464	cyclosporine
+TS2810994829	drug 538 596	3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors
+TS1110994829	sideeffect 730 745	adverse effects
+TS710994829	food 927 943	grapefruit juice
+TS810994829	food 1050 1066	grapefruit juice
+TS2410994829	sideeffect 1067 1079	interactions
+TS2510994829	sideeffect 1129 1141	interactions
+T1	sideeffect 130 178	inhibitor of the intestinal cytochrome P-450 3A4
+T2	sideeffect 273 298	inhibition of this enzyme
+T3	drug 472 513	1 , 4-dihydropyridine calcium antagonists
+R1	relation Arg1:TS810994829 Arg2:TS2410994829	

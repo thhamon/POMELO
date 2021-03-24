@@ -1,0 +1,22 @@
+TS1119058474	sideeffect 27 55;6 22	gastrointestinal haemorrhage haemopericardium
+TS619058474	sideeffect 72 83	interaction
+TS119058474	food 87 102	cranberry juice
+TS419058474	drug 108 116	warfarin
+R1	relation Arg1:TS119058474 Arg2:TS419058474
+TS919058474	sideeffect 145 165	internal haemorrhage
+TS819058474	food 202 217	cranberry juice
+TS1019058474	drug 270 278	warfarin
+R2	relation Arg1:TS819058474 Arg2:TS1019058474
+TS1719058474	food 369 381	fruit juices
+TS1319058474	drugEffect 401 420	potency of warfarin
+TS1519058474	sideeffect 424 483	competing for the enzymes that normally inactivate warfarin
+TS1819058474	food 546 558	fruit juices
+R4	has_sideeffect Arg1:TS419058474 Arg2:TS1119058474	
+R5	increase_side_effect Arg1:TS119058474 Arg2:TS619058474	
+R6	has_sideeffect Arg1:TS1019058474 Arg2:TS919058474	
+R7	increase_side_effect Arg1:TS819058474 Arg2:TS919058474	
+T1	drug 335 345	flavonoids
+R3	improve_drug_effect Arg1:TS1719058474 Arg2:TS1319058474	
+R8	increase_side_effect Arg1:TS1719058474 Arg2:TS1519058474	
+T2	sideeffect 602 624	adverse drug reactions
+R9	relation Arg1:TS1819058474 Arg2:T2	

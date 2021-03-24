@@ -1,0 +1,38 @@
+TS2510741622	food 42 58	grapefruit juice
+TS210741622	drug 118 129	nisoldipine
+R1	relation Arg1:TS2510741622 Arg2:TS210741622
+TS3010741622	food 258 274	grapefruit juice
+TS4310741622	drug 285 296	nisoldipine
+R2	relation Arg1:TS3010741622 Arg2:TS4310741622
+TS1210741622	drug 416 427	nisoldipine
+TS2110741622	food 433 438	water
+TS1310741622	drug 466 477	nisoldipine
+TS310741622	food 490 506	grapefruit juice
+TS2210741622	food 522 527	water
+TS410741622	food 635 651	grapefruit juice
+TS1910741622	food 654 670	Grapefruit juice
+TS2810741622	drug 771 782	nisoldipine
+TS2010741622	food 913 929	grapefruit juice
+TS2910741622	drug 935 946	nisoldipine
+R5	relation Arg1:TS1910741622 Arg2:TS2810741622
+TS1010741622	sideeffect 949 958	Headaches
+TS1110741622	sideeffect 1077 1086	headaches
+TS3110741622	drug 1159 1170	nisoldipine
+TS3410741622	food 1205 1221	grapefruit juice
+TS3510741622	food 1355 1371	grapefruit juice
+TS2610741622	food 1574 1590	grapefruit juice
+TS4810741622	food 1656 1673	grapefruit juice-
+TS4610741622	drug 1680 1691	nisoldipine
+TS3810741622	sideeffect 1656 1672;1680 1703	grapefruit juice nisoldipine interaction
+R8	relation Arg1:TS2610741622 Arg2:TS4610741622
+T1	dosage 405 410	10 mg
+T2	modeadm 411 415	oral
+T3	dosage 456 460	5 mg
+T4	modeadm 461 465	oral
+T5	frequency 612 624	thrice-daily
+T6	sideeffect 689 706	affect heart rate
+T7	sideeffect 821 871	decreases of systolic and diastolic blood pressure
+R3	has_sideeffect Arg1:TS2910741622 Arg2:T7	
+R4	increase_side_effect Arg1:TS2010741622 Arg2:T7	
+R6	negative_effect_on_drug Arg1:TS2010741622 Arg2:TS2910741622	
+R9	slow_elimination Arg1:TS3410741622 Arg2:TS3110741622	

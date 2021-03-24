@@ -1,0 +1,19 @@
+TS116035690	food 18 24	garlic
+TS916035690	drug 27 33	Garlic
+TS616035690	drugEffect 106 120	antineoplastic
+TS1116035690	drug 154 160	Sulfur
+TS1316035690	food 252 258	garlic
+TS1516035690	food 303 309	lipid-
+TS716035690	drugEffect 453 476	antineoplastic activity
+TS816035690	food 588 594	Garlic
+TS316035690	drug 662 676	anticoagulants
+TS416035690	food 746 752	garlic
+TS516035690	food 793 799	garlic
+TS216035690	sideeffect 812 820	bleeding
+T1	drugEffect 127 140	antimicrobial
+R1	has_effect Arg1:TS916035690 Arg2:TS616035690	
+R3	has_effect Arg1:TS916035690 Arg2:T1	
+T2	drug 183 190	allicin
+T3	drugEffect 516 538	antimicrobial activity
+R2	relation Arg1:TS816035690 Arg2:TS316035690	
+R4	increase_side_effect Arg1:TS516035690 Arg2:TS216035690	

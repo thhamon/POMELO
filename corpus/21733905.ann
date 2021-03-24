@@ -1,0 +1,18 @@
+TS1221733905	foodSupplement 14 43	enteral nutrition supplements
+TS821733905	drug 53 65	voriconazole
+TS421733905	drugEffect 66 72	levels
+TS1321733905	drugEffect 185 191	levels
+TS1421733905	drugEffect 230 236	levels
+TS1621733905	food3 294 299	feeds
+TS1121733905	drugEffect 391 403	serum levels
+TS721733905	drug 434 446	voriconazole
+TS621733905	drugEffect 732 738	levels
+TS221733905	foodSupplement 782 811	enteral nutrition supplements
+TS321733905	drug 378 390	voriconazole
+R1	relation Arg1:TS1221733905 Arg2:TS821733905	
+T1	drug 195 207	voriconazole
+T2	foodSupplement 510 540	supplemental enteral nutrition
+R2	without_food Arg1:T2 Arg2:TS721733905	
+T3	drug 719 731	voriconazole
+T4	drug 754 766	voriconazole
+R3	without_food Arg1:TS221733905 Arg2:T4	

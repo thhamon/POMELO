@@ -1,0 +1,12 @@
+Optimizing the absorption of valspodar , a P-glycoprotein modulator , Part I: Selecting an oral formulation and exploring its clinical pharmacokinetics  dynamics .
+Valspodar is a cyclosporine D analog used as a chemotherapy adjunct for modifying multidrug resistance .
+Two studies were sequentially performed to select an optimal oral formulation and to characterize selected aspects of its clinical pharmacokinetics  dynamics .
+An initial four-way crossover study with 20 volunteers compared the pharmacokinetics of single fasting administrations of 200 mg by intravenous infusion and 600 mg orally as a conventional oral solution , a microemulsion oral solution , and a microemulsion soft gelatin capsule .
+The two microemulsion dosage forms demonstrated significantly faster and less variable rates of absorption compared with the conventional oral solution .
+The microemulsion dosage forms were bioequivalent with absolute bioavailability nearly double that of the conventional oral solution .
+Based on these results , the microemulsion capsule was further investigated in a four-way randomized crossover study with 24 volunteers who received single fasting administrations of 200 , 400 , and 600 mg and a 400-mg administration after a fat- fat-rich meal .
+Dose proportionality in area under the curve ( AUC ) was demonstrated over this dose range .
+Administration after a fat- fat-rich meal caused a slight time lag until absorption began , a delay in time to reach the peak concentration , and a moderate increase of 24% in AUC .
+Serial determinations of total bilirubin were explored as a potential pharmacodynamic marker for P-glycoprotein inhibition .
+A similar magnitude of reversible hyperbilirubinemia was seen at all dose levels suggesting that P-glycoprotein inhibition in the biliary canaliculi was maximal even at the lowest dose tested .
+The microemulsion formulation ( oral solution or soft gelatin capsule ) represents an improved and less variable oral delivery form providing dose-proportional drug exposure over a clinically relevant dose range .

@@ -1,0 +1,15 @@
+Effects of food on the pharmacokinetics of levodopa in a dual-release formulation .
+The objective was to assess the effect of food on the pharmacokinetics of levodopa and 3-O-methyldopa after administration of a new levodopa  benserazide formulation with a dual-release drug delivery profile ( Madopar DR ) .
+In an open-label , two-way cross-over study , 19 healthy volunteers who had fasted overnight were randomized to receive a single oral dose of levodopa  benserazide ( 200  50 mg ) in the absence or presence of a standardized , high-fat breakfast , administered 30 min before drug administration .
+The treatment periods ( fasting , non-fasting ) were preceded by a baseline regimen of levodopa  benserazide ( 100  25 mg t.i.d. .
+for 6 or 7 days ) .
+Blood samples were taken at specific times over a 12-hour period .
+Plasma concentrations of levodopa and 3-O-methyldopa were determined by high-performance liquid chromatography for pharmacokinetic evaluation .
+The parameter C ( max ) of levodopa was significantly lower and t ( max ) longer under postprandial conditions than under fasting conditions ( mean C ( max ) 1.41 vs. .
+2.09 mg l ( -1 ) ; mean t ( max ) 3.1 vs. .
+1.0 h ) .
+With food , the area under the curve ( AUC ) of levodopa was equivalent to that following an overnight fast .
+Compared with volunteers who had fasted , food did not alter t ( 1  2 ) .
+Estimates of C ( max ) , t ( max ) and AUC of 3-O-methyldopa under non-fasting conditions were not significantly different from those under fasting conditions .
+In conclusion , food decreases the rate of levodopa absorption , but had no effect on the systemic exposure to levodopa and the degree of 3-O-methyldopa formation .
+Standardization of levodopa  benserazide administration with respect to meal times is recommended .

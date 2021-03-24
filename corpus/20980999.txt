@@ -1,0 +1,9 @@
+A phase I study of the pharmacokinetic and safety profiles of oral pazopanib with a high-fat or low-fat meal in patients with advanced solid tumors .
+Pazopanib is an oral angiogenesis inhibitor of vascular endothelial growth factor ( VEGF ) receptor , platelet-derived growth factor receptor , and cytokine receptor .
+This open-label , randomized , crossover , phase I study evaluated the effect of low- and high-fat meals on the pharmacokinetics ( PK ) of pazopanib in patients with advanced solid tumors .
+Patients participated in either the lead-in cohort or randomized food- food-effect cohort .
+Patients in the lead-in cohort were administered a single dose of pazopanib 400 mg with a high-fat meal .
+Patients in the food- food-effect cohort were randomized to receive single doses of pazopanib 800 mg in fed condition ( high- or low-fat meal ) or fasting condition , in random sequence 14 days apart .
+After completion of the study , patients were given the opportunity to continue treatment with daily pazopanib 800 mg .
+Administration of pazopanib with both low- and high-fat meals increased maximum observed plasma concentration ( C ( max ) ) and area under the plasma concentration-time curve ( AUC ) by approximately twofold as compared with the corresponding values when administered to patients in the fasted condition .
+Therefore , pazopanib should be administered to patients in the fasted state so as to minimize within- and between-day variability in the systemic exposure to pazopanib in patients with cancer .

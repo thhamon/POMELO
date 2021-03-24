@@ -1,0 +1,3 @@
+TS217212251	sideeffect 1 18	Sodium deficiency
+T1	drug 40 45	drugs
+R1	has_sideeffect Arg1:T1 Arg2:TS217212251	

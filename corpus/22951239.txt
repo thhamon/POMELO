@@ -1,0 +1,10 @@
+The transdermal delivery system of monoamine oxidase inhibitors .
+Monoamine oxidase inhibitors ( MAOIs ) were once widely used as effective treatments for major depressive disorder , particularly for patients with atypical or treatment-resistant depression .
+Today , MAOIs have largely been replaced by newer antidepressants because of concerns over potential serious side effects due to their mechanism of action .
+Monoamine oxidase ( MAO ) is an enzyme that metabolizes serotonin , norepinephrine , and dopamine , the neurotransmitters that are most associated with depression ; inhibiting MAO , therefore , makes more of these neurotransmitters available for synaptic action .
+However , MAO also metabolizes tyramine , a trace amine found in some foods that acts as a sympathomimetic .
+Allowing excess tyramine to accumulate via MAO inhibition can result in hypertensive crisis due to the release of norepinephrine ; therefore , patients taking an MAOI have had to follow dietary restrictions to avoid tyramine- tyramine-rich foods .
+Hypertensive crisis may also be precipitated by using MAOIs in conjunction with other drugs that have vasoconstrictive properties , that act as sympathomimetics , or that inhibit the reuptake of norepinephrine .
+Serotonin syndrome is another serious adverse effect that can potentially occur when using an MAOI with another drug that inhibits the reuptake of serotonin .
+In this article , the mechanism of action of MAOIs is reviewed , along with that of a newer MAOI formulation that lessens the need for dietary restrictions and has a greater safety and tolerability profile than the older oral formulations .
+bigasentc Copyright 2012 Physicians Postgraduate Press , Inc. .

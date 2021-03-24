@@ -1,0 +1,22 @@
+TS1320484610	drug 20 30	gabapentin
+TS320484610	food 173 177	food
+TS420484610	drug 283 293	gabapentin
+TS1020484610	food 519 523	food
+TS520484610	drug 551 561	gabapentin
+R1	relation Arg1:TS1020484610 Arg2:TS520484610
+TS1420484610	drug 674 684	gabapentin
+TS620484610	drug 963 973	gabapentin
+TS1120484610	food 1036 1039	fat
+TS1220484610	food 1118 1121	fat
+TS120484610	drug 1156 1166	gabapentin
+TS820484610	drugEffect 1268 1283	bioavailability
+T1	modeadm 42 88	gastric-retentive extended-release formulation
+T2	modeadm 109 138	immediate-release formulation
+T3	modeadm 317 341	gastric-retentive dosage
+T4	dosage 353 382	immediate-release formulation
+T5	modeadm 433 479	gastric-retentive extended-release formulation
+T6	modeadm 704 750	gastric-retentive extended-release formulation
+T7	modeadm 769 798	immediate-release formulation
+T8	dosage 994 1008	600 to 2400 mg
+T9	modeadm 1187 1215	extended-release formulation
+T10	modeadm 1420 1449	immediate-release dosage form

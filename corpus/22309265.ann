@@ -1,0 +1,34 @@
+TS822309265	drug 43 66	iptakalim hydrochloride
+TS1122309265	food 148 152	food
+TS922309265	mealTime 577 584	fasting
+TS522309265	sideeffect 605 620	adverse effects
+TS122309265	drugEffect 769 775	levels
+TS1022309265	drug 908 912	Cmax
+TS222309265	drug 915 918	AUC
+TS322309265	drug 931 934	AUC
+TS1422309265	sideeffect 1181 1188	fasting
+TS722309265	drugEffect 1284 1290	levels
+TS422309265	food 1379 1383	Food
+T1	drug 163 172	iptakalim
+R1	relation Arg1:TS1122309265 Arg2:T1	
+T2	dosage 368 384	5 , 10 and 20 mg
+T3	numbers 337 340	Six
+T4	numbers 349 352	six
+T5	drug 388 397	iptakalim
+T6	modeadm 398 404	orally
+T7	dosage 553 557	5 mg
+T8	drug 558 567	iptakalim
+T9	modeadm 568 574	orally
+T10	mealTime 589 599	nonfasting
+T11	dosage 777 793	5 , 10 and 20 mg
+T12	dosage 879 883	5 mg
+T13	dosage 888 893	20 mg
+T14	dosage 1065 1069	5 mg
+T15	dosage 1085 1089	5-mg
+T16	mealTime 1162 1172	nonfasting
+T17	mealTime 1177 1184	fasting
+T18	drug 1228 1237	iptakalim
+T19	dosage 1290 1297	5-20 mg
+T20	dosage 1354 1365	5 and 20 mg
+T21	dosage 1432 1436	5 mg
+T22	food 1375 1379	Food

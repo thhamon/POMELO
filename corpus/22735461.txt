@@ -1,0 +1,12 @@
+Effect of food on the pharmacokinetics and pharmacodynamics of R1663 , an oral factor Xa inhibitor , in healthy male volunteers .
+To explore the effect of food intake on the relative bioavailability of R1663 and on its pharmacodynamic effects ( prothrombin time ( PT ) and activated partial thromboplastin time ( aPTT ) ) after a single oral dose of 200 mg .
+This was a prospective , open-label , randomized , two-way crossover study .
+Eight healthy male volunteers received R1663 on two occasions , after a high fat  high calorie breakfast and after an overnight fast of 10 h , with a 7-day washout between doses .
+Blood was sampled up to 48 h for the pharmacokinetic and pharmacodynamic evaluation of R1663. .
+Pharmacokinetic parameters ( area under the plasma concentration-time curve from Time 0 extrapolated to infinity ( AUC ( 0-∞ ) ) and maximal concentration ( C ( max ) ) as well as pharmacodynamic parameters ( area under the effect curve over 48 h ( AUE ( 0-48 ) ) and maximal effect ( E ( max ) ) were determined on both occasions .
+Geometric mean ratios fed  fasted ( GMR ) and 90% confidence intervals ( CI ) were calculated for AUC ( 0-∞ ) and C ( max ) of R1663 and AUE ( 0-48 ) and E ( max ) of PT and aPTT .
+Following food intake , C ( max ) was reduced by 10% with CI extended outside the bioequivalence range ( GMR , 0.90 ; CI 0.72 - 1.13 ) .
+R1663 t ( max ) was delayed in the fed state ( 4 h ) as compared to the fasted state ( 1 h ) .
+There was no significant food effect on R1663 AUC ( 0-∞ ) ( GMR , 1.09 ; CI 0.97 - 1.24 ) .
+Although the Emax of PT showed statistically significant reduction with food , the 90% CIs for Emax and AUE ( 0-48 ) of PT and aPTT were all contained within the bioequivalence range ( 0.80 - 1.25 ) .
+These findings will allow the administration of R1663 without regard to food in the upcoming trials .

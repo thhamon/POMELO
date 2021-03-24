@@ -1,0 +1,36 @@
+TS97722194	sideeffect 0 11	Interaction
+TS47722194	drug 41 55	anticoagulants
+TS77722194	sideeffect 168 180	interactions
+TS207722194	drug 189 203	anticoagulants
+TS87722194	sideeffect 277 289	interactions
+TS247722194	foodSupplement 378 391	drug-nutrient
+TS27722194	sideeffect 392 404	interactions
+TS197722194	sideeffect 505 517	interactions
+TS107722194	drug 526 540	anticoagulants
+TS187722194	sideeffect 655 666	interaction
+TS167722194	foodSupplement 802 811	vitamin K
+TS127722194	food 823 828	foods
+TS177722194	foodSupplement 849 858	vitamin K
+TS37722194	sideeffect 871 882	coagulation
+TS137722194	food 974 979	foods
+TS147722194	food 1004 1009	foods
+TS117722194	drug 1110 1124	anticoagulants
+TS67722194	foodSupplement 1170 1181;1185 1195;1198 1199;1206 1207	supplements vitamins A E C
+TS57722194	food 1212 1219	alcohol
+T1	modeadm 36 40	oral
+T2	food 15 30	dietary factors
+T3	modeadm 184 188	oral
+T4	food 209 224	dietary factors
+R2	relation Arg1:T4 Arg2:TS207722194	
+R1	relation Arg1:TS247722194 Arg2:TS27722194	
+T5	modeadm 521 525	oral
+T6	food 546 561	dietary factors
+R3	relation Arg1:T6 Arg2:TS107722194	
+R4	has_sideeffect Arg1:TS107722194 Arg2:TS197722194	
+R5	relation Arg1:T2 Arg2:TS47722194	
+R6	has_sideeffect Arg1:TS47722194 Arg2:TS97722194	
+R7	has_sideeffect Arg1:TS207722194 Arg2:TS77722194	
+R8	has_sideeffect Arg1:TS177722194 Arg2:TS37722194	
+T7	modeadm 1105 1109	oral
+R9	relation Arg1:TS67722194 Arg2:TS117722194	
+R10	relation Arg1:TS57722194 Arg2:TS117722194	

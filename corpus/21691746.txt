@@ -1,0 +1,19 @@
+A phase I ascending single-dose study of the safety , tolerability , and pharmacokinetics of bosutinib ( SKI-606 ) in healthy adult subjects .
+Bosutinib ( SKI-606 ) , a dual Src  Abl tyrosine kinase inhibitor , is in clinical development for the treatment of patients with chronic myelogenous leukemia ( CML ) .
+To support clinical development , we conducted a dose-escalation and food- food-effect evaluation of safety , tolerability , and pharmacokinetics ( PK ) of bosutinib in healthy adults .
+This was a randomized , double-blind , placebo-controlled , single-ascending dose , sequential-group study of oral bosutinib .
+Subjects randomly received bosutinib 200 , 400 , 600 , and 800 mg with food ; 200 and 400 mg without food ; or placebo .
+Plasma concentrations were determined by a liquid chromatography-tandem mass spectrometry assay .
+Non-compartmental PK analyses were performed , and power models assessed dose linearity .
+Of 55 enrolled subjects , 33 ( 81% ) subjects had adverse events ( AEs ) after receiving bosutinib .
+Common AEs included diarrhea ( 39% ) , nausea ( 29% ) , and headache ( 22% ) .
+Bosutinib 200-600 mg with food was safe and well tolerated .
+Bosutinib exposures ( C ( max ) and AUC ) were linear and dose proportional from 200 to 800 mg with food .
+Absorption was relatively slow ; median time to C ( max ) was 6 h .
+Apparent volume of distribution ( V ( z )  F ) was 131-214 L  kg , mean apparent clearance ( CL  F ) was 2.25-3.81 L  h  kg , and mean terminal elimination half-life ( t ( 1  2 ) ) was 32-39 h .
+Preliminary food effect assessment showed that exposure to bosutinib increased by senttild2.52-fold ( P = 0.002 ) for C ( max ) and senttild2.28-fold ( P = 0.002 ) for AUC when 200 mg bosutinib was administered with food compared with administration under fasting conditions ; administration of 400 mg bosutinib with food increased AUC by senttild1.5-fold ( P = 0.037 ) .
+Approximately 1% of administered dose was excreted in urine .
+Bosutinib 200-600 mg with food was safe and well tolerated .
+Under fed conditions , bosutinib exposures were linear and dose proportional , and C ( max ) increased by senttild1 .
+5-fold. .
+The t ( 1  2 ) supported a once-daily dosing regimen .

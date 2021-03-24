@@ -1,0 +1,3 @@
+TS115132100	food 0 10	Grapefruit
+T1	drug 31 42	medications
+R1	relation Arg1:TS115132100 Arg2:T1	

@@ -1,0 +1,11 @@
+The absence of an interaction between warfarin and cranberry juice juice: a randomized , double-blind trial .
+The question of potentiation of warfarin anticoagulation by cranberry juice ( CJ ) is a topic of biomedical importance .
+Anecdotal reports of CJ-warfarin interaction are largely unconfirmed in controlled studies .
+Thirty patients on stable warfarin anticoagulation ( international normalized ratio [INR] , 1.7-3.3 ) were randomized to receive 240 mL of CJ or 240 mL of placebo beverage , matched for color and taste , once daily for 2 weeks .
+The INR values and plasma levels of R- and S-warfarin were measured during the 2-week period and a 1-week follow-up period .
+The CJ and placebo groups ( n=14 and 16 , respectively ) did not differ significantly in mean plasma R- and S-warfarin concentrations .
+Eight patients ( 4 on CJ , 4 on placebo ) developed minimally elevated INR ( range , 3.38-4.52 ) during the treatment period .
+Mean INR differed significantly ( Psentinf.02 ) only on treatment day 12 ; at all other time points , the groups did not differ .
+Cranberry juice has no effect on plasma S- or R-warfarin plasma levels , excluding a pharmacokinetic interaction .
+A small though statistically significant pharmacodynamic enhancement of INR by CJ at a single time point is unlikely to be clinically important and may be a random change .
+Enhanced warfarin anticoagulation attributed to CJ in anecdotal reports may represent a chance temporal association .

@@ -1,0 +1,49 @@
+TS1617966839	food 10 14	food
+TS2517966839	food 144 148	food
+TS717966839	treatedDisease 321 345	hematologic malignancies
+TS817966839	treatedDisease 350 362	solid tumors
+TS3317966839	mealTime 528 534	fasted
+TS517966839	mealTime 539 542	fed
+TS2917966839	sideeffect 627 642	advanced cancer
+TS3117966839	mealTime 699 705	fasted
+TS2117966839	mealTime 710 713	fed
+TS1717966839	food 1116 1120	food
+TS2717966839	mealTime 1213 1216	fed
+TS3217966839	mealTime 1223 1229	fasted
+TS1117966839	food 1705 1709	food
+TS2817966839	sideeffect 1851 1859	headache
+TS1517966839	mealTime 1936 1943	fasting
+TS217966839	mealTime 1948 1951	fed
+TS617966839	sideeffect 2203 2210	fatigue
+TS417966839	sideeffect 2215 2223	anorexia
+TS1017966839	sideeffect 2230 2256	gastrointestinal disorders
+TS1917966839	sideeffect 2267 2275	diarrhea
+TS2317966839	sideeffect 2278 2297	vomiting and nausea
+TS1417966839	mealTime 2454 2461	fasting
+TS117966839	mealTime 2483 2486	fed
+TS3017966839	mealTime 2583 2589	fasted
+TS2617966839	mealTime 2612 2615	fed
+TS2217966839	food 2700 2704	food
+TS917966839	food 2867 2871	food
+T1	drug 42 52	lonafarnib
+T2	drug 55 64	SCH 66336
+T3	drug 192 201	lonafanib
+T4	modeadm 207 213	orally
+T5	dosage 515 521	100 mg
+T6	drug 227 257	farnesyl transferase inhibitor
+R2	treat Arg1:T3 Arg2:TS717966839	
+R3	treat Arg1:T3 Arg2:TS817966839	
+T7	drug 504 514	lonafarnib
+T8	dosage 667 673	200 mg
+T9	drug 656 666	lonafarnib
+T10	drug 1088 1098	lonafarnib
+T11	drug 1649 1659	lonafarnib
+T12	sideeffect 1812 1826	adverse events
+T13	dosage 2015 2021	100 mg
+T14	drug 2022 2032	lonafarnib
+T15	sideeffect 2376 2407	gastrointestinal adverse events
+T16	sideeffect 2530 2568	severe gastrointestinal adverse events
+R1	increase_side_effect Arg1:TS3017966839 Arg2:T16	
+T17	drug 2745 2754	lonafanib
+R4	no_effect_on_drug Arg1:TS2217966839 Arg2:T17	
+T18	drug 2828 2838	lonafarnib

@@ -1,0 +1,57 @@
+TS3912811362	food 14 24	lime juice
+TS3612811362	food 31 39	red wine
+TS6012811362	food 103 119	grapefruit juice
+TS8612811362	sideeffect 183 200	drug interactions
+TS2212811362	food 229 245	grapefruit juice
+TS1312811362	food 250 260	lime juice
+TS7912811362	sideeffect 283 300	drug interactions
+TS7312811362	food 306 314	red wine
+TS3412811362	food 462 472	grapefruit
+TS8412811362	food 477 488	lime juices
+TS7712811362	drug 520 530	felodipine
+TS7612811362	food 611 627	grapefruit juice
+TS2412811362	food 651 661	lime juice
+TS1812811362	food 664 672	red wine
+TS6612811362	food 678 683	water
+TS2512811362	food 748 758	grapefruit
+TS8212811362	food 763 774	lime juices
+TS4312811362	food 902 912	grapefruit
+TS8112811362	food 917 928	lime juices
+TS2712811362	food 991 1007	grapefruit juice
+TS6312811362	food 1063 1073	lime juice
+TS4812811362	food 1121 1131	grapefruit
+TS8812811362	food2 1136 1147	lime juices
+TS4112811362	food 1252 1268	Grapefruit juice
+TS5712811362	drug 1288 1298	felodipine
+R1	relation Arg1:TS4112811362 Arg2:TS5712811362
+TS3012811362	drug 1576 1586	felodipine
+TS3512811362	food 1620 1625	water
+TS1412811362	food 1649 1659	lime juice
+TS912811362	drug 1724 1734	felodipine
+TS5012811362	food 1745 1761	grapefruit juice
+TS5912811362	food 1766 1776	lime juice
+TS7412811362	food 1856 1866	lime juice
+TS7812811362	drug 1885 1895	felodipine
+TS5812811362	food 1951 1959	Red wine
+TS4012811362	drug 1975 1985	felodipine
+R3	slow_elimination Arg1:TS5812811362 Arg2:TS4012811362
+TS3112811362	drug 2027 2037	Felodipine
+TS2912811362	sideeffect 2098 2113	Adverse effects
+TS5512811362	sideeffect 2236 2265	inhibition of CYP3A4 activity
+TS4912811362	food 2279 2287	Red wine
+TS5312811362	drug 2331 2341	felodipine
+R4	relation Arg1:TS4912811362 Arg2:TS5312811362
+T1	food 0 11	Bergamottin
+T2	sideeffect 43 85	inhibitors of cytochrome P450 3A4 activity
+R5	increase_side_effect Arg1:TS3612811362 Arg2:T2	
+R6	increase_side_effect Arg1:TS3912811362 Arg2:T2	
+R7	increase_side_effect Arg1:T1 Arg2:T2	
+T3	food 168 179	bergamottin
+T4	food 317 328	Bergamottin
+T5	sideeffect 362 404	irreversible inhibition of cytochrome P450
+T6	drug 560 577	dehydrofelodipine
+T7	food 718 729	Bergamottin
+T8	drug 1557 1576	dehydrofelodipine  
+T9	food 2138 2149	Bergamottin
+T10	sideeffect 2298 2330	dose dumping of extended-release
+R2	increase_side_effect Arg1:TS4912811362 Arg2:T10	

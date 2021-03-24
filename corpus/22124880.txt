@@ -1,0 +1,9 @@
+Intestinal OATP1A2 inhibition as a potential mechanism for the effect of grapefruit juice on aliskiren pharmacokinetics in healthy subjects .
+To conduct a mechanistic investigation of the interaction between aliskiren and grapefruit juice in healthy subjects .
+Twenty-eight subjects received an oral dose of aliskiren 300 mg ( highest recommended clinical dose ) with 300 mL of either water or grapefruit juice in a two-way crossover design .
+Safety and pharmacokinetic analyses were performed .
+In vitro studies were performed in HEK293 cells to investigate the role of organic anion transporting polypeptide ( OATP ) transporter-mediated uptake of aliskiren .
+Co-administration of a single dose of aliskiren with grapefruit juice decreased the plasma concentration of aliskiren , with mean decreases in the AUC ( inf ) , AUC ( last ) , and C ( max ) of 38 , 37 , and 61% , respectively .
+The uptake of [¹⁴C]aliskiren into OATP2B1-expressing cells was essentially the same as that into control cells , and the inhibitor combination atorvastatin and rifamycin had no effect on [¹⁴C]aliskiren accumulation in either cell type .
+The uptake of [¹⁴C]aliskiren and [³H]fexofenadine was linear in OATP1A2-expressing cells and was reduced by naringin , with ICââ values of 75.5 bigasentpleq 11.6 and 24.2 bigasentpleq 2.0 Î¼M , respectively .
+Grapefruit juice decreases exposure of aliskiren partially via inhibition of intestinal OATP1A2. .

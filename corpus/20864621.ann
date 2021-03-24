@@ -1,0 +1,32 @@
+TS820864621	drug 48 67	eliglustat tartrate
+TS420864621	food 126 130	food
+TS320864621	drug 180 215	eliglustat tartrate ( Genz-112638 )
+TS1220864621	treatedDisease 296 326	Gaucher disease type 1 ( GD1 )
+TS920864621	food 496 500	food
+TS620864621	drug 514 533	Eliglustat tartrate
+TS520864621	sideeffect 767 773	nausea
+TS720864621	sideeffect 776 785	dizziness
+TS1120864621	sideeffect 792 800	vomiting
+TS120864621	food 1269 1273	Food
+TS220864621	drug 1544 1550	CYP2D6
+TS1020864621	drug 1649 1657	tartrate
+T1	drug 70 81	Genz-112638
+T2	sideeffect 763 769	nausea
+T3	sideeffect 772 781	dizziness
+T4	sideeffect 788 796	vomiting
+T5	drug 226 264	inhibitor of glucosylceramide synthase
+T6	modeadm 221 225	oral
+T7	dosage 569 580	≤ 20 mg  kg
+T8	frequency 556 568	single doses
+T9	dosage 600 608	≤ 200 mg
+T10	frequency 609 612	bid
+T11	dosage 620 625	50 mg
+T12	frequency 626 629	bid
+T13	dosage 877 888	≥ 10 mg  kg
+T14	frequency 864 876	Single doses
+T15	food 1263 1267	Food
+T16	treatedDisease 1669 1672	GD1
+T17	drug 1632 1651	eliglustat tartrate
+R1	treat Arg1:T17 Arg2:T16	
+R2	treat Arg1:T5 Arg2:TS1220864621	
+R3	treat Arg1:TS320864621 Arg2:TS1220864621	

@@ -1,0 +1,30 @@
+TS520028328	sideeffect 245 257	interactions
+TS1220028328	sideeffect 260 275	adverse effects
+TS2220028328	sideeffect 668 683	adverse effects
+TS2420028328	sideeffect 716 728	interactions
+TS1020028328	treatedDisease 1003 1012	allergies
+TS620028328	treatedDisease 1015 1021	angina
+TS320028328	treatedDisease 1059 1065	cancer
+TS1920028328	treatedDisease 1068 1090	coronary heart disease
+TS2120028328	treatedDisease 1101 1113	heart attack
+TS2320028328	treatedDisease 1116 1145	hormonal  endocrine disorders
+TS1420028328	treatedDisease 1148 1162	hyperlipidemia
+TS1320028328	treatedDisease 1165 1177	hypertension
+TS120028328	treatedDisease 1180 1186	stroke
+TS1520028328	treatedDisease 1193 1207	vasodilatation
+TS1620028328	drugEffect 1247 1260;1263 1274;1281 1298	anticoagulant antioxidant antiviral effects
+TS2020028328	treatedDisease 1498 1520	cardiovascular disease
+TS1720028328	drugEffect 1709 1720	weight loss
+TS1120028328	foodSupplement 1931 1949	dietary supplement
+T1	drug 1302 1318	Salvia hispanica
+T2	drug 7 23	Salvia hispanica
+T3	drug 143 159	Salvia hispanica
+T4	drug 136 140	chia
+T5	drug 0 4	Chia
+T6	drug 1374 1390	Salvia hispanica
+T7	drug 1478 1494	Salvia hispanica
+T8	treatedDisease 1523 1526	CVD
+T9	treatedDisease 1608 1611	CVD
+T10	drug 1689 1705	Salvia hispanica
+T11	drug 1755 1771	Salvia hispanica
+T12	drug 1909 1925	Salvia hispanica

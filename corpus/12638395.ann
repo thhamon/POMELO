@@ -1,0 +1,21 @@
+TS1912638395	drug 46 56	etoricoxib
+TS512638395	drug 71 100	inhibitor of cyclooxygenase-2
+TS2012638395	drug 162 172	etoricoxib
+TS1312638395	drug 187 216	inhibitor of cyclooxygenase-2
+TS612638395	drugEffect 332 347	bioavailability
+TS412638395	food 415 430	a high-fat meal
+TS712638395	drugEffect 438 453	bioavailability
+TS1212638395	drug 776 786	etoricoxib
+TS312638395	drug 821 831	etoricoxib
+TS212638395	drug 969 979	Etoricoxib
+TS912638395	drugEffect 1070 1085	bioavailability
+TS1412638395	food 1114 1129	A high-fat meal
+TS2112638395	drug 1209 1219	etoricoxib
+TS2212638395	drug 1234 1244	etoricoxib
+TS1012638395	food 1274 1278	food
+TS2312638395	drug 1314 1324	etoricoxib
+TS1712638395	drug 1564 1574	Etoricoxib
+R1	relation Arg1:TS412638395 Arg2:TS712638395	
+T1	dosage 708 714	120-mg
+T2	modeadm 762 766	oral
+R2	decrease_absorption Arg1:TS1412638395 Arg2:TS2112638395	

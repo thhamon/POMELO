@@ -1,0 +1,8 @@
+[Grapefruit juice and drugs: a hazardous combination ?
+] .
+A single glass of grapefruit juice can improve the oral bioavailability of a drug thus either increasing its efficacy or enhancing its adverse effects particularly if the therapeutic index is narrow .
+Grapefruit juice acts by inhibiting presystemic drug metabolism mediated by CYP P450 3A4 in the small bowel and this interaction would appear to be more relevant if the CYP 3A4 content is high and the drug has a strong first pass degradation .
+Intestinal P-glycoprotein may also be affected by grapefruit juice .
+The compounds responsible for this food-drug interaction have not as yet been identified but this phenomenon could result from a complex synergy between flavonoids ( naringin , naringenin ) , furanocoumarins ( 6' , 7' -dihydroxybergamottin , bergamottin ) and sesquiterpen ( nootkatone ) .
+In our study , we report the mechanisms of action of grapefruit juice and the interactions between grapefruit juice and 42 drugs ; to date , only 12 drugs showed no interaction .
+Taking these results into consideration , patients should be educated about grapefruit juice intake with medication .

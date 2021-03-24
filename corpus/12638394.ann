@@ -1,0 +1,43 @@
+TS1712638394	food 10 18	high-fat
+TS3812638394	mealTime 19 28	breakfast
+TS4612638394	food 33 45	moderate-fat
+TS2312638394	mealTime 46 58	evening meal
+TS2512638394	treatedDisease 158 178	erectile dysfunction
+TS4412638394	food 196 200	food
+TS612638394	mealTime 388 392	fast
+TS4512638394	food 434 442	high-fat
+TS212638394	mealTime 443 452	breakfast
+TS1412638394	mealTime 477 490	empty stomach
+TS4712638394	food 529 541	moderate-fat
+TS3112638394	mealTime 542 554	evening meal
+TS2612638394	mealTime 691 695	fast
+TS1112638394	food 708 716	high-fat
+TS2812638394	mealTime 717 726	breakfast
+TS4112638394	mealTime 907 914	fasting
+TS912638394	food 958 966	high-fat
+TS1912638394	mealTime 967 976	breakfast
+TS4312638394	mealTime 1018 1031	empty stomach
+TS5112638394	mealTime 1036 1061	after a moderate-fat meal
+TS2412638394	mealTime 1240 1247	fasting
+TS5012638394	food 1253 1269	moderate-fat mea
+TS1612638394	food 1338 1353	a high-fat meal
+TS4912638394	food 1420 1437	moderate-fat meal
+TS2112638394	food 1678 1682	food
+T1	drug 86 96	vardenafil
+T2	drug 107 135	phosphodiesterase-5 inhibito
+T3	modeadm 102 106	oral
+R1	treat Arg1:T1 Arg2:TS2512638394	
+R4	treat Arg1:T2 Arg2:TS2512638394	
+R5	relation Arg1:TS4612638394 Arg2:T1	
+R6	relation Arg1:TS1712638394 Arg2:T1	
+T4	drug 228 238	vardenafil
+T5	numbers 256 258	25
+T6	frequency 281 292	Single-dose
+T7	drug 293 303	vardenafil
+T8	dosage 304 309	20 mg
+T9	drug 612 622	vardenafil
+T10	drug 729 739	vardenafil
+T11	drug 1064 1074	vardenafil
+T12	sideeffect 1382 1402	delay the absorption
+R2	relation Arg1:TS1612638394 Arg2:T12	
+R3	relation Arg1:TS4912638394 Arg2:T12	

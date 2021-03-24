@@ -1,0 +1,12 @@
+Grapefruit juice and its constituents augment colchicine intestinal absorption: potential hazardous interaction and the role of p-glycoprotein .
+To investigate the potential interaction between grapefruit juice ( GFJ ) and the oral microtubule polymerization inhibitor colchicine , a P-gp and CYP3A4 substrate .
+Colchicine intestinal epithelial transport was investigated across Caco-2 cell monolayers in both AP-BL and BL-AP directions , in the absence  presence of known P-gp inhibitors ( verapamil and quinidine ) .
+The concentration-dependent effects of GFJ and its major constituents ( 6' -7' -dihydroxybergamottin , naringin and naringenin ) on colchicine Caco-2 mucosal secretion were examined .
+The effect of GFJ on colchicine intestinal-permeability was then investigated in-situ in the rat perfusion model , in both jejunum and ileum .
+Colchicine exhibited 20-fold higher BL-AP than AP-BL Caco-2 permeability , indicative of net mucosal secretion , which was reduced by verapamil  quinidine .
+Colchicine AP-BL permeability was increased and BL-AP was decreased by GFJ in a concentration-dependent manner ( IC ( 50 ) values of 0.75% and 0.46% respectively ) , suggesting inhibition of efflux transport , rather than metabolizing enzyme .
+Similar effects obtained following pre-experiment incubation with GFJ , even though the juice was not present throughout the transepithelial study .
+6' -7' -Dihydroxybergamottin , naringin and naringenin displayed concentration-dependent inhibition on colchicine BL-AP secretion ( IC ( 50 ) values of 90 , 592 and 11.6 microM respectively ) .
+Ten percent GFJ doubled colchicine rat in-situ ileal permeability , and increased 1.5-fold jejunal permeability .
+The data suggest that GFJ may augment colchicine oral bioavailability .
+Due to colchicine narrow therapeutic-index and severely toxic side-effects , awareness of this interaction is prudent .

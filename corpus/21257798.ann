@@ -1,0 +1,37 @@
+TS621257798	drug 69 89	INCB018424 phosphate
+TS1421257798	drug 114 134	INCB018424 phosphate
+TS1321257798	drug 139 170	potent inhibitor of JAK enzymes
+TS721257798	treatedDisease 246 259	myelofibrosis
+TS1221257798	food 557 561	food
+TS221257798	drugEffect 776 791	bioavailability
+TS321257798	mealTime 1015 1030	A high-fat meal
+TS821257798	drug 1092 1102	INCB018424
+TS521257798	drugEffect 1289 1309	cytokine stimulation
+T1	modeadm 56 62	orally
+T2	drugEffect 176 204	selectivity for JAK1sentand2
+R1	treat Arg1:TS1421257798 Arg2:TS721257798	
+R2	treat Arg1:TS1321257798 Arg2:TS721257798	
+T3	treatedDisease 262 264	MF
+T4	modeadm 273 277	oral
+T5	drug 350 360	INCB018424
+T6	dosage 516 527	5 to 200 mg
+T7	drug 528 538	INCB018424
+T8	frequency 641 662	once- and twice-daily
+T9	duration 670 681	for 10 days
+T10	drug 745 755	INCB018424
+T11	drug 835 845	INCB018424
+T12	modeadm 857 861	oral
+T13	drug 1039 1049	INCB018424
+R3	decrease_absorption Arg1:TS321257798 Arg2:T13	
+R4	no_effect_on_drug Arg1:TS321257798 Arg2:TS821257798	
+T14	drug 1214 1224	INCB018424
+T15	drug 1109 1119	INCB018424
+T16	drugEffect 1244 1278	inhibition of phosphorylated STAT3
+R5	has_effect Arg1:T14 Arg2:T16	
+R6	has_effect Arg1:T14 Arg2:TS521257798	
+T17	drug 1356 1366	INCB018424
+T18	drug 1391 1401	INCB018424
+T19	dosage 1447 1452	25 mg
+T20	frequency 1453 1456	bid
+T21	dosage 1461 1467	100 mg
+T22	frequency 1468 1470	qd

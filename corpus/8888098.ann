@@ -1,0 +1,3 @@
+TS28888098	sideeffect 0 18	Water intoxication
+TS38888098	drug 44 56	desmopressin
+R1	has_sideeffect Arg1:TS38888098 Arg2:TS28888098	

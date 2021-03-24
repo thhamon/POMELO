@@ -1,0 +1,43 @@
+TS1519663519	sideeffect 473 486	pro-coagulant
+TS1619663519	drug 656 756	Pyridinium , 3- [[2- ( methylsulfonyl ) hydrazino] carbonyl]-1- [2-oxo-2-2-thienyl ) ethyl]-chloride
+TS1119663519	treatedDisease 913 930	diabetes mellitus
+TS919663519	treatedDisease 1166 1174	diabetes
+TS1219663519	food 1403 1407	food
+TS419663519	food 2086 2090	food
+TS1819663519	mealTime 2093 2099	fasted
+TS1419663519	mealTime 2103 2106	fed
+TS1319663519	mealTime 3112 3119	fasting
+TS319663519	mealTime 3226 3229	fed
+T1	sideeffect 239 261	diabetic complications
+T2	drug 759 766	TRC4186
+T3	drugEffect 786 809	AGE-breaking activities
+R1	has_effect Arg1:T2 Arg2:T3	
+T4	drug 1004 1011	TRC4186
+T5	sideeffect 455 468	pro-oxidative
+T6	sideeffect 436 452	pro-inflammatory
+T7	drug 1266 1273	TRC4186
+T8	drug 1520 1527	TRC4186
+T9	drug 1674 1681	TRC4186
+T10	dosage 1695 1709	250 to 2500 mg
+T11	dosage 1926 1940	500 to 2000 mg
+T12	drug 1905 1912	TRC4186
+T13	frequency 1941 1952	twice daily
+T14	duration 1953 1963	for 6 days
+T15	drug 2153 2160	TRC4186
+T16	dosage 2161 2167	500 mg
+T17	drug 2312 2319	TRC4186
+T18	dosage 2320 2326	500 mg
+T19	drug 2339 2346	TRC4186
+T20	drug 2417 2424	TRC4186
+T21	drug 2545 2552	TRC4186
+T22	dosage 2347 2354	1000 mg
+T23	sideeffect 2454 2468	adverse events
+T24	dosage 2760 2771	250-2500 mg
+T25	dosage 2794 2805	500-2000 mg
+T26	frequency 2830 2841	twice-daily
+T27	drug 3045 3052	TRC4186
+R2	relation Arg1:TS1319663519 Arg2:T27	
+R3	decrease_absorption Arg1:TS319663519 Arg2:T27	
+T28	drug 3424 3431	TRC4186
+T29	modeadm 3478 3484	orally
+T30	drug 3632 3639	TRC4186

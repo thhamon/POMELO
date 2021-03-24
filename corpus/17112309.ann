@@ -1,0 +1,23 @@
+TS617112309	food 0 16	Grapefruit juice
+TS3317112309	sideeffect 21 38	drug interactions
+TS3217112309	sideeffect 70 81	interaction
+TS2817112309	sideeffect 96 104	toxicity
+TS317112309	food 155 171	grapefruit juice
+TS1617112309	food 457 473	grapefruit juice
+TS1717112309	drugEffect 668 683	bioavailability
+TS1117112309	food 774 790	grapefruit juice
+TS2217112309	other 861 871	metabolism
+TS1817112309	drug 879 889	felodipine
+TS1017112309	drug 892 902	amiodarone
+R2	slow_elimination Arg1:TS1117112309 Arg2:TS1817112309
+TS517112309	food 1076 1092	grapefruit juice
+TS2517112309	drug 1126 1138	fexofenadine
+TS1917112309	drug 1141 1148	digoxin
+R3	decrease_absorption Arg1:TS517112309 Arg2:TS2517112309
+T1	sideeffect 482 526	inhibit the CYP 3A4 drug-metabolizing enzyme
+R1	increase_side_effect Arg1:TS1617112309 Arg2:T1	
+T2	sideeffect 569 604	decreases the first-pass metabolism
+R4	slow_elimination Arg1:TS1117112309 Arg2:TS1017112309	
+R5	decrease_absorption Arg1:TS517112309 Arg2:TS1917112309	
+T3	sideeffect 1191 1217	inhibiting drug absorption
+R6	increase_side_effect Arg1:TS517112309 Arg2:T3	

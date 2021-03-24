@@ -1,0 +1,15 @@
+The effect of toothpaste on the propensity of chlorhexidine and cetyl pyridinium chloride to produce staining in vitro: a possible predictor of inactivation .
+Cationic antiseptics such as chlorhexidine ( CHX ) and cetyl pyridinium chloride ( CPC ) interact with dietary chromogens to produce extrinsic stain , and this can be used as a measure of activity of products .
+The aim of these studies in vitro was to determine if toothpaste influenced the tea staining effects of CHX and CPC as a predictor of action in vivo .
+Clear acrylic specimens were soaked in pooled human saliva followed by sequential 2-min soaks in pairs of agents , namely 0.05% CHX , 0.05% CPC , 0.2% CHX , water ( W ) and toothpaste slurry ( TP ) .
+The combinations were ; TP  CHX , CHX  TP , TP  CPC , CPC  TP , W  CHX , CHX  W , W  CPC , CPC  W , TP  W , W  TP , W  W. .
+These treatments were followed by a 60 min soak in tea .
+Optical density readings were taken at baseline and after each of 8 cycles .
+In the separate CHX and CPC studies by comparison with W  CHX , TP  0.05% CHX had little effect on staining , but TP  0.2% CHX showed a reduction in staining of 18%. .
+0.05% CHX  TP reduced staining by sentsup40% , and 0.2% CHX by sentsup78%. .
+TP  CPC reduced staining by sentsup26% and CPC  TP by 80%. .
+Water after 0.2% CHX , 0.05% CHX and CPC reduced staining by 18% , 13% and 17% respectively .
+Little staining was seen with TP and W combinations .
+The data for CHX are in agreement with a study in vivo except TP followed by CHX reduced the activity of CHX .
+Toothpaste appears to adversely affect the activity of CHX and CPC particularly if used immediately after the antiseptics .
+The data further supports the concept of separating the use of antiseptics until sometime after the use of toothpaste , and the idea of developing mouthwash friendly toothpastes .

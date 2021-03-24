@@ -1,0 +1,25 @@
+TS2916814135	sideeffect 0 11	Interaction
+TS2016814135	food 15 31	grapefruit juice
+TS1416814135	drug 36 60	calcium channel blockers
+R1	relation Arg1:TS2016814135 Arg2:TS1416814135
+TS3816814135	sideeffect 63 85	Drug-drug interactions
+TS1216814135	treatedDisease 129 141	hypertensive
+TS316814135	sideeffect 0 181	Interaction of grapefruit juice and calcium channel blockers .
+Drug-drug interactions are commonly recognized occurrences in the hypertensive population .
+Drug-nutrient interactions
+TS1916814135	sideeffect 226 242;257 292	grapefruit juice calcium channel blocker interaction
+TS2116814135	sideeffect 353 364	interaction
+TS816814135	food 465 481	grapefruit juice
+TS3016814135	drugEffect 602 617	bioavailability
+TS1516814135	drug 642 666	calcium channel blockers
+TS2216814135	sideeffect 685 696	interaction
+TS2316814135	sideeffect 723 734	interaction
+TS916814135	drug 750 760	felodipine
+TS616814135	drug 767 790	calcium channel blocker
+TS2516814135	food 795 811	grapefruit juice
+TS416814135	sideeffect 812 823	interaction
+T1	sideeffect 155 181	Drug-nutrient interactions
+T2	drug 424 433	flavanoid
+T3	drug 438 450	nonflavanoid
+T4	sideeffect 482 525	interfering with enterocyte CYP3A4 activity
+R2	relation Arg1:TS2516814135 Arg2:TS616814135	

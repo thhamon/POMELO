@@ -1,0 +1,63 @@
+TS2621548660	food 10 14	food
+TS3621548660	drug 137 160	dopamine-β-hydroxylase
+TS2421548660	food 367 371	food
+TS1021548660	food 616 624	high-fat
+TS421548660	mealTime 650 654	meal
+TS921548660	sideeffect 679 686	fasting
+TS1121548660	drug 689 698	reference
+R1	relation Arg1:TS1021548660 Arg2:TS1121548660
+TS3121548660	food 752 756	food
+TS321548660	drug 867 876	reference
+TS1221548660	drug 1034 1037	AUC
+TS1321548660	drug 1094 1097	AUC
+TS1421548660	drug 1115 1118	AUC
+TS1521548660	drug 1148 1151	AUC
+TS2821548660	drug 1294 1297	AUC
+TS2921548660	drug 1313 1316	AUC
+TS1621548660	sideeffect 1447 1454	fasting
+TS2021548660	food3 1578 1581	fed
+TS3421548660	drug 1612 1621	reference
+TS521548660	drug 1714 1717	AUC
+TS621548660	drug 1770 1773	AUC
+TS721548660	food 1835 1839	food
+TS2121548660	drug 1878 1881	AUC
+TS2221548660	drug 1897 1900	AUC
+TS3221548660	sideeffect 2053 2060	fasting
+TS1821548660	food3 2162 2165	fed
+TS2521548660	drug 2194 2203	reference
+TS121548660	drug 2296 2299	AUC
+TS221548660	drug 2351 2354	AUC
+TS1721548660	food 2672 2676	food
+TS2721548660	drug 2685 2688	AUC
+R2	relation Arg1:TS1721548660 Arg2:TS2721548660
+TS2321548660	mealTime 2910 2915	meals
+T1	drug 49 60	etamicastat
+T2	drug 115 169	reversible peripheral dopamine-β-hydroxylase inhibitor
+T3	drug 77 88	Etamicastat
+T4	dosage 197 203	orally
+T5	dosage 219 225	600 mg
+T6	frequency 226 236	once daily
+T7	duration 237 248	for 10 days
+T8	food 366 370	food
+T9	drug 398 409	etamicastat
+T10	drug 568 579	etamicastat
+T11	dosage 580 586	200 mg
+T12	food 606 640	standard high-fat and high-calorie
+T13	mealTime 678 685	fasting
+T14	food 751 755	food
+T15	drug 1267 1278	Etamicastat
+T16	drug 1423 1434	etamicastat
+T17	mealTime 1442 1449	fasting
+T18	drug 1589 1600	Etamicastat
+T19	drug 2521 2532	Etamicastat
+T20	food 1828 1832	food
+T21	mealTime 2153 2166	fed condition
+T22	sideeffect 2377 2411	moderate unspecific adverse events
+T23	drug 2571 2582	etamicastat
+T24	modeadm 2607 2611	oral
+T25	drug 2630 2641	etamicastat
+T26	food 2661 2665	food
+T27	drug 2789 2800	etamicastat
+T28	drug 2847 2858	etamicastat
+T29	mealTime 2899 2904	meals
+R3	no_effect_on_drug Arg1:T29 Arg2:T28	

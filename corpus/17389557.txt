@@ -1,0 +1,7 @@
+The effect of different meal types on the pharmacokinetics of darunavir ( TMC114 )  ritonavir in HIV-negative healthy volunteers .
+This open-label , randomized , crossover study investigated the bioavailability , short-term safety , and tolerability of darunavir ( TMC114 ) coadministered with low-dose ritonavir under fasted conditions and after different meal types in HIV-negative healthy volunteers .
+All volunteers received ritonavir 100 mg twice daily on days 1 to 5 , with a single darunavir 400-mg tablet given on day 3 ( darunavir  rtv ) .
+Pharmacokinetic parameters for darunavir and ritonavir were determined under fasted conditions and following a standard breakfast , a high-fat breakfast , a nutritional protein- protein-rich drink , or a croissant with coffee .
+Administration of darunavir  rtv in a fasting state resulted in a decrease in darunavir C ( max ) and AUC ( last ) of approximately 30% compared with administration after a standard meal .
+No significant differences in darunavir plasma concentrations were observed between different fed states .
+Darunavir  rtv should therefore be administered with food , but exposure to darunavir is not affected by the type of meal .

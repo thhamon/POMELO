@@ -1,0 +1,25 @@
+TS722528540	sideeffect 0 15	Adverse effects
+TS922528540	drug 19 41	antioxidative vitamins
+TS1122528540	drug 68 90	antioxidative vitamins
+TS1322528540	drug 115 126	β-carotene
+TS522528540	drug 277 285	vitamins
+TS122528540	sideeffect 315 331	hypervitaminosis
+TS622528540	sideeffect 344 356	intoxication
+TS322528540	drug 475 483	vitamins
+TS1222528540	sideeffect 655 667	interactions
+TS222528540	drug 685 693	vitamins
+TS822528540	sideeffect 756 771	adverse effects
+TS422528540	drug 896 904	vitamins
+T1	drug 276 284	vitamins
+T2	sideeffect 314 330	hypervitaminosis
+T3	sideeffect 343 355	intoxication
+R1	has_sideeffect Arg1:T1 Arg2:T2	
+R2	has_sideeffect Arg1:T1 Arg2:T3	
+T4	drug 101 125	A , E , C and β-carotene
+T5	drug 460 482	antioxidative vitamins
+T6	foodSupplement 439 454	supplementation
+T7	sideeffect 485 498	Toxic effects
+T8	sideeffect 654 666	interactions
+T9	drug 670 692	antioxidative vitamins
+T10	sideeffect 755 770	adverse effects
+T11	drug 895 903	vitamins

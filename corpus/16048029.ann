@@ -1,0 +1,19 @@
+TS2516048029	food 0 17	[Grapefruit juice
+TS2816048029	sideeffect 35 52	drug interaction]
+TS516048029	food 144 160	grapefruit juice
+TS216048029	food 233 249	grapefruit juice
+TS1216048029	drugEffect 276 291	bioavailability
+TS2116048029	sideeffect 404 415	interaction
+TS1616048029	other 540 550	metabolism
+TS2716048029	sideeffect 584 612	inhibition of P-glycoprotein
+TS2216048029	drug 763 790	calcium channel antagonists
+TS816048029	drug 793 808	benzodiazepines
+TS1316048029	drug 844 856	cyclosporine
+TS1516048029	food 925 941	grapefruit juice
+TS2316048029	sideeffect 991 1002	interaction
+TS1416048029	sideeffect 1049 1060	interaction
+TS1916048029	sideeffect 1174 1185	interaction
+R2	relation Arg1:TS2516048029 Arg2:TS2816048029	
+T1	sideeffect 423 457	inhibition of cytochrome P-450 3A4
+T2	drug 811 839	HMG-CoA reductase inhibitors
+R1	relation Arg1:TS1516048029 Arg2:TS2316048029	

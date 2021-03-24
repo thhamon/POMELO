@@ -1,0 +1,7 @@
+Drug-drug and drug-food food interactions between tenofovir disoproxil fumarate and didanosine .
+The drug-drug and drug-food food interactions between tenofovir DF and didanosine EC were evaluated in 2 pharmacokinetic studies in healthy adult subjects .
+When 400 mg was dosed with tenofovir DF , mean didanosine AUC was increased by 44% to 60% following fasted or fed administration .
+Staggered coadministration ( 2 hour , fasted ) of a reduced didanosine dose of 250 mg resulted in equivalent didanosine exposure , while simultaneous administration with tenofovir DF in the fasted and fed state resulted in didanosine AUCs similar to that of the reference treatment of 400 mg alone in the fasted state .
+These data indicate that a dose reduction of didanosine is warranted when it is used with tenofovir DF .
+The drug-drug-food interaction of didanosine may offer more flexible dosing of didanosine EC when it is used with tenofovir DF .
+Patients receiving tenofovir DF and didanosine together should be carefully monitored for safety and efficacy .

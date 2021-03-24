@@ -1,0 +1,25 @@
+TS2216772772	food 9 24	cranberry juice
+TS516772772	sideeffect 25 36	interaction
+TS1916772772	sideeffect 59 78	hypoprothrombinemia
+TS1316772772	sideeffect 83 91	bleeding
+TS2016772772	sideeffect 145 156	interaction
+TS1416772772	food 165 180	cranberry juice
+TS1616772772	drug 185 193	warfarin
+R1	relation Arg1:TS1416772772 Arg2:TS1616772772
+TS816772772	drug 296 304	warfarin
+TS1516772772	sideeffect 325 333	bleeding
+TS916772772	food 373 388	cranberry juice
+TS116772772	drug 492 500	warfarin
+TS316772772	food 520 525	juice
+TS1716772772	food 579 594	cranberry juice
+TS1016772772	drug 599 607	warfarin
+R2	negative_effect_on_drug Arg1:TS1716772772 Arg2:TS1016772772
+T1	drug 0 8	Warfarin
+R3	negative_effect_on_drug Arg1:TS2216772772 Arg2:T1	
+R5	increase_side_effect Arg1:TS2216772772 Arg2:TS516772772	
+R6	has_sideeffect Arg1:T1 Arg2:TS1916772772	
+R7	has_sideeffect Arg1:T1 Arg2:TS1316772772	
+R4	has_sideeffect Arg1:TS816772772 Arg2:TS1516772772	
+T2	sideeffect 338 346	high INR
+R8	has_sideeffect Arg1:TS816772772 Arg2:T2	
+T3	frequency 367 372	daily

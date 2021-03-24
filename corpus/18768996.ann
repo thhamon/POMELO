@@ -1,0 +1,64 @@
+TS2618768996	drug 0 9	Lapatinib
+TS1018768996	drug 28 53	tyrosine kinase inhibitor
+TS2318768996	treatedDisease 58 82	metastatic breast cancer
+TS4218768996	sideeffect 143 158	adverse effects
+TS3918768996	sideeffect 161 187	drug and food interactions
+TS3818768996	drug 241 250	lapatinib
+TS318768996	treatedDisease 254 278	metastatic breast cancer
+TS5318768996	drug 294 303	Lapatinib
+TS4118768996	drug 324 349	tyrosine kinase inhibitor
+TS2218768996	drugEffect 362 426	targets human epidermal growth factor receptors 1 and 2 ( HER2 )
+TS2818768996	drug 450 459	lapatinib
+TS2918768996	drug 521 545	tyrosine kinase receptor
+TS3318768996	drug 701 710	lapatinib
+TS4818768996	drugEffect 724 737	plasma levels
+TS4318768996	drug 875 884	lapatinib
+TS1518768996	drug 889 901	capecitabine
+TS1618768996	drug 962 974	capecitabine
+TS1818768996	treatedDisease 1008 1046	HER2-positive metastatic breast cancer
+TS3418768996	sideeffect 1047 1074;1092 1098;1106 1137	refractory to anthracycline taxane trastuzumab-containing regimens
+TS5718768996	drug 1161 1170	lapatinib
+TS5618768996	treatedDisease 1233 1257	metastatic breast cancer
+TS5818768996	drug 1406 1415	lapatinib
+TS618768996	drug 1420 1432	capecitabine
+TS1318768996	sideeffect 1438 1446	diarrhea
+TS6118768996	sideeffect 1451 1469	hand-foot syndrome
+TS1918768996	drug 1525 1534	lapatinib
+TS4718768996	sideeffect 1592 1636	left ventricular ejection fraction decreases
+TS1218768996	drug 1686 1695	Lapatinib
+TS3718768996	drug 1742 1754	capecitabine
+TS4518768996	treatedDisease 1791 1829	HER2-positive metastatic breast cancer
+TS2418768996	treatedDisease 1849 1867	metastatic disease
+TS2118768996	drug 1977 1986	lapatinib
+TS5118768996	drug 1990 2002	capecitabine
+TS2018768996	drugEffect 2026 2045	disease progression
+R1	treat Arg1:TS1018768996 Arg2:TS2318768996	
+R2	treat Arg1:TS2618768996 Arg2:TS2318768996	
+R3	treat Arg1:TS3818768996 Arg2:TS318768996	
+R4	has_effect Arg1:TS5318768996 Arg2:TS2218768996	
+T1	drug 436 447	trastuzumab
+T2	drugEffect 480 513	binds to the intracellular domain
+R5	has_effect Arg1:TS2818768996 Arg2:T2	
+T3	drugEffect 570 614	blockage of the autophosphorylation reaction
+R6	has_effect Arg1:TS2918768996 Arg2:T3	
+R7	has_effect Arg1:TS2818768996 Arg2:T3	
+T4	modeadm 679 683	oral
+T7	drug 1147 1158	trastuzumab
+R8	treat Arg1:TS5718768996 Arg2:TS5618768996	
+R9	has_sideeffect Arg1:TS5818768996 Arg2:TS1318768996	
+R10	has_sideeffect Arg1:TS5818768996 Arg2:TS6118768996	
+R11	has_sideeffect Arg1:TS618768996 Arg2:TS1318768996	
+R12	has_sideeffect Arg1:TS618768996 Arg2:TS6118768996	
+T8	sideeffect 1545 1560	cardiac effects
+R13	has_sideeffect Arg1:TS1918768996 Arg2:T8	
+R14	has_sideeffect Arg1:TS1918768996 Arg2:TS4718768996	
+R15	treat Arg1:TS1618768996 Arg2:TS1818768996	
+R16	treat Arg1:TS4318768996 Arg2:TS1818768996	
+R17	treat Arg1:TS1218768996 Arg2:TS4518768996	
+R18	treat Arg1:TS3718768996 Arg2:TS4518768996	
+T9	sideeffect 1868 1893;1897 1910;1932 1958	refractory to trastuzumab anthracycline taxane-containing regimens
+T5	drugEffect 2063 2088	progression-free survival
+R19	has_effect Arg1:TS2118768996 Arg2:TS2018768996	
+R20	has_effect Arg1:TS5118768996 Arg2:TS2018768996	
+R21	has_effect Arg1:TS2118768996 Arg2:T5	
+R22	has_effect Arg1:TS5118768996 Arg2:T5	

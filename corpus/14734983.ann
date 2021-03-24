@@ -1,0 +1,18 @@
+TS414734983	food 39 47	nutrient
+TS114734983	sideeffect 48 60	interactions
+TS614734983	drug 180 191	Antibiotics
+TS914734983	drug 236 254	electrolyte agents
+TS514734983	food 529 537	nutrient
+TS214734983	sideeffect 538 550	interactions
+TS314734983	food 752 760	nutrient
+TS814734983	sideeffect 761 773	interactions
+T1	drug 30 34	drug
+T2	food 82 102	parenteral nutrition
+T3	modeadm 161 163	IV
+T4	modeadm 147 158	intravenous
+T5	drug 198 212	cardiovascular
+T6	drug 215 231	gastrointestinal
+T7	modeadm 349 359	parenteral
+T8	modeadm 452 454	IV
+T9	drug 520 524	drug
+T10	drug 743 747	drug

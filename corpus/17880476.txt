@@ -1,0 +1,10 @@
+Development and evaluation of standardized protocol to prevent nasoenteral tube obstruction in cardiac patients requiring enteral nutrition with restricted fluid volumes .
+This study sought to assess the impact of a standardized protocol to maintain nasoenteral tube ( NET ) patency in patients requiring fluid restriction and identify factors associated with tube patency .
+Nasoenteral tube obstruction may interrupt nutritional support and prohibit drug administration .
+Balancing NET patency in the context of fluid restriction can be a challenge .
+The impact of the standardized protocol was assessed by using a quasi-experimental design and an historical control .
+Sixty patients receiving nasoenteral feeding as part of their clinical management were enrolled in the study .
+Nasoenteral obstruction was 8.3% , showing a reduction from the 17.4% observed in the baseline data collection .
+A key factor associated with tube obstruction was sounding of an infusion pump alarm reflecting the tube patency issues .
+While mindful of the limitations of probability sampling , the implementation of a standardized protocol accompanied by staff training reduced the rates of NET obstruction .
+On the basis of these findings , we conclude that it is possible to maintain the patency of small bore tubes , even in the presence of fluid restriction , with a standardized protocol to guide clinical management .

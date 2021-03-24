@@ -1,0 +1,19 @@
+TS1720509982	sideeffect 10 36	drug-nutrient interactions
+TS2020509982	food 81 90	nutrients
+TS1620509982	sideeffect 187 202	adverse effects
+TS520509982	sideeffect 254 266	interactions
+TS620509982	sideeffect 356 382	drug-nutrient interactions
+TS2320509982	sideeffect 411 423	interactions
+TS820509982	drug 481 493	theophylline
+TS1820509982	drug 498 505	digoxin
+TS1220509982	drug 562 570	warfarin
+TS220509982	food 638 647	nutrition
+TS1020509982	food 755 764	nutrients
+TS1420509982	food 778 783	foods
+TS2420509982	foodSupplement 788 799	supplements
+TS1120509982	food 840 856	grapefruit juice
+TS920509982	foodSupplement 935 946	supplements
+TS1920509982	sideeffect 995 1007	interactions
+TS420509982	foodSupplement 1150 1161	supplements
+T1	food 861 875	St John's wort
+R1	relation Arg1:TS920509982 Arg2:TS1920509982	

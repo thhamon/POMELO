@@ -1,0 +1,26 @@
+Safety and clinical pharmacokinetics of nemonoxacin , a novel non-fluorinated quinolone , in healthy Chinese volunteers following single and multiple oral doses .
+Nemonoxacin , a novel C-8-methoxy non-fluorinated quinolone , is currently being developed in oral and intravenous formulations .
+It exhibits potent antibacterial activities against Gram-positive , Gram-negative and atypical pathogens , especially methicillin- methicillin-resistant Staphylococcus aureus .
+The first-in-human study of a nemonoxacin capsule was conducted in a Western population .
+This current study was the first investigation on the clinical pharmacokinetics ( PK ) of nemonoxacin in a Chinese population , and was designed to determine PK data in a Chinese population and investigate the dose regimen for future clinical use .
+The objective of this study was to evaluate the PK profile of nemonoxacin as well as its safety and tolerability in healthy Chinese volunteers following single and multiple oral doses .
+The first part of the study was a double-blind , placebo-controlled , sequential ascending single-dose safety and tolerability study .
+In each cohort , two subjects received a placebo and six received single oral doses of nemonoxacin 125 , 250 , 500 , 750 or 1000 mg .
+In the second part , the single-dose PK study , three dose levels ( 250 , 500 and 750 mg ) of nemonoxacin were administered orally to 12 healthy Chinese volunteers ( male : female = 1 : 1 ) under fasting conditions in a crossover manner .
+The same volunteers received orally an additional dose of 500 mg under fed conditions after a 7-day washout .
+In the third part , the multiple-dose PK study , 24 subjects received 500 or 750 mg of nemonoxacin orally once daily for 10 consecutive days .
+Within each cohort , 12 subjects ( male : female = 1 : 1 ) received the same dose level of nemonoxacin under fasting conditions .
+The PK profiles , safety and tolerability , and food and sex effects were evaluated .
+No severe or serious adverse events ( AEs ) occurred in this study , and no clinically significant abnormalities were noted in the vital signs or on physical examination .
+Notable AEs , mainly nausea and rash with or without pruritus , were mild and resolved spontaneously .
+Most laboratory AEs were mild and transient and the subjects recovered without treatment .
+Nemonoxacin was found to be rapidly absorbed , with peak plasma concentrations ( C ( max ) ) attained 1-2 hours after administration .
+The C ( max ) and area under the concentration-time curve from time zero to infinity ( AUC ( ∞ ) ) were dose-proportional after single oral doses .
+The elimination half-life was 10-12 hours .
+Nemonoxacin was excreted primarily in urine , with a recovery of intact nemonoxacin of 60-70% of the dose over 72 hours .
+Food had a significant effect on the rate and extent of absorption ( p sentinf 0.001 ) , increasing the time to reach C ( max ) from 1.14 to 3.64 hours and reducing C ( max ) by 34% and AUC ( ∞ ) by 18% , while a sex effect was not found .
+C ( max ) and AUC ( ∞ ) were similar between the single-dose and multiple-dose PK studies .
+The multiple-dose PK data suggested no drug accumulation in healthy subjects .
+Nemonoxacin exhibited a linear PK profile in the 250-750 mg dose range with moderate food effects .
+There was no accumulation following consecutive administration for 10 days .
+The PK and safety profiles of nemonoxacin in Chinese subjects support evaluation of once-daily dosing in the future development of this agent .

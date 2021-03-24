@@ -1,0 +1,8 @@
+Pharmacokinetic interactions of statins .
+Statins have shown high efficacy in managing hypercholesterolemia in patients requiring chronic drug treatment , particularly those who show comorbidity and thus receive concomitant medication for other pathologies .
+According to the reported data extensively reviewed in this work , absorption and elimination are the kinetic processes mainly affected by this type of interaction , while distribution and protein binding is only slightly modified .
+Products ( drugs or food ) with the ability to affect the activity of protein- protein-mediated transport and  or P450 cytochrome systems , particularly the P-glycoprotein and  or CYP3A4 , respectively , are expected to cause pharmacokinetic interactions with statins .
+The intensity of the interaction is dependent on the statin kinetic profile and the capacity of the coadministered product to alter the systems mentioned above .
+Modification of the total HMG-CoA inhibitors instead of just the parent drug profile is to be considered when evaluating the clinical relevance of the interaction .
+Interindividual variability must also be taken into account when extrapolating results from studies performed in small groups of relatively healthy individuals .
+Patients treated with other drugs that have the potential ability to interact with statins should be monitored .

@@ -1,0 +1,4 @@
+TS120065263	sideeffect 10 21	interaction
+TS220065263	drug 49 57	Warfarin
+T1	food 30 44	MonaVie Active
+R1	relation Arg1:T1 Arg2:TS220065263	

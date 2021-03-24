@@ -1,0 +1,16 @@
+Satraplatin , an oral platinum , administered on a five-day every-five-week schedule: a pharmacokinetic and food effect study .
+The study aimed to assess the pharmacokinetic behavior of satraplatin under fasted and fed conditions , and its safety and preliminary antitumor activity in adults with advanced solid tumors .
+Satraplatin was administered orally at 80 mg  m ( 2 ) once daily with prophylactic antiemetics for 5 consecutive days every 5 weeks .
+Patients were randomized to receive day 1 and day 5 doses of satraplatin in either the fed or fasted state , the order being reversed for cycle 2. .
+Pharmacokinetic sampling was done during the first two cycles .
+For all subsequent cycles , patients received satraplatin in the fasted state .
+Seventeen patients were treated with 60 total cycles of satraplatin .
+There was no dose-limiting toxicity during cycle 1. .
+Severe hematologic toxicity was rare and the hematologic nadir occurred during week 4. .
+Nausea , vomiting , and diarrhea were grade 1  2. .
+No significant cardiac , renal , hepatic , or neurologic toxicity was observed .
+The hypothesis that food decreased ultrafiltrate platinum bioavailability could not be rejected , as the lower limit of the 90% confidence intervals for peak plasma concentration and area under the concentration-time curve from time 0 to 24 hours were 56.14% and 73.53% , respectively , both below the 80% bioequivalence acceptance criterion .
+One partial response ( hormone refractory prostate cancer ) and four durable stable diseases ( breast , ovarian , parotid , and hormone refractory prostate cancer ) were confirmed .
+There is an effect of food on the pharmacokinetics of satraplatin , the clinical significance of which is unclear .
+It is recommended that satraplatin be administered in the fasting state .
+This 5-week interval schedule of satraplatin was well tolerated in heavily pretreated patients .

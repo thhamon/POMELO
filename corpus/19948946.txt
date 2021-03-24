@@ -1,0 +1,8 @@
+Effect of grapefruit juice on the pharmacokinetics of nilotinib in healthy participants .
+Nilotinib ( Tasigna ; Novartis Pharmaceuticals ) is a second-generation BCR-ABL tyrosine kinase inhibitor newly approved for the treatment of imatinib- imatinib-resistant or imatinib- imatinib-intolerant Philadelphia chromosome positive ( Ph+ ) chronic myeloid leukemia in chronic phase or accelerated phase .
+This study evaluated the effect of grapefruit juice on the pharmacokinetics of nilotinib in 21 healthy male participants .
+All participants underwent 2 study periods during which they received a single oral dose of 400 mg nilotinib with 240 mL double-strength grapefruit juice or 240 mL water in a crossover fashion .
+Serial blood samples were collected for the determination of serum nilotinib concentrations by a validated liquid chromatography  tandem mass spectrometry assay .
+Concurrent intake of grapefruit juice increased the nilotinib peak concentration ( C ( max ) ) by 60% and the area under the serum concentration-time curve ( AUC ( 0-infinity ) ) by 29% but did not affect the time to reach C ( max ) or the elimination half-life of nilotinib .
+The most common adverse events were headache and vomiting , which were mild or moderate in severity , and their frequency appeared to be similar between 2 treatments .
+Based on the currently available information about nilotinib and the observed extent of increase in nilotinib exposure , concurrent administration of nilotinib with grapefruit juice is not recommended .

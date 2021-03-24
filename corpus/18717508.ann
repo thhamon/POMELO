@@ -1,0 +1,47 @@
+TS2318717508	drug 0 11	Oxymorphone
+TS2418717508	drug 16 27	oxymorphone
+TS2518717508	treatedDisease 94 106	chronic pain
+TS3018717508	drug 160 177	Opioid analgesics
+TS3418717508	treatedDisease 228 240	chronic pain
+TS3518717508	treatedDisease 287 293;298 320	cancer noncancer chronic pain
+TS1418717508	drug 351 357	opioid
+TS718717508	drug 382 393	oxymorphone
+TS1518717508	drug 398 426	semisynthetic opioid agonist
+TS2118717508	drug 652 663	oxymorphone
+TS2918717508	treatedDisease 709 732	moderate to severe pain
+TS1918717508	drug 851 862	oxymorphone
+TS3118717508	treatedDisease 883 920	moderate to severe postoperative pain
+TS918717508	drugEffect 975 984	analgesia
+TS818717508	drug 1138 1149	oxymorphone
+TS2718717508	treatedDisease 1157 1189	chronic cancer or noncancer pain
+TS1218717508	drug 1211 1220	analgesic
+TS2018717508	drug 1278 1286	morphine
+TS2818717508	drug 1316 1325	oxycodone
+TS2218717508	drug 1354 1365	oxymorphone
+TS2618717508	drug 1497 1508	oxymorphone
+TS618717508	drug 1639 1650	oxymorphone
+TS1818717508	other 1651 1661	metabolism
+TS418717508	food3 1674 1681	protein
+R1	treat Arg1:TS3018717508 Arg2:TS3418717508	
+R2	treat Arg1:TS3018717508 Arg2:TS3518717508	
+T1	modeadm 377 381	oral
+T2	modeadm 452 474	oral immediate-release
+T3	modeadm 486 502	extended-release
+T4	modeadm 647 651	oral
+T5	modeadm 477 479	IR
+T6	modeadm 505 507	ER
+T7	modeadm 664 666	IR
+T8	modeadm 671 673	ER
+R3	treat Arg1:TS2118717508 Arg2:TS2918717508	
+T9	modeadm 863 865	IR
+R4	treat Arg1:TS1918717508 Arg2:TS3118717508	
+R5	has_effect Arg1:TS1918717508 Arg2:TS918717508	
+T10	modeadm 1150 1152	ER
+R6	treat Arg1:TS818717508 Arg2:TS2718717508	
+T11	dosage 28 44	extended release
+T12	modeadm 1287 1312	controlled release ( CR )
+T13	modeadm 1326 1328	CR
+T14	modeadm 1366 1368	ER
+T15	duration 1396 1415	periods of 12 weeks
+T16	modeadm 1509 1511	ER
+T17	drug 1638 1649	oxymorphone

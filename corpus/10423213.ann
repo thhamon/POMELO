@@ -1,0 +1,3 @@
+TS310423213	food 0 16	Grapefruit juice
+TS210423213	drug 42 50	warfarin
+R1	relation Arg1:TS310423213 Arg2:TS210423213

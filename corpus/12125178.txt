@@ -1,0 +1,11 @@
+[Interactions of phytotherapeutic drugs , foods and drinks with medicines]. .
+Phytotherapeutic preparations contain a large number of pharmacologically active components .
+Protective systems have evolved to detoxify and eliminate these xenobiotics .
+Among them is the cytochrome P450 system and the transporter p-glycoprotein in intestine and liver that control the absorption , biotransformation and elimination of drugs .
+Components of phytotherapeutic preparations can interfere with the function of these systems and lead to interactions with drugs .
+St John's wort , for example , induces the expression of p-glycoprotein and CYP3A4 in liver and intestine and thereby decreases the activity of other drugs .
+Garlic extracts as well may decrease the activity of drugs that are substrates for CYP3A4 CYP3A4. .
+In contrast , grapefruit juice inhibits intestinal CYP3A4 CYP3A4. .
+This results in a higher bioavailability of some drugs and possibly more adverse effects .
+Some relevant interactions were only detected after many years of widespread use , indicating that the treating physician should not only inquire about a change in co-medication but also about the use of alternative medicines or a change in dietary habits when a patient presents with unexpected and unusual adverse effects or a sudden loss of drug efficacy .
+It would be desirable if more information regarding the potential for interactions with commonly used drugs was available prior to registration of new phytotherapeutic preparations in order to document their safety for patients who require continuous treatment with a drug because of a chronic disease .

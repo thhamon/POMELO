@@ -1,0 +1,5 @@
+TS219126824	sideeffect 0 11	Interaction
+TS119126824	drug 20 28	warfarin
+TS419126824	food 33 42	black tea
+R1	relation Arg1:TS419126824 Arg2:TS219126824	
+R2	relation Arg1:TS419126824 Arg2:TS119126824	

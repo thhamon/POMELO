@@ -1,0 +1,10 @@
+Effect of H2 blockade and food on single-dose pharmacokinetics of GSK1322322 , a peptide deformylase inhibitor antibacterial .
+GSK1322322 is first in a new class of antibiotics , peptide deformylase inhibitors , and is active against multidrug-resistant respiratory and skin pathogens .
+Part 1 of this phase 1 , randomized , single-dose ( 1 , 000 mg ) study in 20 healthy volunteers compared the relative bioavailability of three different tablet formulations of GSK1322322 ( fast release , intermediate release , and slow release ) to that of the previously studied powder-in-bottle formulation to assess the optimal formulation for progression into clinical trials .
+Part 2 assessed the effect of a high-fat meal and drug interaction with an H2 blocker and an H2 blocker plus vitamin C on the pharmacokinetic profile of GSK1322322. .
+Of the three tablet formulations , fast- fast-release GSK1322322 provided pharmacokinetic profiles similar to those of the powder-in-bottle reference formulation ( senttild93% relative bioavailability ) and was selected for progression in part 2. .
+When GSK1322322 was administered with a high-fat meal , the maximum observed plasma concentration ( C ( max ) ) was reduced by 20% , and the time to maximum plasma concentration ( T ( max ) ) was delayed by 1.9 h .
+The exposure ( area under the concentration-time curve [AUC [AUC] ) increased by senttild20% compared to that in volunteers in the fasted state .
+Coadministration of GSK1322322 with an H2 blocker resulted in a slight delay in absorption ( T ( max ) senttild0.75 h later ) and 58 and 38% decreases in the C ( max ) and AUC0-∞ values , respectively , compared to GSK1322322 alone .
+This effect was reversed with vitamin C intake ( i.e i.e. , no delay in T ( max ) and the C ( max ) and AUC0-∞ values decreased by only 21 and 12% , respectively ) .
+GSK1322322 was generally well tolerated , and most adverse events were mild in intensity during both parts of the study .

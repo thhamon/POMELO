@@ -1,0 +1,38 @@
+TS1622615291	drug 237 247	antifungal
+TS2322615291	food 286 301	taken with food
+TS622615291	drugEffect 424 439	bioavailability
+TS2622615291	mealTime 717 723	fasted
+TS422615291	mealTime 728 731	fed
+TS1922615291	mealTime 789 806	fasted conditions
+TS1022615291	drug 1240 1243	AUC
+TS522615291	food3 1386 1389	fed
+TS1122615291	drug 1441 1444	AUC
+TS1222615291	drug 1459 1462	AUC
+TS1322615291	drug 1692 1695	AUC
+R1	relation Arg1:TS522615291 Arg2:TS1122615291
+TS1522615291	other 1807 1824	fasted conditions
+TS1722615291	food3 1842 1845	fed
+TS1822615291	food3 1924 1927	fed
+TS2022615291	other 1932 1949	fasted conditions
+TS2222615291	mealTime 2084 2099	a high-fat meal
+TS222615291	food 2179 2183	food
+T1	drug 62 74	posaconazole
+T2	modeadm 126 141	oral suspension
+T3	drug 144 156	Posaconazole
+T4	modeadm 157 172	oral suspension
+T5	drug 204 212	triazole
+R2	increase_absorption Arg1:TS2322615291 Arg2:TS1622615291	
+T6	drug 682 694	posaconazole
+T7	modeadm 695 710	oral suspension
+T8	drug 809 821	posaconazole
+T9	modeadm 1361 1376	oral suspension
+T10	modeadm 1382 1385	fed
+T11	mealTime 1799 1816	fasted conditions
+T12	mealTime 1834 1848	fed conditions
+T13	food 2078 2091	high-fat meal
+T14	mealTime 2087 2091	meal
+T15	modeadm 2012 2027	oral suspension
+T16	food 2171 2175	food
+T17	drug 2198 2210	posaconazole
+T18	dosage 2214 2220	100 mg
+R3	no_effect_on_drug Arg1:T16 Arg2:T17	

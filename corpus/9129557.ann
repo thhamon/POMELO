@@ -1,0 +1,39 @@
+TS449129557	food 0 17	Grapefruit juice-
+TS179129557	sideeffect 48 59	interaction
+TS189129557	food 164 180	grapefruit juice
+TS149129557	food 285 290	water
+TS29129557	food 322 338	grapefruit juice
+TS259129557	food 780 796	grapefruit juice
+TS59129557	food 856 861	water
+TS219129557	food 1095 1100	juice
+TS139129557	sideeffect 1217 1228	interaction
+TS49129557	drug 1505 1528	terfenadine carboxylate
+TS319129557	drug 1489 1500	terfenadine
+TS79129557	food 1428 1444	grapefruit juice
+TS249129557	food 1572 1588	grapefruit juice
+TS119129557	food 1658 1674	grapefruit juice
+TS89129557	sideeffect 1913 1924	interaction
+TS379129557	sideeffect 2138 2149	interaction
+TS169129557	food 2158 2174	grapefruit juice
+T1	drug 24 35	terfenadine
+R3	relation Arg1:TS449129557 Arg2:T1	
+R4	increase_side_effect Arg1:TS449129557 Arg2:TS179129557	
+T2	drug 184 195	terfenadine
+T3	sideeffect 425 436	cardiotoxic
+T4	drug 443 454	terfenadine
+R1	has_sideeffect Arg1:T4 Arg2:T3	
+T5	drug 470 519	antihistaminic metabolite terfenadine carboxylate
+T6	drug 584 595	Terfenadine
+T7	drug 864 875	Terfenadine
+T8	drug 934 957	Terfenadine carboxylate
+T9	drug 1113 1136	terfenadine carboxylate
+T10	drug 1232 1255	terfenadine carboxylate
+R5	has_sideeffect Arg1:T10 Arg2:TS139129557	
+T11	drug 1715 1726	terfenadine
+R6	relation Arg1:TS119129557 Arg2:T11	
+T12	sideeffect 1731 1746	carboxylic acid
+T13	sideeffect 1807 1843	reduced presystemic drug elimination
+R2	increase_side_effect Arg1:TS119129557 Arg2:T13	
+T14	drug 2179 2190	terfenadine
+R7	negative_effect_on_drug Arg1:TS169129557 Arg2:T14	
+R8	increase_side_effect Arg1:TS169129557 Arg2:TS379129557	

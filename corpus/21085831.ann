@@ -1,0 +1,35 @@
+TS2521085831	sideeffect 24 41	drug interactions
+TS721085831	sideeffect 44 59	adverse effects
+TS1521085831	drug 145 165	tuberculosis therapy
+TS1221085831	sideeffect 277 292	Adverse effects
+TS2421085831	sideeffect 322 339	drug interactions
+TS1021085831	treatedDisease 599 631	multidrug resistant tuberculosis
+TS221085831	drug 634 649	aminoglycosides
+TS1321085831	drug 671 682	cycloserine
+TS821085831	drug 697 708	ethionamide
+TS1421085831	drug 711 722	capreomycin
+TS521085831	drug 729 753	para-aminosalicylic acid
+TS2121085831	sideeffect 797 809	interactions
+TS1721085831	food 831 835	food
+TS621085831	drug 842 850	antacids
+TS2221085831	sideeffect 956 969	liver failure
+TS2021085831	sideeffect 976 990	kidney failure
+T1	drug 0 22	Antituberculosis drugs
+T2	drugEffect 173 190	cure the patients
+T3	drugEffect 198 238	minimize the possibility of transmission
+R1	has_effect Arg1:TS1521085831 Arg2:T2	
+R2	has_effect Arg1:TS1521085831 Arg2:T3	
+T4	drug 296 318	antituberculosis drugs
+T5	drug 348 370	antituberculosis drugs
+T6	drug 382 404	antituberculosis drugs
+T7	drug 652 668	fluoroquinolones
+T8	drug 684 694	terizidone
+R3	treat Arg1:TS221085831 Arg2:TS1021085831	
+R4	treat Arg1:T7 Arg2:TS1021085831	
+R5	treat Arg1:TS1321085831 Arg2:TS1021085831	
+R6	treat Arg1:T8 Arg2:TS1021085831	
+R7	treat Arg1:TS521085831 Arg2:TS1021085831	
+R8	treat Arg1:TS1421085831 Arg2:TS1021085831	
+R9	treat Arg1:TS821085831 Arg2:TS1021085831	
+T9	sideeffect 770 792	adverse drug reactions
+R10	relation Arg1:TS1721085831 Arg2:TS2121085831	

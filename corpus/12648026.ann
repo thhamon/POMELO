@@ -1,0 +1,52 @@
+TS212648026	drug 30 47	estrogen receptor
+TS1012648026	drug 61 99	Selective estrogen receptor modulators
+TS2112648026	treatedDisease 161 174	breast cancer
+TS1212648026	treatedDisease 179 191	osteoporosis
+TS2312648026	drug 247 256	tamoxifen
+TS512648026	drug 274 284	raloxifene
+TS1412648026	sideeffect 356 371	adverse effects
+TS412648026	sideeffect 455 466	hot flashes
+TS912648026	sideeffect 471 488	vaginal discharge
+TS2512648026	treatedDisease 572 584	osteoporosis
+TS2712648026	treatedDisease 589 602	breast cancer
+TS1712648026	drug 611 621	ospemifene
+TS612648026	drug 710 720	raloxifene
+TS1512648026	drug 794 803	Tamoxifen
+TS1912648026	drugEffect 826 841	bioavailability
+TS1312648026	drug 882 892	raloxifene
+TS3112648026	drug 971 980	Tamoxifen
+TS1112648026	drug 1055 1065	raloxifene
+TS3412648026	sideeffect 1351 1368	drug interactions
+TS3012648026	drug 1397 1405	warfarin
+TS812648026	drug 1421 1429	rifampin
+TS2212648026	drug 1434 1448	cholestyramine
+T1	drug 102 107	SERMs
+R1	treat Arg1:TS1012648026 Arg2:TS2112648026	
+R2	treat Arg1:TS1012648026 Arg2:TS1212648026	
+T2	drug 194 199	SERMs
+T3	drug 259 269	toremifene
+T4	drug 407 411	SERM
+T5	sideeffect 428 446	vasomotor symptoms
+R3	has_sideeffect Arg1:T4 Arg2:T5	
+R4	has_sideeffect Arg1:T4 Arg2:TS412648026	
+R5	has_sideeffect Arg1:T4 Arg2:TS912648026	
+T6	drug 495 500	SERMs
+T7	drug 657 667	arzoxifene
+R6	treat Arg1:TS1712648026 Arg2:TS2712648026	
+R7	treat Arg1:TS1712648026 Arg2:TS2512648026	
+R8	treat Arg1:T7 Arg2:TS2712648026	
+R9	treat Arg1:T7 Arg2:TS2512648026	
+T8	drug 808 818	toremifene
+R10	has_effect Arg1:T8 Arg2:TS1912648026	
+R11	has_effect Arg1:TS1512648026 Arg2:TS1912648026	
+T9	drug 907 912	SERMs
+T10	drug 985 995	toremifene
+T11	drug 1322 1327	SERMs
+T12	drug 1408 1418	rifampicin
+T13	drug 1453 1473	aromatase inhibitors
+R12	has_sideeffect Arg1:T11 Arg2:TS3412648026	
+R13	has_sideeffect Arg1:TS3012648026 Arg2:TS3412648026	
+R14	has_sideeffect Arg1:T12 Arg2:TS3412648026	
+R15	has_sideeffect Arg1:TS812648026 Arg2:TS3412648026	
+R16	has_sideeffect Arg1:TS2212648026 Arg2:TS3412648026	
+R17	has_sideeffect Arg1:T13 Arg2:TS3412648026	

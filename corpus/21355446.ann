@@ -1,0 +1,18 @@
+TS721355446	drug 64 93	tenofovir disoproxil fumarate
+TS1021355446	drug 118 147	Tenofovir disoproxil fumarate
+TS121355446	drug 150 153	TDF
+TS221355446	treatedDisease 311 326	HIV-1 infection
+TS921355446	drugEffect 791 804	plasma levels
+TS621355446	drug 808 817	tenofovir
+T1	modeadm 28 32	oral
+T2	drug 179 221	nucleotide reverse transcriptase inhibitor
+T3	drug 267 288	antiretroviral agents
+R1	treat Arg1:TS1021355446 Arg2:TS221355446	
+R2	treat Arg1:T2 Arg2:TS221355446	
+R3	treat Arg1:T3 Arg2:TS221355446	
+T4	dosage 509 515	300 mg
+T5	drug 519 522	TDF
+T6	frequency 595 606	single-dose
+R4	has_effect Arg1:TS621355446 Arg2:TS921355446	
+T7	drug 820 823	TFV
+T8	duration 777 786	over 48 h

@@ -1,0 +1,9 @@
+Relationship between time after intake of grapefruit juice and the effect on pharmacokinetics and pharmacodynamics of nisoldipine in healthy subjects .
+A clinical study was performed in eight healthy volunteers to investigate the effect of various timing of grapefruit juice intake on nisoldipine pharmacokinetics and pharmacodynamics , and to validate our pharmacokinetic model .
+The subjects were given 10 mg oral nisoldipine with water ( control ) , or 5 mg oral nisoldipine with 200 mL grapefruit juice ( G0 ) or with water at 14 ( G14 ) , 38 ( G38 ) , 72 ( G72 ) or 96 hours ( G96 ) after a 7-day period of thrice-daily intake of grapefruit juice .
+Grapefruit juice ingestion did not affect heart rate or the effect area during the first 8 hours of heart rate after nisoldipine administration , although significant decreases of systolic and diastolic blood pressure were caused in G0 by coadministration of grapefruit juice with nisoldipine .
+Headaches were reported by 3 , 2 , and 1 persons in G0 , G14 , and G38 , respectively , but no subjects in G72 and G96 reported headaches .
+Compared with the control group , the maximum plasma concentration of nisoldipine was significantly increased after grapefruit juice intake in G0 and G14 , and the plasma concentration was significantly increased at each time in G0 to G72. .
+Therefore the effect of grapefruit juice decreased time dependently and lasted for at least 3 days after intake .
+Furthermore , our model gave predicted values in good agreement with the observed values .
+It is therefore necessary to withhold grapefruit juice for at least 3 days before administration of the drug to prevent grapefruit juice- juice-nisoldipine interaction .

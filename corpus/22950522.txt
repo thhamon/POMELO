@@ -1,0 +1,18 @@
+Pharmacokinetics , safety , and tolerability of GLPG0259 , a mitogen-activated protein kinase- kinase-activated protein kinase 5 ( MAPKAPK5 ) inhibitor , given as single and multiple doses to healthy male subjects .
+GLPG0259 is a small-molecule inhibitor of mitogen-activated protein kinase- kinase-activated protein kinase 5 ( MAPKAPK5 ) , a kinase enzyme that plays a role in important inflammatory pathways .
+The main objectives of the phase I clinical studies in early development were to characterize the pharmacokinetics , tolerability , and safety of GLPG0259 in healthy subjects , including the development of a solid dosage form ( free-base pellets and fumarate salt capsules ) and the potential for interaction of GLPG0259 with methotrexate .
+Four phase I studies were initiated .
+Study 1 was a randomized , double-blind , placebo-controlled study to evaluate the safety , tolerability , and pharmacokinetics of single ascending doses ( 1.5-150 mg ) and multiple oral doses ( 20 and 50 mg once daily ) of GLPG0259 in healthy male subjects ( n = 34 ) .
+Study 2 was a randomized , double-blind , placebo-controlled study to evaluate the safety , tolerability , and pharmacokinetics of oral multiple ascending doses of GLPG0259 ( 25-75 mg once daily ) given for 14 days to healthy male subjects , and to get preliminary information on the potential pharmacokinetic interaction between GLPG0259 and methotrexate ( n = 24 ) .
+Studies 3 and 4 were open-label , randomized , crossover studies to compare the oral bioavailability of two solid dosage forms of GLPG0259 ( a capsule ) relative to an oral solution after a 100 mg or 50 mg single dose and to evaluate the effect of food on these formulations ( n = 12 for each study ) .
+The non-compartmental pharmacokinetic parameters for plasma concentrations of GLPG0259 were determined , and a population pharmacokinetic model of GLPG0259 was developed to support the planning of the number and timing of the sparse samples to be taken per patient in the phase II study .
+Safety and tolerability data are also summarized .
+The absorption of GLPG0259 was slow , with a decrease in the absorption rate with increasing dose , and there was decreased elimination , with an apparent terminal elimination half-life of 26.0 hours .
+On the basis of statistical analysis of variance , the exposure to GLPG0259 increased in proportion to the dose over a 30-150 mg single-dose range and a 25-75 mg repeated-dose range .
+Between- and within-subject variability in GLPG0259 pharmacokinetics was low  moderate ( coefficient of variation [CV] 16-30% ) .
+After once-daily repeated dosing , steady-state plasma concentrations were reached at between 5 and 8 dosing days , which is consistent with the long apparent elimination half-life of GLPG0259. .
+Food increased the bioavailability of GLPG0259 given in a solid dosage form .
+Co-administration of GLPG0259 with a single dose of methotrexate 7.5 mg did not result in any change in the pharmacokinetic profiles of either GLPG0259 or methotrexate .
+In summary , the investigation of safety  tolerability and pharmacokinetics in the early development phase showed that single and repeated doses of GLPG0259 were safe and well tolerated .
+The most common adverse event reported was mild gastrointestinal discomfort .
+The pharmacokinetics characterized in healthy male subjects showed no major obstacles and supports a once-daily oral regimen in patients .

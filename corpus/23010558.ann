@@ -1,0 +1,40 @@
+TS2523010558	drug 4 33	glucokinase activator AZD6370
+TS1823010558	drugEffect 34 76	decreases fasting and postprandial glucose
+TS2623010558	treatedDisease 80 104	type 2 diabetes mellitus
+TS2123010558	food 160 164	food
+TS1123010558	drug 240 269	glucokinase activator AZD6370
+TS1223010558	mealTime 306 309	fed
+TS1523010558	mealTime 314 331	fasted conditions
+TS123010558	treatedDisease 349 373	type 2 diabetes mellitus
+TS3223010558	mealTime 513 519	fasted
+TS423010558	mealTime 523 526	fed
+TS1723010558	drug 690 697	insulin
+TS3123010558	mealTime 848 854	fasted
+TS523010558	mealTime 859 862	fed
+TS823010558	drug 915 922	Insulin
+TS3323010558	mealTime 1007 1013	fasted
+TS1623010558	mealTime 1021 1024	fed
+TS223010558	food 1244 1248	food
+TS623010558	drugEffect 1307 1340	dose-dependent glucose reductions
+TS2823010558	drugEffect 1345 1354;1372 1408	increased glucose-stimulated insulin secretion
+R1	has_effect Arg1:TS2523010558 Arg2:TS1823010558	
+R2	treat Arg1:TS2523010558 Arg2:TS2623010558	
+T1	drug 465 472	AZD6370
+T2	dosage 475 492	20 , 60 or 180 mg
+T3	modeadm 452 456	oral
+T4	drug 615 622	AZD6370
+T5	dosage 623 629	180 mg
+T6	drug 751 758	AZD6370
+T7	dosage 891 904	60 and 180 mg
+T8	drug 1050 1057	AZD6370
+T9	drug 1145 1152	AZD6370
+T10	frequency 1058 1088	twice or four-times over 1 day
+T11	drug 1196 1203	AZD6370
+T12	drug 1251 1258	AZD6370
+R3	no_effect_on_drug Arg1:TS223010558 Arg2:T11	
+T13	drug 1290 1297	AZD6370
+R4	has_effect Arg1:T13 Arg2:TS623010558	
+R5	has_effect Arg1:T13 Arg2:TS2823010558	
+T14	treatedDisease 376 380	T2DM
+T15	treatedDisease 1426 1430	T2DM
+R6	treat Arg1:T13 Arg2:T15	

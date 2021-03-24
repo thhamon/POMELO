@@ -1,0 +1,55 @@
+TS1621098692	food 37 41	food
+TS2321098692	drug 97 110	hydromorphone
+R1	relation Arg1:TS1621098692 Arg2:TS2321098692
+TS2521098692	food 212 216	food
+TS121098692	drug 261 274	hydromorphone
+R2	relation Arg1:TS2521098692 Arg2:TS121098692
+TS2621098692	drug 341 354	hydromorphone
+TS2821098692	mealTime 368 374	fasted
+TS821098692	food 405 413	high-fat
+TS1921098692	mealTime 414 423	breakfast
+TS1421098692	drug 497 510	hydromorphone
+TS1521098692	drug 568 581	hydromorphone
+TS3021098692	mealTime 589 595	fasted
+TS1721098692	drug 681 691	Naltrexone
+TS2021098692	drugEffect 738 762	block the opioid effects
+TS221098692	drug 766 779	hydromorphone
+TS621098692	drug 980 993	hydromorphone
+TS521098692	mealTime 1001 1004	fed
+TS2921098692	mealTime 1009 1015	fasted
+TS3121098692	mealTime 1094 1100	fasted
+TS1221098692	drug 1179 1192	hydromorphone
+TS1321098692	drug 1215 1228	hydromorphone
+R4	relation Arg1:TS3121098692 Arg2:TS1221098692
+TS2121098692	drug 1278 1291	hydromorphone
+TS321098692	drugEffect 1351 1366	bioavailability
+TS921098692	drug 1387 1400	hydromorphone
+TS2421098692	food 1420 1424	food
+TS421098692	drugEffect 1438 1453	bioavailability
+TS1021098692	drug 1474 1487	hydromorphone
+T1	frequency 69 79	once-daily
+T2	modeadm 80 96	extended-release
+T3	modeadm 244 260	extended-release
+T4	modeadm 324 340	extended-release
+T5	dosage 355 360	16 mg
+T6	dosage 466 471	16-mg
+T7	modeadm 480 496	extended-release
+T8	dosage 517 522	16-mg
+T9	frequency 523 533	daily dose
+T10	dosage 536 540	4 mg
+T11	frequency 541 544	qid
+T12	modeadm 550 567	immediate-release
+R6	has_effect Arg1:TS1721098692 Arg2:TS2021098692	
+T13	drugEffect 748 762	opioid effects
+R7	has_effect Arg1:TS221098692 Arg2:T13	
+T14	modeadm 963 979	extended-release
+T15	modeadm 1162 1178	extended-release
+T16	modeadm 1197 1214	immediate-release
+R3	relation Arg1:TS3121098692 Arg2:TS1321098692	
+T17	modeadm 1370 1386	extended-release
+R8	has_effect Arg1:TS921098692 Arg2:TS321098692	
+R9	no_effect_on_drug Arg1:TS2421098692 Arg2:TS921098692	
+T18	modeadm 1457 1473	extended-release
+T19	mealTime 1494 1501	fasting
+T20	modeadm 1544 1573	immediate-release formulation
+T21	frequency 1610 1620	daily dose

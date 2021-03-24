@@ -1,0 +1,27 @@
+TS2316989032	food 0 9	Cranberry
+TS2516989032	treatedDisease 14 38	urinary tract infections
+TS2016989032	sideeffect 110 122	interactions
+TS2416989032	treatedDisease 138 162	urinary tract infections
+TS2116989032	food 196 212	Food supplements
+TS1616989032	drug 222 233	cranberries
+TS3016989032	treatedDisease 254 288	recurrent urinary tract infections
+TS916989032	drug 398 413	cranberry juice
+TS2816989032	treatedDisease 460 468	cystitis
+TS716989032	treatedDisease 545 568	urinary tract infection
+TS1116989032	food 643 648	water
+TS216989032	food 661 666	juice
+TS3116989032	food 741 751	cranberry-
+TS1416989032	sideeffect 869 884	Adverse effects
+TS2716989032	sideeffect 945 957	interactions
+TS416989032	drug 963 971	warfarin
+TS516989032	sideeffect 1025 1033	bleeding
+TS1316989032	drug 1048 1069	vitamin K antagonists
+TS1216989032	sideeffect 1104 1116	interactions
+R1	treat Arg1:TS1616989032 Arg2:TS3016989032	
+T1	frequency 385 390	daily
+R2	treat Arg1:TS916989032 Arg2:TS2816989032	
+R3	treat Arg1:TS916989032 Arg2:TS716989032	
+T2	frequency 593 598	daily
+R4	has_sideeffect Arg1:TS416989032 Arg2:TS516989032	
+T3	foodSupplement 1157 1181	cranberry-based products
+R5	relation Arg1:T3 Arg2:TS1316989032	

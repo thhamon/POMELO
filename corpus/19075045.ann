@@ -1,0 +1,56 @@
+TS3719075045	food 266 270	food
+TS3519075045	food 443 458	acidic beverage
+TS519075045	drug 464 485	proton pump inhibitor
+TS719075045	foodSupplement 629 651	nutritional supplement
+TS2419075045	mealTime 750 757	fasting
+TS619075045	mealTime 784 805	after a high-fat meal
+TS3619075045	foodSupplement 861 883	nutritional supplement
+TS919075045	drug 915 929	metoclopramide
+TS1319075045	drug 941 951	loperamide
+TS3819075045	food 1036 1051	acidic beverage
+TS4019075045	foodSupplement 1422 1444	nutritional supplement
+TS1619075045	mealTime 1581 1603	before a high-fat meal
+TS2719075045	mealTime 1705 1719	after the meal
+TS1419075045	mealTime 2008 2029	after a high-fat meal
+TS2219075045	food 2041 2045	meal
+TS1119075045	foodSupplement 2049 2071	nutritional supplement
+TS1919075045	food 2082 2097	acidic beverage
+TS2019075045	drug 2141 2163	proton pump inhibitors
+T1	drug 35 47	posaconazole
+T2	drug 334 346	posaconazole
+T3	drug 385 397	posaconazole
+T4	dosage 400 406	400 mg
+T5	drug 488 491	PPI
+T6	drug 518 530	posaconazole
+T7	dosage 533 539	400 mg
+T8	frequency 540 551	twice daily
+T9	dosage 556 562	200 mg
+T10	frequency 563 579	four times daily
+T11	duration 599 609	for 7 days
+T12	drug 685 697	posaconazole
+T13	dosage 700 706	400 mg
+T14	mealTime 762 768	before
+T15	mealTime 771 777	during
+R1	before Arg1:T14 Arg2:T12	
+R4	during Arg1:T15 Arg2:T12	
+R5	after Arg1:TS619075045 Arg2:T12	
+R6	during Arg1:TS2419075045 Arg2:T12	
+T16	drug 829 841	posaconazole
+T17	dosage 844 850	400 mg
+T18	drug 992 1004	posaconazole
+T19	drugEffect 1066 1100	posaconazole maximum concentration
+R7	increase_absorption Arg1:TS3819075045 Arg2:T19	
+T20	drug 1255 1267	posaconazole
+T21	drug 1377 1389	posaconazole
+T22	drug 1356 1368	posaconazole
+T23	dosage 1393 1399	400 mg
+T24	dosage 1406 1412	200 mg
+T25	drug 1459 1471	posaconazole
+R2	relation Arg1:TS4019075045 Arg2:T25	
+T26	mealTime 1694 1700;1715 1719	during meal
+T27	drug 1914 1926	posaconazole
+T28	mealTime 2000 2004;2016 2029	with high-fat meal
+R8	during Arg1:T28 Arg2:T27	
+R9	after Arg1:TS1419075045 Arg2:T27	
+R3	increase_absorption Arg1:TS1919075045 Arg2:T27	
+R10	increase_absorption Arg1:TS1119075045 Arg2:T27	

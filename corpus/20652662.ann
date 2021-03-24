@@ -1,0 +1,36 @@
+TS920652662	drug 66 76	Phenelzine
+TS1920652662	drug 83 132	irreversible monoamine oxidase inhibitor ( MAOI )
+TS1120652662	sideeffect 135 157	Hypertensive reactions
+TS2120652662	food 187 206	tyramine-rich foods
+TS820652662	food 215 221	cheese
+TS2720652662	sideeffect 323 344	myocardial infarction
+TS620652662	food 377 383	cheese
+TS2520652662	drug 441 451	phenelzine
+TS420652662	sideeffect 484 494	chest pain
+TS3420652662	food 512 518	cheese
+TS1620652662	sideeffect 529 541	hypertensive
+TS2320652662	sideeffect 634 644	chest pain
+TS3520652662	sideeffect 649 672	elevated blood pressure
+TS2220652662	drug 704 712	morphine
+TS2420652662	drug 717 730	nitroprusside
+TS2920652662	sideeffect 943 981	non-ST elevation myocardial infarction
+TS2620652662	sideeffect 1019 1030	hypotension
+TS720652662	drug 1069 1079	phenelzine
+TS3920652662	drug 1194 1207	normal saline
+TS2020652662	sideeffect 1275 1291	cardiac ischemia
+TS520652662	sideeffect 1401 1422	myocardial infarction
+TS3020652662	food 1451 1457	cheese
+TS220652662	sideeffect 1513 1532	hypertensive crisis
+TS120652662	sideeffect 1549 1570	myocardial infarction
+T1	sideeffect 12 48	Phenelzine-induced myocardial injury
+R1	relation Arg1:TS620652662 Arg2:TS2720652662	
+T2	drug 406 410	MAOI
+R2	relation Arg1:TS620652662 Arg2:T2	
+T3	mealTime 495 518	1 h after eating cheese
+R3	negative_effect_on_drug Arg1:TS3420652662 Arg2:TS2520652662	
+R4	relation Arg1:TS3420652662 Arg2:TS420652662	
+R5	has_sideeffect Arg1:TS720652662 Arg2:TS2620652662	
+T4	modeadm 1182 1193	intravenous
+T5	drug 1480 1484	MAOI
+R6	increase_side_effect Arg1:TS3020652662 Arg2:TS520652662	
+R7	negative_effect_on_drug Arg1:TS3020652662 Arg2:T5	

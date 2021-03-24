@@ -1,0 +1,26 @@
+TS715831778	drug 57 101	hydromorphone hydrochloride extended-release
+TS1115831778	drug 113 157	Hydromorphone hydrochloride extended release
+TS315831778	drugEffect 276 291	bioavailability
+TS215831778	mealTime 306 309	fed
+TS515831778	drug 353 398	hydromorphone hydrochloride immediate-release
+TS415831778	mealTime 416 423	fasting
+TS1615831778	food 452 456	food
+TS815831778	drug 480 493	hydromorphone
+R2	no_effect_on_drug Arg1:TS1615831778 Arg2:TS815831778
+T1	frequency 46 56	once-daily
+T2	drug 160 164	HHER
+T3	dosage 323 328	24-mg
+T4	dosage 333 338	12-mg
+T5	dosage 348 352	8-mg
+T6	drug 401 405	HHIR
+T7	drug 301 305	HHER
+T8	dosage 295 300	24-mg
+R1	relation Arg1:TS215831778 Arg2:T7	
+R3	without_food Arg1:TS415831778 Arg2:T6	
+T9	dosage 519 524	24-mg
+T10	drug 525 529	HHER
+T11	drug 751 755	HHIR
+T12	dosage 746 750	3-mg
+T13	drug 778 782	HHER
+T14	drug 856 860	HHER
+T15	drug 865 869	HHIR

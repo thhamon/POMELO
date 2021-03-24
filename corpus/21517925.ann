@@ -1,0 +1,42 @@
+TS521517925	food 15 19	food
+TS321517925	food 267 271	food
+TS1421517925	food 454 458	food
+TS921517925	mealTime 813 827	overnight fast
+TS1721517925	mealTime 830 836	fasted
+TS821517925	food 852 869	low-fat breakfast
+TS721517925	mealTime 872 875	fed
+TS121517925	mealTime 977 980	fed
+TS1921517925	mealTime 982 988	fasted
+TS1121517925	mealTime 1416 1419	fed
+TS421517925	mealTime 1424 1441	fasted conditions
+TS1521517925	food 1481 1485	Food
+TS1821517925	mealTime 2129 2135	fasted
+TS1021517925	mealTime 2152 2155	fed
+TS621517925	food 2248 2252	food
+TS1621517925	mealTime 2421 2427	fasted
+TS221517925	mealTime 2431 2434	fed
+TS1221517925	mealTime 2482 2486	food
+T1	drug 47 58	mitiglinide
+T2	drug 162 173	Mitiglinide
+T3	drug 176 179	MGN
+T4	drug 191 211	insulinotropic agent
+T5	drug 219 232	glinide class
+T6	drug 320 331	mitiglinide
+T7	modeadm 353 357	oral
+T8	drug 490 501	mitiglinide
+T9	drug 504 507	MGN
+T10	modeadm 578 582	oral
+T11	drug 738 741	MGN
+T12	dosage 742 757	5 , 10 or 20 mg
+T13	mealTime 860 869	breakfast
+T14	drug 1124 1127	MGN
+T15	sideeffect 1174 1196	Adverse events ( AEs )
+T16	drug 1392 1395	MGN
+T17	dosage 1734 1738	5 mg
+T18	dosage 1826 1831	10 mg
+T19	dosage 1921 1926	20 mg
+T20	dosage 2058 2069	5 and 10-mg
+T21	dosage 2093 2103	20-mg dose
+T22	drug 2407 2410	MGN
+T23	drug 2444 2447	MGN
+R1	before Arg1:TS1221517925 Arg2:T23	

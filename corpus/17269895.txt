@@ -1,0 +1,12 @@
+Clinical relevance of the small intestine as an organ of drug elimination: drug-fruit juice interactions .
+Most drugs are taken orally .
+For those intended to act systemically , a significant fraction of the dose can be eliminated during its first passage through a sequence of organs before entry into the general circulation .
+For some drugs , the degree of first-pass elimination can be large enough such that oral bioavailability is significantly reduced , with the consequent potential for a reduced clinical response .
+Of these first-pass eliminating organs , the small intestine and liver are the most commonly implicated , in part because they express the highest levels of drug-metabolizing enzymes .
+For several drugs whose major route of elimination occurs via CYP3A- CYP3A-mediated metabolism , the extent of first-pass metabolism in the small intestine can rival that in the liver .
+As such , alterations in enteric CYP3A activity alone can significantly influence oral bioavailability .
+The most extensively studied xenobiotic shown to inhibit only enteric CYP3A is grapefruit juice , the consequences of which can be clinically significant .
+Although much information has been gained regarding the grapefruit juice effect , progress in the relatively understudied area of drug-diet interactions continues to be sluggish and reactive .
+In stark contrast , the potential for drug-drug interactions involving any new therapeutic agent must be evaluated , prospectively , before market introduction .
+To prospectively elucidate mechanisms underlying drug-diet interactions , a multidisciplinary , translational research approach is required , which capitalizes on the collective expertise of drug metabolism scientists and natural products chemists .
+Such an approach would allow proper between-study comparisons , and ultimately provide conclusive information as to whether specific dietary substances can be taken safely with certain medications .

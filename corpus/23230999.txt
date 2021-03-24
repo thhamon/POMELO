@@ -1,0 +1,18 @@
+Food effects on the pharmacokinetics of doxylamine hydrogen succinate 25 mg film-coated tablets: a single-dose , randomized , two-period crossover study in healthy volunteers .
+Doxylamine succinate , an ethanolamine- ethanolamine-based antihistamine , is used in the short-term management of insomnia because of its sedative effects .
+The data available on the pharmacokinetic profile of doxylamine in humans are limited , notwithstanding that this drug has been marketed in European countries for more than 50 years .
+In fact , no data on the effect of food on the pharmacokinetic parameters of doxylamine are available .
+The objective of this study was to evaluate the pharmacokinetic parameters of doxylamine following a single oral dose of doxylamine hydrogen succinate 25 mg in healthy human subjects under fed and fasting conditions .
+Study Design: This was a single-center , randomized , single-dose , laboratory-blinded , two-period , two-sequence , crossover study .
+Setting: The study was conducted in a phase I clinical unit .
+Subjects and A single oral dose of doxylamine hydrogen succinate 25 mg ( equivalent to 17.4 mg of doxylamine base ) was administered to healthy volunteers under either fed conditions ( high-fat , high-calorie food intake ) or fasting conditions in each study period .
+The drug administrations were separated by a wash-out period of seven calendar days .
+Plasma samples were collected for up to 60 hours postdose , and plasma doxylamine concentrations were determined by a high-performance liquid chromatography method with tandem mass spectrometry detection .
+Pharmacokinetic parameters were calculated using noncompartmental analysis .
+Safety was evaluated through assessment of adverse events , standard laboratory evaluations , vital signs , and 12-lead electrocardiography .
+In total , 24 healthy subjects ( 12 male and 12 female ) were included in the study .
+Doxylamine succinate 25 mg tablets exhibited similar oral bioavailability of doxylamine in the fasting state ( mean maximum plasma drug concentration [C ( max ) ] 118.21 ng  mL , coefficient of variation [CV] 19.2% ; mean area under the plasma concentration time curve from time zero to time t [AUC ( t ) ] 1746.97 ng bigasentdot h  mL , CV 31.6% ) and in the fed state ( mean C ( max ) 120.99 ng  mL , CV 15.0% ; mean AUC ( t ) 1712.20 ng bigasentdot h  mL , CV 26.7% ) .
+No statistically significant between-treatment differences were observed for any of the pharmacokinetic parameters under study .
+The fed : fasting ratios of the geometric least squares means with corresponding 90% confidence intervals for C ( max ) and AUC ( t ) were within the range of 80-125%. .
+High-fat , high-calorie food intake does not affect the kinetics of doxylamine in healthy subjects .
+The drug was safe and well tolerated by the subjects in this study .

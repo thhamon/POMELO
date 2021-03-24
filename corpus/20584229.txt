@@ -1,0 +1,12 @@
+Drug and dietary interactions of the new and emerging oral anticoagulants .
+Oral warfarin is associated with extensive food and drug interactions , and there is a need to consider such interactions with the new oral anticoagulants ( OACs ) dabigatran etexilate , rivaroxaban and apixaban .
+A literature survey was conducted using PubMed , EMBASE and recent abstracts from thrombosis meetings to identify publications related to food , drug and dietary supplement interaction studies with dabigatran etexilate , rivaroxaban and apixaban .
+Clinical experience regarding food interactions is currently limited .
+Regarding drug-drug interactions , dabigatran requires caution when used in combination with strong inhibitors or inducers of P-glycoprotein , such as amiodarone or rifampicin .
+Rivaroxaban ( and possibly apixaban ) is contraindicated in combination with drugs that strongly inhibit both cytochrome P450 3A4 and P-glycoprotein , such as azole antimycotics , and caution is required when used in combination with strong inhibitors of only one of these pathways .
+Important drug interactions of the new OACs that can lead to adverse clinical reactions may also occur with non-steroidal anti-inflammatory drugs and antiplatelet drugs , such as aspirin and clopidogrel .
+Over-the-counter ( OTC ) medications and food supplements ( e.g e.g. .
+St St. .
+John's Wort ) may also interact with the new OACs .
+Given the common long-term use of drugs for some chronic disorders , the frequent use of OTC medications and the need for multiple treatments in special populations , such as the elderly people , it is essential that the issue of drug interactions is properly evaluated .
+New OACs offer significant potential advantages to the field of venous thromboprophylaxis , but we should not fail to appreciate their lack of extensive clinical experience .

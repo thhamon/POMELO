@@ -1,0 +1,76 @@
+TS2123497763	food 11 15	food
+TS1923497763	drug 60 70	mirabegron
+R1	relation Arg1:TS2123497763 Arg2:TS1923497763
+TS2523497763	drug 171 181	Mirabegron
+TS2823497763	sideeffect 238 256	overactive bladder
+TS1723497763	drug 259 269	Mirabegron
+TS6223497763	modeadm 290 313	extended-release tablet
+TS5623497763	food 425 429	food
+TS423497763	drug 467 477	mirabegron
+R2	relation Arg1:TS5623497763 Arg2:TS423497763
+TS4223497763	drug 661 671	mirabegron
+TS6423497763	mealTime 747 753	fasted
+TS6523497763	food 771 797	high- or low-fat breakfast
+TS3023497763	mealTime 788 797	breakfast
+TS3223497763	drug 962 972	mirabegron
+TS2023497763	food 1106 1110	food
+TS723497763	food2 1593 1598	white
+TS823497763	mealTime 1640 1643	fed
+TS923497763	mealTime 1684 1687	fed
+TS6623497763	mealTime 1689 1695	fasted
+TS3723497763	drug 1732 1742	mirabegron
+TS5523497763	food 1832 1836	food
+TS3823497763	drug 1866 1876	mirabegron
+R4	no_effect_on_drug Arg1:TS5523497763 Arg2:TS3823497763
+TS3523497763	drug 1906 1916	mirabegron
+TS5023497763	food 1948 1966	high-fat breakfast
+TS2623497763	mealTime 1957 1966	breakfast
+TS1823497763	other 1981 1998	fasted conditions
+TS1023497763	drug 2147 2157	mirabegron
+TS2723497763	food 2292 2310	high-fat breakfast
+TS523497763	mealTime 2301 2310	breakfast
+TS3323497763	drug 2335 2345	mirabegron
+TS4923497763	mealTime 2471 2480	breakfast
+TS3123497763	mealTime 2653 2656	fed
+TS5823497763	mealTime 2658 2664	fasted
+TS3923497763	drug 2676 2686	mirabegron
+TS2923497763	food 2750 2754	Food
+TS5923497763	mealTime 2786 2792	fasted
+TS5723497763	food 2843 2856	low-fat meals
+TS4123497763	drug 2914 2924	Mirabegron
+TS6323497763	mealTime 3012 3018	fasted
+TS123497763	mealTime 3023 3026	fed
+TS1423497763	drug 3036 3046	Mirabegron
+TS1523497763	drug 3084 3094	mirabegron
+TS3423497763	food 3116 3120	food
+TS5223497763	mealTime 3194 3198	meal
+TS4723497763	drug 3236 3246	mirabegron
+TS6123497763	food 3277 3294	low-fat breakfast
+TS1123497763	mealTime 3285 3294	breakfast
+TS223497763	food 3317 3335	high-fat breakfast
+TS1223497763	mealTime 3326 3335	breakfast
+TS4023497763	food 3395 3399	food
+T1	drug 188 211	β3-adrenoceptor agonist
+T2	modeadm 320 362	oral controlled-absorption system ( OCAS )
+T3	modeadm 478 482	OCAS
+T4	modeadm 672 676	OCAS
+T5	dosage 677 689	50 or 100 mg
+T6	modeadm 707 713	orally
+T7	sideeffect 1175 1197	adverse events ( AEs )
+T8	dosage 1482 1487	50-mg
+T9	numbers 1355 1376	Thirty-eight subjects
+T10	numbers 1503 1514	38 subjects
+T11	dosage 1608 1614	100-mg
+T12	dosage 1877 1881	OCAS
+T13	dosage 1893 1898	50-mg
+T14	dosage 2133 2139	100-mg
+T15	dosage 2322 2327	50-mg
+R3	decrease_absorption Arg1:TS5023497763 Arg2:TS3523497763	
+R5	decrease_absorption Arg1:TS2723497763 Arg2:TS1023497763	
+T16	food 2463 2480	low-fat breakfast
+R7	decrease_absorption Arg1:T16 Arg2:TS3323497763	
+T17	dosage 2517 2523	100-mg
+R6	slow_absorption Arg1:TS5923497763 Arg2:TS4123497763	
+T18	modeadm 3047 3051	OCAS
+T19	dosage 3152 3164	50 or 100 mg
+R8	decrease_absorption Arg1:TS6123497763 Arg2:TS4723497763	

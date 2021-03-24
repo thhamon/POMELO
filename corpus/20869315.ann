@@ -1,0 +1,25 @@
+TS2420869315	sideeffect 0 17	Drug interactions
+TS1420869315	treatedDisease 21 37	childhood cancer
+TS1920869315	sideeffect 54 60	cancer
+TS920869315	drug 259 271	cancer drugs
+TS2620869315	sideeffect 339 356	drug interactions
+TS1720869315	sideeffect 456 468	interactions
+TS620869315	drug 534 549	anticonvulsants
+TS1320869315	drug 552 563	antiemetics
+TS1620869315	drug 597 614	acid suppressants
+TS2120869315	drug 617 631	antimicrobials
+TS2320869315	sideeffect 638 643	pain-
+TS320869315	sideeffect 716 728	interactions
+TS1820869315	drug 737 755	chemotherapy drugs
+TS720869315	food 760 764	food
+TS820869315	food 769 787	herbal supplements
+TS420869315	sideeffect 858 870	interactions
+TS1220869315	treatedDisease 888 894	cancer
+TS2520869315	sideeffect 1043 1060	drug interactions
+T1	drug 477 499	chemotherapeutic drugs
+T2	drug 566 594	uric-acid-lowering compounds
+T3	drug 644 671	pain-management medications
+R1	relation Arg1:TS720869315 Arg2:TS1820869315	
+R2	relation Arg1:TS820869315 Arg2:TS1820869315	
+R3	relation Arg1:TS720869315 Arg2:TS320869315	
+R4	relation Arg1:TS820869315 Arg2:TS320869315	

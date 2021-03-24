@@ -1,0 +1,25 @@
+TS2016164493	food 326 330	food
+TS2516164493	sideeffect 384 399	post-menopausal
+TS1616164493	sideeffect 527 536	tolerance
+TS1116164493	mealTime 743 756	fasting state
+TS2316164493	food 859 863	food
+TS2616164493	sideeffect 1177 1183	deaths
+TS1216164493	drugEffect 1297 1303	levels
+TS2416164493	sideeffect 1436 1443	fasting
+TS2216164493	mealTime 1485 1500	a high-fat meal
+TS916164493	drugEffect 1524 1539	bioavailability
+TS516164493	food 1616 1634	high-fat breakfast
+TS1916164493	mealTime 1669 1676	fasting
+TS1416164493	drugEffect 1884 1899	bioavailability
+TS1016164493	food 1925 1945	high-fat food intake
+T1	modeadm 272 276	oral
+T2	dosage 659 661	10
+T3	dosage 664 666	40
+T4	dosage 669 675	120 mg
+T5	dosage 705 707	20
+T6	dosage 710 712	80
+T7	dosage 715 721	160 mg
+T8	sideeffect 1170 1173	AEs
+T9	dosage 1252 1254	80
+T10	dosage 1258 1261	120
+T11	dosage 1267 1273	160-mg

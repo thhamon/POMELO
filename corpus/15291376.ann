@@ -1,0 +1,21 @@
+TS915291376	drug 43 63	olmesartan medoxomil
+TS1315291376	treatedDisease 354 373	High Blood Pressure
+TS115291376	treatedDisease 494 506	hypertension
+TS2315291376	drug 543 565	antihypertensive drugs
+TS2515291376	drug 642 664	antihypertensive drugs
+TS1615291376	sideeffect 718 729	interaction
+TS515291376	drug 751 767	antihypertensive
+TS1815291376	drug 768 788	olmesartan medoxomil
+TS815291376	drug 794 828	angiotensin II receptor antagonist
+TS1715291376	sideeffect 1001 1016	adverse effects
+TS2415291376	drug 1266 1288	antihypertensive drugs
+TS2015291376	drug 1396 1412	antihypertensive
+TS2215291376	drug 1522 1542	olmesartan medoxomil
+TS1015291376	drug 1562 1583	antihypertensive drug
+TS715291376	sideeffect 1788 1800	hypertension
+R1	treat Arg1:TS2315291376 Arg2:TS115291376	
+T1	frequency 1191 1201	once-daily
+T2	drug 831 836	AIIRA
+T3	drug 1307 1313	AIIRAs
+T4	drug 1513 1519	AIIRAs
+T5	drugEffect 1550 1561	long-acting

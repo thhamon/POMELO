@@ -1,0 +1,11 @@
+Safety , tolerability , and pharmacokinetics of once-daily trazodone extended-release caplets in healthy subjects .
+To characterize the pharmacokinetics , safety , and tolerability of an extended-release formulation of trazodone hydrochloride ( HCl ) , Trazodone Contramidbigasentr Once-a-Day ( TzCOAD ) developed as scored 150-mg and 300-mg caplets for oncedaily administration .
+Relative bioavailability studies compared the pharmacokinetics of TzCOAD and trazodone immediate-release ( TzIR ) tablets following single- and multiple-dose administration .
+In addition , the effect of food on the pharmacokinetics of TzCOAD was assessed .
+After single-dose administration of 300 mg TzCOAD , trazodone AUC and C ( max ) were approximately 20% and 60% lower , respectively , than for TzIR 100-mg tablets administered as 3 doses , 8 h apart .
+After multipledose administration of 300 mg daily for 7 days , TzCOAD given once daily and TzIR given 3 times a day were equivalent with respect to AUC , while C ( max ) was 43% lower for TzCOAD .
+Trazodone AUC following single-dose administration of TzCOAD was similar to AUC at steady state , suggesting that steady-state exposure can be predicted from single-dose data .
+When TzCOAD was taken shortly after ingestion of a high-fat meal , C ( max ) increased 86% compared with fasting conditions .
+However , AUC and t ( max ) were not affected by food .
+Administration of TzCOAD 300 mg once daily provides equivalent steady-state exposure to , with a lower C ( max ) than , TzIR 100 mg given 3 times a day .
+A high-fat meal results in an increase in C ( max ) , but there is no substantial effect on AUC .

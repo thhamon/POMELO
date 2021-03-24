@@ -1,0 +1,81 @@
+TS2420628041	sideeffect 3 14	interaction
+TS2620628041	drug 23 31	levodopa
+TS1120628041	foodSupplement 36 53	enteral nutrition
+TS5320628041	sideeffect 67 78;90 113	neuroleptic malignant-like syndrome
+TS1720628041	sideeffect 162 173	interaction
+TS4920628041	foodSupplement 182 195	enteral feeds
+TS1220628041	drug 200 208	levodopa
+TS5020628041	sideeffect 220 231;243 275	neuroleptic malignant-like syndrome ( NMLS )
+TS4120628041	treatedDisease 305 324	Parkinson's disease
+TS120628041	treatedDisease 399 423	type 2 diabetes mellitus
+TS5220628041	foodSupplement 482 495	Enteral feeds
+TS3520628041	drug 567 574	protein
+TS3220628041	drug 633 644	pramipexole
+TS1020628041	drug 647 657	entacapone
+TS1820628041	drug 682 690	levodopa
+TS3820628041	drug 692 701	carbidopa
+TS5420628041	foodSupplement 828 841	enteral feeds
+TS2920628041	drug 900 907	protein
+TS2320628041	sideeffect 1032 1042	high fever
+TS3320628041	sideeffect 1064 1076	leukocytosis
+TS2720628041	sideeffect 1079 1116	elevated serum creatine kinase ( CK )
+TS1320628041	sideeffect 1145 1167	acute renal impairment
+TS4720628041	foodSupplement 1174 1191	enteral nutrition
+TS320628041	drug 1216 1223	protein
+TS3720628041	drug 1279 1292	bromocriptine
+TS220628041	drug 1571 1579	levodopa
+TS2120628041	foodSupplement 1677 1692	dietary protein
+TS1420628041	drug 1725 1733	levodopa
+TS720628041	sideeffect 1755 1766	interaction
+TS1520628041	drug 1775 1783	levodopa
+TS820628041	sideeffect 1852 1863	interaction
+R3	decrease_absorption Arg1:TS2120628041 Arg2:TS1420628041
+TS3020628041	sideeffect 1918 1943	drug-nutrient interaction
+TS2520628041	drug 1961 1969	levodopa
+TS1620628041	sideeffect 2158 2169	interaction
+TS4020628041	drug 2178 2186	levodopa
+TS2220628041	food2 2191 2198	protein
+TS3620628041	foodSupplement 2210 2227	enteral nutrition
+R5	relation Arg1:TS2220628041 Arg2:TS3620628041
+R6	has_sideeffect Arg1:TS2620628041 Arg2:TS5320628041	
+R7	increase_side_effect Arg1:TS1120628041 Arg2:TS5320628041	
+R8	negative_effect_on_drug Arg1:TS1120628041 Arg2:TS2620628041	
+T1	sideeffect 118 136	prolonged ICU stay
+R9	relation Arg1:TS1120628041 Arg2:T1	
+T2	treatedDisease 327 329	PD
+R2	has_sideeffect Arg1:TS1220628041 Arg2:TS5020628041	
+R10	treat Arg1:TS1220628041 Arg2:TS4120628041	
+R1	negative_effect_on_drug Arg1:TS4920628041 Arg2:TS1220628041	
+R11	increase_side_effect Arg1:TS4920628041 Arg2:TS5020628041	
+T3	treatedDisease 392 394	PD
+T4	dosage 548 558	0.88 g  kg
+T5	frequency 560 563	day
+T6	treatedDisease 616 618	PD
+R12	treat Arg1:TS3220628041 Arg2:T6	
+R13	treat Arg1:TS1020628041 Arg2:T6	
+T8	modeadm 664 681	immediate-release
+R14	treat Arg1:TS1820628041 Arg2:T6	
+R15	treat Arg1:TS3820628041 Arg2:T6	
+T7	dosage 702 715	100 mg  25 mg
+T9	frequency 718 743	1.5 tablets 4 times daily
+T10	dosage 882 891	1.8 g  kg
+T11	frequency 893 896	day
+T12	dosage 1234 1243	1.0 g  kg
+T13	frequency 1245 1248	day
+T14	dosage 1293 1297	5 mg
+T15	frequency 1298 1311	3 times daily
+T16	modeadm 1316 1332	nasogastric tube
+T17	modeadm 768 784	nasogastric tube
+T18	modeadm 518 534	nasogastric tube
+T19	treatedDisease 1597 1599	PD
+T20	sideeffect 1633 1637	NMLS
+R16	has_sideeffect Arg1:TS220628041 Arg2:T20	
+R17	treat Arg1:TS220628041 Arg2:T19	
+R18	has_sideeffect Arg1:TS2120628041 Arg2:TS720628041	
+R4	decrease_absorption Arg1:TS2220628041 Arg2:TS4020628041	
+R19	relation Arg1:TS2220628041 Arg2:TS1620628041	
+T21	sideeffect 2255 2259	NMLS
+R20	has_sideeffect Arg1:TS4020628041 Arg2:T21	
+R21	increase_side_effect Arg1:TS2220628041 Arg2:T21	
+T22	treatedDisease 2277 2279	PD
+R22	treat Arg1:TS4020628041 Arg2:T22	

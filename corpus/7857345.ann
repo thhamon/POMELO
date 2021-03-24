@@ -1,0 +1,19 @@
+TS17857345	food 10 14	food
+TS47857345	drugEffect 22 37	bioavailability
+TS107857345	mealTime 430 437	fasting
+TS27857345	mealTime 442 463	after a standard meal
+TS57857345	mealTime 482 495	standard meal
+TS117857345	drugEffect 575 590	bioavailability
+TS37857345	mealTime 761 768	fasting
+TS77857345	food 926 930	food
+TS137857345	mealTime 1025 1043	aken after fasting
+TS87857345	mealTime 1047 1068	after a standard meal
+T1	drug 75 84	Pidotimod
+T2	drug 41 50	pidotimod
+T3	drug 87 172	( R ) -3- [ ( S ) - ( 5-oxo-2-pyrrolidinyl ) carbonyl]-thiazolidine-4-carboxylic acid
+T4	drugEffect 237 263	immunostimulating activity
+T5	dosage 389 395	800 mg
+T6	dosage 408 414	800 mg
+T7	drug 503 512	pidotimod
+R1	decrease_absorption Arg1:TS57857345 Arg2:T7	
+R2	has_effect Arg1:T7 Arg2:TS117857345	

@@ -1,0 +1,12 @@
+Effect of fruit juices on the oral bioavailability of fexofenadine in rats .
+Fexofenadine has been identified as a substrate for both the efflux transporter , P-glycoprotein ( P-gp ) , as well as the influx transporter , organic anion transporting polypeptide ( OATP ) .
+Clinical studies in humans showed that fruit juices reduced the oral bioavailability of fexofenadine by preferentially inhibiting OATP over P-gp .
+The objective of this study was to investigate the effects of fruit juices on the oral absorption of fexofenadine in rats to establish a preclinical fruit juice- drug interaction model .
+In rats , fexofenadine was excreted unchanged in the urine , bile , and gastrointestinal tract , indicating minimal metabolism , making it an ideal probe to study transport processes .
+Coadministration of fexofenadine with ketoconazole , a P-gp inhibitor , increased the oral exposure of fexofenadine by 187%. .
+In contrast , coadministration of fexofenadine with orange juice or apple juice to rats decreased the oral exposure of fexofenadine by 31 and 22% , respectively .
+Increasing the quantity of orange or apple juice administered further decreased the oral exposure of fexofenadine , by 40 and 28% , respectively .
+This reduction in fexofenadine bioavailability was moderate compared to that seen in humans .
+These findings suggest that in rats fruit juices may also preferentially inhibit OATP rather than P-gp-mediated transport in fexofenadine oral absorption , albeit to a lesser extent than observed in humans .
+This fruit juice juice- -drug interaction rat model may be useful in prediction of potential food food- -drug interactions in humans for drug candidates .
+Copyright 2004 Wiley-Liss , Inc. .

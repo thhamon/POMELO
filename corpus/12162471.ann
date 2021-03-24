@@ -1,0 +1,23 @@
+TS812162471	drug 44 54	amprenavir
+TS1912162471	drug 274 284	amprenavir
+TS3812162471	food 333 337	food
+TS2012162471	drug 352 362	amprenavir
+TS1212162471	drug 453 463	amprenavir
+TS1112162471	drug 589 601	calcium salt
+TS1012162471	mealTime 773 786	fasting state
+TS1712162471	drug 942 952	amprenavir
+TS3012162471	mealTime 1020 1035	a high-fat meal
+TS3612162471	mealTime 1050 1057	fasting
+TS2812162471	drugEffect 1070 1085	bioavailability
+TS4212162471	mealTime 1242 1254	low-fat meal
+TS3712162471	mealTime 1269 1276	fasting
+TS1612162471	drugEffect 1344 1359	bioavailability
+TS1812162471	drug 1385 1395	amprenavir
+TS212162471	drug 1468 1478	amprenavir
+TS512162471	food 1490 1494	food
+TS1512162471	food 1682 1686	food
+TS2212162471	drug 1748 1758	amprenavir
+TS2312162471	drug 1816 1826	amprenavir
+R1	relation Arg1:TS3812162471 Arg2:TS2012162471	
+T1	drug 419 452	antiretroviral protease inhibitor
+R2	no_effect_on_drug Arg1:TS512162471 Arg2:TS212162471	

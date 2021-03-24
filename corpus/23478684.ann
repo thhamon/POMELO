@@ -1,0 +1,31 @@
+TS1023478684	sideeffect 0 12	Interactions
+TS123478684	drug 21 41	antiarrhythmic drugs
+TS1323478684	food 46 50	food
+TS2623478684	sideeffect 55 71	drug interaction
+TS423478684	sideeffect 270 282	interactions
+TS2823478684	drug 298 318	antiarrhythmic drugs
+TS823478684	sideeffect 361 376	adverse effects
+TS1623478684	sideeffect 449 461	interactions
+TS1223478684	drug 470 490	antiarrhythmic drugs
+TS3223478684	food 495 499	food
+TS723478684	food 622 626	food
+TS3023478684	drug 631 651	antiarrhythmic drugs
+TS3423478684	sideeffect 652 670	drugs interactions
+R1	relation Arg1:TS723478684 Arg2:TS3023478684
+TS3323478684	sideeffect 877 889	interactions
+TS3123478684	drug 896 916	antiarrhythmic drugs
+TS2923478684	food 921 925	food
+TS2223478684	food 939 955	grapefruit juice
+TS2723478684	food 1002 1006	Food
+TS1423478684	drugEffect 1022 1037	bioavailability
+TS223478684	drug 1041 1061	antiarrhythmic drugs
+TS3523478684	food 1108 1129	rich-in-protein diets
+TS2323478684	food 1132 1148	grapefruit juice
+R2	relation Arg1:TS2723478684 Arg2:TS223478684
+TS1823478684	food 1254 1270	grapefruit juice
+R3	relation Arg1:TS1323478684 Arg2:TS123478684	
+R4	relation Arg1:TS1323478684 Arg2:TS1023478684	
+T1	drugEffect 336 356	therapeutic efficacy
+R5	relation Arg1:TS723478684 Arg2:TS3423478684	
+R6	has_sideeffect Arg1:TS3023478684 Arg2:TS3423478684	
+T2	food 1091 1105	dairy products

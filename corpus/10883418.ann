@@ -1,0 +1,38 @@
+TS2010883418	mealTime 18 33	a high-fat meal
+TS710883418	drugEffect 41 56	bioavailability
+TS3110883418	drug 60 75	17 norgestimate
+TS310883418	mealTime 124 139	a high-fat meal
+TS2610883418	drug 209 216	estrone
+TS1410883418	drug 226 241	estrone sulfate
+TS410883418	mealTime 533 536	fed
+TS1210883418	mealTime 541 548	fasting
+TS1810883418	food 660 664	Food
+TS2910883418	drug 740 748	estrogen
+R1	no_effect_on_drug Arg1:TS1810883418 Arg2:TS2910883418
+TS2310883418	food 759 763	Food
+TS2210883418	drug 912 923	metabolites
+TS910883418	food 1163 1167	food
+TS1110883418	drug 1224 1241	17 beta-estradiol
+TS610883418	mealTime 1381 1386	meals
+T1	drug 182 199	17 beta-estradiol
+T2	drug 256 279	17-deacetylnorgestimate
+T3	drug 282 289	17d-NGM
+T4	frequency 354 365	single dose
+T5	dosage 379 383	2 mg
+T6	dosage 385 399	180 micrograms
+T7	drug 202 204	E2
+T8	drug 219 221	E1
+T9	drug 244 247	E1S
+T10	drug 706 708	E2
+R2	no_effect_on_drug Arg1:TS1810883418 Arg2:T10	
+T11	drug 800 802	E1
+T12	drug 807 810	E1S
+T13	drug 839 846	17d-NGM
+R3	positive_effect_on_drug Arg1:TS2310883418 Arg2:T11	
+R4	positive_effect_on_drug Arg1:TS2310883418 Arg2:T12	
+R5	negative_effect_on_drug Arg1:TS2310883418 Arg2:T13	
+T14	drug 867 869	E1
+T15	drug 874 877	E1S
+T16	drug 977 984	17d-NGM
+T17	dosage 1249 1253	2 mg
+T18	dosage 1255 1269	180 micrograms

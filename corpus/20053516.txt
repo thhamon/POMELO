@@ -1,0 +1,8 @@
+In vitro food-drug interaction study: Which milk component has a decreasing effect on the bioavailability of ciprofloxacin ?
+The purpose of the present work was developing an in vitro dissolution test to highlight the possible molecular background causing ciprofloxacin ( CPFX ) -milk interaction .
+The in vitro dissolution of CPFX from film-coated tablets ( Ciprinol ) 500mg ) was examined at different pH values , simulating certain parts of the gastrointestinal tract , in the presence of water , low-fat milk , casein casein- or calcium enriched water .
+In order to determine the amount of dissolved CPFX , solid phase extraction sample preparation followed by high performance liquid chromatography coupled with mass spectrometry was applied .
+Comparing the dissolution efficiency values in various media , it can be concluded , that casein has a more pronounced effect on the absorbable amount of the antibiotic at each pH value studied , than calcium .
+In the case of concomitant intake of CPFX film-coated tablet and milk or other dairy products not only the complexation with calcium , but also the adsorption of CPFX on the surface of proteins decreases the absorbable amount of CPFX .
+Copyright 2009 Elsevier B.V. .
+All rights reserved .

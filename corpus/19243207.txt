@@ -1,0 +1,14 @@
+Effect of food on the pharmacokinetics of once-daily cyclobenzaprine extended-release 30 mg: a randomized , open-label , crossover , single-centre study .
+Food can alter the bioavailability of the controlled-release formulations of many different drugs .
+This study assessed the effect of food on the pharmacokinetics of once-daily cyclobenzaprine extended-release ( CER ) in healthy adult subjects .
+Healthy adult volunteers were randomized in an open-label , two-period crossover design to receive a single dose of CER 30 mg on days 1 and 15 ( separated by a 14-day drug washout ) in either the fed or the fasted state .
+Pharmacokinetic measures included area under the plasma cyclobenzaprine concentration versus time curve to 168 hours ( AUC ( 168 ) ) and infinity ( AUC ( infinity ) ) , maximum plasma cyclobenzaprine concentration ( C ( max ) ) , time to observed C ( max ) ( t ( max ) ) , terminal elimination half-life ( t ( 1  2beta ) ) , and absorption lag time ( t ( lag ) ) .
+A food effect , as determined from the C ( max ) and the AUC , was established if the 90% confidence interval ( CI ) for the ratio of the mean fed  fasted values fell outside the range of 0.80 to 1.25. .
+Adverse events were monitored throughout the study .
+Sixteen healthy volunteers were enrolled ( eight men , eight women ; mean age 29.7 years ) , and 15 completed the study .
+No appreciable differences in the shape of the mean plasma cyclobenzaprine concentration versus time profile , t ( lag ) ( 2 hours ) or t ( max ) ( fed fed: 8 hours ; fasted: 6 hours ) were noted for CER 30 mg in the fed and fasted states .
+The least-squares mean ratio of fed to fasted state was 1.21 for AUC ( 168 ) ( 90% CI 1.11 , 1.32 ) , 1.20 for AUC ( infinity ) ( 90% CI 1.11 , 1.31 ) , and 1.36 for C ( max ) ( 90% CI 1.17 , 1.57 ) , which suggested a food effect .
+Most adverse events were mild in intensity and were comparable in the fed and fasted states .
+The results of this study show that an increase in systemic exposure is observed when CER 30 mg is taken with food .
+CER 30 mg was generally well tolerated , with comparable adverse events in both the fed and the fasted states .
+The increase in exposure did not appear to impact the tolerability of the formulation .

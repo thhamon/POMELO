@@ -1,0 +1,37 @@
+TS4411718495	drug 20 31	cycloserine
+TS1911718495	mealTime 38 45	fasting
+TS6411718495	food 66 79	high-fat meal
+TS911718495	food 82 94	orange juice
+TS5111718495	drug 101 109	antacids
+TS2511718495	mealTime 139 154	a high-fat meal
+TS1211718495	food 157 169	orange juice
+TS4611718495	food 176 184	antacids
+TS5511718495	drug 224 235	cycloserine
+TS611718495	drug 430 441	cycloserine
+TS3811718495	mealTime 449 469	after a 12-hour fast
+TS1811718495	mealTime 491 506	a high-fat meal
+TS3011718495	food 514 526	orange juice
+TS711718495	food 538 546	antacids
+TS3711718495	drug 568 579	clofazimine
+TS4811718495	drug 589 600	ethionamide
+TS6611718495	drug 614 644	p-aminosalicylic acid granules
+TS5711718495	drug 917 928	cycloserine
+TS6211718495	food 961 974	high-fat meal
+TS6511718495	food 1132 1145	high-fat meal
+TS2411718495	drug 1303 1314	cycloserine
+TS3411718495	food 1342 1354	orange juice
+TS1611718495	food 1359 1367	antacids
+TS6011718495	food 1382 1395	high-fat meal
+TS5611718495	drug 1431 1442	cycloserine
+TS4011718495	mealTime 1451 1466	a high-fat meal
+T1	numbers 368 374	Twelve
+T2	dosage 442 448	500 mg
+T3	dosage 580 586	200 mg
+T4	dosage 601 607	500 mg
+T5	dosage 645 652	6000 mg
+T6	duration 689 697	48 hours
+R1	decrease_absorption Arg1:TS6211718495 Arg2:TS5711718495	
+R2	no_effect_on_drug Arg1:TS3411718495 Arg2:TS2411718495	
+R3	no_effect_on_drug Arg1:TS1611718495 Arg2:TS2411718495	
+R4	decrease_absorption Arg1:TS6011718495 Arg2:TS2411718495	
+R5	without_food Arg1:TS4011718495 Arg2:TS5611718495	

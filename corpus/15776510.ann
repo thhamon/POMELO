@@ -1,0 +1,8 @@
+TS615776510	drug 48 55	Lipitor
+TS815776510	treatedDisease 60 76	high cholesterol
+TS315776510	food 108 118	grapefruit
+TS1115776510	food 122 127	drink
+TS115776510	food 128 144	grapefruit juice
+TS515776510	food 221 231	grapefruit
+TS215776510	food 310 320	grapefruit
+R1	treat Arg1:TS615776510 Arg2:TS815776510	

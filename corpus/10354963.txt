@@ -1,0 +1,12 @@
+zidovudine as a combined formulation tablet: bioequivalence compared with lamivudine and zidovudine administered concurrently and the effect of food on absorption .
+A single-center , open-label , three-way crossover study was conducted in 24 healthy subjects to assess ( 1 ) the bioequivalence of a combined lamivudine 150 mg  zidovudine 300 mg tablet relative to the separate brand-name components administered concurrently and ( 2 ) the effect of food on the bioavailability of the drugs from the combination tablet .
+The subjects were randomly assigned to receive each of the following three treatments , separated by a 5- to 7-day washout period: one zidovudine combination tablet after an overnight fast , one lamivudine 150 mg tablet and one zidovudine 300 mg tablet simultaneously after an overnight fast , or one zidovudine combination tablet 5 minutes after completing a standardized high-fat breakfast ( 67 g fat , 58 g carbohydrate , and 33 g protein ) .
+Serial blood samples were collected up to 24 hours postdose for the determination of lamivudine and zidovudine plasma concentrations .
+Standard pharmacokinetic parameters were estimated .
+Treatments were considered bioequivalent if 90% confidence intervals for the ratio of least squares ( LS ) means for the lamivudine and zidovudine area under the plasma concentration-time curve ( AUC infinity ) and maximum observed plasma concentration ( Cmax ) fell entirely within 0.80 to 1.25 for log-transformed parameters .
+The combined zidovudine tablet was bioequivalent in the extent ( AUC infinity ) and rate of absorption ( Cmax and time of Cmax [tmax] ) to the individual brand-name drug components administered concurrently under fasted conditions .
+Geometric LS mean ratios and 90% confidence intervals for AUC infinity and Cmax were 0.97 ( 0.92 , 1.03 ) and 0.94 ( 0.84 , 1.06 ) , respectively , for lamivudine and 0.99 ( 0.91 , 1.07 ) and 0.97 ( 0.82 , 1.15 ) , respectively , for zidovudine .
+The extent of absorption of lamivudine and zidovudine from the combination tablet was not altered by administration with meals , indicating that this formulation may be administered with or without food .
+However , food slowed the rate of absorption , delayed the tmax , and reduced the Cmax of lamivudine and zidovudine .
+These changes were not considered clinically important .
+All formulations were well tolerated under fasted and fed conditions .

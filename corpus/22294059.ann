@@ -1,0 +1,51 @@
+TS2722294059	drug 15 28	lercanidipine
+TS2522294059	mealTime 92 105	fasting state
+TS1622294059	food 128 132	food
+TS3122294059	drug 204 217	lercanidipine
+TS2622294059	drug 220 227	Zanidip
+TS4222294059	food3 263 269	fasted
+TS3422294059	food 294 298	food
+TS2322294059	mealTime 308 313	meals
+TS2422294059	mealTime 434 439	meals
+TS3322294059	drug 528 541	lercanidipine
+TS2222294059	drug 566 573	Zanidip
+TS3822294059	mealTime 632 638	fasted
+TS622294059	sideeffect 727 738	interaction
+TS3622294059	food 842 854	non-high-fat
+TS4122294059	food3 857 873	non-high-calorie
+TS722294059	mealTime 876 880	meal
+TS1722294059	drug 964 967	AUC
+TS4322294059	drug 981 996	S-lercanidipine
+TS2922294059	drug 1104 1108	Cmax
+R1	relation Arg1:TS3622294059 Arg2:TS1722294059
+TS2022294059	drug 1260 1267	Zanidip
+TS4022294059	food2 1298 1311	carbohydrate-
+TS122294059	mealTime 1330 1334	meal
+TS1522294059	drugEffect 1344 1350	levels
+TS1022294059	food 1376 1384	high-fat
+TS3922294059	food3 1387 1399	high-calorie
+TS922294059	mealTime 1400 1404	meal
+TS3722294059	food 1424 1437	carbohydrate-
+TS1822294059	mealTime 1456 1460	meal
+TS1922294059	drug 1494 1501	Zanidip
+TS2122294059	drug 1588 1601	lercanidipine
+TS1122294059	food 1621 1625	food
+R2	relation Arg1:TS3722294059 Arg2:TS1922294059
+TS522294059	mealTime 1780 1785	meals
+T1	mealTime 110 139	15 minutes before food intake
+T2	modeadm 236 255	oral administration
+T3	mealTime 280 305	15 min before food intake
+T4	mealTime 649 682	5 min before a standard breakfast
+T5	food 840 871	non-high-fat , non-high-calorie
+T6	mealTime 874 896	meal 15 min after drug
+T7	drug 977 992	S-lercanidipine
+T8	drug 1108 1122	Slercanidipine
+T9	drug 1252 1259	Zanidip
+T10	food 1304 1326	carbohydrate-rich meal
+R3	increase_absorption Arg1:T10 Arg2:T9	
+T11	food 1368 1396	high-fat , high-calorie meal
+T12	food 1430 1452	carbohydrate-rich meal
+T13	drug 1486 1493	Zanidip
+T14	drug 1580 1593	lercanidipine
+T15	mealTime 1599 1624	15 min before food intake
+R4	negative_effect_on_drug Arg1:T12 Arg2:T13	

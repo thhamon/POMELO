@@ -1,0 +1,13 @@
+Effect of food on the pharmacokinetics and pharmacodynamics of an oral ghrelin agonist ( ARD-07 ) in healthy subjects .
+ARD-07 ( also known as EP01572 ) is a peptidomimetic growth hormone secretagogue that can be administered orally .
+The primary objective of this study is to determine the effects of a meal on the oral bioavailability of ARD-07 after a single oral dose ( 0.5 mg  kg ) .
+In addition , the pharmacodynamic effects ( growth hormone release , insulin-like growth factor-1 concentrations ) and the tolerability of ARD-07 are investigated in this open-label , randomized , crossover study .
+Sixteen healthy subjects ( 8 males , 8 females ) receive ARD-07 on 2 different days ; the treatment consists of a single oral dose of ARD-07 ( 0.5 mg  kg body weight ) , once with and the second day without a test meal .
+Plasma kinetics of ARD-07 and pharmacodynamic effects are quantified by specific assays .
+Results are given as mean +  - SEM: The area under the curve for 0 to 24 hours is approximately twice as high without food ( 27.8 +  - 4.1 ) than with food ( 13.7 +  - 1.2 ; P = .
+002 ) .
+The maximum observed ARD-07 concentration relative to dose administration ( C ( max ) ) is more than twice as high without food ( 10.6 +  - 1.6 ng  mL ) than with food ( 4.4 +  - 0.5 ng  mL ; P = .
+001 ) .
+C ( max ) of growth hormone occurs at a significantly ( P = .
+001 ) later stage with food ( C ( max ) = 13.0 +  - 3.5 ng  mL ) than without food ( 37.1 +  - 5.3 ng  mL ) .
+Food has a marked effect on the absorption of ARD-07: there is a significant difference in bioavailability between administration of oral ARD-07 with and without food .

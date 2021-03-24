@@ -1,0 +1,27 @@
+TS1322998389	drugEffect 0 10;15 54	Inhibition induction of glutathione S-transferases
+TS622998389	drug 190 200	flavonoids
+TS1722998389	drug 524 534	flavonoids
+TS322998389	drug 563 572	flavonoid
+TS1822998389	drug 811 825	flavonoid-drug
+TS1922998389	drug 840 859	flavonoid-pollutant
+TS722998389	sideeffect 860 871	interaction
+TS1622998389	drug 1022 1035	acetaminophen
+TS122998389	drug 1038 1049	simvastatin
+TS1222998389	drug 1052 1068	cyclophosphamide
+TS422998389	food 1304 1324	flavonoids-rich diet
+TS1522998389	drug 1466 1475	quercetin
+TS2222998389	drug 1480 1489	catechins
+TS222998389	foodSupplement 1495 1514	dietary supplements
+T1	drug 58 68	flavonoids
+R6	has_effect Arg1:T1 Arg2:TS1322998389	
+T2	drugEffect 204 225;230 283	modulate the activity  or expression of glutathione S-transferases ( GSTs )
+R7	has_effect Arg1:TS622998389 Arg2:T2	
+R8	has_sideeffect Arg1:TS1822998389 Arg2:TS722998389	
+R9	has_sideeffect Arg1:TS1922998389 Arg2:TS722998389	
+T3	drug 1071 1081	cisplatine
+T6	drug 958 968	flavonoids
+T4	drug 1442 1452	flavonoids
+T5	sideeffect 1532 1546	GST inhibition
+R1	increase_side_effect Arg1:TS222998389 Arg2:T5	
+R2	has_sideeffect Arg1:T4 Arg2:T5	
+R3	relation Arg1:TS222998389 Arg2:T4	

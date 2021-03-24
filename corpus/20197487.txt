@@ -1,0 +1,12 @@
+Single-dose safety , pharmacokinetics , and food effects studies of compound naphthoquine phosphate tablets in healthy volunteers .
+The compound naphthoquine phosphate is a novel antimalaria drug tablet containing a fixed-dose combination of naphthoquine phosphate and artemisinin in a 1:2.5 ratio .
+A randomized , open study on the safety and tolerability was conducted in 28 healthy male volunteers using a single oral dose of 350 mg , 700 mg , 1400 mg , or 2100 mg of artemisinin- artemisinin-naphthoquine phosphate .
+Pharmacokinetics at the last 3 doses were examined in 30 volunteers .
+Food effects were also determined .
+Serial blood samples up to 216 hours after single oral dose administration were analyzed for plasma concentrations using a validated high-performance liquid chromatography-tandem mass spectrometry assay .
+The compound was well tolerated at single doses up to 2100 mg .
+Increased exposure to naphthoquine phosphate and artemisinin was less than dose proportional and linear .
+The half-life of naphthoquine phosphate was approximately 255 hours .
+The combination increased the AUC ( 0-t ) and C ( max ) of both artemisinin ( by 71% and 49% ) and naphthoquine phosphate ( by 135% and 104% ) compared with monotherapy .
+Food intake greatly increased the AUC ( 0-t ) of artemisinin with a ratio of 77% and reduced that of naphthoquine phosphate from 955 bigasentpleq 352 bigasentmugbigasentdoth  L under the fasted state to 446 bigasentpleq 231 bigasentmugbigasentdoth  L in the fed condition .
+The pharmacokinetics and safety profile of the drug support its continued investigation in future clinical studies .

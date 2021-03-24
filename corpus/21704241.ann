@@ -1,0 +1,86 @@
+TS921704241	drug 37 52	fenofibric acid
+TS1021704241	drug 75 86	fenofibrate
+TS5021704241	mealTime 101 108	fasting
+TS1421704241	mealTime 113 116	fed
+TS1621704241	drug 223 234	Fenofibrate
+TS5321704241	treatedDisease 252 280	primary hypercholesterolemia
+TS5721704241	treatedDisease 289 298	lipidemia
+TS4321704241	treatedDisease 305 325	hypertriglyceridemia
+TS6021704241	drug 386 397	Fenofibrate
+TS4721704241	drug 456 471	fenofibric acid
+TS5421704241	drug 528 543	fenofibric acid
+TS4921704241	drug 581 592	fenofibrate
+TS221704241	drug 665 680	fenofibric acid
+TS4621704241	drug 693 704	fenofibrate
+TS6921704241	mealTime 711 717	fasted
+TS5621704241	mealTime 722 725	fed
+TS2921704241	food 728 746	standard breakfast
+TS321704241	drug 847 862	fenofibric acid
+R1	relation Arg1:TS6921704241 Arg2:TS321704241
+R2	relation Arg1:TS2921704241 Arg2:TS321704241
+TS6621704241	mealTime 878 884	fasted
+TS3621704241	drug 960 975	fenofibric acid
+TS2321704241	drug 1001 1012	fenofibrate
+TS4821704241	mealTime 1354 1357	fed
+TS5521704241	mealTime 1369 1373	meal
+TS3821704241	food 1424 1427	fat
+TS6221704241	drug 1761 1777	fenofibric acid:
+TS1121704241	drug 1778 1789	fenofibrate
+TS5821704241	drug 1801 1804	AUC
+TS5921704241	drug 1815 1818	AUC
+TS6521704241	food3 1991 1997	fasted
+TS1221704241	food2 2166 2171	white
+TS1321704241	food2 2213 2218	white
+TS421704241	food3 2285 2288	fed
+TS1821704241	food2 2457 2462	white
+TS3321704241	drug 2549 2564	fenofibric acid
+TS121704241	drug 2587 2598	fenofibrate
+TS2121704241	drug 2697 2700	AUC
+TS2221704241	drug 2715 2718	AUC
+TS7121704241	food3 2774 2780	fasted
+TS6421704241	food3 2811 2817	fasted
+TS1921704241	sideeffect 2915 2924	dizziness
+TS4221704241	sideeffect 2936 2944	headache
+TS1521704241	sideeffect 3060 3068	headache
+TS5221704241	sideeffect 3081 3091	dry throat
+TS3121704241	drug 3252 3267	fenofibric acid
+TS2721704241	food 3279 3283	Food
+TS2621704241	drug 3388 3399	fenofibrate
+TS3221704241	drug 3447 3462	fenofibric acid
+TS521704241	food3 3482 3485	fed
+TS6821704241	food3 3490 3496	fasted
+R4	relation Arg1:TS2721704241 Arg2:TS2621704241
+TS4121704241	drug 3506 3521	Fenofibric acid
+T1	dosage 30 36	105-mg
+T2	dosage 68 74	145-mg
+R5	treat Arg1:TS1621704241 Arg2:TS5321704241	
+R6	treat Arg1:TS1621704241 Arg2:TS5721704241	
+R7	treat Arg1:TS1621704241 Arg2:TS4321704241	
+T3	modeadm 500 506	orally
+T4	dosage 945 951	105-mg
+T5	dosage 986 992	145-mg
+T6	mealTime 1057 1080	after an overnight fast
+T7	mealTime 1085 1109	minimum fast of 10 hours
+T8	food 1330 1341	single dose
+T9	food 1360 1373	standard meal
+T10	drug 1759 1774	fenofibric acid
+T11	drug 1776 1787	fenofibrate
+T12	sideeffect 1872 1894	adverse events ( AEs )
+T13	drug 2545 2560	fenofibric acid
+T14	sideeffect 2909 2918	dizziness
+T15	drug 2583 2594	fenofibrate
+T16	sideeffect 2930 2938	headache
+T17	sideeffect 3054 3062	headache
+T18	sideeffect 3075 3085	dry throat
+T19	modeadm 3226 3230	oral
+T20	dosage 3239 3245	105-mg
+T21	drug 3246 3261	fenofibric acid
+T22	modeadm 3362 3366	oral
+T23	dosage 3375 3381	145-mg
+T24	drug 3382 3393	fenofibrate
+T25	drug 3441 3456	fenofibric acid
+T26	drug 3500 3515	Fenofibric acid
+T27	mealTime 3476 3479	fed
+T28	mealTime 3484 3490	fasted
+R3	increase_absorption Arg1:T27 Arg2:T25	
+R8	increase_absorption Arg1:T28 Arg2:T25	

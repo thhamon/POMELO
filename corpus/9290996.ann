@@ -1,0 +1,11 @@
+TS119290996	sideeffect 0 22	Esophageal obstruction
+TS69290996	sideeffect 125 147	esophageal obstruction
+TS159290996	sideeffect 155 194	solidification of enteral feed refluxed
+TS79290996	mealTime 230 233	fed
+TS39290996	drug 300 310	sucralfate
+TS109290996	drug 411 421	sucralfate
+TS29290996	drug 509 526	enteral nutrition
+T1	drug 48 60	enteral feed
+R1	has_sideeffect Arg1:T1 Arg2:TS119290996	
+T2	sideeffect 534 547	adverse event
+R2	has_sideeffect Arg1:TS29290996 Arg2:T2	

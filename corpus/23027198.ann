@@ -1,0 +1,38 @@
+TS2323027198	treatedDisease 61 83	acute myeloid leukemia
+TS2423027198	treatedDisease 87 111	myelodysplastic syndrome
+TS1423027198	drug 132 166	broad-spectrum triazole antifungal
+TS1223027198	treatedDisease 588 610	acute myeloid leukemia
+TS2123027198	treatedDisease 614 638	myelodysplastic syndrome
+TS823027198	treatedDisease 789 815	gastrointestinal disorders
+TS723027198	food 863 885	caloric and fat intake
+TS1923027198	treatedDisease 1055 1064	mucositis
+TS623027198	treatedDisease 1087 1093	nausea
+TS1523027198	treatedDisease 1109 1117	diarrhea
+TS2023027198	treatedDisease 1136 1144	vomiting
+TS1323027198	food 1257 1267	fat intake
+TS323027198	drug 1331 1353	proton pump inhibitors
+TS1723027198	drug 1405 1415	tacrolimus
+TS123027198	drug 1555 1565	tacrolimus
+TS523027198	treatedDisease 1604 1613	mucositis
+TS223027198	food 1633 1637	food
+TS1823027198	drugEffect 1717 1732	bioavailability
+TS923027198	treatedDisease 1773 1799	gastrointestinal disorders
+TS2223027198	food 1802 1806	food
+T1	drug 31 43	posaconazole
+T2	drug 114 126	Posaconazole
+T3	modeadm 183 187	oral
+T4	drug 258 270	posaconazole
+T5	drug 571 583	posaconazole
+T6	numbers 529 531	40
+R1	treat Arg1:T5 Arg2:TS1223027198	
+R2	treat Arg1:T5 Arg2:TS2123027198	
+T7	food 1196 1217	higher caloric intake
+T8	sideeffect 1354 1372	decreased the PPCs
+R3	has_sideeffect Arg1:TS323027198 Arg2:T8	
+T9	sideeffect 1416 1433	increased the PPC
+R4	has_sideeffect Arg1:TS1723027198 Arg2:T9	
+T10	sideeffect 1492 1512	influencing the PPCs
+R5	has_sideeffect Arg1:TS123027198 Arg2:T10	
+R6	relation Arg1:TS223027198 Arg2:T10	
+T11	drug 1704 1716	posaconazole
+R7	relation Arg1:TS2223027198 Arg2:T11	

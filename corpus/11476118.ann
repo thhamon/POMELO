@@ -1,0 +1,3 @@
+TS511476118	sideeffect 0 17	Drug interactions
+TS211476118	food 23 39	grapefruit juice
+R1	relation Arg1:TS211476118 Arg2:TS511476118	

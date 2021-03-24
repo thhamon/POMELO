@@ -1,0 +1,28 @@
+TS521125816	food 0 4	Food
+TS921125816	drug 39 48	entecavir
+R1	relation Arg1:TS521125816 Arg2:TS921125816
+TS821125816	food 193 197	food
+TS1521125816	drug 225 234	entecavir
+R2	relation Arg1:TS821125816 Arg2:TS1521125816
+TS1221125816	drug 402 411	entecavir
+TS1621125816	mealTime 438 444	fasted
+TS421125816	mealTime 449 452	fed
+TS621125816	drug 659 668	entecavir
+TS1321125816	drug 705 714	entecavir
+TS721125816	food 771 775	food
+TS221125816	food 1009 1013	Food
+TS1121125816	drug 1064 1073	entecavir
+R3	decrease_absorption Arg1:TS221125816 Arg2:TS1121125816
+TS121125816	drug 1122 1131	entecavir
+TS321125816	mealTime 1158 1171	empty stomach
+T1	modeadm 84 88	oral
+T2	modeadm 260 278	dispersible tablet
+T3	modeadm 54 73	dispersible tablets
+T5	dosage 397 401	1 mg
+T4	modeadm 384 388	oral
+T6	modeadm 412 431	dispersible tablets
+T7	modeadm 720 739	dispersible tablets
+R4	decrease_absorption Arg1:TS721125816 Arg2:TS1321125816	
+T8	modeadm 1079 1097	dispersible tablet
+R5	without_food Arg1:TS321125816 Arg2:TS121125816	
+T9	modeadm 1132 1151	dispersible tablets

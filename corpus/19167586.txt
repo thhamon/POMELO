@@ -1,0 +1,14 @@
+Relative bioavailability of tizanidine hydrochloride capsule formulation compared with capsule contents administered in applesauce applesauce: a single-dose , open-label , randomized , two-way , crossover study in fasted healthy adult subjects .
+The alpha2-adrenergic agonist tizanidine has been reported to have a narrow therapeutic index .
+A multiparticulate capsule formulation of tizanidine has been developed in an attempt to improve patient tolerability .
+This study assessed bioequivalence between a single , intact , 6-mg capsule of tizanidine and the capsule contents sprinkled in applesauce in fasted healthy subjects .
+Healthy male and female subjects aged 18 to 45 years completed 2 treatment periods: one with a tizanidine 6-mg capsule administered intact and the other with capsule contents sprinkled in applesauce .
+The 2 treatment periods had a 6-day washout period between administrations .
+Plasma tizanidine concentrations were determined for blood samples collected over 24 hours after administration .
+All treatment-emergent adverse events were recorded and graded by intensity and relationship to the study drug ( not , improbable , possible , probable , definite ) by the attending physician based on his or her clinical impression .
+A total of 19 men and 9 women ( mean age , 26 years ) completed the trial .
+Geometric mean natural logarithm-transformed AUC values ( AUC ( 0-infinity ) [AUC to infinity] and AUC ( 0-t ) [AUC to the last measurable time point] ) and C ( max ) ratios were significantly ( P sentinfor= 0.035 ) increased to 1.14 ( 90% CI , 105.47%-127.01% ) , 1.16 ( 90% CI , 106.80%-130.53% ) , and 1.17 ( 90% CI , 103.95%-133.66% ) , respectively , when the contents were sprinkled , with 90% CIs laying outside the 0.80 to 1.25 ratio established by regulatory authorities for bioequivalence .
+A total of 31 adverse events were reported by 17 of the 28 subjects ( 61% ) , including 15 subjects ( 54% ) with the intact capsule reporting 18 events and 11 subjects ( 39% ) with the sprinkled contents reporting 13 events .
+No serious adverse events or deaths were reported , and no subjects were discontinued due to adverse events .
+The contents of the tizanidine capsule sprinkled in applesauce were not bioequivalent to the intact 6-mg capsule in these fasted healthy volunteers .
+Therefore , if switching from the intact capsule to the capsule contents mixed in applesauce , monitoring for adverse events is recommended ; in this situation , dose adjustment could be necessary .

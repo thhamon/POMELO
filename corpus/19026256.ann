@@ -1,0 +1,61 @@
+TS5519026256	food 14 22	calories
+TS919026256	food 27 30	fat
+TS1319026256	mealTime 42 47	meals
+TS3319026256	drug 56 67	ziprasidone
+R1	relation Arg1:TS5519026256 Arg2:TS3319026256
+TS1419026256	food 126 130	Food
+TS2919026256	drugEffect 156 171	bioavailability
+TS1919026256	drug 175 186	ziprasidone
+R2	positive_effect_on_drug Arg1:TS1419026256 Arg2:TS1919026256
+TS4719026256	mealTime 229 234	meals
+TS5019026256	food 260 263	fat
+TS2719026256	drug 288 299	ziprasidone
+TS719026256	treatedDisease 374 387	schizophrenia
+TS4919026256	treatedDisease 390 414	schizoaffective disorder
+TS2519026256	treatedDisease 417 433	bipolar disorder
+TS1719026256	treatedDisease 439 457	psychotic disorder
+TS2819026256	drug 518 529	ziprasidone
+R3	relation Arg1:TS5019026256 Arg2:TS2719026256
+TS4819026256	drug 572 583	ziprasidone
+TS1119026256	mealTime 592 596	meal
+TS5819026256	food 634 640	fasted
+TS219026256	food 643 663	low calorie  low fat
+TS319026256	food 666 687	low calorie  high fat
+TS419026256	food 690 714	medium calorie  high fat
+TS519026256	food 717 738	high calorie  low fat
+TS619026256	food 745 767	high calorie  high fat
+TS1219026256	mealTime 855 859	meal
+TS3019026256	drug 1008 1019	ziprasidone
+TS119026256	food 1063 1081	high-calorie meals
+TS5319026256	mealTime 1143 1150	fasting
+TS5219026256	food 1168 1187	medium-calorie meal
+TS1019026256	food 1246 1264	high-calorie meals
+TS4219026256	food 1267 1284	Low-calorie meals
+TS4319026256	food 1384 1390;1396 1414	medium high-calorie meals
+TS1819026256	mealTime 1453 1460	fasting
+TS5619026256	food 1474 1477	Fat
+TS3919026256	mealTime 1493 1497	meal
+TS819026256	drug 1527 1538	ziprasidone
+R4	no_effect_on_drug Arg1:TS5619026256 Arg2:TS819026256
+TS5119026256	drug 1556 1567	ziprasidone
+TS3419026256	food 1592 1598;1604 1622	medium high-calorie meals
+TS3519026256	food 1660 1677	low-calorie meals
+TS3819026256	mealTime 1688 1695	fasting
+TS4619026256	drug 1736 1747	ziprasidone
+TS5919026256	food 1758 1773	taken with food
+TS3119026256	food 1842 1845	fat
+TS2619026256	drugEffect 1897 1912	bioavailability
+R5	relation Arg1:TS919026256 Arg2:TS3319026256	
+T1	modeadm 51 55	oral
+R6	has_effect Arg1:TS1919026256 Arg2:TS2919026256	
+T2	modeadm 513 517	oral
+R7	treat Arg1:TS2719026256 Arg2:TS719026256	
+R8	treat Arg1:TS2719026256 Arg2:TS4919026256	
+R9	treat Arg1:TS2719026256 Arg2:TS2519026256	
+R10	treat Arg1:TS2719026256 Arg2:TS1719026256	
+R11	increase_absorption Arg1:TS119026256 Arg2:TS3019026256	
+R12	increase_absorption Arg1:TS3419026256 Arg2:TS5119026256	
+R13	decrease_absorption Arg1:TS3519026256 Arg2:TS5119026256	
+R14	decrease_absorption Arg1:TS3819026256 Arg2:TS5119026256	
+R15	positive_effect_on_drug Arg1:TS5919026256 Arg2:TS4619026256	
+R16	no_effect_on_drug Arg1:TS3119026256 Arg2:TS4619026256	

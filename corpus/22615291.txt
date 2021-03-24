@@ -1,0 +1,12 @@
+Single-dose phase I study to evaluate the pharmacokinetics of posaconazole in new tablet and capsule formulations relative to oral suspension .
+Posaconazole oral suspension , a marketed extended-spectrum triazole with proven efficacy as antifungal treatment and prophylaxis , should be taken with food to maximize absorption .
+New tablet and capsule formulations have been developed in an attempt to optimize absorption and bioavailability .
+The aims of this exploratory open-label , partially randomized , 2-part , 4-way , single-dose crossover study in 16 healthy adults were to characterize pharmacokinetics for posaconazole tablet and capsule formulations relative to those for posaconazole oral suspension under fasted and fed conditions and to assess safety and tolerability .
+Under fasted conditions , posaconazole exposures ( area under the curve [AUC] ) for the tablet and capsule formulations were similar ( mean AUC from time zero to infinity [AUC ( 0-∞ ) ] , tablet A , 11 , 700 ng bigasentdot h  ml [coefficient of variation {CV} , 26%] ; tablet B , 11 , 300 ng bigasentdot h  ml [CV , 22%] ; capsule , 11 , 000 ng bigasentdot h  ml [CV , 25%] ) and were substantially higher than the exposure for the oral suspension ( mean AUC ( 0-∞ ) , 3 , 420 ng bigasentdot h  ml [CV , 44%] ) .
+Tablets and capsule showed less variability in exposure than the oral suspension .
+In fed subjects , tablets and capsule resulted in similar AUC values ( mean AUC ( 0-∞ ) , tablet A , 11 , 900 ng bigasentdot h  ml [23%] ; tablet B , 12 , 400 ng bigasentdot h  ml [CV , 25%] ; capsule , 12 , 300 ng bigasentdot h  ml [CV , 28%] ) and slightly higher exposure than the oral suspension ( mean AUC ( 0-∞ ) , 8 , 750 [CV , 24%] ) .
+Median times to the maximum concentration of drug in plasma were 4 to 5 h ( fasted conditions ) and 6 to 8 h ( fed conditions ) .
+Mean half-lives values were similar for all formulations under fed and fasted conditions ( 23.1 to 29.2 h ) .
+Consistent with previous data , exposure for the oral suspension increased 2.5- to 3-fold when it was given with a high-fat meal .
+Conversely , exposures for tablets and capsule were not markedly affected by food .
+All formulations of posaconazole at 100 mg were safe and well tolerated .

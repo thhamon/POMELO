@@ -1,0 +1,21 @@
+Pharmacokinetics of a once-daily extended-release formulation of pramipexole in healthy male volunteers: three studies .
+Pramipexole is a dopamine agonist used in the treatment of Parkinson's disease .
+The currently available immediate-release ( IR ) formulation is taken orally 3 times daily .
+These studies were conducted to evaluate the pharmacokinetic properties of a variety of prototypes for a once-daily extended-release ( ER ) formulation of pramipexole and to further characterize the prototype whose pharmacokinetics best matched those of the IR formulation .
+Three Phase I studies were conducted , all in healthy adult men aged sentinfor=50 years with a body mass index of 18.5 to 29.9 kg  m ( 2 ) .
+In the first study , 7 prototypes of a once-daily ER formulation with various release properties , including rate and pH dependence , were compared with the IR formulation taken 3 times daily to identify the optimal pharmacokinetic resemblance based on predefined criteria derived from plasma AUC ( 0-24h ) , C ( max ) , and C ( min ) .
+In the second study , a level A in vitro  in vivo correlation ( IVIVC ) suitable for predicting an entire in vivo bioavailability time course based on in vitro dissolution was established and validated , and the single-dose pharmacokinetics of the optimal ER formulation identified in the first study were analyzed for food effect .
+In the third study , steady-state pharmacokinetics of the optimal ER formulation were assessed across a range of pramipexole doses ( 0.375-4.5 mg  d ) , including investigation of the food effect at steady state for the highest dose .
+Tolerability was assessed throughout all studies based on physical examinations , laboratory measurements , and adverse events ( AEs ) .
+The 3 studies included 18 , 15 , and 39 subjects , respectively .
+Among the ER prototypes tested at 0.75 mg once daily in study 1 , a matrix tablet had the optimal pharmacokinetic resemblance to IR pramipexole 0.25 mg TID , with a geometric mean AUC ( 0-24h , ss ) of 17.4 ng.h  mL ( vs 16.0 ng.h  mL for the IR formulation ) , C ( max , ss ) of 0.967 ng  mL ( vs 1.09 ng  mL ) , and C ( min , ss ) of 0.455 ng  mL ( vs 0.383 ng  mL ) .
+For single-dose ER 0.375 mg administered in the fasted state in study 2 , in vivo bioavailability was predictable from in vitro dissolution data , with internal mean absolute percent prediction errors of 3.18% for AUC ( 0-30h ) and 4.87% for C ( max ) , and external mean absolute prediction errors of 6.61% and 3.34% , respectively , satisfying current guidelines for a level A IVIVC .
+For single-dose ER 0.375 mg administered in the fed state , the upper bound of the 90% CI for fed: fed:fasted values was 119.8 for AUC ( 0-30h ) ( within the bioequivalence limits of 80%-125% ) and 134.1 for C ( max ) .
+At steady state in study 3 ( subjects' 5th treatment day ) , dosing at 0.375 to 4.5 mg in the fasted state was associated with a linear , dose-proportional increase in pharmacokinetic parameters , including AUC ( 0-24h , ss ) and C ( max , ss ) .
+At the highest fasted dose ( 4.5 mg ) , the geometric coefficient of variation for interindividual variability at steady state was 30.1% for AUC ( 0-24h , ss ) ( vs 21.4% for IR pramipexole 1.5 mg TID ) and 22.3% for C ( max , ss ) ( vs 19.0% ) .
+At steady state , the upper bounds of the 90% CIs for fed: fed:fasted values with ER 4.5 mg were 122.1 for AUC ( 0-24h ) and 126.8 for C ( max ) .
+No serious AEs occurred , and the dropout rate was low .
+In these studies in healthy male volunteers , an ER pramipexole formulation was identified that resembled the IR formulation in terms of both pharmacokinetics and tolerability .
+In patients with Parkinson's disease , once-daily use of an ER formulation may improve the convenience of treatment relative to the IR formulation taken 3 times daily and thus increase compliance .
+Copyright 2009 Excerpta Medica Inc. .
+All rights reserved .

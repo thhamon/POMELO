@@ -1,0 +1,9 @@
+TS111953660	sideeffect 0 25	Drug-nutrient interaction
+TS911953660	foodSupplement 29 47	clinical nutrition
+TS511953660	sideeffect 50 76	Drug-nutrient interactions
+TS211953660	sideeffect 166 178	interactions
+TS411953660	sideeffect 228 243	adverse effects
+TS611953660	sideeffect 286 312	drug-nutrient interactions
+TS311953660	sideeffect 514 540	drug-nutrient interactions
+TS1211953660	sideeffect 715 727	interactions
+R1	has_sideeffect Arg1:TS911953660 Arg2:TS111953660	

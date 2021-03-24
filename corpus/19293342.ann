@@ -1,0 +1,34 @@
+TS1519293342	food 10 14	food
+TS1919293342	drug 71 97	ghrelin agonist ( ARD-07 )
+R1	relation Arg1:TS1519293342 Arg2:TS1919293342
+TS1219293342	drug 158 200	peptidomimetic growth hormone secretagogue
+TS1719293342	mealTime 302 308	a meal
+TS419293342	drugEffect 321 336	bioavailability
+TS519293342	drug 433 447	growth hormone
+TS2519293342	drug 458 486	insulin-like growth factor-1
+TS119293342	mealTime 818 822	meal
+TS1019293342	food 1033 1037	food
+TS1119293342	food 1066 1070	food
+TS1319293342	food 1226 1230	food
+TS1419293342	food 1266 1270	food
+TS219293342	drug 1322 1336	growth hormone
+TS2219293342	food 1394 1398	food
+TS2319293342	food 1449 1453	food
+TS719293342	food 1481 1485	Food
+TS2419293342	drugEffect 1572 1587	bioavailability
+TS819293342	food 1643 1647	food
+T1	modeadm 66 70	oral
+T2	drug 120 126	ARD-07
+T3	modeadm 226 232	orally
+T4	drug 340 346	ARD-07
+R2	relation Arg1:TS1719293342 Arg2:T4	
+T5	dosage 374 384	0.5 mg  kg
+T6	drug 528 534	ARD-07
+T7	modeadm 725 729	oral
+T8	drug 738 744	ARD-07
+T9	frequency 747 757	0.5 mg  kg
+T10	drug 844 850	ARD-07
+T11	drug 1124 1130	ARD-07
+T12	drug 1527 1533	ARD-07
+T13	drug 1619 1625	ARD-07
+R3	decrease_absorption Arg1:TS719293342 Arg2:T12	

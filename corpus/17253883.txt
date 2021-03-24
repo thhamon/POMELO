@@ -1,0 +1,17 @@
+Drug-drug and food- food-drug pharmacokinetic interactions with new insulinotropic agents repaglinide and nateglinide .
+This review describes the current knowledge on drug-drug and food- food-drug interactions with repaglinide and nateglinide .
+These two meglitinide derivatives , commonly called glinides , have been developed for improving insulin secretion of patients with type 2 diabetes mellitus .
+They are increasingly used either in monotherapy or in combination with other oral antihyperglycaemic agents for the treatment of type 2 diabetes .
+Compared with sulfonylureas , glinides have been shown to ( i ) provide a better control of postprandial hyperglycaemia , ( ii ) overcome some adverse effects , such as hypoglycaemia , and ( iii ) have a more favourable safety profile , especially in patients with renal failure .
+The meal- meal-related timing of administration of glinides and the potential influence of food and meal composition on their bioavailability may be important .
+In addition , some food components ( e.g e.g. grapefruit juice ) may cause pharmacokinetic interactions .
+Because glinides are metabolised via cytochrome P450 ( CYP ) 3A4 isoenzyme , they are indeed exposed to pharmacokinetic interactions .
+In addition to CYP3A4 , repaglinide is metabolised via CYP2C8 , while nateglinide metabolism also involves CYP2C9 CYP2C9. .
+Furthermore , both compounds and their metabolites may undergo specialised transport  uptake in the intestine , another source of pharmacokinetic interactions .
+Clinically relevant drug-drug interactions are those that occur when glinides are administered together with other glucose- glucose-lowering agents or compounds widely coadministered to diabetic patients ( e.g e.g. lipid-lowering agents ) , with drugs that are known to induce ( risk of lower glinide plasma levels and thus of deterioration of glucose control ) or inhibit ( risk of higher glinide plasma levels leading to hypoglycaemia ) CYP isoenzymes concerned in their metabolism , or with drugs that have a narrow efficacy : toxicity ratio .
+Pharmacokinetic interactions reported in the literature appear to be more frequent and more important with repaglinide than with nateglinide .
+Rifampicin ( rifampin ) reduced repaglinide area under the plasma concentration-time curve ( AUC ) by 32-85% while it reduced nateglinide AUC by almost 25%. .
+Reported increases in AUCs with coadministration of drugs inhibiting CYP isoenzymes never exceeded 80% for repaglinide ( except with ciclosporin and with gemfibrozil ) and 50% for nateglinide .
+Ciclosporin more than doubled repaglinide AUC ( +144% ) , a finding that should raise caution when using these two drugs in combination .
+The most impressive pharmacokinetic interaction was reported with combined administration of gemfibrozil ( a strong CYP2C8 inhibitor ) and repaglinide ( 8-fold increase in repaglinide AUC ) .
+Although no studies have been performed in patients with type 2 diabetes , the latter combination should be avoided in clinical practice .

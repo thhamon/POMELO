@@ -1,0 +1,7 @@
+Food- Food-drug interactions interactions: grapefruit juice .
+Food-drug interactions are increasingly recognized as important clinical events which may change significantly the bioavailability of oral administrated drugs .
+Grapefruit juice ( GFJ ) demonstrated multiple interactions with drugs leading to loss of the therapeutic effects or increased side-effects .
+GFJ decreases pre-systemic metabolism through a ) competitive or mechanism-based inhibition of gut wall CYP3A4 isoenzymes and b ) P-glycoprotein ( P-gp ) , c ) multidrug resistance protein- protein-2 ( MRP2 ) or d ) organic anion- anion-transporting polypeptide ( OATP ) inhibition .
+Although , GFJ presents high amounts of flavonoids ( e.g e.g. naringin , naringenin ) , furanocoumarins ( e.g e.g. 6' , 7' -dihydroxybergamottin , bergamottin ) are the main chemicals involved in the pharmacokinetic interactions .
+As compounds of GFJ show additive or synergistic effects , all the major furanocoumarins are necessary for the maximal inhibitory effect .
+Also , related citrus fruits ( sweeties , pummelo and sour orange ) or various plants containing furanocoumarins may present pharmacological interactions , yet to be discovered .

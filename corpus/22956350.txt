@@ -1,0 +1,13 @@
+Pharmacokinetics of febuxostat in healthy Chinese volunteers .
+Febuxostat is a novel non-purine selective inhibitor of xanthine oxidase developed for the management of hyperuricemia in patients with gout .
+To investigate the pharmacokinetics and also evaluate the effects of gender and food on the pharmacokinetics of febuxostat in healthy Chinese volunteers .
+A phase I , 3-period study was performed in healthy Chinese male and female subjects .
+Subjects either received single 40 mg , multiple 40 mg and single 80 mg doses of febuxostat under fasted conditions , or received single 80 mg doses under fed condition .
+Plasma concentrations of febuxostat were collected and determined at 14 time points over 48 h .
+After 40 mg and 80 mg single dose administration of febuxostat , the C max were 2.308bigasentpleq0.812 and 4.559bigasentpleq1.246 μg  mL , the T max were 1.6bigasentpleq0.6 and 2.1bigasentpleq1.0 h , the t 1  2 were 6.8bigasentpleq1.7 and 6.7bigasentpleq1.9 h , and the AUC0-∞ were 7.704bigasentpleq1.723 and 16.34bigasentpleq3.87 μg∙h  mL , respectively .
+In the multiple-dose study at 40 mg dose for 6 consecutive days , the mean ( SD ) steady-state pharmacokinetic parameters on day 8 were similar to those following a single dose of febuxostat on day 1. .
+In addition , food caused a decrease of 33% for C max and a delay of 0.3 h for T max .
+Gender had no significant effect on the pharmacokinetics of febuxostat .
+Febuxostat was well tolerated over the investigated dose range .
+Compared with the previous study , the pharmacokinetics of febuxostat appeared to be different between Chinese and other races .
+bigasentc Georg Thieme Verlag KG Stuttgart bigasentdot New York .

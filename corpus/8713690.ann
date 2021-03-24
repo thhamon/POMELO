@@ -1,0 +1,40 @@
+TS238713690	drug 0 28	Monoamine oxidase inhibitors
+TS288713690	sideeffect 44 61	drug interactions
+TS98713690	drug 102 130	monoamine oxidase inhibitors
+TS188713690	sideeffect 203 220	food interactions
+TS78713690	food 300 325	tyramine-containing foods
+TS128713690	sideeffect 341 363	hypertensive reactions
+TS38713690	drug 494 511	monoamine oxidase
+TS268713690	drug 624 634	selegiline
+TS168713690	treatedDisease 715 745	idiopathic Parkinson's disease
+TS218713690	sideeffect 1042 1064	hypertensive reactions
+TS108713690	drug 1202 1213	moclobemide
+TS198713690	drugEffect 1249 1263	antidepressant
+TS178713690	sideeffect 1313 1334	hypertensive reaction
+TS318713690	food 1415 1439	tyramine-rich foodstuffs
+TS258713690	drug 1640 1648	tyramine
+TS88713690	sideeffect 1841 1852	interaction
+TS118713690	drug 1981 1992	moclobemide
+TS58713690	drug 2009 2019	selegiline
+T1	drug 133 138	MAOIs
+T2	food 193 202	MAOI-food
+T3	drug 179 188	MAOI-drug
+R3	relation Arg1:T2 Arg2:T3	
+R4	relation Arg1:T2 Arg2:TS188713690	
+R5	has_sideeffect Arg1:T3 Arg2:TS188713690	
+R6	relation Arg1:TS78713690 Arg2:TS128713690	
+T4	drug 554 569	MAOIs selective
+T5	drug 637 645	deprenyl
+T6	drug 652 677	selective MAO-B inhibitor
+T7	drug 886 911	selective MAO-A inhibitor
+T8	drug 914 924	clorgiline
+T9	drug 927 937	clorgyline
+R7	has_sideeffect Arg1:T7 Arg2:TS218713690	
+T10	drugEffect 1139 1158	inhibition of MAO-A
+T11	drug 1218 1228	toloxatone
+T12	food 1604 1614	foodstuffs
+T13	drug 1799 1804	RIMAs
+R1	has_sideeffect Arg1:T13 Arg2:TS88713690	
+T14	drug 1900 1925	serotonin-enhancing drugs
+T15	drug 1995 2005	toloxatone
+T16	drug 2102 2107	MAOIs

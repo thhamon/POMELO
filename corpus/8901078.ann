@@ -1,0 +1,26 @@
+TS208901078	food 24 28	food
+TS58901078	drugEffect 36 51	bioavailability
+TS238901078	drug 55 83	controlled-release oxycodone
+TS248901078	drug 96 123	immediate-release oxycodone
+R1	relation Arg1:TS208901078 Arg2:TS238901078
+R2	relation Arg1:TS208901078 Arg2:TS248901078
+TS28901078	food 150 165	a high-fat meal
+TS228901078	drugEffect 173 188	bioavailability
+TS108901078	drug 192 215	oxycodone hydrochloride
+TS68901078	drug 503 512	oxycodone
+TS278901078	food 606 610	food
+TS188901078	drug 626 635	oxycodone
+TS38901078	mealTime 728 731	fed
+TS48901078	mealTime 736 753	fasted conditions
+R3	no_effect_on_drug Arg1:TS278901078 Arg2:TS188901078
+TS258901078	drug 783 792	oxycodone
+TS198901078	drugEffect 793 808	bioavailability
+TS268901078	drug 825 834	oxycodone
+TS288901078	food 898 911	high-fat meal
+TS218901078	drug 1012 1016	Cmax
+TS298901078	food3 1077 1083	fasted
+TS88901078	drug 1218 1225	opioids
+T1	dosage 255 260	40 mg
+T2	dosage 299 304	20 mg
+T3	drug 325 327	IR
+T4	drug 764 766	IR

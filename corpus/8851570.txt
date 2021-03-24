@@ -1,0 +1,15 @@
+Single-dose and steady-state pharmacokinetics of a novel microfluidized suspension of atovaquone in human immunodeficiency virus- virus-seropositive patients .
+The single- and multiple-dose pharmacokinetics of and tolerability to a new microfluidized suspension of atovaquone were studied in human immunodeficiency virus- virus-seropositive patients with CD4 counts of sentinf or = 200 cells per mm3 in order to define a dosing regimen for the treatment of Pneumocystis carinii pneumonia .
+This was an open study with groups of six patients each .
+In the first part of the study , six subjects received escalating single doses of 500 , 1 , 000 , and 1 , 500 mg after an overnight fast at weekly intervals .
+In the second part of the study , groups of six subjects were dosed for 14 days according to three regimens: 1 , 000 mg twice daily fasting , twice daily with a high-fat meal , or once daily with a high-fat meal .
+Plasma atovaquone levels were assayed by high-performance liquid chromatography .
+Pharmacokinetic parameters were determined by noncompartmental methods , and statistical comparison of parameters for single doses was performed by analysis of variance .
+Plasma drug concentrations increased with single doses from 500 to 1 , 000 mg but were no higher with a dose of 1 , 500 mg .
+Thus , 1 , 000 mg was selected for multiple administration .
+A regimen of 1 , 000 mg twice daily with food resulted in a 93% increase in the average trough steady-state concentration compared with 1 , 000 mg once daily with food .
+Food increased the bioavailability of atovaquone 1.4-fold over that in the fasting state .
+All patients who received 1 , 000 mg twice daily with food achieved target steady-state concentrations in plasma of 15 to 25 micrograms  ml .
+Multiple-dose regimens were generally well tolerated , but the higher levels in plasma achieved by 1 , 000 mg twice daily with food were associated with an increased incidence of rash .
+In conclusion , target plasma atovaquone concentrations for the treatment of P. .
+carinii pneumonia can be achieved in most patients with 1 , 000 mg twice daily in a fasting state and in all patients with 1 , 000 mg twice daily administered with food , but at higher concentrations in plasma , there may be an increased risk of rash .

@@ -1,0 +1,11 @@
+The effect of grapefruit juice on drug disposition .
+Since their initial discovery in 1989 , grapefruit juice ( GFJ ) -drug interactions have received extensive interest from the scientific , medical , regulatory and lay communities .
+Although knowledge regarding the effects of GFJ on drug disposition continues to expand , the list of drugs studied in the clinical setting remains relatively limited .
+This article reviews the in vitro effects of GFJ and its constituents on the activity of CYP enzymes , organic anion- anion-transporting polypeptides ( OATPs ) , P-glycoprotein , esterases and sulfotransferases .
+The translational applicability of the in vitro findings to the clinical setting is discussed for each drug metabolizing enzyme and transporter .
+Reported AUC ratios for available GFJ-drug drug interaction studies are also provided .
+Relevant investigations were identified by searching the PubMed electronic database from 1989 to 2010. .
+GFJ increases the bioavailability of some orally administered drugs that are metabolized by CYP3A and normally undergo extensive presystemic extraction .
+In addition , GFJ can decrease the oral absorption of a few drugs that rely on OATPs in the gastrointestinal tract for their uptake .
+The number of drugs shown to interact with GFJ in vitro is far greater than the number of clinically relevant GFJ-drug interactions .
+For the majority of patients , complete avoidance of GFJ is unwarranted .

@@ -1,0 +1,46 @@
+TS5622499231	food 22 29	-banana
+TS2722499231	food 32 37	guava
+TS722499231	food 40 50	mangosteen
+TS1022499231	food 53 62	pineapple
+TS2322499231	food 65 75	ripe mango
+TS1422499231	food 80 91	ripe papaya
+TS5922499231	food 172 178	fruits
+TS3222499231	food 188 194	banana
+TS3122499231	food 197 202	guava
+TS5422499231	food 205 215	mangosteen
+TS2022499231	food 218 227	pineapple
+TS1922499231	food 230 240	ripe mango
+TS4922499231	food 245 256	ripe papaya
+TS6022499231	food 384 396	fruit juices
+TS2122499231	food 466 481	Pineapple juice
+TS1322499231	food 613 623	mangosteen
+TS1722499231	food 626 631	guava
+TS3522499231	food 634 644	ripe mango
+TS3022499231	food 647 658	ripe papaya
+TS4222499231	food 663 669	banana
+TS522499231	food 727 742	pineapple juice
+TS2422499231	food 870 885	pineapple juice
+TS1522499231	sideeffect 886 921;924 943;948 985	raised ethoxyresorufin O-deethylase aniline hydroxylase erythromycin N-demethylase activities
+TS5222499231	food 1100 1115	pineapple juice
+TS3822499231	food 1230 1245	pineapple juice
+TS5822499231	food 1354 1365	Thai fruits
+TS6122499231	sideeffect 1391 1412	food-drug interaction
+TS2222499231	food 1550 1559	pineapple
+TS4622499231	sideeffect 1624 1639	adverse effects
+T1	sideeffect 493 528;547 570	strongest inhibitory effect against P450 isozyme activities
+R1	increase_side_effect Arg1:TS2122499231 Arg2:T1	
+R2	increase_side_effect Arg1:TS1322499231 Arg2:T1	
+R5	increase_side_effect Arg1:TS1722499231 Arg2:T1	
+R6	increase_side_effect Arg1:TS3522499231 Arg2:T1	
+R7	increase_side_effect Arg1:TS3022499231 Arg2:T1	
+R8	increase_side_effect Arg1:TS4222499231 Arg2:T1	
+T2	dosage 772 792	10 , 20 and 40 mg kg
+T3	frequency 800 807	per day
+T4	duration 808 824	for 7 or 28 days
+R3	increase_side_effect Arg1:TS2422499231 Arg2:TS1522499231	
+T5	sideeffect 1260 1309	decreased methoxyresorufin O-demethylase activity
+R4	increase_side_effect Arg1:TS3822499231 Arg2:T5	
+R9	increase_side_effect Arg1:TS5822499231 Arg2:TS6122499231	
+T6	sideeffect 1416 1436	adverse drug effects
+R10	increase_side_effect Arg1:TS5822499231 Arg2:T6	
+R11	increase_side_effect Arg1:TS2222499231 Arg2:TS4622499231	

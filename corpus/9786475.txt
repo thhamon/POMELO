@@ -1,0 +1,14 @@
+Safety , tolerability and pharmacokinetics of the new long-acting quinolone DW-116 after single and multiple dosing in healthy subjects .
+The safety , tolerability and pharmacokinetics of DW-116 , a new fluoroquinolone with a broad antibacterial spectrum , were evaluated in healthy male subjects after administration of single oral doses of 100 , 200 , 300 and 800 mg and after administration of multiple oral doses of 300 or 400 mg , respectively , for 7 days .
+DW-116 was well tolerated .
+Gastrointestinal symptoms and skin reactions were noted and considered to be possibly related to DW-116. .
+The geometric means of the maximum plasma concentrations ( Cmax ) linearly increased with the dose administered from 1.19 mg  L to 8.73 mg  L after single dose administration .
+At steady state , the geometric mean minimum and maximum plasma concentrations were 2.14 and 5.65 mg  L , respectively , after the multiple 300 mg dose and 2.73 and 8.00 mg  L , respectively , for the multiple 400 mg dose .
+Tmax varied between 1 and 5 h .
+The terminal half-life ranged from 11.37 to 24.89 h .
+The geometric mean renal clearance was approximately 30 mL  min .
+Approximately 45% of the dose was excreted unchanged in urine within 60 h .
+There was no clinically relevant deviation from dose proportionality .
+The changes in steady-state pharmacokinetic parameters when DW-116 was taken before a high-fat breakfast were not clinically relevant .
+In conclusion , DW-116 was safe in this study , the first administration to human subjects .
+Its pharmacokinetics indicate that once-daily dosing may be possible .

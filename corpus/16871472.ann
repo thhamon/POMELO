@@ -1,0 +1,39 @@
+TS2616871472	sideeffect 12 21	urticaria
+TS2216871472	drug 52 64	clomipramine
+TS116871472	sideeffect 130 140	dermatitis
+TS2316871472	sideeffect 145 149	itch
+TS1516871472	sideeffect 182 193	interaction
+TS2416871472	drug 229 241	clomipramine
+TS416871472	treatedDisease 246 275	Obsessive Compulsive Disorder
+TS2516871472	treatedDisease 318 334	anxiety symptoms
+TS716871472	drug 518 530	clomipramine
+TS1416871472	drug 555 565	alprazolam
+TS1116871472	sideeffect 651 672	generalized urticaria
+TS2716871472	sideeffect 686 690	itch
+TS1216871472	sideeffect 764 773	skin rash
+TS3916871472	food 829 836	codfish
+TS2016871472	drug 839 851	clomipramine
+TS316871472	drug 901 911	paroxetine
+TS1716871472	drug 1018 1028	paroxetine
+TS616871472	sideeffect 1083 1094	interaction
+TS1316871472	drug 1103 1115	clomipramine
+TS2916871472	drug 1162 1174	clomipramine
+TS3016871472	drug 1200 1212	clomipramine
+TS3216871472	sideeffect 1252 1261	skin rash
+TS1016871472	drug 1407 1419	clomipramine
+TS3116871472	sideeffect 1434 1443	urticaria
+TS916871472	sideeffect 1560 1571	interaction
+TS2116871472	sideeffect 1580 1589	skin rash
+TS816871472	sideeffect 1656 1677	drug-food interaction
+TS516871472	drug 1691 1703	clomipramine
+T1	food 88 95	codfish
+T2	dosage 533 542	75-100 mg
+T3	dosage 568 574	0.5 mg
+T4	dosage 914 919	30 mg
+T5	treatedDisease 278 281	OCD
+T6	treatedDisease 973 976	OCD
+T7	treatedDisease 440 443	OCD
+T8	food 1120 1127	codfish
+T9	food 1395 1402	codfish
+R1	has_sideeffect Arg1:TS1016871472 Arg2:TS3116871472	
+R2	relation Arg1:T9 Arg2:TS1016871472	

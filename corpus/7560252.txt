@@ -1,0 +1,11 @@
+Safety , tolerability , and effect of food on the pharmacokinetics of iloperidone ( HP 873 ) , a potential atypical antipsychotic .
+Iloperidone ( HP 873 ) is a D2 and 5-HT2 receptor-antagonist that is under development as a potential atypical antipsychotic agent .
+Two studies on iloperidone evaluated its safety and tolerability , made a preliminary pharmacokinetic assessment of single 3- and 5-mg doses , and determined the effect of food on its tolerability and pharmacokinetics in healthy volunteers after single 3-mg doses .
+Iloperidone was well absorbed orally in fasted subjects .
+The Cmax occurred approximately 2 to 3 hours after administration of a single 3- or 5-mg dose .
+The pharmacokinetic parameters increased with the dose between 3 and 5 mg ( from 2.2 to 5.2 ng  mL for Cmax , and 16 to 50 ng  mL.h for AUC ) .
+Iloperidone was eliminated slowly , with a mean t1  2 of 13.5 to 14.0 hours .
+Coadministration with food did not significantly affect AUC , tmax , or Cmax .
+These results indicate that the rate of iloperidone' iloperidone's absorption is decreased , but the overall bioavailability is unchanged , when the drug is taken with food .
+Orthostatic hypotension , dizziness , and somnolence were the most commonly reported adverse events .
+Coadministration of food reduced the incidence and severity of these events .

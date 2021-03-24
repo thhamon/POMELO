@@ -1,0 +1,35 @@
+TS2217688173	food 15 32	Alive fruit juice
+TS1017688173	drug 79 92	ciprofloxacin
+R1	relation Arg1:TS2217688173 Arg2:TS1017688173
+TS2517688173	sideeffect 122 133	interaction
+TS517688173	food 142 159	Alive fruit juice
+TS1817688173	drug 206 219	ciprofloxacin
+R2	relation Arg1:TS517688173 Arg2:TS1817688173
+TS1417688173	drug 278 291	ciprofloxacin
+TS1517688173	food 428 439	fruit juice
+TS3717688173	mealTime 691 698	fasting
+TS417688173	drug 741 754	ciprofloxacin
+TS1717688173	food 780 785	water
+TS3417688173	food 798 809	fruit juice
+TS2317688173	drug 875 888	ciprofloxacin
+TS2017688173	drug 1063 1076	ciprofloxacin
+TS3317688173	food 1084 1089	juice
+TS1217688173	drug 1117 1130	ciprofloxacin
+TS3817688173	food 1146 1157	fruit juice
+TS4017688173	food 1401 1406	water
+TS1117688173	food 1478 1489	fruit juice
+TS1917688173	drug 1762 1775	ciprofloxacin
+TS3217688173	food 1823 1828	juice
+TS317688173	food 1840 1857	calcium carbonate
+TS2817688173	food 1862 1867	grape
+TS2117688173	food 2046 2051	juice
+TS2417688173	drug 2057 2070	ciprofloxacin
+R4	negative_effect_on_drug Arg1:TS2117688173 Arg2:TS2417688173
+T1	dosage 292 298	500 mg
+T2	dosage 734 740	500 mg
+R3	decrease_absorption Arg1:TS317688173 Arg2:TS1917688173	
+R5	decrease_absorption Arg1:TS2817688173 Arg2:TS1917688173	
+T3	sideeffect 1894 1914	therapeutic failures
+T4	sideeffect 1930 1950	bacterial resistance
+R6	increase_side_effect Arg1:TS2117688173 Arg2:T4	
+R7	increase_side_effect Arg1:TS2117688173 Arg2:T3	

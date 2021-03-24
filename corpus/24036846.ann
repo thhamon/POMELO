@@ -1,0 +1,53 @@
+TS6924036846	drug 0 17	Calcium carbonate
+TS2624036846	drug 34 43	nilotinib
+TS3624036846	sideeffect 85 98	Gastric upset
+TS724036846	drug 126 135	nilotinib
+TS5424036846	drug 150 167	calcium carbonate
+TS6824036846	drug 213 220	antacid
+TS7124036846	foodSupplement 227 234	calcium
+TS5924036846	treatedDisease 298 304	cancer
+TS3524036846	sideeffect 320 342	drug-drug interactions
+TS524036846	drug 372 381	Nilotinib
+TS3324036846	drug 470 492	proton pump inhibitors
+TS6024036846	drug 574 583	nilotinib
+TS6624036846	drug 680 697	calcium carbonate
+TS6124036846	drug 741 750	nilotinib
+TS3924036846	drug 770 787	Calcium carbonate
+TS5224036846	drug 816 825	nilotinib
+TS5324036846	drug 882 891	nilotinib
+TS6724036846	drug 929 938	Nilotinib
+TS2224036846	drug 967 992	tyrosine kinase inhibitor
+TS1224036846	drug 1030 1047	imatinib mesylate
+TS5624036846	treatedDisease 1083 1111	chronic myelogenous leukemia
+TS1124036846	drug 1114 1131	Calcium carbonate
+TS4624036846	food 1164 1171	calcium
+TS1024036846	drug 1194 1201	antacid
+TS3024036846	drug 1266 1275	nilotinib
+TS3124036846	drug 1314 1323	nilotinib
+R3	relation Arg1:TS4624036846 Arg2:TS3024036846
+TS924036846	drug 1407 1424	calcium carbonate
+TS4224036846	drug 1438 1447	nilotinib
+TS2824036846	drug 1652 1661	nilotinib
+TS4724036846	drug 1705 1722	calcium carbonate
+TS124036846	drug 1800 1809	nilotinib
+TS624036846	drug 1891 1900	nilotinib
+TS1324036846	food 2007 2014	Calcium
+TS4024036846	drug 2060 2069	nilotinib
+R4	no_effect_on_drug Arg1:TS1324036846 Arg2:TS4024036846
+TS6424036846	drug 2210 2227	calcium carbonate
+TS2924036846	drug 2345 2362	calcium carbonate
+TS1524036846	drug 2424 2441	calcium carbonate
+TS324036846	drug 2494 2511	calcium carbonate
+TS4124036846	drug 2542 2551	nilotinib
+R5	has_sideeffect Arg1:TS724036846 Arg2:TS3624036846	
+T1	modeadm 283 287	oral
+R1	treat Arg1:TS1224036846 Arg2:TS5624036846	
+R2	treat Arg1:TS2224036846 Arg2:TS5624036846	
+R6	treat Arg1:TS6724036846 Arg2:TS5624036846	
+T2	dosage 1642 1648	400 mg
+T3	drug 1691 1701	4 , 000 mg
+T4	drug 2208 2225	calcium carbonate
+T5	drug 2341 2358	calcium carbonate
+T6	drug 2420 2437	calcium carbonate
+T7	drug 2538 2547	nilotinib
+T8	drug 2490 2507	calcium carbonate

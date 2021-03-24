@@ -1,0 +1,25 @@
+TS1715991880	food 10 14	food
+TS1815991880	drug 49 72	eslicarbazepine acetate
+R1	relation Arg1:TS1715991880 Arg2:TS1815991880
+TS2415991880	food 118 122	food
+TS1515991880	drug 150 173	eslicarbazepine acetate
+TS1315991880	drug 196 235	voltage-gated sodium channel antagonist
+R2	relation Arg1:TS2415991880 Arg2:TS1515991880
+TS1415991880	drug 503 526	eslicarbazepine acetate
+TS815991880	food 562 570	high-fat
+TS115991880	mealTime 579 583	meal
+TS615991880	mealTime 587 606	10 hours of fasting
+TS1615991880	drug 609 632	Eslicarbazepine acetate
+TS515991880	mealTime 746 749	fed
+TS2015991880	mealTime 763 770	fasting
+TS315991880	drugEffect 1340 1355	Bioavailability
+TS715991880	drug 1359 1382	eslicarbazepine acetate
+TS1215991880	mealTime 1399 1402	fed
+TS1015991880	mealTime 1407 1414	fasting
+TS215991880	food 1682 1686	food
+TS2215991880	drug 1740 1763	eslicarbazepine acetate
+TS2615991880	drug 1787 1825	voltage-gated sodium channel antagonis
+TS2315991880	mealTime 1865 1870	meals
+R5	no_effect_on_drug Arg1:TS215991880 Arg2:TS2215991880
+T1	dosage 527 533	800 mg
+R3	no_effect_on_drug Arg1:TS2315991880 Arg2:TS2615991880	

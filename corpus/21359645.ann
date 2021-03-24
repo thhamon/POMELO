@@ -1,0 +1,46 @@
+TS1421359645	sideeffect 17 29	interactions
+TS1521359645	drug 33 41	warfarin
+TS621359645	drug 57 71	anticoagulants
+TS2521359645	drug 198 211	anticoagulant
+TS1021359645	sideeffect 261 281	dietary interactions
+TS1621359645	drug 381 406	direct thrombin inhibitor
+TS2921359645	drug 477 488	rivaroxaban
+TS821359645	drug 491 499	apixaban
+TS921359645	drug 576 584	warfarin
+TS1121359645	drug 598 606	warfarin
+TS3121359645	sideeffect 636 662	food and drug interactions
+TS2321359645	sideeffect 703 715	interactions
+TS1221359645	drug 734 748	anticoagulants
+TS421359645	sideeffect 786 798	interactions
+TS121359645	drug 836 850	anticoagulants
+TS1721359645	sideeffect 1047 1063	drug interaction
+TS721359645	drug 1119 1130	supplements
+TS2421359645	drug 1150 1158	warfarin
+TS3221359645	sideeffect 1208 1225	drug interactions
+TS2121359645	drug 1246 1260	anticoagulants
+TS2021359645	sideeffect 1469 1489	dietary interactions
+TS2821359645	sideeffect 1544 1573	drug and dietary interactions
+TS221359645	drug 1579 1587	warfarin
+TS321359645	drug 1607 1621	anticoagulants
+TS1321359645	drug 1637 1648	rivaroxaban
+TS1821359645	drug 1651 1659	apixaban
+T1	modeadm 52 56	oral
+T2	modeadm 193 197	oral
+T3	modeadm 376 380	oral
+T4	drug 407 417	dabigatran
+T5	drug 449 474	anti-factor Xa inhibitors
+T6	modeadm 444 448	oral
+T7	drug 506 514	edoxaban
+R1	has_sideeffect Arg1:TS1121359645 Arg2:TS3121359645	
+R3	has_sideeffect Arg1:TS1221359645 Arg2:TS2321359645	
+T8	modeadm 831 835	oral
+T9	modeadm 1241 1245	oral
+R2	has_sideeffect Arg1:TS2121359645 Arg2:TS3221359645	
+R4	has_sideeffect Arg1:TS221359645 Arg2:TS2821359645	
+R5	has_sideeffect Arg1:TS321359645 Arg2:TS2821359645	
+T10	drug 1624 1634	dabigatran
+T11	drug 1666 1674	edoxaban
+R6	has_sideeffect Arg1:T10 Arg2:TS2821359645	
+R7	has_sideeffect Arg1:TS1321359645 Arg2:TS2821359645	
+R8	has_sideeffect Arg1:TS1821359645 Arg2:TS2821359645	
+R9	has_sideeffect Arg1:T11 Arg2:TS2821359645	

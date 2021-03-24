@@ -1,0 +1,24 @@
+Differences in bioavailability between 60 mg of nifedipine osmotic push-pull systems after fasted and fed administration .
+This study was designed to evaluate and compare the bioavailability of two osmotically active formulations of 60 mg nifedipine , Gen-Nifedipine extended release Test tablets ( Genpharm ULC , Etobicoke , ON , Canada ) and Adalat XL Reference tablets ( Bayer Healthcare AG , Leverkusen , Germany ) after single dose fasted and fed administration .
+The study was performed following a 4-period crossover design with both investigational products obtained from marketed batches .
+The complete pharmacokinetic evaluation was carried out in 26 healthy male subjects with a median age of 29.5 years ( range 18 - 44 years ) , mean weight of 79.7 kg ( range 66.0 - 97.5 kg ) , and a mean body mass index ( BMI ) of 24.1 kg  m ( 2 ) ( range 22.1 - 26.9 kg  m ( 2 ) ) .
+Tablets were administered with tap water either under fasting conditions or immediately following a high-fat , high-calorie breakfast .
+Blood samples were taken predose and at pre-defined time points until 48 h post dosing .
+Samples were protected from light during handling and frozen until analysis .
+A validated LC-MS  MS method was used for the quantification of nifedipine in plasma samples .
+All kinetic parameters were determined model-independently for each treatment directly from measured concentrations .
+Monitoring of subject safety was accomplished by routine monitoring of blood pressure , heart rate and probing for adverse events .
+In-vitro dissolution curves show later onset and considerably lower quantity of nifedipine release from Test compared to Reference tablets .
+Under fasting conditions total and maximum exposure , represented by geometric mean AUC ( 0-tlast ) - and C ( max ) -values , respectively were 466.7 h*ng  ml ( AUC ( 0-tlast ) ) and 21.9 ng  ml ( C ( max ) ) for Test and 507.8 h*ng  ml ( AUC ( 0-tlast ) ) and 22.0 ng  ml ( C ( max ) ) for Reference tablets .
+However , the Test product exhibited a notably longer lag-time and less rapid onset of absorption than the Reference tablets .
+Moreover , the plateau phase is maintained for about 14 hours on Test but for almost 20 hours on Reference .
+Point estimates ( PE ) and associated 90% confidence intervals ( CI ) were determined as 91.8% and 79.9 - 105.5% for AUC ( 0-tlast ) , as well as 99.8% and 88.6 - 112.4% for C ( max ) .
+Larger differences were found for AUC ( 0-9h ) ( PE: 54.8% ; CI: 45.8 - 65.5% ) determined as parameter for early exposure .
+Under fed conditions , although the mean plasma concentration time curves look similar in shape , concentrations of Test compared to Reference tablets are considerably lower at all time points until 36 hours after dosing .
+Again the lag time in onset of drug absorption is notably longer for the Test product .
+Both , total and maximum exposure , represented by geometric mean values for AUC ( 0-tlast ) and C ( max ) , were considerably lower ( differences also statistically significant ) after administration of Test with 481.8 h*ng  ml for AUC ( 0-tlast ) and 25.3 ng  ml for C ( max ) in comparison to Reference tablets with 595.9 h*ng  ml for AUC ( 0-tlast ) and 31.9 ng  ml for C ( max ) .
+Test  Reference point estimates ( PE ) and associated 90% confidence intervals ( CI ) were determined as 80.7% and 73.7 - 88.5% for AUC ( 0-tlast ) , as well as 79.6% and 70.3 - 90.0% for C ( max ) .
+Differences were also even more expressed for AUC ( 0-9h ) ( PE: 54.9% ; CI: 47.4 - 63.5% ) determined as parameter for early exposure .
+The results indicate that although both products are osmotic release systems they are not bioequivalent according to the accepted standards .
+This difference between both osmotic delivery systems might be substantiated by the fact that the core of the Test product is designed as a monolayer system ( containing both , the active ingredient and the osmotic component ) while Reference tablets consist of two separate layers .
+The observed pharmacokinetic differences may have an impact on blood pressure control in patients and thus , should be kept in mind when switching during treatment .

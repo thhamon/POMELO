@@ -1,0 +1,84 @@
+TS2721704240	food 11 15	food
+TS2821704240	drugEffect 209 224	bioavailability
+TS2621704240	drug 244 319	modulator of cholesteryl ester transfer protein ( CETP ) inhibitor activity
+TS5121704240	food3 365 368	fed
+TS1721704240	other 393 406	fasting state
+TS5621704240	food 478 482	food
+TS5221704240	mealTime 533 538	meals
+TS2921704240	mealTime 545 549	meal
+TS4721704240	drugEffect 583 598	bioavailability
+TS4421704240	food3 791 794	fed
+TS3421704240	sideeffect 799 806	fasting
+TS4521704240	food3 816 819	fed
+TS3521704240	sideeffect 827 834	fasting
+TS821704240	mealTime 959 963	meal
+TS521704240	mealTime 977 989	evening meal
+TS621704240	mealTime 1004 1016	evening meal
+TS1121704240	mealTime 1019 1023	meal
+TS2221704240	mealTime 1160 1175	a high-fat meal
+TS721704240	mealTime 1190 1202	evening meal
+TS7221704240	food 1257 1270	high-fat meal
+TS4821704240	drug 1333 1336	AUC
+TS4921704240	drug 1349 1352	AUC
+TS5921704240	food3 1461 1464	fed
+TS4621704240	sideeffect 1472 1479	fasting
+TS321704240	mealTime 1482 1486	meal
+TS7021704240	food 1506 1519	high-fat meal
+TS4121704240	food3 1608 1611	fed
+TS6021704240	sideeffect 1619 1626	fasting
+TS1821704240	mealTime 1666 1670	meal
+TS6921704240	food 1688 1701	high-fat meal
+TS5521704240	food3 1852 1855	fed
+TS3621704240	sideeffect 1863 1870	fasting
+TS5721704240	drug 1995 1998	AUC
+TS5421704240	food3 2061 2064	fed
+TS3821704240	mealTime 2134 2138	meal
+TS6221704240	mealTime 2313 2325	evening meal
+TS6521704240	drug 2378 2381	AUC
+TS6321704240	mealTime 2523 2535	evening meal
+TS6621704240	drug 2566 2569	AUC
+TS7321704240	mealTime 2680 2693	high-fat meal
+TS2321704240	mealTime 2804 2816	evening meal
+TS6121704240	food 2842 2850	high-fat
+TS2421704240	mealTime 2851 2863	evening meal
+TS3721704240	drug 2894 2897	AUC
+R1	relation Arg1:TS6121704240 Arg2:TS3721704240
+TS5821704240	food3 3156 3159	fed
+TS5021704240	food 3223 3226	fat
+TS3321704240	mealTime 3242 3246	meal
+T1	drug 60 71	dalcetrapib
+T2	drug 228 239	dalcetrapib
+T3	mealTime 363 366	fed
+T4	mealTime 391 398	fasting
+T5	food 476 480	food
+T6	mealTime 531 536	meals
+T7	drug 600 611	dalcetrapib
+T8	drug 750 761	dalcetrapib
+T9	frequency 735 746	single dose
+T10	dosage 762 768	900 mg
+T11	mealTime 797 811	fasting states
+T12	drug 903 914	dalcetrapib
+T13	frequency 888 899	single dose
+T14	dosage 915 921	600 mg
+T15	mealTime 935 961	after a light morning meal
+T16	mealTime 966 987	standard evening meal
+T17	mealTime 996 1014	light evening meal
+T18	frequency 1094 1105	single dose
+T19	drug 1109 1120	dalcetrapib
+T20	dosage 1121 1127	600 mg
+T21	mealTime 1141 1173;1177 1200	30 minutes after a high-fat meal a standard evening meal
+T22	mealTime 1207 1252	30 minutes before or 3 hours after the latter
+T23	sideeffect 1754 1768	adverse events
+T24	drug 1947 1958	Dalcetrapib
+T25	mealTime 2057 2066	fed state
+R2	increase_absorption Arg1:T25 Arg2:T24	
+T26	drug 2172 2183	dalcetrapib
+T27	drug 2247 2258	dalcetrapib
+T28	mealTime 2276 2321	after a light morning or a light evening meal
+T29	mealTime 2500 2529	after a standard evening meal
+R3	after Arg1:T28 Arg2:T27	
+R4	after Arg1:T29 Arg2:T27	
+T30	mealTime 2779 2808	after a standard evening meal
+T31	mealTime 2826 2855	after a high-fat evening meal
+T32	drug 3104 3115	Dalcetrapib
+T33	drug 3281 3292	Dalcetrapib

@@ -1,0 +1,21 @@
+TS319206053	sideeffect 252 289	drug uptake , efflux and interactions
+TS1119206053	drugEffect 544 559	bioavailability
+TS419206053	drug 645 658	carbamazepine
+TS119206053	sideeffect 838 869	diminish plasma levels of drugs
+TS719206053	drug 884 895	ciclosporin
+TS1219206053	drug 1034 1041	statins
+TS219206053	sideeffect 1113 1138	increased bioavailability
+TS819206053	sideeffect 1192 1206	rhabdomyolysis
+T1	drug 507 526	Inhibitors of ABCB1
+T2	sideeffect 584 604	increased absorption
+R1	has_sideeffect Arg1:T1 Arg2:T2	
+T3	drug 607 629	Inducers of metabolism
+T4	drug 632 642	rifampicin
+T5	sideeffect 689 731	induce the expression of drug transporters
+R2	has_sideeffect Arg1:T3 Arg2:T5	
+R3	has_sideeffect Arg1:T4 Arg2:T5	
+R4	has_sideeffect Arg1:TS419206053 Arg2:T5	
+T6	sideeffect 764 794	increased intestinal secretion
+T7	sideeffect 813 833	increased metabolism
+T8	sideeffect 1044 1065	Inhibition of SLCO1B1
+T9	sideeffect 1146 1163	adverse reactions

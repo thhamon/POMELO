@@ -1,0 +1,56 @@
+TS1222644797	food 28 32	food
+TS2922644797	drug 60 68	axitinib
+R1	relation Arg1:TS1222644797 Arg2:TS2922644797
+TS3822644797	food 119 123	food
+TS3722644797	drug 127 135	axitinib
+R2	relation Arg1:TS3822644797 Arg2:TS3722644797
+TS2222644797	drug 354 362	axitinib
+TS2422644797	mealTime 452 455	fed
+TS4522644797	mealTime 463 469	fasted
+TS4122644797	food 529 533	food
+TS2322644797	drug 549 557	axitinib
+R4	relation Arg1:TS4122644797 Arg2:TS2322644797
+TS222644797	food 631 635	food
+TS3522644797	drug 647 655	axitinib
+R6	relation Arg1:TS222644797 Arg2:TS3522644797
+TS1122644797	drug 698 706	axitinib
+TS3322644797	mealTime 713 730	overnight fasting
+TS3422644797	mealTime 733 753	with limited fasting
+TS622644797	food 807 815	high-fat
+TS4222644797	food 818 830	high-calorie
+TS4422644797	food 834 846	moderate-fat
+TS4322644797	food 849 865	standard-calorie
+TS1822644797	mealTime 866 871	meals
+TS3622644797	mealTime 907 924	overnight fasting
+TS1622644797	drug 883 890;927 935	IV FCIR axitinib
+TS722644797	food 1040 1044	food
+TS3022644797	drug 1056 1064;1072 1080	XLI FCIR axitinib
+TS122644797	food 1187 1195	high-fat
+TS3222644797	mealTime 1211 1215	meal
+TS2122644797	mealTime 1230 1247	overnight fasting
+TS4622644797	food 1291 1303	moderate-fat
+TS2522644797	mealTime 1323 1327	meal
+TS822644797	mealTime 1395 1402	fasting
+TS1322644797	drug 1588 1596;1602 1609	axitinib IV FCIR
+TS1722644797	mealTime 1653 1676	after overnight fasting
+TS1422644797	drug 1679 1687;1693 1701	axitinib XLI FCIR
+TS3922644797	food 1738 1742	food
+TS1522644797	drug 1761 1769	axitinib
+R8	relation Arg1:TS3922644797 Arg2:TS1522644797
+T1	dosage 349 353	5-mg
+T2	modeadm 368 370	IV
+T3	dosage 371 409	film-coated immediate-release ( FCIR )
+T4	dosage 642 646	5-mg
+T5	modeadm 656 669	Form XLI FCIR
+R3	decrease_absorption Arg1:TS722644797 Arg2:TS1622644797	
+T8	food 1198 1210	high-calorie
+R5	decrease_absorption Arg1:TS2122644797 Arg2:TS3022644797	
+T6	food 1306 1322	standard-calorie
+R7	increase_absorption Arg1:TS122644797 Arg2:TS3022644797	
+R9	increase_absorption Arg1:T8 Arg2:TS3022644797	
+T7	drug 1260 1268	XLI FCIR
+R10	decrease_absorption Arg1:TS4622644797 Arg2:T7	
+R11	decrease_absorption Arg1:T6 Arg2:T7	
+T9	sideeffect 1445 1459	Adverse events
+R12	increase_absorption Arg1:TS1722644797 Arg2:TS1322644797	
+R13	no_effect_on_drug Arg1:TS3922644797 Arg2:TS1422644797	

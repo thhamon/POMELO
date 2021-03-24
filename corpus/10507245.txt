@@ -1,0 +1,26 @@
+The effect of food and time of administration on the pharmacokinetic and pharmacodynamic profile of metrifonate .
+Metrifonate- -via its pharmacologically active metabolite DDVP- -is an inhibitor of cholinesterase effective in the treatment of Alzheimer's disease .
+Two separate studies were performed to investigate the influence of food and time of administration , respectively , on the concentration vs. .
+time profiles of metrifonate and DDVP and cholinesterase inhibition .
+In study I , a single dose of metrifonate 50 mg tablet was administered either in the fasting condition or within 5 min after completion of an American breakfast .
+In study II , a single dose of metrifonate 80 mg tablet was given either at 8:00 a.m. .
+after overnight fasting , 7:00 p.m. .
+( 7 h after lunch ) or 10:00 p.m. .
+( 4 h after dinner ) .
+Both studies were performed in a non-blind , randomized , single-centre , cross-over design in healthy Caucasian volunteers .
+AUC and Cmax of metrifonate and DDVP as primary parameters were compared between treatments by ANOVA and acetylcholinesterase ( AChE ) and butyrylcholinesterase ( BChE ) inhibition vs. .
+time profiles were assessed .
+In study I a high-fat  high-calorie breakfast had no effect on the AUC of DDVP , while its Cmax was decreased to 56% and tmax was prolonged , compared to the fasting condition .
+The effects on metrifonate were similar .
+In study II bioequivalence was shown for AUC and Cmax of DDVP when comparing administration of metrifonate at 8:00 a.m. .
+and 7:00 p.m. .
+Administration at 10:00 p.m. .
+also had no effect on AUC of DDVP while a reduction in rate of absorption was observed .
+In both studies the equivalence in AUC of DDVP was paralleled by equivalent effects on BChE inhibition .
+Following single metrifonate administration little inhibition of AChE was observed .
+Metrifonate was well tolerated .
+Delayed gastric emptying is likely to cause the reduced rate of absorption of metrifonate with food .
+In view of unchanged bioavailability of its active metabolite , this food effect is considered to be without clinical relevance and metrifonate can be administered with or without food .
+The decrease in rate of absorption following administration of the drug at 10:00 p.m. .
+is either a protracted food effect or an effect of time .
+As the bioavailability of DDVP as well as pharmacodynamic profiles were independent of the time of administration it is concluded that metrifonate can be taken in the morning or evening without compromising its safety or efficacy .

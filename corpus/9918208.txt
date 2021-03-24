@@ -1,0 +1,14 @@
+Phase I studies with the nonclassical antifolate nolatrexed dihydrochloride ( AG337 , THYMITAQ ) administered orally for 5 days .
+Phase I studies of p.o. .
+administered nolatrexed dihydrochloride ( AG337 , THYMITAQ ) , a nonclassical thymidylate synthase inhibitor , were performed to establish the maximum tolerated dose and a recommended dose for Phase II studies .
+The bioavailability and pharmacokinetic and pharmacodynamic properties of oral nolatrexed were also studied .
+Forty-five patients were treated with oral nolatrexed every 6 h for 5 days at doses of 288-1000 mg  m2  day .
+The bioavailability of the oral preparation was determined , and the effect of a standard meal on nolatrexed absorption was investigated at a dose of 800 mg  m2  day .
+Nolatrexed plasma concentrations were analyzed by high-performance liquid chromatography .
+Nolatrexed was rapidly absorbed with a median bioavailability of 89% ( range 33-116% ) , with 88% of patients above 70%. .
+The dose-limiting toxicities were gastrointestinal , and the recommended Phase II oral dose was 800 mg  m2  day .
+After a standard meal , the peak plasma nolatrexed concentration achieved was lower ( median , 8.3 microg  ml versus 15.0 microg  ml ; P = 0.001 ) , and the time taken to reach the peak was longer ( median , 180 min versus 45 min ; P = 0.00003 ) , but the trough concentration was higher ( median , 3.6 microg  ml versus 2.1 microg  ml ; P = 0.004 ) when compared with the fasted state .
+The area under the nolatrexed plasma concentration versus time curve was not affected by food .
+Average trough nolatrexed concentration , but not dose , was significantly related to the % decrease in both thrombocytes ( r2 = 0.58 ; C50 = 6.0 microg  ml , where C50 is the plasma concentration associated with a 50% decrease in thrombocytes ) and neutrophils ( r2 = 0.63 ; C50 = 0.6 microg  ml ) .
+Nolatrexed can be safely administered as an oral preparation at a dose of 800 mg  m2  day for 5 days .
+Bioavailability was close to 100% and , because inhibition of thymidylate synthase by nolatrexed is rapidly reversible , the slower absorption after a standard meal may result in a shorter duration of noninhibitory concentrations between doses .

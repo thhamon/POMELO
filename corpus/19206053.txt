@@ -1,0 +1,12 @@
+[Pharmacokinetic problems in clinical practice: role of drug transporters]. .
+Drug disposition is controlled by drug metabolism and drug transport .
+In the last decade numerous drug transporters have been identified and characterized in the context of drug uptake , efflux and interactions .
+This article reviews major advancements in this field .
+Efflux pumps like the multidrug resistance protein 1 ( MDR1 , ABCB1 ) are expressed in the intestine where they secrete drugs back into the intestinal lumen .
+Inhibitors of ABCB1 can increase the bioavailability of such drugs due to an increased absorption .
+Inducers of metabolism ( rifampicin , carbamazepine , St St. .
+John's Wort ) also induce the expression of drug transporters like ABCB1. .
+Subsequently , an increased intestinal secretion in addition to an increased metabolism can diminish plasma levels of drugs , for example ciclosporin .
+The relevance of uptake transporters is increasingly recognized .
+SLCO1B1 is a hepatic uptake transporter involved in the absorption of statins .
+Inhibition of SLCO1B1 as well as common genetic variants can lead to increased bioavailability and to adverse reactions , ultimately culminating in rhabdomyolysis .

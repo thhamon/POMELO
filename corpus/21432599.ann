@@ -1,0 +1,36 @@
+TS721432599	drug 82 89	Ritalin
+TS521432599	drug 109 124	methylphenidate
+TS2721432599	treatedDisease 154 194	attention-deficit hyperactivity disorder
+TS1721432599	mealTime 211 220	breakfast
+TS2621432599	drug 272 287	methylphenidate
+TS1421432599	treatedDisease 345 349	ADHD
+TS1321432599	drugEffect 400 412	serum levels
+TS2021432599	drug 416 431	methylphenidate
+TS1621432599	mealTime 483 500	without breakfast
+TS421432599	mealTime 537 546	breakfast
+TS2121432599	mealTime 598 607	breakfast
+TS2321432599	drug 659 666	Ritalin
+R1	relation Arg1:TS2121432599 Arg2:TS2321432599
+TS121432599	mealTime 791 808	minimal breakfast
+TS221432599	mealTime 816 834	standard breakfast
+TS2221432599	drug 875 882	Ritalin
+R2	relation Arg1:TS221432599 Arg2:TS2221432599
+R3	relation Arg1:TS121432599 Arg2:TS2221432599
+TS321432599	mealTime 1135 1144	breakfast
+TS1921432599	mealTime 1250 1259	breakfast
+TS921432599	mealTime 1292 1309	minimal breakfast
+TS1021432599	mealTime 1317 1335	standard breakfast
+TS1121432599	mealTime 1413 1430	minimal breakfast
+TS1221432599	mealTime 1443 1461	standard breakfast
+TS2521432599	drug 1510 1517	Ritalin
+TS1521432599	mealTime 1542 1551	breakfast
+TS2421432599	food 1579 1583	food
+T1	duration 232 244	over 2 weeks
+T2	modeadm 255 271	extended-release
+R4	treat Arg1:TS2621432599 Arg2:TS1421432599	
+R5	has_effect Arg1:TS2021432599 Arg2:TS1321432599	
+R6	worsen_drug_effect Arg1:TS1621432599 Arg2:TS2021432599	
+T3	numbers 700 703	150
+T4	numbers 1105 1108	144
+R7	no_effect_on_drug Arg1:TS1521432599 Arg2:TS2521432599	
+R8	no_effect_on_drug Arg1:TS2421432599 Arg2:TS2521432599	

@@ -1,0 +1,14 @@
+Pharmacokinetics and pharmacodynamics of ximelagatran , a novel oral direct thrombin inhibitor , in young healthy male subjects .
+Ximelagatran is a novel , oral direct thrombin inhibitor designed to overcome the low and variable oral absorption of melagatran , its active form .
+The pharmacokinetics and pharmacodynamics of ximelagatran following single and repeated oral administration were investigated .
+The primary objectives were to determine the dose linearity and reproducibility of melagatran exposure and the influence of food intake .
+Two open-label studies were performed in healthy male subjects .
+Study I was a dose-escalation study , in which subjects received single oral doses of ximelagatran ( 1-98 mg ) .
+Study II was a randomised , two-way crossover study consisting of two 5-day treatment periods , in which subjects received a 20-mg oral dose of ximelagatran twice daily , either before breakfast and with dinner , or with breakfast and after dinner .
+Ximelagatran was rapidly absorbed and converted to melagatran , which was the predominant compound in plasma .
+The mean ( +  - standard deviation ) bioavailability of melagatran was 22.2+  -4.3% and 17.4+  -2.8% after single and repeated dosings , respectively .
+The maximum plasma concentration of melagatran and the area under the melagatran plasma concentration-time curve ( AUC ) increased linearly with dose .
+Inter- and intra-subject variability in melagatran AUC was 8% and 12% , respectively , with no relevant food food- or time dependence .
+Anticoagulation , assessed as activated partial thromboplastin time , was correlated with melagatran plasma concentration .
+There was virtually no increase in capillary bleeding time over the dose range studied , and ximelagatran was well tolerated .
+After oral administration of ximelagatran to healthy male subjects , the pharmacokinetic and pharmacodynamic profile of melagatran is predictable and reproducible .

@@ -1,0 +1,4 @@
+TS214679681	food 0 6	Garlic
+TS114679681	sideeffect 7 18	interaction
+TS314679681	drug 24 34	fluindione
+R1	relation Arg1:TS214679681 Arg2:TS314679681

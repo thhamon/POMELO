@@ -1,0 +1,38 @@
+TS1119779132	food 36 52	grapefruit juice
+TS1719779132	drugEffect 115 130	Bioavailability
+TS1819779132	drug 148 190	beta ( 1 ) -adrenergic receptor antagonist
+TS519779132	food 231 247	grapefruit juice
+TS1519779132	drug 545 553	naringin
+TS1619779132	drug 669 677	naringin
+TS1319779132	drug 848 856	naringin
+TS1419779132	drug 859 867	naringin
+TS819779132	drug 1087 1095	naringin
+TS719779132	drug 1675 1683	naringin
+TS1219779132	drug 1913 1921	naringin
+T1	drug 81 90	talinolol
+T2	drug 134 143	talinolol
+T3	food 250 253	GFJ
+T4	food 274 277	GFJ
+T5	drug 323 332	talinolol
+T6	sideeffect 389 406	inhibitory effect
+T7	food 410 413	GFJ
+R1	increase_side_effect Arg1:T7 Arg2:T6	
+T8	drug 492 501	talinolol
+T9	food 566 569	GFJ
+T10	drug 795 804	talinolol
+T11	food 1135 1138	GFJ
+T12	food 1212 1215	GFJ
+T13	sideeffect 1222 1267	reduce the intestinal absorption of talinolol
+T14	drug 1258 1267	talinolol
+T15	sideeffect 1276 1333	inhibition of OATP1A2-mediated talinolol uptake in humans
+T16	drug 1307 1316	talinolol
+R2	increase_side_effect Arg1:T12 Arg2:T13	
+R3	increase_side_effect Arg1:T12 Arg2:T15	
+T17	sideeffect 1347 1441	increase of talinolol absorption is mainly through inhibition of Mdr1a-mediated efflux in rats
+T18	drug 1359 1368	talinolol
+R4	relation Arg1:T12 Arg2:T17	
+T19	food 1656 1659	GFJ
+T20	food 1802 1805	GFJ
+T21	drug 1834 1843	talinolol
+T22	drugEffect 1901 1909;1922 1930;1941 1964	affinity for OATP MDR1  Mdr1 transporters
+R5	has_effect Arg1:TS1219779132 Arg2:T22	

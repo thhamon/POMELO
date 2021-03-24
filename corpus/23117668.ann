@@ -1,0 +1,10 @@
+TS523117668	drug 42 56	anticoagulants
+TS1023117668	drug 118 132	anticoagulants
+TS423117668	drugEffect 225 243	therapeutic effect
+TS623117668	sideeffect 287 298	interaction
+TS323117668	food 304 308	food
+TS223117668	drug 436 450	anticoagulants
+TS923117668	drug 558 569	Rivaroxaban
+TS123117668	drug 572 580	Apixaban
+T1	modeadm 113 117	oral
+T2	drug 585 595	Dabigatran

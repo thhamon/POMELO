@@ -1,0 +1,17 @@
+[Intestinal absorption and secretion mechanism of carboxylate drugs]. .
+Oral drug delivery is generally the most desirable means of administration , mainly because of patient acceptance , convenience in administration .
+Intestinal absorption mechanisms of anionic drugs have been mainly explained by the passive diffusion of nonionized compounds .
+However , several studies have suggested the involvement of specific transporters in intestinal absorption of weak acids including monocarboxylates .
+( - ) -N- ( trans-4-Isopropylcyclohexanecarbonyl ) -D-phenylalanine ( nateglinide ) is a oral hypoglycemic agent possessing a carboxyl group and a peptide-type bond in its structure .
+Although nateglinide quickly reaches the maximal serum concentration after oral administration , nateglinide itself is not transported by PepT1 or MCT1. .
+We demonstrated that nateglinide transport occurs via a single system that is H ( + ) dependent but is distinct from PepT1 or MCT1. .
+In clinical , patients usually take many kinds of drugs at the same time .
+Thus , drug-drug interactions involving transporters can often directly affect the therapeutic safety and efficacy of many drugs .
+However , there have been few studies on food- food-drug interactions involving transporters .
+Dietary polyphenols have been widely assumed to be beneficial to human health .
+Polyphenols are commercially prepared and used as functional foods .
+We reported that ferulic acid , which is widely used as a functional food , affects the transport of clinical agents .
+The major dose-limiting toxicity after administration of irinotecan hydrochloride , 7-ethyl-10- ( 4- [1-piperidino]-1-piperidino ) -carbonyloxycamptothecin ( CPT-11 ) is severe diarrhea .
+We have found that a specific transport system mediates the uptake of active metabolite 7-ethyl-10-hydroxycamptothecin ( SN-38 ) across the apical membrane in Caco-2 cells .
+Baicalin and sulfobromophthatlein inhibit this transporter .
+Inhibition of this transporter would be a useful means for reducing late-onset diarrhea .

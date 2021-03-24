@@ -1,0 +1,57 @@
+TS2319446149	food 11 15	food
+TS4719446149	drug 20 28	antacids
+TS2419446149	drug 56 67	eltrombopag
+R1	relation Arg1:TS2319446149 Arg2:TS2419446149
+TS419446149	drug 168 179	Eltrombopag
+TS3519446149	treatedDisease 301 344	chronic idiopathic thrombocytopenic purpura
+TS5519446149	food 400 404	food
+TS5019446149	drug 409 417	antacids
+TS4119446149	drug 464 475	eltrombopag
+R2	relation Arg1:TS5519446149 Arg2:TS4119446149
+TS3319446149	drug 571 582	eltrombopag
+TS3819446149	drug 665 676	eltrombopag
+TS7219446149	mealTime 727 733	fasted
+TS2519446149	food 758 781	high-fat , high-calcium
+TS6019446149	drug 836 847	eltrombopag
+TS6619446149	mealTime 886 892	fasted
+TS6419446149	food 921 942	low-fat , low-calcium
+TS1219446149	mealTime 943 947	meal
+TS1619446149	food 953 975	high-fat , low-calcium
+TS1319446149	mealTime 976 980	meal
+TS1719446149	food 999 1021	high-fat , low-calcium
+TS1419446149	mealTime 1022 1026	meal
+TS3619446149	drug 1040 1047	antacid
+TS6319446149	drug 1059 1077	aluminum hydroxide
+TS5719446149	drug 1082 1101	magnesium carbonate
+TS1819446149	food 1594 1617	high-fat , high-calcium
+TS3419446149	mealTime 1618 1627	breakfast
+TS1919446149	drugEffect 1640 1655	bioavailability
+TS619446149	drug 1659 1670	eltrombopag
+TS7019446149	mealTime 1855 1861	fasted
+TS4019446149	drugEffect 1887 1902	bioavailability
+TS5919446149	food2 1985 1990	white
+TS2919446149	food 2059 2063;2073 2087	food low in calcium
+TS319446149	food 2102 2105	fat
+TS5219446149	food 2215 2220	meals
+TS1519446149	drug 2424 2455	metal cation-containing antacid
+TS3719446149	sideeffect 2581 2589	headache
+TS5419446149	drug 2665 2676	eltrombopag
+TS7119446149	food 2682 2699	high-calcium food
+TS4319446149	drug 2706 2713;2725 2733;2738 2747	antacid aluminum magnesium
+TS6519446149	food 2818 2835	low-calcium meals
+R14	decrease_absorption Arg1:TS7119446149 Arg2:TS5419446149
+TS3919446149	drug 2864 2875	eltrombopag
+T1	modeadm 193 199	orally
+T2	drug 237 279	nonpeptide thrombopoietin receptor agonist
+R15	treat Arg1:TS419446149 Arg2:TS3519446149	
+R16	treat Arg1:T2 Arg2:TS3519446149	
+T3	modeadm 566 570	oral
+T4	dosage 677 682	50 mg
+T5	mealTime 782 791	breakfast
+T6	dosage 858 863	75 mg
+T7	mealTime 983 996	1 hour before
+R3	relation Arg1:TS6419446149 Arg2:TS6019446149	
+R4	relation Arg1:TS1619446149 Arg2:TS6019446149	
+R5	relation Arg1:TS1719446149 Arg2:TS6019446149	
+R6	decrease_absorption Arg1:TS1819446149 Arg2:TS619446149	
+R7	no_effect_on_drug Arg1:TS6519446149 Arg2:TS5419446149	

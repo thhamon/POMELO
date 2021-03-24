@@ -1,0 +1,30 @@
+TS2112389073	food 10 26	grapefruit juice
+TS412389073	drug 37 46	etoposide
+TS712389073	drugEffect 47 62	bioavailability
+R1	relation Arg1:TS2112389073 Arg2:TS412389073
+TS2312389073	drug 88 97	etoposide
+TS212389073	food 260 276	grapefruit juice
+TS1812389073	drug 307 316	etoposide
+R2	relation Arg1:TS212389073 Arg2:TS1812389073
+TS2412389073	drug 406 415	etoposide
+TS2712389073	food 463 479	grapefruit juice
+TS2212389073	drug 612 621	etoposide
+TS2512389073	food 863 879	grapefruit juice
+TS612389073	drugEffect 974 989	bioavailability
+TS312389073	food 1025 1041	grapefruit juice
+TS1212389073	food 1141 1157	Grapefruit juice
+TS1312389073	drugEffect 1200 1215	bioavailability
+TS1412389073	drug 1219 1228	etoposide
+R4	decrease_absorption Arg1:TS1212389073 Arg2:TS1412389073
+TS2812389073	drugEffect 1304 1319	bioavailability
+R5	has_effect Arg1:TS412389073 Arg2:TS712389073	
+T1	modeadm 65 84	Oral administration
+T2	dosage 397 402	50 mg
+T3	modeadm 403 405	IV
+T4	dosage 427 432	50 mg
+T5	modeadm 433 439	orally
+T6	duration 416 424	over 1 h
+T7	dosage 445 450	50 mg
+T8	modeadm 451 457	orally
+R3	relation Arg1:TS312389073 Arg2:TS612389073	
+R6	has_effect Arg1:TS1412389073 Arg2:TS1312389073	

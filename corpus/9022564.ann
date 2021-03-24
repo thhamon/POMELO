@@ -1,0 +1,58 @@
+TS459022564	sideeffect 0 17	Drug interactions
+TS229022564	food 38 44	sodium
+TS299022564	food 59 85	Dietary sodium restriction
+TS139022564	drugEffect 153 176	antihypertensive action
+TS39022564	drug 180 189	diuretics
+R1	improve_drug_effect Arg1:TS299022564 Arg2:TS139022564
+TS369022564	food 280 298	sodium restriction
+TS279022564	drug 310 318	thiazide
+TS339022564	drug 319 328	diuretics
+TS119022564	sideeffect 338 360	reduce urinary calcium
+R2	positive_effect_on_drug Arg1:TS369022564 Arg2:TS279022564
+TS239022564	food 407 413	sodium
+TS249022564	food 475 481	sodium
+TS359022564	sideeffect 521 541	nephrotoxic injuries
+TS159022564	sideeffect 703 722	Acute renal failure
+TS199022564	food 746 764	sodium restriction
+TS189022564	drug 781 821	angiotensin-converting enzyme inhibitors
+TS489022564	drug 824 859	nonsteroidal antiinflammatory drugs
+TS449022564	drug 866 889	immunosuppressive drugs
+R3	negative_effect_on_drug Arg1:TS199022564 Arg2:TS189022564
+TS179022564	food 892 918	Dietary sodium restriction
+TS79022564	drug 969 981	cyclosporine
+TS309022564	drug 986 996	tacrolimus
+R4	negative_effect_on_drug Arg1:TS179022564 Arg2:TS79022564
+TS349022564	sideeffect 1153 1167	renal scarring
+TS149022564	food 1216 1234	Sodium restriction
+TS389022564	sideeffect 1251 1286	renal tubular reabsorption of drugs
+TS29022564	drug 1295 1302	lithium
+R5	negative_effect_on_drug Arg1:TS149022564 Arg2:TS29022564
+TS379022564	drug 1345 1364	Calcium antagonists
+TS469022564	sideeffect 1484 1526	activation of the renin-angiotensin system
+TS399022564	food 1530 1546	sodium depletion
+TS289022564	sideeffect 1574 1579	cysts
+TS89022564	sideeffect 1600 1620	cystic renal disease
+TS99022564	food 1663 1681	sodium restriction
+R6	positive_effect_on_drug Arg1:TS299022564 Arg2:TS39022564	
+R7	has_effect Arg1:TS39022564 Arg2:TS139022564	
+R8	has_sideeffect Arg1:TS279022564 Arg2:TS119022564	
+R9	reduce_side_effect Arg1:TS369022564 Arg2:TS119022564	
+R10	increase_side_effect Arg1:TS199022564 Arg2:TS159022564	
+R11	has_sideeffect Arg1:TS189022564 Arg2:TS159022564	
+R12	has_sideeffect Arg1:TS489022564 Arg2:TS159022564	
+R13	has_sideeffect Arg1:TS449022564 Arg2:TS159022564	
+R14	negative_effect_on_drug Arg1:TS199022564 Arg2:TS489022564	
+R15	negative_effect_on_drug Arg1:TS199022564 Arg2:TS449022564	
+T1	sideeffect 943 965	chronic nephrotoxicity
+R16	has_sideeffect Arg1:TS79022564 Arg2:T1	
+R17	increase_side_effect Arg1:TS179022564 Arg2:T1	
+R18	negative_effect_on_drug Arg1:TS179022564 Arg2:TS309022564	
+R19	has_sideeffect Arg1:TS309022564 Arg2:T1	
+T2	drugEffect 1116 1136	block angiotensin II
+T3	sideeffect 1172 1199	drug-induced arteriolopathy
+R20	increase_side_effect Arg1:TS149022564 Arg2:TS389022564	
+T4	sideeffect 1316 1342	toxic blood concentrations
+R21	has_sideeffect Arg1:TS29022564 Arg2:T4	
+R22	increase_side_effect Arg1:TS399022564 Arg2:TS469022564	
+R23	increase_side_effect Arg1:TS399022564 Arg2:TS289022564	
+R24	increase_side_effect Arg1:TS399022564 Arg2:TS89022564	

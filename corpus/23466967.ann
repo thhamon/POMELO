@@ -1,0 +1,43 @@
+TS1023466967	treatedDisease 46 52	stroke
+TS1123466967	treatedDisease 81 100	atrial fibrillation
+TS923466967	treatedDisease 103 129	Atrial fibrillation ( AF )
+TS1623466967	treatedDisease 159 178	cardiac dysrhythmia
+TS323466967	treatedDisease 223 229	stroke
+TS1523466967	treatedDisease 385 391	stroke
+TS2223466967	drug 490 503	anticoagulant
+TS623466967	drug 536 561	direct thrombin inhibitor
+TS1323466967	drug 611 622	rivaroxaban
+TS123466967	drug 627 635	apixaban
+TS2323466967	treatedDisease 640 646	stroke
+TS223466967	drug 689 697	warfarin
+TS423466967	treatedDisease 745 751	stroke
+TS523466967	sideeffect 845 857	interactions
+TS1823466967	drug 860 868	Warfarin
+TS2123466967	drugEffect 925 940	anticoagulation
+TS1723466967	drug 1037 1045	warfarin
+TS1223466967	treatedDisease 1058 1064	stroke
+TS2023466967	sideeffect 1161 1169	bleeding
+TS2823466967	sideeffect 1212 1221;1226 1248	drug-drug food-drug interactions
+T1	treatedDisease 197 199	AF
+T2	treatedDisease 278 280	AF
+T3	modeadm 485 489	oral
+T4	drug 506 509	OAC
+T5	drug 562 572	dabigatran
+T6	drug 581 610	activated factor X inhibitors
+T7	treatedDisease 675 677	AF
+R1	treat Arg1:T5 Arg2:TS2323466967	
+R2	treat Arg1:TS1323466967 Arg2:TS2323466967	
+R3	treat Arg1:TS123466967 Arg2:TS2323466967	
+R4	treat Arg1:TS223466967 Arg2:TS423466967	
+R5	has_effect Arg1:TS1823466967 Arg2:TS2123466967	
+T8	drug 998 1002	OACs
+T9	treatedDisease 1093 1095	AF
+R6	has_sideeffect Arg1:TS1723466967 Arg2:TS2023466967	
+R7	treat Arg1:TS1723466967 Arg2:TS1223466967	
+R8	treat Arg1:TS1723466967 Arg2:T9	
+T10	drug 1196 1200	OACs
+R9	has_sideeffect Arg1:T10 Arg2:TS2823466967	
+T11	drug 1323 1327	OACs
+T12	treatedDisease 1372 1374	AF
+T13	drug 1435 1439	OACs
+R10	treat Arg1:T11 Arg2:T12	

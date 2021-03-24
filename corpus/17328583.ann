@@ -1,0 +1,54 @@
+TS117328583	drug 115 127	azithromycin
+TS1417328583	drug 191 203	azithromycin
+TS1517328583	drug 343 355	azithromycin
+TS4217328583	food 569 573	food
+TS2317328583	drug 578 585	antacid
+TS1317328583	drug 768 810	immediate-release azithromycin formulation
+TS4517328583	food 1032 1036	food
+TS3717328583	food 1039 1054	a high-fat meal
+TS1017328583	food 1061 1074	standard meal
+TS3517328583	drug 1081 1088	antacid
+TS3817328583	drug 1114 1120	Maalox
+TS1217328583	drug 1151 1170	magnesium hydroxide
+TS2217328583	drug 1173 1192	aluminium hydroxide
+TS1117328583	drug 1197 1208	simethicone
+TS3617328583	drug 1232 1244	azithromycin
+TS1717328583	drug 1491 1503	azithromycin
+TS2517328583	drug 1535 1547	azithromycin
+TS4417328583	drug 1795 1807	azithromycin
+TS2617328583	drugEffect 2066 2081	bioavailability
+TS2717328583	drugEffect 2149 2164	bioavailability
+TS3317328583	sideeffect 2259 2278	nausea and vomiting
+TS4617328583	food 2281 2296	A high-fat meal
+TS2917328583	drug 2465 2477	azithromycin
+TS4117328583	mealTime 2500 2504	meal
+TS5117328583	mealTime 2649 2655	fasted
+TS3417328583	mealTime 2674 2677	fed
+TS517328583	drug 2800 2807	antacid
+TS317328583	drug 2858 2870	azithromycin
+TS417328583	drug 2937 2949	azithromycin
+TS4017328583	food 3036 3049	empty stomach
+TS2817328583	drug 3082 3090	antacids
+T1	drug 206 210	AZSR
+T2	modeadm 138 142	oral
+T3	drug 710 714	AZSR
+T4	drug 813 816	AZM
+T5	drug 1250 1254	AZSR
+T6	dosage 1521 1526	2.0 g
+T7	drug 1811 1815	AZSR
+T8	drug 1824 1827	AZM
+T9	dosage 1781 1786	2.0 g
+T10	drug 1864 1867	AZM
+T11	drug 1870 1874	AZSR
+T12	drug 2177 2180	AZM
+T13	drug 2199 2202	AZM
+T14	drug 2205 2209	AZSR
+R1	has_sideeffect Arg1:T14 Arg2:TS3317328583	
+R2	has_sideeffect Arg1:T13 Arg2:TS3317328583	
+T15	drug 2605 2609	AZSR
+R3	without_food Arg1:TS5117328583 Arg2:T15	
+R4	relation Arg1:TS3417328583 Arg2:T15	
+T16	drug 2720 2724	AZSR
+T17	drug 2873 2877	AZSR
+T18	dosage 2977 2982	2.0 g
+R5	without_food Arg1:TS4017328583 Arg2:T17	

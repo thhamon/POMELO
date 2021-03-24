@@ -1,0 +1,18 @@
+Pharmacokinetics and effect of food after oral administration of prolonged-release tablets of ropinirole hydrochloride in Japanese patients with Parkinson's disease .
+Ropinirole hydrochloride , a dopamine receptor agonist with a non-ergot alkaloid structure , is highly selective for the dopamine D ( 2 )  D ( 3 ) receptors .
+This study was conducted to evaluate the steady-state pharmacokinetics , safety and efficacy after repeated oral administration of prolonged-release tablets of ropinirole hydrochloride in the absence of L-dopa preparations in Japanese patients with Parkinson's disease ( PD ) .
+This was a multicenter , open-label , uncontrolled study .
+The total duration of participation in the study ranged from 56 to 63 weeks .
+In the study , the plasma concentrations of ropinirole , its major metabolite SKsentandF104557 ( N-depropyl ropinirole ) and another metabolite SKsentandF89124 ( ropinirole hydroxylated at the seventh position of the indole ring ) were assessed .
+Safety based on adverse events , haematology , biochemistry , urinalysis and electrocardiography ( ECG ) ( standard 12-lead ECG ) were evaluated , and vital signs ( blood pressure  pulse rate ) were measured .
+Efficacy based on the Japanese version of Unified Parkinson's Disease Rating Scale ( UPDRS ) Parts III ( motor ) and II [activities of daily living ( ADL ) ] as well as tolerability was evaluated .
+After repeated oral administration of prolonged-release tablets of ropinirole hydrochloride in Japanese patients with PD , ropinirole , SKsentandF104557 and low levels of SKsentandF89124 were detected in plasma .
+The trough concentrations of ropinirole and the two metabolites increased in proportion to the dose when ropinirole hydrochloride prolonged-release tablets were administered at doses ranging from 2 to 16 mg  day .
+The plasma exposure to ropinirole and its two metabolites after intake of normal diet was comparable to that in the fasting state .
+The most common adverse events ( 10% or more ) were somnolence , nausea , constipation , hallucination and nasopharyngitis .
+Most adverse events were mild or moderate in severity , and with no death .
+During the treatment period , serious adverse events were reported in five patients .
+Efficacy analysis ( LOCF ) at the final endpoint up to week 16 demonstrated a mean ( SD ) change from baseline in the Japanese UPDRS III ( motor ) and II ( ADL ) scores of -11bigasentdot3 ( 8bigasentdot21 ) and -3bigasentdot9 ( 3bigasentdot22 ) , respectively , and thereafter remained at similar levels until week 52. .
+After administration of prolonged-release tablets of ropinirole hydrochloride in the absence of L-dopa preparations in Japanese patients with PD , the plasma pharmacokinetics of ropinirole and its metabolites was linear and not affected by food .
+Compared with the immediate-release ( IR ) tablet , the prolonged-release tablet can be administered to Japanese patients with PD at a reduced daily dose frequency and adjusted to the maintenance dose after fewer dose changes with a smaller diurnal variation in the plasma ropinirole concentration .
+bigasentc 2012 Blackwell Publishing Ltd. .

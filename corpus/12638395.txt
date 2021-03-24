@@ -1,0 +1,10 @@
+Single- and multiple-dose pharmacokinetics of etoricoxib , a selective inhibitor of cyclooxygenase-2 , in man .
+The single- and multiple-dose pharmacokinetics of etoricoxib , a selective inhibitor of cyclooxygenase-2 , were examined in two clinical studies .
+Single-dose pharmacokinetics- -including dose proportionality , absolute bioavailability of the highest dose-strength ( 120-mg ) tablet , and the effect of a high-fat meal on the bioavailability of that tablet- -were investigated in a two-part , open , balanced crossover study in two panels of healthy subjects ( 12 per panel ) .
+Steady-state pharmacokinetics were investigated in an open-label study in which 24 healthy subjects were administered 120-mg single and multiple ( once daily for 10 days ) oral doses of etoricoxib tablets .
+The pharmacokinetics of etoricoxib were found to be consistent with linearity through doses at least twofold greater than the highest anticipated clinical dose of 120 mg .
+Etoricoxib administered as a tablet was rapidly and completely absorbed and available ; the absolute bioavailability was estimated to be 100%. .
+A high-fat meal decreased the rate of absorption without affecting the extent of absorption of etoricoxib ; therefore , etoricoxib can be dosed irrespective of food .
+Steady-state pharmacokinetics of etoricoxib , achieved following 7 days of once-daily dosing , were found to be reasonably predicted from single doses .
+The accumulation ratio averaged 2.1 , and the corresponding accumulation t1  2 averaged 22 hours , supporting once-daily dosing .
+Etoricoxib was generally well tolerated .

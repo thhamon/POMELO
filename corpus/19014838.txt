@@ -1,0 +1,24 @@
+Assessment of the bioequivalence of two formulations of clarithromycin extended-release 500-mg tablets under fasting and fed conditions: a single-dose , randomized , open-label , two-period , two-way crossover study in healthy Jordanian male volunteers .
+Clarithromycin extended-release tablets are indicated for the treatment of adults with acute maxillary sinusitis caused by Haemophilus influenzae , Moraxella catarrhalis , or Streptococcus pneumoniae ; acute bacterial exacerbation of chronic bronchitis due to H influenzae , Haemophilus parainfluenzae , M catarrhalis , or S pneumoniae ; or community acquired pneumonia due to H influenzae , H parainfluenzae , M catarrhalis , S pneumoniae , Chlamydia pneumoniae , or Mycoplasma pneumoniae .
+This study was conducted to assess the bioequivalence of test and reference formulations of clarithromycin extended-release 500-mg tablets under fasting and fed conditions .
+This was a single-dose , randomized , open-label , 2-period , 2-way crossover study with a 1-week washout period between doses .
+Separate bioequivalence studies ( fasting and fed ) were performed in 2 groups of healthy male Jordanian volunteers .
+Eighteen blood samples were obtained from each volunteer over 38 hours after drug administration .
+Clarithromycin concentrations were determined in plasma using a validated high-performance liquid chromatography method with electrochemical detection .
+Pharmacokinetic parameters of clarithromycin ( C ( max ) , T ( max ) , AUC ( 0-t ) , AUC ( 0-infinity ) , lambda ( z ) [first-order elimination rate constant] , and t ( ( 1  2 ) ) ) were calculated and analyzed statistically .
+Tolerability was assessed based on changes in vital signs and laboratory tests , and by questioning subjects about adverse events .
+Thirty-eight volunteers each participated in the fasting and fed studies .
+The mean ages of participants in the fasting and fed studies were 26.7 and 27.6 years , respectively ; their mean weight was 71.2 and 70.9 kg and mean height was 171.3 and 179.0 cm .
+Under fasting conditions , the arithmetic mean ( SD ) C ( max ) was 569.4 ( 189.3 ) ng  mL for the test formulation and 641.2 ( 202.0 ) ng  mL for the reference formulation , with a geometric mean ratio of 0.88. .
+The arithmetic mean AUC ( 0-t ) was 8602.9 ( 4105.1 ) and 8245.3 ( 4122.4 ) ng .
+h  mL in the respective formulations , with a geometric mean ratio of 1.06. .
+The arithmetic mean T ( max ) was 8.0 ( 5.6 ) and 6.1 ( 3.8 ) hours .
+In the fed study , the C ( max ) and AUC of both formulations were significantly increased relative to the fasting study ( P sentinf 0.05 ) .
+The arithmetic mean C ( max ) of the 2 formulations was 1183.0 ( 637.5 ) and 1199.6 ( 496.3 ) ng  mL , with a geometric mean ratio of 0.93. .
+The arithmetic mean AUC ( 0-t ) was 12 , 981.2 ( 7849.0 ) and 11 , 822.9 ( 5790.2 ) ng .
+h  mL , with a geometric mean ratio of 1.06. .
+The arithmetic mean T ( max ) was 5.7 ( 2.8 ) and 6.7 ( 2.5 ) hours .
+The 90% CI for the ratio ( test:reference ) of log-transformed C ( max ) and AUC values was within the acceptance range of 0.80 to 1.25. .
+The 2 formulations were both well tolerated , and no adverse events were reported during the study .
+In these fasting and fed studies in healthy male Jordanian volunteers , the 2 formulations of clarithromycin extended-release 500-mg tablets were found to be bioequivalent according to the US Food and Drug Administration regulatory definition .
+Administration with food significantly increased the rate and extent of absorption of both products , with no significant effect on their bioequivalence .

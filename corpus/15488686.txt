@@ -1,0 +1,12 @@
+The role of biopharmaceutics in the development of a clinical nanoparticle formulation of MK-0869: a Beagle dog model predicts improved bioavailability and diminished food effect on absorption in human .
+MK-0869 ( aprepitant ) , a potent substance P antagonist , is the active ingredient of EMEND which has recently been approved by the FDA for the prevention of chemotherapy- chemotherapy-induced nausea and vomiting .
+Early clinical tablet formulations of MK-0869 showed significant food effects on absorption , suggesting that formulation could have a significant role in improving bioavailability .
+A Beagle dog model was developed in an effort to guide novel formulation development .
+Using the suspension of the micronized bulk drug used for the tablet formulations , the food effect on absorption was confirmed in the dog at a similar magnitude to that observed in humans .
+Further dog studies demonstrated a clear correlation between particle size and in vivo exposures , with the nanoparticle ( NanoCrystal ) colloidal dispersion formulation providing the highest exposure , suggesting dissolution-limited absorption .
+The NanoCrystal dispersion also eliminated the food effect on oral absorption in the dog at a dose of 2mg  kg .
+Regional absorption studies using triport dogs indicated that the absorption of MK-0869 was limited to the upper gastrointestinal tract .
+These results provided strong evidence that the large increase in surface areas of the drug nanoparticles could overcome the narrow absorption window and lead to rapid in vivo dissolution , fast absorption , and increased bioavailability .
+In addition , the dog model was used for optimizing formulation processes in which the nanoparticles were incorporated into solid dosage forms , and for selecting excipients to effectively re-disperse the nanoparticles from the dosage units .
+The human pharmacokinetic data using the nanoparticle formulation showed excellent correlations with those generated in the dog .
+copyright 2004 Elsevier B.V. .

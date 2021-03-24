@@ -1,0 +1,15 @@
+TS1510851844	sideeffect 30 47	drug interactions
+TS1810851844	sideeffect 126 143	drug interactions
+TS710851844	sideeffect 172 187	adverse effects
+TS1710851844	sideeffect 195 212	drug interactions
+TS810851844	sideeffect 254 269	adverse effects
+TS1610851844	sideeffect 327 344	drug interactions
+TS410851844	sideeffect 420 432	interactions
+TS910851844	sideeffect 719 731	interactions
+TS1410851844	sideeffect 814 826	interactions
+TS610851844	drug 906 916	mibefradil
+TS1010851844	drug 919 929	sildenafil
+TS210851844	food 961 977	grapefruit juice
+T1	drug 832 872	selective serotonin re-uptake inhibitors
+T2	drug 875 903	HMG-CoA reductase inhibitors
+T3	drug 932 951	protease inhibitors

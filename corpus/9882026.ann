@@ -1,0 +1,42 @@
+TS209882026	food2 16 23	olestra
+TS329882026	food2 58 65	Olestra
+TS299882026	food 71 74	fat
+TS69882026	food 108 121	vegetable oil
+TS149882026	food 124 131	Olestra
+TS349882026	food 201 204	fat
+TS229882026	food 212 216	diet
+TS359882026	food 272 279	olestra
+TS369882026	food 300 307	olestra
+TS189882026	food 382 391	nutrients
+TS119882026	food 529 536	olestra
+TS199882026	food 584 591	Olestra
+TS139882026	food 787 794	olestra
+TS89882026	food 800 804	food
+TS79882026	food 880 887	Olestra
+TS379882026	drug 946 968	water-soluble vitamins
+TS129882026	drug 972 980	minerals
+R2	no_effect_on_drug Arg1:TS79882026 Arg2:TS379882026
+TS459882026	drug 1047 1058;1068 1092	fat-soluble vitamins A , D , E and K
+TS179882026	drug 1166 1174	vitamins
+TS449882026	food 1187 1211	olestra-containing foods
+TS99882026	food 1214 1221	Olestra
+TS239882026	sideeffect 1399 1424	gastrointestinal symptoms
+TS309882026	sideeffect 1437 1446	diarrhoea
+TS389882026	sideeffect 1449 1461	loose stools
+TS249882026	sideeffect 1464 1467	gas
+TS219882026	sideeffect 1472 1490	abdominal cramping
+TS279882026	food 1514 1521	olestra
+TS49882026	food2 1618 1648	triglyceride-containing snacks
+T1	food2 96 103	sucrose
+R1	no_effect_on_drug Arg1:TS79882026 Arg2:TS129882026	
+R3	decrease_absorption Arg1:TS449882026 Arg2:TS459882026	
+R4	relation Arg1:TS49882026 Arg2:TS239882026	
+R5	relation Arg1:TS49882026 Arg2:TS309882026	
+R6	relation Arg1:TS49882026 Arg2:TS389882026	
+R7	relation Arg1:TS49882026 Arg2:TS249882026	
+R8	relation Arg1:TS49882026 Arg2:TS219882026	
+R9	relation Arg1:TS279882026 Arg2:TS219882026	
+R10	relation Arg1:TS279882026 Arg2:TS249882026	
+R11	relation Arg1:TS279882026 Arg2:TS389882026	
+R12	relation Arg1:TS279882026 Arg2:TS309882026	
+R13	relation Arg1:TS279882026 Arg2:TS239882026	

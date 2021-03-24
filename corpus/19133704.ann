@@ -1,0 +1,50 @@
+TS1419133704	drug 27 38	armodafinil
+TS1519133704	drug 116 127	Armodafinil
+TS4319133704	drug 130 141	R-modafinil
+TS919133704	drug 204 213	modafinil
+TS219133704	drug 266 277	Armodafinil
+TS719133704	drug 339 368	S-isomer of racemic modafinil
+TS519133704	drug 423 434	armodafinil
+TS3319133704	treatedDisease 448 468	excessive sleepiness
+TS2519133704	treatedDisease 485 509	obstructive sleep apnoea
+TS2719133704	treatedDisease 536 546	narcolepsy
+TS2319133704	drug 652 663	armodafinil
+TS3119133704	drug 856 867	armodafinil
+TS619133704	food 928 932	food
+TS3719133704	drug 979 990	armodafinil
+TS419133704	mealTime 1044 1048	fast
+TS1019133704	food 1089 1099	fatty meal
+R1	relation Arg1:TS619133704 Arg2:TS3719133704
+TS3819133704	drug 1102 1113	Armodafinil
+TS4419133704	mealTime 1288 1294	fasted
+TS119133704	food 1303 1307	Food
+TS2219133704	drugEffect 1337 1352	bioavailability
+TS2119133704	drug 1356 1367	armodafinil
+R2	no_effect_on_drug Arg1:TS119133704 Arg2:TS2119133704
+TS4219133704	drug 1747 1758	armodafinil
+TS1219133704	drug 1950 1961	armodafinil
+TS1319133704	drug 2025 2036	Armodafinil
+TS319133704	sideeffect 2107 2115	headache
+TS4119133704	sideeffect 2118 2127	dizziness
+TS2819133704	sideeffect 2132 2138	nausea
+TS2919133704	drug 2167 2178	armodafinil
+TS3219133704	food 2254 2258	food
+TS1619133704	food 2407 2420	empty stomach
+TS1919133704	drugEffect 2520 2533	plasma levels
+TS3419133704	drug 2554 2565	armodafinil
+TS2419133704	drug 2647 2658	Armodafinil
+T1	drug 231 263	wakefulness-promoting medication
+R3	treat Arg1:TS519133704 Arg2:TS3319133704	
+T2	treatedDisease 512 531	shift work disorder
+T3	modeadm 842 846	oral
+T4	dosage 884 897	50 and 400 mg
+T5	frequency 811 821	once daily
+T6	duration 826 839	up to 14 days
+T7	mealTime 1053 1058;1089 1099	after fatty meal
+T8	dosage 1182 1191	50-400 mg
+R4	has_effect Arg1:TS2119133704 Arg2:TS2219133704	
+R5	has_sideeffect Arg1:TS1319133704 Arg2:TS319133704	
+R6	has_sideeffect Arg1:TS1319133704 Arg2:TS4119133704	
+R7	has_sideeffect Arg1:TS1319133704 Arg2:TS2819133704	
+T9	dosage 2236 2245	50-400 mg
+T10	frequency 2428 2438	once-daily

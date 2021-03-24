@@ -1,0 +1,17 @@
+Pharmacokinetic properties of combination oxycodone plus racemic ibuprofen ibuprofen: two randomized , open-label , crossover studies in healthy adult volunteers .
+As part of ongoing studies to evaluate the analgesic efficacy and pharmacokinetic properties of combination oxycodone plus ibuprofen in the treatment of moderate to severe acute pain , 2 pharmacokinetic studies were conducted .
+The goals of these studies were to compare the pharmacokinetic properties of monotherapy with oxycodone or ibuprofen with those of a tablet formulation of these 2 agents combined ( study A ) , and to determine whether the absorption of the individual agents when given in the combination tablet was affected by the concomitant ingestion of food ( study B ) .
+Study A was a single-center , open-label , randomized , single-dose , 3-period , 3-way , crossover study .
+Healthy male subjects received oxycodone 5 mg , ibuprofen 400 mg , or a combination tablet containing both , after an overnight fast of sentsup or =8 hours , on study days 1 , 8 , and 15. .
+Study B was a single-center , open-label , randomized , single-dose , single-crossover study .
+Healthy volunteers received a tablet containing a combination of oxycodone 5 mg plus ibuprofen 400 mg after either an overnight fast of sentsup or =8 hours or a standardized high-fat breakfast .
+Both studies included a washout period of sentsup or =7 days between treatments .
+In both studies , the pharmacokinetic properties ( C ( max ) , T ( max ) , t ( 1  2 ) , AUC ( 0-4 ) , AUC ( 0-1 ) , and AUC ( 0-infinity ) ) of oxycodone and ibuprofen were derived from plasma drug concentrations .
+Analysis of variance was used to determine and compare pharmacokinetic properties .
+Twenty-four healthy , white , male subjects were included in study A ( mean age , 26.0 years ; mean body weight , 71.3 kg ; mean height , 170.0 cm ) .
+Study B involved 12 subjects ( 11 men , 1 woman ; mean age , 24.8 years ; mean body weight , 77.2 kg ; mean height , 181.4 cm ) .
+The pharmacokinetic properties of ibuprofen and oxycodone were not statistically different when administered alone or combined .
+Food intake did not affect the rate of oxycodone absorption ( 90% Cl of C ( max ) of fasted state vs fed state , 103-130 ) , or the rate ( 90% Cl of C ( max ) of fasted state vs fed state , 72-95 ) or extent ( 90% Cl of AUC ( 0-infinity ) of fasted state vs fed state , 88-102 ) of ibuprofen absorption .
+The extent of oxycodone absorption was slightly increased when the combination was given with food ( 90% Cl of AUC ( 0-infinity ) of fasted state vs fed state , 115-127 ) .
+The single-dose pharmacokinetic profiles of oxycodone and ibuprofen in these healthy volunteers were similar when these 2 drugs were given as monotherapy or in combination , suggesting bioequivalence .
+Food intake before administration of a single dose of the combination did not affect ibuprofen absorption but marginally increased the extent , but not the rate , of oxycodone absorption .

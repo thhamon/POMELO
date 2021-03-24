@@ -1,0 +1,29 @@
+TS1017389552	mealTime 664 675	fed-fasting
+TS217389552	food 887 893	liquid
+TS617389552	sideeffect 1019 1027	headache
+TS917389552	sideeffect 1030 1039	dizziness
+T1	dosage 635 650	3 to 200 mg  kg
+T2	dosage 723 732	50 mg  kg
+T3	dosage 791 806	10 to 50 mg  kg
+T4	frequency 813 834	twice per day ( bid )
+T5	duration 839 852	up to 14 days
+T6	drug 338 369	284-Dalton 1 , 2 , 4-oxadiazole
+T7	drug 327 333	PTC124
+T8	drugEffect 381 435	ribosomal readthrough of premature stop codons in mRNA
+R1	has_effect Arg1:T7 Arg2:T8	
+R2	has_effect Arg1:T6 Arg2:T8	
+T9	dosage 978 996	150 and 200 mg  kg
+T10	drug 999 1005	PTC124
+R3	has_sideeffect Arg1:T10 Arg2:TS617389552	
+R4	has_sideeffect Arg1:T10 Arg2:TS917389552	
+T11	dosage 1100 1109	50 mg  kg
+T12	frequency 1116 1119	bid
+T13	drug 1386 1392	PTC124
+T14	drug 1704 1710	PTC124
+T15	drug 1743 1749	PTC124
+T16	drug 1790 1796	PTC124
+T17	drug 1922 1928	PTC124
+T18	treatedDisease 1993 2020	Duchenne muscular dystrophy
+T19	treatedDisease 1946 1988	nonsense mutation-mediated cystic fibrosis
+R5	treat Arg1:T17 Arg2:T19	
+R6	treat Arg1:T17 Arg2:T18	

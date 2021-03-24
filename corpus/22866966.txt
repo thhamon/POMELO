@@ -1,0 +1,8 @@
+Statin drug interactions and related adverse reactions .
+Statin monotherapy is generally well tolerated , with a low frequency of adverse events .
+The most important adverse effects associated with statins are myopathy and an asymptomatic increase in hepatic transaminases , both of which occur infrequently .
+Because statins are prescribed on a long-term basis , their possible interactions with other drugs deserve particular attention , as many patients will typically receive pharmacological therapy for concomitant conditions during the course of statin treatment .
+This review summarizes the pharmacokinetic properties of statins and emphasizes their clinically relevant drug interactions and related adverse reactions .
+Avoiding drug-drug interactions and consequent adverse drug reactions is essential in order to optimize compliance , and thus improve the treatment of patients at high cardiovascular risk .
+The different pharmacokinetic profiles among statins should be carefully considered , in order to understand the possible spectrum of drug interactions .
+The growing trend toward earlier statin treatment for the prevention of cardiovascular disease means that physicians must anticipate future polypharmacy when their patients require additional medications for comorbid conditions .

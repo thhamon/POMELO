@@ -1,0 +1,17 @@
+TS320534818	food 11 15	food
+TS1320534818	food 190 203	high-fat meal
+TS420534818	mealTime 802 805	fed
+TS1420534818	mealTime 807 813	fasted
+TS1120534818	drug 1061 1064	AUC
+TS820534818	sideeffect 1242 1250	bleeding
+TS220534818	food 1351 1355	food
+TS920534818	food 1434 1438	food
+T1	drug 43 51	edoxaban
+T2	drug 69 88	factor Xa inhibitor
+T3	mealTime 199 203	meal
+T4	dosage 225 230	60 mg
+T5	drug 260 268	edoxaban
+T6	drug 532 540	edoxaban
+T7	drug 1385 1393	edoxaban
+T8	food 1432 1436	food
+R1	no_effect_on_drug Arg1:T8 Arg2:T7	

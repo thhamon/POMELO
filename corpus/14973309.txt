@@ -1,0 +1,18 @@
+Pharmacokinetics and safety of viramidine , a prodrug of ribavirin , in healthy volunteers .
+Ribavirin , part of the current first-line combination therapy for the treatment of chronic hepatitis C , has side effects-in particular , hemolytic anemia- anemia-that is frequently dose limiting .
+Based on animal studies , viramidine , a prodrug of ribavirin , is converted to ribavirin in the liver .
+Viramidine dosing yielded 50% higher ribavirin levels in the monkey liver but only half in plasma and red blood cells compared to ribavirin dosing .
+At the same dose , it also had a safer profile than ribavirin in a 28-day toxicity study in monkeys .
+The current study was carried out to evaluate the safety , tolerability , and pharmacokinetics of viramidine in healthy male volunteers ( n = 8-18 on viramidine vs. .
+2 on placebo at each dose level ) after oral dosing of viramidine at 200 , 600 , and 1200 mg .
+There were no serious adverse events , and most adverse events were mild .
+The percentages of treatment-emergent events judged to be possibly related to the study drug were 50% in the 1200-mg group , 26% in the 600-mg group , and none in the 200-mg group .
+Viramidine was orally absorbed and rapidly converted to ribavirin with a t ( max ) of 1.5 to 3.0 hours for both viramidine and ribavirin in plasma .
+There was dose proportionality in plasma AUC ( 0-168 h ) and C ( max ) for viramidine and in plasma AUC ( 0-168 h ) for ribavirin .
+Plasma AUC ( 0-168 h ) for ribavirin was two to four times higher than plasma AUC ( 0-168 h ) for viramidine , indicating that viramidine is extensively metabolized to ribavirin and is a prodrug of ribavirin in man .
+Amounts of viramidine and ribavirin excreted in the urine were small ( 2%-5% of dose ) , indicating that the main route of elimination for both viramidine and ribavirin is metabolism .
+Both viramidine and ribavirin were excreted into urine through the mechanism of glomerular filtration .
+In addition , an evaluation of the effect of a high-fat meal on the pharmacokinetics of viramidine and ribavirin after oral dosing of viramidine at 600 mg was conducted in healthy male volunteers ( n = 33-34 ) in a crossover study design .
+A high-fat meal increased viramidine plasma AUC ( 0-168 h ) by 44% and C ( max ) by 20%. .
+It also increased ribavirin plasma AUC ( 0-168 h ) by 19% and C ( max ) by 43%. .
+The clinical relevance of these increases is unknown .

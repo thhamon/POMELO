@@ -1,0 +1,60 @@
+TS1418007569	food 14 18	food
+TS1718007569	drug 45 56	ziprasidone
+R1	relation Arg1:TS1418007569 Arg2:TS1718007569
+TS1118007569	drug 64 75	ziprasidone
+TS1518007569	drugEffect 76 91	bioavailability
+TS5818007569	food 110 125	taken with food
+TS4618007569	food 199 203	food
+TS1318007569	drug 207 218	ziprasidone
+R2	relation Arg1:TS4618007569 Arg2:TS1318007569
+TS4218007569	drug 321 332	ziprasidone
+TS4718007569	drug 390 401	ziprasidone
+TS3518007569	mealTime 426 446	after an 8-hour fast
+TS118007569	mealTime 450 471;506 519	immediately following standard meal
+TS4318007569	food 526 529	fat
+TS2918007569	mealTime 620 623	fed
+TS4918007569	mealTime 632 639	fasting
+TS5018007569	mealTime 716 723	fasting
+TS3118007569	mealTime 835 838	fed
+TS2618007569	food 975 986	dietary fat
+TS4518007569	drug 990 1001	ziprasidone
+R3	relation Arg1:TS2618007569 Arg2:TS4518007569
+TS2218007569	drug 1056 1067	ziprasidone
+TS818007569	mealTime 1102 1109	fasting
+TS2518007569	mealTime 1117 1132	a high-fat meal
+TS3918007569	food 1139 1142	fat
+TS5618007569	food 1158 1170	moderate-fat
+TS4118007569	food 1177 1180	fat
+TS3318007569	mealTime 1183 1187	meal
+TS218007569	drug 1190 1193	AUC
+TS3718007569	drug 1198 1202	Cmax
+TS2118007569	food3 1209 1212	fed
+TS5418007569	food 1252 1259	60%-fat
+TS2718007569	mealTime 1260 1264	meal
+TS5518007569	food 1285 1292	30%-fat
+TS2818007569	mealTime 1293 1297	meal
+TS518007569	mealTime 1333 1346	fasting state
+TS4818007569	drug 1382 1393	ziprasidone
+TS1818007569	drugEffect 1394 1409	bioavailability
+TS1618007569	mealTime 1422 1425	fed
+TS3018007569	mealTime 1451 1455	meal
+TS1218007569	food 1456 1459	fat
+TS1918007569	drugEffect 1498 1513	bioavailability
+TS918007569	mealTime 1569 1572	fed
+TS3418007569	drug 1622 1633	ziprasidone
+R4	relation Arg1:TS918007569 Arg2:TS3418007569
+TS2318007569	drug 1685 1696	ziprasidone
+TS618007569	food 1702 1706	food
+TS2418007569	drugEffect 1762 1777	bioavailability
+T1	modeadm 40 44	oral
+T2	modeadm 59 63	Oral
+R5	increase_absorption Arg1:TS5818007569 Arg2:TS1118007569	
+T3	dosage 404 406	20
+T4	dosage 409 411	40
+T5	dosage 418 423	80 mg
+T6	dosage 662 667	20 mg
+T7	dosage 677 682	40 mg
+T8	dosage 692 697	80 mg
+T9	dosage 1070 1075	40 mg
+T10	sideeffect 1521 1548	pharmacokinetic variability
+R6	positive_effect_on_drug Arg1:TS618007569 Arg2:TS2318007569	

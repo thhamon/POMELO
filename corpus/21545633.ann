@@ -1,0 +1,37 @@
+TS421545633	food 0 4	Cola
+TS921545633	food 5 13	beverage
+TS221545633	drug 41 53	methotrexate
+R1	slow_elimination Arg1:TS421545633 Arg2:TS221545633
+TS1621545633	drug 91 103	methotrexate
+TS521545633	food 149 153	cola
+TS2821545633	food 154 162	beverage
+TS321545633	treatedDisease 212 220	lymphoma
+TS2221545633	drug 252 264	methotrexate
+TS621545633	drug 339 357	sodium bicarbonate
+TS3321545633	food 409 413	cola
+TS2721545633	food 414 422	beverage
+TS2021545633	drug 465 477	methotrexate
+TS3521545633	sideeffect 482 501	acute renal failure
+TS2121545633	food 523 527	cola
+TS821545633	food 528 534	drinks
+TS721545633	drug 549 565	calcium folinate
+TS2521545633	drug 580 598	sodium bicarbonate
+TS1121545633	drug 635 647	methotrexate
+TS1921545633	sideeffect 691 707	renal impairment
+TS1021545633	sideeffect 729 737	toxicity
+TS3021545633	drug 767 779	methotrexate
+TS3421545633	food 814 818	Cola
+TS2921545633	food 819 828	beverages
+TS2621545633	drug 856 871	phosphoric acid
+TS2321545633	drug 956 968	methotrexate
+TS3221545633	food 986 990	cola
+TS3121545633	food 991 996	drink
+TS2421545633	drug 1027 1039	methotrexate
+R4	without_food Arg1:TS3221545633 Arg2:TS2421545633
+R5	slow_elimination Arg1:TS521545633 Arg2:TS1621545633	
+R6	treat Arg1:TS2221545633 Arg2:TS321545633	
+R7	has_sideeffect Arg1:TS2021545633 Arg2:TS3521545633	
+R8	has_sideeffect Arg1:TS1121545633 Arg2:TS1921545633	
+R9	has_sideeffect Arg1:TS1121545633 Arg2:TS1021545633	
+R10	negative_effect_on_drug Arg1:TS2121545633 Arg2:TS1121545633	
+R2	negative_effect_on_drug Arg1:TS3221545633 Arg2:TS2321545633	

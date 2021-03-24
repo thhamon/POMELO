@@ -1,0 +1,15 @@
+Effects of food and antacids on the pharmacokinetics of eltrombopag in healthy adult subjects: two single-dose , open-label , randomized-sequence , crossover studies .
+Eltrombopag is the first orally self-administered , small-molecule , nonpeptide thrombopoietin receptor agonist for the treatment of chronic idiopathic thrombocytopenic purpura .
+The aim of these studies was to assess the effect of food and antacids on the pharmacokinetic and safety profiles of eltrombopag .
+Two independent , single-dose , open-label , randomized-sequence , crossover studies of oral eltrombopag were conducted in healthy adult volunteers .
+The first study ( study A ) compared eltrombopag 50 mg ( tablets or capsules ) administered in the fasted state or tablets with a high-fat , high-calcium breakfast .
+The second study ( study B ) investigated eltrombopag tablets ( 75 mg ) administered in the fasted state ; immediately after a low-fat , low-calcium meal or a high-fat , low-calcium meal ; 1 hour before a high-fat , low-calcium meal ; or with an antacid containing aluminum hydroxide and magnesium carbonate .
+Vital signs were recorded and electrocardiogram and clinical laboratory tests were performed at screening , within 24 hours before and within 48 hours after each dose of study medication .
+Symptom assessment was performed and adverse events ( AEs ) were assessed previous to study drug administration through follow-up in terms of severity and relationship to study medication .
+In study A , 18 male subjects ( mean age , 23.0 years ; weight , 70.3 kg ; white race , 94.4% ) who received a high-fat , high-calcium breakfast had reduced bioavailability of eltrombopag in terms of AUC ( 0-infinity ) ) by 59% ( geometric mean ratio [GMR] , 0.41 ; 90% CI , 0.36-0.46 ) and C ( max ) by 65% ( GMR , 0.35 ; 90% CI , 0.30-0.41 ) compared with subjects in a fasted state .
+In study B , the bioavailability in 26 subjects ( 14 male , 12 female ; mean age , 35.6 years ; weight , 76.0 kg ; white race , 65.4% ) was not significantly changed when administered with food that was low in calcium , despite the fat content ( GMRs ranged from 0.87-1.03 for AUC ( 0-infinity ) and 0.85-1.01 for C ( max ) across the 3 studied meals ) .
+Mean plasma AUC ( 0-infinity ) ) and C ( max ) values decreased by approximately 70% ( GMR , 0.30 ; 90% CI , 0.24-0.36 for AUC ( 0-infinity ) ) and 0.24-0.38 for C ( max ) ) when administered with a metal cation-containing antacid .
+No serious AEs were reported and all AEs were rated as mild to moderate in intensity .
+The most frequently reported AE was headache ( study A , 6.3% ; study B , 12.0%-29.2% ) .
+Concomitant administration of eltrombopag with high-calcium food or an antacid containing aluminum and magnesium was associated with significantly reduced systemic exposure , whereas low-calcium meals were not .
+A single dose of eltrombopag was generally well tolerated in these healthy volunteers .

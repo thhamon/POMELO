@@ -1,0 +1,26 @@
+TS1012653694	sideeffect 0 19	Aspirin sensitivity
+TS1212653694	sideeffect 24 33	urticaria
+TS512653694	sideeffect 56 75	aspirin sensitivity
+TS2512653694	sideeffect 79 88	urticaria
+TS112653694	drug 102 109	Aspirin
+TS1412653694	sideeffect 132 147	acute urticaria
+TS2712653694	sideeffect 170 210	aggravate pre-existing chronic urticaria
+TS1312653694	food 258 262	food
+TS2212653694	sideeffect 286 297	anaphylaxis
+TS1812653694	sideeffect 327 336	urticaria
+TS712653694	sideeffect 404 410	asthma
+TS212653694	sideeffect 455 490	Aspirin-sensitive chronic urticaria
+TS412653694	food 533 537	food
+TS2012653694	sideeffect 593 620	aspirin-sensitive urticaria
+TS1612653694	drug 680 696	arachidonic acid
+TS1712653694	drug 740 751	leukotriene
+TS2612653694	sideeffect 846 866	release of histamine
+TS1912653694	sideeffect 939 975	aspirin-aggravated chronic urticaria
+R1	has_sideeffect Arg1:TS112653694 Arg2:TS1412653694	
+R2	has_sideeffect Arg1:TS112653694 Arg2:TS2712653694	
+R3	has_sideeffect Arg1:TS112653694 Arg2:TS2212653694	
+R4	relation Arg1:TS412653694 Arg2:TS212653694	
+R5	has_sideeffect Arg1:TS1612653694 Arg2:TS2012653694	
+T1	sideeffect 780 804	effects on blood vessels
+T2	drug 1006 1044	selective cyclo-oxygenase 2 inhibitors
+R6	has_sideeffect Arg1:T2 Arg2:TS1912653694	

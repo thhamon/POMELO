@@ -1,0 +1,8 @@
+Grapefruit juice and drug interactions .
+Exploring mechanisms of this interaction and potential toxicity for certain drugs .
+Concomitant administration of grapefruit juice can increase the plasma concentration of numerous drugs in humans and decrease the concentration of a few others .
+Such elevations of drug plasma concentrations have , on occasion , resulted in adverse clinical effects .
+Increased concentrations are primarily mediated by chemicals in grapefruit juice , which inhibit the CYP 3A4 drug-metabolizing enzyme in the small intestines .
+This inhibition decreases the first-pass metabolism of drugs using the CYP 3A4 intestinal system and increases the bioavailability and maximal plasma drug concentrations ( Cmax ) of the CYP 3A4 substrates .
+The effect of grapefruit juice on drug metabolism is most pronounced in drugs with a high first-pass metabolism ( eg , felodipine , amiodarone ) , in which it inhibits the first-pass metabolism of the CYP 3A4 substrates leading to an increase in Cmax and area under the concentration time curve ( AUC ) .
+The use of grapefruit juice with a few specific drugs ( eg , fexofenadine , digoxin ) may lower plasma drug concentrations by inhibiting drug absorption catalyzed by the organic anion transporting polypeptide ( OATP ) .

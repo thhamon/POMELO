@@ -1,0 +1,61 @@
+TS2214518700	drug 18 27	indinavir
+TS1014518700	drug 41 50	ritonavir
+TS1514518700	food 84 88	food
+TS4214518700	sideeffect 97 113	nephrotoxic peak
+TS2314518700	drug 131 140	indinavir
+R2	relation Arg1:TS1514518700 Arg2:TS2314518700
+TS1814518700	drug 186 195	indinavir
+TS1914518700	drug 248 257	indinavir
+TS2414518700	drug 259 268	ritonavir
+TS414518700	mealTime 287 300	empty stomach
+TS5614518700	mealTime 304 313	with food
+TS4414518700	drug 321 330	indinavir
+TS4314518700	drug 584 593	indinavir
+TS1414518700	drug 595 604	ritonavir
+TS2114518700	mealTime 698 713	light breakfast
+TS514518700	food 790 794	food
+TS2514518700	drug 863 872	indinavir
+TS914518700	drug 877 886	ritonavir
+TS114518700	drug 1005 1014	indinavir
+TS3614518700	drug 1016 1025	ritonavir
+TS5114518700	mealTime 1044 1057	empty stomach
+TS214518700	drug 1079 1088	indinavir
+TS314518700	drug 1229 1238	indinavir
+TS814518700	food 1287 1291	food
+TS3814518700	drug 1324 1333	indinavir
+TS3714518700	drug 1335 1344	ritonavir
+TS3914518700	drug 1367 1376	indinavir
+TS4014518700	drug 1467 1476	indinavir
+TS4114518700	drug 1508 1517	indinavir
+TS1214518700	drug 1538 1547	indinavir
+TS5414518700	drug 1549 1558	ritonavir
+TS5214518700	mealTime 1577 1590	empty stomach
+TS1314518700	drug 1611 1620	indinavir
+TS2714518700	mealTime 1661 1665	meal
+TS3014518700	food 1711 1721	light meal
+TS3414518700	drug 1730 1739	indinavir
+TS6114518700	food 1773 1778	food-
+TS3514518700	drug 1819 1828	indinavir
+R4	slow_absorption Arg1:TS6114518700 Arg2:TS3514518700
+TS5814518700	drug 1863 1872	indinavir
+TS1614518700	drug 1874 1883	ritonavir
+TS5714518700	food 1901 1905	food
+T1	dosage 53 64	800  100 mg
+T2	frequency 65 76	twice daily
+R1	reduce_side_effect Arg1:TS1514518700 Arg2:TS4214518700	
+T3	dosage 269 280	800  100 mg
+T4	sideeffect 380 412	indinavir-related nephrotoxicity
+R7	has_sideeffect Arg1:TS4414518700 Arg2:T4	
+T5	dosage 605 616	800  100 mg
+T6	frequency 617 628	twice daily
+T7	duration 933 944	during 12 h
+T8	dosage 1026 1037	800  100 mg
+R3	relation Arg1:TS814518700 Arg2:TS314518700	
+T9	drugEffect 1445 1463	antiviral efficacy
+T10	dosage 1559 1570	800  100 mg
+R5	negative_effect_on_drug Arg1:TS3014518700 Arg2:TS3414518700	
+T11	dosage 1884 1895	800  100 mg
+T12	sideeffect 1950 1982	indinavir-related nephrotoxicity
+R6	has_sideeffect Arg1:TS1614518700 Arg2:T12	
+R8	has_sideeffect Arg1:TS5814518700 Arg2:T12	
+R9	reduce_side_effect Arg1:TS5714518700 Arg2:T12	

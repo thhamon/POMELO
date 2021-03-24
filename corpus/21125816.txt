@@ -1,0 +1,9 @@
+Food effect on the pharmacokinetics of entecavir from dispersible tablets following oral administration in healthy Chinese volunteers .
+The aim of the present study was to assess the effect of food on the pharmacokinetics of entecavir ( CAS 142217-69-4 ) from dispersible tablets .
+In an open-label , two-way crossover study , 12 healthy Chinese volunteers randomly received a single oral dose of 1 mg entecavir dispersible tablets under fasted and fed conditions .
+Blood samples were collected and determined for pharmacokinetic analyses .
+A solid phase extraction for sample preparation and a LC  MS method were developed and validated for determination of entecavir in human plasma .
+The absorption of entecavir from dispersible tablets was altered significantly with food intake , as evidenced by a decrease in Cm , , of 63% , a decrease in AUC0-t of 22% , and a delay in Tmax of 1.5 h .
+The calibration curve was linear from 0.2 to 25 ng  mL , with a lower limit of quantitation ( LLOQ ) of 0.2 ng  mL .
+Food intake has an obvious effect on the absorption of entecavir from dispersible tablets .
+It is better to take entecavir dispersible tablets on an empty stomach .

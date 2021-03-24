@@ -1,0 +1,43 @@
+TS188930779	food 13 17	food
+TS58930779	drugEffect 30 45	bioavailability
+TS28930779	drug 49 59	loratadine
+TS178930779	drug 64 79	pseudoephedrine
+R1	relation Arg1:TS188930779 Arg2:TS28930779
+TS338930779	food 150 158	high-fat
+TS198930779	drugEffect 176 191	bioavailability
+TS228930779	drug 257 267	loratadine
+TS98930779	drug 312 335	pseudoephedrine sulfate
+TS78930779	mealTime 486 508	10-hour overnight fast
+TS258930779	food 544 565	standardized high-fat
+TS388930779	mealTime 566 575	breakfast
+TS358930779	drug 666 676	loratadine
+TS298930779	drug 742 757	pseudoephedrine
+TS108930779	drug 764 779	pseudoephedrine
+TS68930779	food 963 967	food
+TS148930779	drugEffect 982 997	bioavailability
+TS118930779	drug 1001 1016	pseudoephedrine
+R4	no_effect_on_drug Arg1:TS68930779 Arg2:TS118930779
+TS398930779	drug 1053 1068	pseudoephedrine
+TS248930779	mealTime 1122 1125	fed
+TS438930779	mealTime 1130 1136	fasted
+TS128930779	food 1345 1349	food
+TS18930779	drug 1408 1418	loratadine
+TS88930779	food 1441 1445	food
+TS38930779	drug 1618 1628	loratadine
+TS308930779	mealTime 1635 1638	fed
+TS48930779	drug 1746 1756	loratadine
+R6	relation Arg1:TS308930779 Arg2:TS48930779
+TS238930779	food 1862 1866	food
+TS268930779	drugEffect 1874 1889	bioavailability
+TS478930779	drug 1954 1969	pseudoephedrine
+T1	mealTime 159 168	breakfast
+T2	dosage 251 256	10 mg
+T3	dosage 305 311	240 mg
+T4	drug 703 727	descarboethoxyloratadine
+T5	drug 730 733	DCL
+T6	drug 1384 1387	DCL
+R2	no_effect_on_drug Arg1:TS128930779 Arg2:T6	
+T7	dosage 1759 1764	40 mg
+T8	frequency 1766 1769	day
+R3	increase_absorption Arg1:TS88930779 Arg2:TS18930779	
+R5	no_effect_on_drug Arg1:TS238930779 Arg2:TS478930779	

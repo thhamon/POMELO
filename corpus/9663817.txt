@@ -1,0 +1,12 @@
+Effect of food on the bioavailability of triclabendazole in patients with fascioliasis .
+Preliminary results indicate higher absorption of triclabendazole ( TCBZ ) administered postprandially .
+Therefore , the influence of food on the pharmacokinetics of TCBZ and its active sulphoxide ( TCBZ-SO ) and sulphone ( TCBZ-SO2 ) metabolites was investigated .
+Two single doses ( 10 mg kg ( -1 ) ) of TCBZ were administered to 20 patients with fascioliasis .
+Ten patients were first given the drug after a high energy breakfast and then , 48 h later , after an overnight fast .
+The other 10 patients first received the drug in fasting state and then , 48 h later , after breakfast .
+A low energy breakfast was served 2 h after drug administration for fasting state .
+Compared with the fasting state , an increased AUC and Cmax after food intake ( significant , P sentinf 0.0001 ) was shown from the values of TCBZ , TCBZ-SO and TCBZ-SO2. .
+The mean AUC for TCBZ ( fasting fasting: 1.55 , fed fed: 5.72 micromol l ( -1 ) h ) , TCBZ-SO ( fasting fasting: 177 , fed fed: 386 micromol l ( -1 ) h ) and TCBZ-SO2 ( fasting fasting: 13.9 , fed fed: 30.5 micromol l ( -1 ) h ) indicated a large availability increase with food and the strong systemic predominance of the active sulphoxide metabolite over the unchanged drug .
+( All patients were cured at the end of the trial except one who required a second course of two postprandial doses of triclabendazole ( 10 mg kg ( -1 ) each ) .
+Tolerability to the treatment among the patients was good .
+The administration of triclabendazole with food is recommended for improved systemic availability in patients with fascioliasis or paragonimiasis .

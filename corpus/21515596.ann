@@ -1,0 +1,42 @@
+TS1621515596	sideeffect 0 13	Bleeding risk
+TS3521515596	sideeffect 43 62	atrial fibrillation
+TS1021515596	treatedDisease 202 212	Thrombosis
+TS2821515596	drug 262 277	anticoagulation
+TS3821515596	treatedDisease 289 308	atrial fibrillation
+TS2621515596	sideeffect 337 343	stroke
+TS3321515596	sideeffect 346 367	major bleeding events
+TS2321515596	sideeffect 381 401	intra-cranial bleeds
+TS3621515596	sideeffect 519 525	stroke
+TS1321515596	sideeffect 535 543	bleeding
+TS1421515596	sideeffect 575 583	bleeding
+TS3721515596	sideeffect 634 640	stroke
+TS121515596	sideeffect 680 688	bleeding
+TS221515596	sideeffect 762 770	bleeding
+TS2121515596	sideeffect 789 795	stroke
+TS3221515596	sideeffect 856 864	bleeding
+TS4321515596	sideeffect 995 1017	food-drug interactions
+TS3021515596	sideeffect 1124 1132	bleeding
+TS1821515596	sideeffect 1322 1330	bleeding
+TS1921515596	sideeffect 1365 1373	bleeding
+TS2921515596	sideeffect 1422 1430	bleeding
+TS1121515596	sideeffect 1514 1522	bleeding
+TS1221515596	sideeffect 1597 1605	bleeding
+TS3921515596	sideeffect 1637 1645	bleeding
+TS4021515596	sideeffect 1690 1698	bleeding
+TS3421515596	treatedDisease 1871 1895	acute coronary syndromes
+TS3121515596	sideeffect 2023 2029	bleeds
+TS321515596	sideeffect 2043 2051	bleeding
+TS2221515596	sideeffect 2223 2231	Bleeding
+TS2521515596	sideeffect 2269 2275	stroke
+TS2421515596	treatedDisease 2298 2317	atrial fibrillation
+TS521515596	sideeffect 2377 2385	bleeding
+TS621515596	sideeffect 2447 2455	bleeding
+TS721515596	sideeffect 2515 2523	bleeding
+T1	modeadm 257 261	oral
+T2	drug 280 283	OAC
+T3	treatedDisease 311 313	AF
+T4	drug 468 471	OAC
+R1	has_sideeffect Arg1:T4 Arg2:TS3621515596	
+R2	has_sideeffect Arg1:T4 Arg2:TS1321515596	
+R3	treat Arg1:T2 Arg2:TS3821515596	
+T5	sideeffect 1531 1547	thrombo-embolism

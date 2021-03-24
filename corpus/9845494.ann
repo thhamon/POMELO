@@ -1,0 +1,9 @@
+TS29845494	treatedDisease 111 120	infection
+TS39845494	treatedDisease 199 208	infection
+TS69845494	sideeffect 369 378	infection
+TS59845494	sideeffect 536 544	toxicity
+TS19845494	drug 694 700;716 727	active metabolites
+TS49845494	drug 742 754	chemotherapy
+TS89845494	sideeffect 757 774	drug interactions
+T1	drugEffect 513 531	antiviral activity
+T2	drug 705 727	toxic drug metabolites

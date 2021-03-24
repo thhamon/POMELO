@@ -1,0 +1,13 @@
+Pharmacokinetics and safety of JTP-4819 , a novel specific orally active prolyl endopeptidase inhibitor , in healthy male volunteers .
+To investigate the pharmacokinetics and safety profile of JTP-4819 , ( - ) - ( 2S ) -1-benzylaminocarbonyl- [ ( 2S ) -2-glycoloylpyrrolidinyl ]-2-pyrrolidinecarboxamide , a novel specific orally active prolyl endopeptidase ( PEP ) inhibitor .
+JTP-4819 was given orally to 28 healthy male volunteers at single doses of 30 mg ( n = 6 ) , 60 mg ( n = 6 ) , 120 mg ( n = 6 ) and placebo ( n = 3 ) and multiple doses of 60 mg three times daily ( n = 5 ) and placebo ( n = 2 ) for 7 days to investigate its safety and pharmacokinetics following a preliminary safety evaluation of 3 , 10 and 30 mg doses in six healthy volunteers .
+With the single dose of 60 mg , a cross-over study was conducted to examine the effect of food on the bioavailability of the drug .
+The concentrations of JTP-4819 in plasma and urine were determined by electrospray ionization-liquid chromatography  mass spectrometry ( ESI-LC  MS ) method .
+In the multiple-dose study , the cholinesterase activity was gradually increased and reached above the normal range on days 4 to 8 in all five subjects given JTP-4819 and gradually returned to normal range after completion of dosing .
+The elevation of plasma cholinesterase activity was considered to be an action of JTP-4819 , but this remains to be verified .
+There were no other abnormal findings in objective symptoms and laboratory findings including blood pressure , heart rate , electrocardiogram , body temperature , haematology , blood chemistry and urinalysis .
+The Cmax of JTP-4819 at 30 , 60 and 120 mg in fasting state were 474 , 887 and 1 , 649 ng ml-1 , respectively , at 1 h after administration , and the t1  2 was about 2 h .
+AUC increased in proportion to the given doses .
+The cumulative urinary recoveries within 24 h were approximately 66% , Cmax , AUC , t1  2 and urinary recovery were not affected by food intake .
+In the multiple-dose study , there was no drug accumulation trend in plasma .
+These results indicate that JTP-4819 has acceptable pharmacodynamic and pharmacokinetics profiles for clinical use without any serious adverse events as we verified in healthy young male volunteers .

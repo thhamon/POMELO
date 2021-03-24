@@ -1,0 +1,38 @@
+TS1311936572	drug 26 39	ciprofloxacin
+TS6611936572	foodSupplement 72 89	calcium-fortified
+TS2211936572	food 90 102	orange juice
+TS3311936572	sideeffect 132 143	interaction
+TS3011936572	drug 207 223	multivalent ions
+TS4511936572	drug 292 305	ciprofloxacin
+TS2711936572	food 364 368	food
+TS2311936572	food 373 388	dietary calcium
+TS5211936572	drug 397 416	calcium supplements
+TS1411936572	foodSupplement 459 482	calcium fortified foods
+TS1511936572	food 488 495	calcium
+TS1611936572	food 534 549	dietary calcium
+TS4611936572	sideeffect 749 770	antibiotic resistance
+TS5811936572	drug 909 922	ciprofloxacin
+TS4211936572	food 971 976	water
+TS2011936572	food 997 1009	orange juice
+TS6311936572	food 1043 1073	calcium-fortified orange juice
+TS3111936572	drug 1118 1131	ciprofloxacin
+TS1711936572	food 1179 1191	orange juice
+TS1811936572	food 1230 1260	calcium-fortified orange juice
+TS611936572	drug 1306 1319	ciprofloxacin
+TS2911936572	food 1367 1379	orange juice
+TS3211936572	food 1494 1506	orange juice
+TS5111936572	drug 1714 1727	ciprofloxacin
+TS5911936572	food 1779 1791	orange juice
+TS6011936572	food 1842 1872	calcium-fortified orange juice
+TS4811936572	sideeffect 2045 2067	food-drug interactions
+TS5711936572	food 2073 2088	fortified foods
+T1	drug 146 162	Fluoroquinolones
+T2	drug 321 337	fluoroquinolones
+T3	drug 640 656	fluoroquinolones
+R1	decrease_absorption Arg1:TS1411936572 Arg2:T3	
+R5	has_sideeffect Arg1:T3 Arg2:TS4611936572	
+R2	decrease_absorption Arg1:TS1711936572 Arg2:TS3111936572	
+R3	decrease_absorption Arg1:TS1811936572 Arg2:TS3111936572	
+R6	decrease_absorption Arg1:TS2911936572 Arg2:TS611936572	
+T4	sideeffect 1978 1999	antibiotic resistance
+R4	increase_side_effect Arg1:TS5711936572 Arg2:TS4811936572	

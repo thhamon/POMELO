@@ -1,0 +1,33 @@
+TS1822231999	food 0 9	Cranberry
+TS1522231999	drug 14 22	warfarin
+TS422231999	sideeffect 23 34	interaction
+R1	relation Arg1:TS1822231999 Arg2:TS1522231999
+TS1622231999	food 198 207	cranberry
+TS1722231999	drug 234 242	warfarin
+R2	negative_effect_on_drug Arg1:TS1622231999 Arg2:TS1722231999
+TS722231999	sideeffect 317 328	interaction
+TS822231999	drug 377 385	warfarin
+TS622231999	treatedDisease 398 417	atrial fibrillation
+TS922231999	food 500 509	cranberry
+TS1122231999	drug 639 647	warfarin
+TS1922231999	sideeffect 750 761	interaction
+TS1222231999	food 770 779	cranberry
+TS122231999	drug 784 792	warfarin
+TS1322231999	food 830 839	cranberry
+TS222231999	drug 888 896	warfarin
+R3	relation Arg1:TS1222231999 Arg2:TS122231999
+R4	negative_effect_on_drug Arg1:TS1322231999 Arg2:TS222231999
+TS2022231999	food 929 938	cranberry
+TS1022231999	drug 1036 1044	warfarin
+R5	relation Arg1:TS2022231999 Arg2:TS1022231999
+R6	increase_side_effect Arg1:TS1822231999 Arg2:TS422231999	
+T1	sideeffect 130 178	International Normalized Ratio ( INR ) increased
+R7	has_sideeffect Arg1:TS1722231999 Arg2:T1	
+R8	increase_side_effect Arg1:TS1622231999 Arg2:T1	
+R9	treat Arg1:TS822231999 Arg2:TS622231999	
+R10	increase_side_effect Arg1:TS922231999 Arg2:TS722231999	
+R11	negative_effect_on_drug Arg1:TS922231999 Arg2:TS822231999	
+R12	relation Arg1:TS1222231999 Arg2:TS1922231999	
+T2	sideeffect 853 865	increase INR
+R13	has_sideeffect Arg1:TS222231999 Arg2:T2	
+R14	increase_side_effect Arg1:TS1322231999 Arg2:T2	

@@ -1,0 +1,57 @@
+TS149333047	food 11 15	food
+TS499333047	drug 20 30	sucralfate
+TS239333047	drug 74 86	levofloxacin
+R1	relation Arg1:TS149333047 Arg2:TS239333047
+TS529333047	food 124 128	food
+TS259333047	drug 133 143	sucralfate
+TS339333047	drug 171 183	levofloxacin
+R3	relation Arg1:TS529333047 Arg2:TS339333047
+TS39333047	drug 362 374	Levofloxacin
+TS89333047	mealTime 416 423	fasting
+TS19333047	mealTime 426 429	fed
+TS329333047	food 465 483	high-fat breakfast
+TS489333047	mealTime 474 483	breakfast
+TS99333047	mealTime 492 499	fasting
+TS139333047	drug 505 515	sucralfate
+TS49333047	drug 558 570	levofloxacin
+TS399333047	drug 595 607	levofloxacin
+TS539333047	drug 946 958	levofloxacin
+TS569333047	drug 1160 1172	levofloxacin
+TS309333047	mealTime 1178 1193	a high-fat meal
+TS579333047	drug 1221 1233	levofloxacin
+TS509333047	mealTime 1314 1321	fasting
+TS279333047	mealTime 1326 1329	fed
+TS519333047	mealTime 1463 1470	fasting
+TS289333047	mealTime 1475 1478	fed
+TS549333047	drug 1509 1519	Sucralfate
+TS459333047	drug 1577 1589	levofloxacin
+TS209333047	mealTime 1692 1699	fasting
+TS69333047	drug 1878 1888	sucralfate
+TS79333047	mealTime 1991 1998	fasting
+TS349333047	drug 2139 2151	levofloxacin
+TS249333047	food 2176 2180	food
+TS179333047	drugEffect 2204 2219	bioavailability
+TS359333047	drug 2223 2235	levofloxacin
+TS159333047	mealTime 2246 2261	a high-fat meal
+R8	relation Arg1:TS249333047 Arg2:TS359333047
+TS189333047	drug 2290 2300	sucralfate
+TS369333047	drug 2334 2346	levofloxacin
+TS199333047	drug 2352 2362	sucralfate
+TS119333047	drug 2409 2428	antibacterial agent
+TS619333047	sideeffect 2459 2480	drug-drug interaction
+T1	modeadm 43 47	oral
+T2	dosage 56 70	500 milligrams
+T3	dosage 225 231	500-mg
+T4	modeadm 232 236	oral
+T5	mealTime 522 554	2 h following the administration
+T6	food 1180 1188	high-fat
+T7	mealTime 1545 1573	2 h after the administration
+R2	after Arg1:T7 Arg2:TS549333047	
+R4	after Arg1:T5 Arg2:TS139333047	
+T8	drugEffect 1636 1662	levofloxacin's disposition
+R5	slow_absorption Arg1:TS249333047 Arg2:TS349333047	
+T9	food 2248 2256	high-fat
+R6	no_effect_on_drug Arg1:T9 Arg2:TS359333047	
+R7	has_effect Arg1:TS359333047 Arg2:TS179333047	
+T10	mealTime 2373 2401	2 h after the administration
+R9	after Arg1:T10 Arg2:TS119333047	

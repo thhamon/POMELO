@@ -1,0 +1,11 @@
+The potential role of new oral anticoagulants in the prevention and treatment of thromboembolism .
+Thromboembolic disorders are among the major causes of morbidity and mortality , and anticoagulation remains the cornerstone of prevention and treatment of these disorders .
+Although effective , the well-established agents have significant drawbacks .
+Heparin , low molecular weight heparin , and fondaparinux must be given parenterally , which is inconvenient for long-term or home use .
+The orally administered vitamin K antagonists ( such as warfarin ) have a slow onset of action , thus requiring bridging therapy with a parenteral agent when immediate anticoagulation is needed ( e.g e.g. inpatients with acute deep vein thrombosis ) .
+Because vitamin K antagonists produce a variable anticoagulant response as a result of multiple drug-drug and food-drug interactions and genetic polymorphisms , frequent coagulation monitoring and dose adjustment are required to ensure a therapeutic level of anticoagulation , which is inconvenient for both patients and physicians .
+In the search for new agents to overcome the drawbacks associated with traditional agents , direct Factor Xa inhibitors ( e.g e.g. rivaroxaban , apixaban , and edoxaban ) and direct thrombin inhibitors ( e.g e.g. dabigatran etexilate ) have been developed and are undergoing late-stage clinical evaluation for the prevention and treatment of thromboembolic disorders .
+These new oral agents have already shown promise in large-scale clinical studies and data suggest that we have entered a new era with novel drugs that are closer than ever to the 'ideal anticoagulant anticoagulant' .
+Because these new oral agents have a rapid onset of action and can be given at fixed doses without the need for routine coagulation monitoring , they may simplify treatment paradigms and are expected to improve overall clinical outcome .
+Copyright bigasentc 2010 Elsevier Inc. .
+All rights reserved .

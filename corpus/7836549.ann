@@ -1,0 +1,21 @@
+TS87836549	food 23 27	food
+TS97836549	drugEffect 39 54	bioavailability
+TS137836549	food 132 136	food
+TS117836549	drug 173 179	Cognex
+R1	relation Arg1:TS137836549 Arg2:TS117836549
+TS127836549	mealTime 381 385	fast
+TS57836549	mealTime 425 472	15 minutes after beginning a standard breakfast
+TS157836549	mealTime 619 625	fasted
+TS27836549	mealTime 702 718	during breakfast
+TS37836549	mealTime 757 780	2 hours after breakfast
+TS107836549	mealTime 900 907	fasting
+TS17836549	mealTime 1013 1036	1 hour before breakfast
+T1	drug 31 38	tacrine
+T2	drug 163 170	tacrine
+R2	relation Arg1:TS137836549 Arg2:T2	
+T3	dosage 293 298	40-mg
+T4	frequency 312 328	1-week intervals
+T5	mealTime 479 527	2 hours after completion of a standard breakfast
+T6	mealTime 388 422	1 hour before a standard breakfast
+T7	sideeffect 530 559	Gastrointestinal side effects
+R3	increase_side_effect Arg1:TS157836549 Arg2:T7	

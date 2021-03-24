@@ -1,0 +1,3 @@
+TS510721388	sideeffect 20 37	drug interactions
+TS210721388	food 43 59	grapefruit juice
+R1	increase_side_effect Arg1:TS210721388 Arg2:TS510721388	

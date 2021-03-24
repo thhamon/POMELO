@@ -1,0 +1,17 @@
+Pharmacokinetics of sarizotan after oral administration of single and repeat doses in healthy subjects .
+Sarizotan is a 5-HTIA receptor agonist with high affinity for D3 and D4 receptors .
+Here we report the pharmacokinetic and tolerability results from four Phase 1 studies .
+Two single-dose ( 5 -25 mg , n = 25 , 0.5 - 5 mg , n = 16 ) and two multiple-dose ( 10 and 20 mg b.i.d. .
+, n = 30 , 5 mg b.i.d. .
+, n = 12 ) studies with orally administered sarizotan HCl were carried out in healthy subjects .
+Plasma sarizotan HCl concentrations were measured using a validated HPLC method and fluorescence or MS  MS detection .
+Pharmacokinetic parameters were obtained using standard non-compartmental methods .
+Sarizotan was rapidly absorbed , group-median times to reach maximum concentration ( tmax ) ranged from 0.5 -2.25 h after single doses and during steady state .
+Maximum plasma concentration ( Cmax ) and tmax were slightly dependent on formulation and food intake , whereas area under the curve ( AUC ) was unaffected by these factors .
+AUC and Cmax increased dose-proportionally over the tested dose range .
+Independently of dose and time , sarizotan HCl plasma concentrations declined polyexponentially with a terminal elimination half-life ( t1  2 ) of 5 - 7 h .
+Accumulation factors corresponded to t1  2 values , and steady state was reached within 24 h .
+Plasma metabolite concentrations were considerably lower than those of the parent drug .
+The ratio metabolite AUC : parent drug AUC was time- and dose-independent for all three metabolites suggesting that the metabolism of sarizotan is non-saturable in the tested dose range .
+The pharmacokinetics of sarizotan were dose-proportional and time-independent for the dose range 0.5 -25 mg ) .
+The drug was well-tolerated by healthy subjects up to a single dose of 20 mg .

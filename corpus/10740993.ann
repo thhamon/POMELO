@@ -1,0 +1,3 @@
+TS210740993	food 9 25	grapefruit juice
+T1	drug 33 45	psychotropic
+R1	no_effect_on_drug Arg1:TS210740993 Arg2:T1	

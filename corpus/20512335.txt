@@ -1,0 +1,13 @@
+Marginal increase of sunitinib exposure by grapefruit juice .
+The drug label of sunitinib includes a warning for concomitant use of grapefruit juice ( GJ ) but clinical evidence for this drug interaction is lacking .
+The aim of this study is to determine the effect of GJ , a potent intestinal cytochrome P450 ( CYP ) 3A4 inhibitor , on steady-state sunitinib pharmacokinetics ( PK ) .
+Sunitinib PK was evaluated in eight cancer patients receiving sunitinib monotherapy in a " 4 weeks on-2 weeks off " dose regimen .
+Serial blood samples for PK analysis of sunitinib were collected on two separate days .
+On both PK days , patients received a single oral dose of 7.5-mg midazolam as a phenotypic probe for assessment of intestinal CYP3A4 activity .
+The first PK day was at steady-state sunitinib PK ( between days 14-20 ) , the second PK day was on day 28. .
+On days 25 , 26 and 27 , 200-mL GJ was consumed 3 times a day .
+The effect of GJ on sunitinib exposure was assessed by comparing sunitinib PK with and without GJ .
+Concomitant use of GJ and sunitinib resulted in an 11% increase of the relative bioavailability of sunitinib ( P sentinf 0.05 ) .
+The effect of GJ on CYP3A4 activity was confirmed by an increase of senttild50% of mean midazolam exposure ( AUC ( 0-24 h ) ) from 122.1 to 182.0 ng h  mL ( P = 0.034 ) .
+GJ consumption results in a marginal increase in sunitinib exposure which is not considered clinically relevant .
+There is no clinical evidence underscoring the warning in the sunitinib drug label regarding concomitant use of GJ .

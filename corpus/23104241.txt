@@ -1,0 +1,11 @@
+Clinical predictors of serum clozapine levels in patients with treatment-resistant schizophrenia .
+Fixed oral doses of clozapine produce up to 45-fold interindividual variability among its serum levels in patients with treatment-resistant schizophrenia .
+Although the relationship between serum clozapine level and its therapeutic response is uncertain , the presence of a therapeutic window and level-dependent adverse effects require the estimation of serum clozapine levels .
+As routine therapeutic drug monitoring of clozapine is not feasible in many clinical settings , identification of clinical predictors of serum clozapine levels is desirable .
+Hence , we aimed to evaluate the clinical variables associated with serum clozapine levels .
+We assessed the sociodemographic and clinical profiles , cognition , disability and psychopathology of 101 consecutive patients with treatment-resistant schizophrenia on a stable dose of clozapine , using standard assessment schedules .
+We determined their serum clozapine levels using high-performance liquid chromatography with ultraviolet detection .
+While employing multivariate robust regression models , oral clozapine dose ( Psentinf0.001 ) , caffeine intake ( P=0.04 ) and Valproate comedication ( P=0.005 ) were associated with serum clozapine levels .
+Serum clozapine levels above 750 ng  ml increased the risk of seizures ( odds ratio 5.15 ; P=0.03 ) .
+Clinical variables are useful to model a dosing nomogram for serum clozapine levels .
+The importance of caffeine consumption and Valproate comedication should be considered during clozapine dose adjustments to enhance its therapeutic response and safety profile .

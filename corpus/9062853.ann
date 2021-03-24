@@ -1,0 +1,33 @@
+TS99062853	drug 11 39	stannous fluoride toothpaste
+TS179062853	drug 115 132	Stannous fluoride
+TS59062853	drug 247 255	fluoride
+TS189062853	drug 260 282	antimicrobial stannous
+TS209062853	drug 410 423	stannous ions
+TS149062853	food 507 510	tea
+TS219062853	drug 535 543	stannous
+TS169062853	drug 544 552	fluoride
+R1	relation Arg1:TS149062853 Arg2:TS219062853
+TS199062853	drug 659 681	stannous pyrophosphate
+TS229062853	food 861 864	Tea
+TS159062853	food 1251 1256	water
+TS29062853	drug 1493 1501	stannous
+TS89062853	drug 1558 1571	stannous ions
+T1	drug 135 137	SF
+T2	drugEffect 193 203	anticaries
+T3	drugEffect 208 225	plaque inhibitory
+R2	has_effect Arg1:TS179062853 Arg2:T2	
+R3	has_effect Arg1:TS179062853 Arg2:T3	
+T4	sideeffect 348 383	precipitation of dietary chromogens
+T5	sideeffect 307 322	Dental staining
+R4	has_sideeffect Arg1:TS209062853 Arg2:T4	
+R5	has_sideeffect Arg1:TS209062853 Arg2:T5	
+T6	drug 651 653	SF
+T7	drug 716 718	SF
+T8	drug 597 599	SF
+T9	sideeffect 865 873	staining
+R6	relation Arg1:TS229062853 Arg2:T9	
+T10	sideeffect 1128 1140	Tea staining
+T11	sideeffect 1572 1580	to stain
+R7	has_sideeffect Arg1:TS89062853 Arg2:T11	
+T12	drugEffect 1729 1751	antimicrobial activity
+T13	drugEffect 1774 1791	staining activity

@@ -1,0 +1,37 @@
+TS520959524	food 775 779	food
+TS320959524	mealTime 1194 1211	fasted conditions
+TS120959524	food 1296 1300	Food
+T1	drug 48 58	KNS-760704
+T2	drug 61 75	dexpramipexole
+T3	drug 227 246	amino-benzothiazole
+T4	treatedDisease 283 312	amyotrophic lateral sclerosis
+T5	treatedDisease 315 318	ALS
+T6	drug 106 120	Dexpramipexole
+T7	drug 123 133	KNS-760704
+T8	drug 136 203	[6R]-4 , 5 , 6 , 7-tetrahydro-N6-propyl-2 , 6-benzothiazole-diamine
+T9	drug 359 373	dexpramipexole
+T10	drugEffect 377 392	neuroprotective
+R1	has_effect Arg1:T9 Arg2:T10	
+T11	modeadm 426 432	orally
+T12	drug 707 721	dexpramipexole
+T13	frequency 787 798	single-dose
+T14	drug 805 819	dexpramipexole
+T15	frequency 841 853	Single doses
+T16	dosage 856 861	50 mg
+T17	dosage 864 870	150 mg
+T18	dosage 876 882	300 mg
+T19	frequency 889 903	multiple doses
+T20	dosage 906 911	50 mg
+T21	frequency 912 923	twice daily
+T22	dosage 926 932	100 mg
+T23	dosage 950 956	150 mg
+T24	frequency 933 944	twice daily
+T25	frequency 957 968	twice daily
+T26	drug 974 988	dexpramipexole
+T27	drug 1034 1048	Dexpramipexole
+T28	drug 1340 1354	dexpramipexole
+R2	no_effect_on_drug Arg1:TS120959524 Arg2:T28	
+T29	drug 1407 1421	dexpramipexole
+T30	treatedDisease 1443 1446	ALS
+R3	treat Arg1:T29 Arg2:T30	
+T31	treatedDisease 1519 1545	neurodegenerative diseases

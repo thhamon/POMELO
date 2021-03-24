@@ -1,0 +1,9 @@
+[Monoamine oxidase inhibitors and pressor response to dietary amines]. .
+Because gastro-intestinal monoamine oxidase ( MAO ) effectively prevents dietary pressor amines , typically tyramine , from entering the tissues , a marked hypertensive response ( the " cheese reaction " ) can occur when subjects treated with antidepressant MAO inhibitors ingest foods or beverages rich in such amines .
+Although tyramine is a substrate for both MAO-A and -B , it is only inhibitors of the former enzyme , which are also the effective antidepressants , that give rise to the cheese reaction .
+This has be shown to be owing to MAO-A being the major form of MAO in intestine and stomach .
+Selective inhibition of that form of the enzyme results in substantial amounts of unchanged tyramine passing through the intestine .
+The development of reversible inhibitors of monoamine oxidase- oxidase-A ( RIMAs ) has reduced this hypertensive response since rising tyramine concentrations can displace the inhibitor from the enzyme and thus allow some metabolism to occur .
+This has led to the development of MAO-inhibitory antidepressants that may , apparently , be used without dietary restriction .
+However , reversibility of the inhibitory process is not sufficient and the analysis of inhibitory behaviour presented here indicates that such safety will only be obtained with inhibitors that are competitive with respect to the amine substrates .
+Noncompetitive inhibitors might be expected to offer no safety advantage in this respect , whereas uncompetitive could actually exacerbate the pressor response .

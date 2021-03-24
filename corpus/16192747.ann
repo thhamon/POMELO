@@ -1,0 +1,20 @@
+TS1616192747	sideeffect 24 41	drug interactions
+TS1016192747	drug 45 56	caspofungin
+TS816192747	drug 194 205	antifungals
+TS516192747	drug 206 217	caspofungin
+TS1316192747	drug 292 307	amphotericin B.
+TS1516192747	treatedDisease 333 358	severe mycotic infections
+TS1816192747	sideeffect 438 455	drug interactions
+TS1216192747	sideeffect 475 487	interactions
+TS116192747	drug 544 555	caspofungin
+TS1716192747	sideeffect 786 803	drug interactions
+TS1116192747	drug 807 818	caspofungin
+T1	drug 61 73	voriconazole
+T2	drugEffect 119 139	antimycotic spectrum
+T3	sideeffect 171 183	side effects
+T4	drug 222 234	voriconazole
+T5	drug 504 516	voriconazole
+T6	sideeffect 603 654	inducing or inhibiting effect on the CYP 450 system
+R1	has_sideeffect Arg1:TS116192747 Arg2:T6	
+R2	has_sideeffect Arg1:T5 Arg2:T6	
+T7	drug 823 835	voriconazole

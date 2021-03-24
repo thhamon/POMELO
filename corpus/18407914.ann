@@ -1,0 +1,21 @@
+TS1318407914	drug 36 49	levothyroxine
+TS618407914	sideeffect 147 158	hypothyroid
+TS118407914	drug 223 236	levothyroxine
+TS718407914	sideeffect 250 261	hypothyroid
+TS1618407914	food 364 377	enteral feeds
+TS918407914	drug 421 434	levothyroxine
+TS518407914	drugEffect 458 473	bioavailability
+R1	relation Arg1:TS1618407914 Arg2:TS918407914
+TS418407914	drug 626 639	levothyroxine
+TS1018407914	drug 821 834	levothyroxine
+TS1118407914	drug 887 900	levothyroxine
+TS1218407914	drug 982 988	Jevity
+TS818407914	drug 1081 1094	levothyroxine
+TS1818407914	food 1444 1457	without feeds
+TS218407914	drug 1598 1611	levothyroxine
+TS318407914	drug 1643 1656	levothyroxine
+T1	modeadm 218 222	oral
+R2	has_effect Arg1:TS918407914 Arg2:TS518407914	
+R3	worsen_drug_effect Arg1:TS1618407914 Arg2:TS518407914	
+T2	drug 1204 1213	thyroxine
+T3	food 1253 1263	with feeds

@@ -1,0 +1,6 @@
+TS523102570	food2 0 13	Energy drinks
+TS123102570	drug 18 30	chemotherapy
+TS423102570	treatedDisease 93 99	cancer
+TS223102570	drug 119 131	chemotherapy
+R1	relation Arg1:TS523102570 Arg2:TS123102570
+R2	treat Arg1:TS223102570 Arg2:TS423102570	

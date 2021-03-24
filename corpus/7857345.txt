@@ -1,0 +1,7 @@
+Effect of food on the bioavailability of pidotimod in healthy volunteers .
+Pidotimod ( ( R ) -3- [ ( S ) - ( 5-oxo-2-pyrrolidinyl ) carbonyl]-thiazolidine-4-carboxylic acid , PGT  1A , CAS 121808-62-6 ) is a dipeptide-like molecule with immunostimulating activity in animals and in men .
+According to a cross-over randomized study design , 12 healthy volunteers received pidotimod both as 800 mg sachets and 800 mg ampoules after fasting and after a standard meal .
+The intake of a standard meal before pidotimod administration , either as sachet or as ampoule , reduced the bioavailability of the drug , probably due to an interference at the absorption level .
+After eating , the time of maximum plasma level was significantly longer than that observed after fasting , while AUC values and the maximum concentration were reduced by 50%. .
+On the contrary , the pharmacokinetics after absorption phase were not influenced by food food: as a matter of fact , half-life and MRT did not differ significantly when the drug was taken after fasting or after a standard meal .
+Finally , the two formulations used in this study resulted bioequivalent .

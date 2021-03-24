@@ -1,0 +1,18 @@
+TS2612125178	sideeffect 0 13	[Interactions
+TS1912125178	food 42 47	foods
+TS1712125178	food 52 58	drinks
+TS512125178	sideeffect 529 541	interactions
+TS1512125178	sideeffect 586 637	induces the expression of p-glycoprotein and CYP3A4
+TS2512125178	drug 713 728	Garlic extracts
+TS812125178	sideeffect 781 809	substrates for CYP3A4 CYP3A4
+TS312125178	food 827 843	grapefruit juice
+TS412125178	sideeffect 844 870	inhibits intestinal CYP3A4
+TS1112125178	drugEffect 906 921	bioavailability
+TS2012125178	sideeffect 954 969	adverse effects
+TS1812125178	sideeffect 986 998	interactions
+TS2112125178	sideeffect 1280 1295	adverse effects
+TS1612125178	sideeffect 1402 1414	interactions
+T1	drug 17 39	phytotherapeutic drugs
+R1	has_sideeffect Arg1:TS2512125178 Arg2:TS812125178	
+R2	increase_side_effect Arg1:TS312125178 Arg2:TS412125178	
+T2	sideeffect 1308 1329	loss of drug efficacy

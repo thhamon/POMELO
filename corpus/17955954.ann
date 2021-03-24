@@ -1,0 +1,22 @@
+TS417955954	drug 6 20	anticoagulants
+TS1617955954	sideeffect 60 82	herb-drug interactions
+TS1717955954	sideeffect 92 114	food-drug interactions
+TS2117955954	drug 145 161	herbal medicines
+TS1217955954	food 166 170	food
+TS817955954	drug 204 217	anticoagulant
+R1	relation Arg1:TS1217955954 Arg2:TS817955954
+TS2017955954	drug 966 982	herbal medicines
+TS1017955954	food 987 991	food
+TS717955954	drug 1019 1033	anticoagulants
+R2	relation Arg1:TS1017955954 Arg2:TS717955954
+TS1117955954	sideeffect 1262 1274	interactions
+TS517955954	sideeffect 1316 1328	interactions
+TS1417955954	drug 1361 1376	anticoagulation
+TS617955954	sideeffect 1438 1450	interactions
+T1	modeadm 1 5	Oral
+R3	has_sideeffect Arg1:TS417955954 Arg2:TS1617955954	
+R4	has_sideeffect Arg1:TS417955954 Arg2:TS1717955954	
+T2	drug 265 279	anticoagulants
+T3	sideeffect 286 307	herb-drug interaction
+T4	sideeffect 314 335	food-drug interaction
+T5	foodSupplement 414 433	dietary supplements

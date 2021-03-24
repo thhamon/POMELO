@@ -1,0 +1,36 @@
+TS1617875111	drug 60 70	cilostazol
+TS1817875111	food 74 90	grapefruit juice
+TS2817875111	sideeffect 114 121	purpura
+TS3317875111	drug 163 173	cilostazol
+TS2617875111	drug 176 183	aspirin
+TS2217875111	food 188 204	grapefruit juice
+TS3117875111	treatedDisease 230 256	atherosclerosis obliterans
+TS3417875111	drug 266 276	cilostazol
+TS1917875111	drug 281 288	aspirin
+TS2117875111	sideeffect 305 312	purpura
+TS3517875111	food 374 390	grapefruit juice
+TS3217875111	sideeffect 409 416	purpura
+TS1117875111	food 447 463	grapefruit juice
+TS1417875111	sideeffect 539 546	purpura
+TS917875111	sideeffect 553 594	increase in the blood level of cilostazol
+TS1017875111	sideeffect 610 645	inhibition of cilostazol metabolism
+TS2517875111	food 663 679	grapefruit juice
+TS217875111	drug 682 689	Aspirin
+TS2017875111	sideeffect 732 739	purpura
+TS3017875111	food 742 758	Grapefruit juice
+TS1217875111	drug 796 806	cilostazol
+TS517875111	drug 871 885	anticoagulants
+R1	negative_effect_on_drug Arg1:TS3017875111 Arg2:TS1217875111
+R2	has_sideeffect Arg1:TS3317875111 Arg2:TS2817875111	
+R3	has_sideeffect Arg1:TS2617875111 Arg2:TS2817875111	
+R4	increase_side_effect Arg1:TS2217875111 Arg2:TS2817875111	
+R5	relation Arg1:TS2217875111 Arg2:TS2617875111	
+R6	relation Arg1:TS2217875111 Arg2:TS3317875111	
+R7	has_sideeffect Arg1:TS3417875111 Arg2:TS2117875111	
+R8	treat Arg1:TS3417875111 Arg2:TS3117875111	
+R9	treat Arg1:TS1917875111 Arg2:TS3117875111	
+R10	has_sideeffect Arg1:TS1917875111 Arg2:TS2117875111	
+R11	increase_side_effect Arg1:TS2517875111 Arg2:TS1017875111	
+R12	increase_side_effect Arg1:TS2517875111 Arg2:TS917875111	
+R13	increase_side_effect Arg1:TS2517875111 Arg2:TS1417875111	
+R14	has_sideeffect Arg1:TS217875111 Arg2:TS2017875111	

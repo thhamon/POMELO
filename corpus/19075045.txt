@@ -1,0 +1,11 @@
+Pharmacokinetics and absorption of posaconazole oral suspension under various gastric conditions in healthy volunteers .
+A four-part , randomized , crossover study with healthy subjects evaluated the effects of gastric pH , the dosing frequency and prandial state , food consumption timing , and gastric motility on the absorption of posaconazole .
+In part 1 , a single dose ( SD ) of posaconazole ( 400 mg ) was administered alone or with an acidic beverage or a proton pump inhibitor ( PPI ) , or both .
+In part 2 , posaconazole ( 400 mg twice daily and 200 mg four times daily ) was administered for 7 days with and without a nutritional supplement ( Boost ) .
+In part 3 , an SD of posaconazole ( 400 mg ) was administered while the subjects were fasting and before , during , and after a high-fat meal .
+In part 4 , an SD of posaconazole ( 400 mg ) and the nutritional supplement were administered alone , with metoclopramide , and with loperamide .
+Compared to the results obtained with posaconazole alone , administration with an acidic beverage increased the posaconazole maximum concentration in plasma ( C ( max ) ) and the area under the concentration-time curve ( AUC ) by 92% and 70% , respectively , whereas a higher gastric pH decreased the posaconazole C ( max ) and AUC by 46% and 32% , respectively .
+Compared to the results obtained with posaconazole alone , posaconazole at 400 mg or at 200 mg plus the nutritional supplement increased the posaconazole C ( max ) and AUC by 65% and 66% , respectively , and by up to 137% and 161% , respectively .
+Administration before a high-fat meal increased the C ( max ) and the AUC by 96% and 111% , respectively , while administration during and after the meal increased the C ( max ) and the AUC by up to 339% and 387% , respectively .
+Increased gastric motility decreased the C ( max ) and the AUC by 21% and 19% , respectively .
+Strategies to maximize posaconazole exposure in patients with absorption difficulties include administration with or after a high-fat meal , with any meal or nutritional supplement , with an acidic beverage , or in divided doses and the avoidance of proton pump inhibitors .

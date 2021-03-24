@@ -1,0 +1,28 @@
+TS2812165187	drug 29 33	drug
+TS2412165187	drug 55 59	drug
+TS1112165187	sideeffect 76 88	interactions
+TS112165187	sideeffect 491 503	interactions
+TS2312165187	sideeffect 628 645	drug interactions
+TS2212165187	food 826 830	diet
+TS212165187	food 833 842	nutrients
+TS3012165187	food 849 864	herbal products
+TS912165187	food 1067 1071	diet
+TS1912165187	food 1076 1082	herbal
+TS1212165187	sideeffect 1139 1147	toxicity
+TS3212165187	sideeffect 1340 1362	drug-drug interactions
+TS2712165187	drug 1379 1383	Drug
+TS3112165187	drug 1393 1397	drug
+TS712165187	sideeffect 1403 1415	interactions
+TS2912165187	drug 1653 1662	drug-herb
+TS1512165187	sideeffect 1683 1695	interactions
+T1	drug 11 15	drug
+T2	sideeffect 192 211	iatrogenic diseases
+T3	sideeffect 156 178	Adverse drug reactions
+T4	sideeffect 181 185	ADRs
+T5	sideeffect 464 486	adverse drug reactions
+T6	drug 1669 1682	drug-nutrient
+T7	food 1384 1388	food
+T8	food 1398 1402	herb
+T9	food 6 10	Herb
+T10	food 24 28	food
+T11	food 46 54	nutrient

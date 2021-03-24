@@ -1,0 +1,19 @@
+Bergamottin , lime juice , and red wine as inhibitors of cytochrome P450 3A4 activity: comparison with grapefruit juice .
+Our objective was to assess the importance of bergamottin in drug interactions through comparisons between grapefruit juice and lime juice and the potential for drug interactions with red wine .
+Bergamottin content and in vitro reversible  irreversible inhibition of cytochrome P450 ( CYP ) 3A4 monooxygenase activities were determined for grapefruit and lime juices .
+The oral pharmacokinetics of felodipine and its primary metabolite ( dehydrofelodipine ) were determined with 250 mL of grapefruit juice , one quarter-strength lime juice , red wine , or water in a randomized crossover study .
+Bergamottin concentrations in grapefruit and lime juices were 25 and 100 micromol  L , respectively .
+For reversible inhibition , log volume-residual CYP3A4 activity relationships for grapefruit and lime juices had negative linear slopes that were parallel .
+The curve for grapefruit juice was 4.0-fold right-shifted , as compared with that for lime juice .
+For irreversible inhibition , the curves for grapefruit and lime juices were 4.0- and 1.4-fold left-shifted , as compared with those for reversible inhibition , respectively .
+Grapefruit juice increased the mean felodipine area under the plasma concentration-time curve ( AUC ) ( mean +  - SE , 55 +  - 9 nmol .
+h  L versus 29 +  - 6 nmol .
+h  L ; P sentinf.05 ) and the plasma peak drug concentration ( 16 +  - 3 nmol  L versus 8 +  - 2 nmol  L , P sentinf.05 ) and decreased the dehydrofelodipine  felodipine AUC ratio compared with those of water .
+One quarter-strength lime juice did not alter mean values .
+However , the changes in individual felodipine AUC after grapefruit juice and lime juice correlated ( r ( 2 ) = 0.95 ) with a low slope ( 0.36 ) .
+One quarter-strength lime juice more than doubled felodipine AUC and plasma peak drug concentration in 2 subjects .
+Red wine prolonged mean felodipine time to plasma peak drug concentration .
+Felodipine concentrations were low and peaked abruptly in 4 subjects .
+Adverse effects occurred in 1 subject .
+Bergamottin and reversible inhibition are not the primary substance and mechanism responsible for inhibition of CYP3A4 activity clinically .
+Red wine can cause dose dumping of extended-release felodipine in certain individuals .

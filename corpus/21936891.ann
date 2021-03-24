@@ -1,0 +1,43 @@
+TS2821936891	food 0 16	Soybean glycinin
+TS1021936891	drug 62 74	rosuvastatin
+R1	negative_effect_on_drug Arg1:TS2821936891 Arg2:TS1021936891
+TS121936891	food 191 211	glycinin soy protein
+TS421936891	drug 251 263	rosuvastatin
+TS1721936891	treatedDisease 284 304	hypercholesterolemia
+R2	relation Arg1:TS121936891 Arg2:TS421936891
+TS621936891	mealTime 533 536	fed
+TS821936891	food 540 546	casein
+TS1921936891	food 550 564	protein source
+TS2521936891	food 634 645	cholic acid
+TS321936891	drug 749 761	rosuvastatin
+TS521936891	food 1012 1023	cholic acid
+TS1121936891	sideeffect 1032 1052	hypercholesterolemia
+TS721936891	food 1187 1194	protein
+TS2921936891	sideeffect 1284 1297	triglycerides
+TS1221936891	food 1371 1396	hypercholesterolemic diet
+TS2721936891	drug 1485 1497	rosuvastatin
+TS2421936891	food 1508 1515	protein
+TS221936891	drugEffect 1628 1641	plasma levels
+T1	treatedDisease 78 98	hypercholesterolemic
+R6	treat Arg1:TS1021936891 Arg2:T1	
+T2	frequency 168 173	daily
+R7	treat Arg1:TS421936891 Arg2:TS1721936891	
+T3	food 683 691	glycinin
+T4	dosage 694 704	300 mg  kg
+T5	frequency 706 709	day
+T6	dosage 764 773	10 mg  kg
+T7	frequency 775 778	day
+T8	duration 931 942	for 28 days
+T9	food 991 1002	cholesterol
+T10	food 613 624	cholesterol
+R3	increase_side_effect Arg1:TS521936891 Arg2:TS1121936891	
+R4	increase_side_effect Arg1:T9 Arg2:TS1121936891	
+T11	frequency 1122 1127	daily
+T12	food 1136 1144	glycinin
+T13	sideeffect 1257 1270	raising HDL-C
+R8	increase_side_effect Arg1:T12 Arg2:T13	
+R5	reduce_side_effect Arg1:T12 Arg2:TS2921936891	
+T14	sideeffect 1315 1346	improving the atherogenic index
+R9	increase_side_effect Arg1:T12 Arg2:T14	
+T15	food 1518 1526	glycinin
+R10	negative_effect_on_drug Arg1:T15 Arg2:TS2721936891	

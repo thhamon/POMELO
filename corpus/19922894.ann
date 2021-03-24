@@ -1,0 +1,45 @@
+TS1819922894	food 11 15	food
+TS1419922894	drug 50 70	diclofenac potassium
+R1	relation Arg1:TS1819922894 Arg2:TS1419922894
+TS1019922894	drug 158 178;201 221	Diclofenac potassium soft gelatin capsule
+TS119922894	drug 357 362	NSAID
+TS1619922894	food 422 426	food
+TS2919922894	drugEffect 598 613	bioavailability
+TS2419922894	mealTime 725 739	overnight fast
+TS3519922894	mealTime 742 748	fasted
+TS3019922894	food 764 772	high-fat
+TS519922894	mealTime 773 782	breakfast
+TS819922894	mealTime 785 788	fed
+TS2119922894	mealTime 890 893	fed
+TS3619922894	mealTime 895 901	fasted
+TS219922894	drug 1041 1051	diclofenac
+TS3419922894	mealTime 1442 1448	fasted
+TS2619922894	mealTime 1453 1456	fed
+TS2019922894	food 1728 1732	Food
+TS3219922894	mealTime 1819 1825	fasted
+TS1919922894	mealTime 1829 1832	fed
+TS1519922894	sideeffect 2155 2171	nasal congestion
+TS3719922894	sideeffect 2176 2192	light-headedness
+TS419922894	mealTime 2252 2255	fed
+TS1319922894	mealTime 2283 2300	fasted conditions
+TS719922894	food 2318 2322	Food
+T1	drug 224 229	DPSGC
+T2	drug 480 485	DPSGC
+T3	dosage 498 510	25 and 50 mg
+T4	drug 698 703	DPSGC
+T5	dosage 704 715	25 or 50 mg
+T6	sideeffect 1135 1149	Adverse events
+T7	dosage 1269 1274	25-mg
+T8	drug 1283 1288	DPSGC
+T9	dosage 1309 1314	50-mg
+T10	dosage 1534 1539	25-mg
+T11	dosage 1805 1810	25-mg
+T12	dosage 1908 1913	50-mg
+T13	dosage 2002 2007	25-mg
+T14	sideeffect 2149 2152	AEs
+T15	sideeffect 1152 1155	AEs
+T16	dosage 2240 2245	25 mg
+T17	dosage 2271 2276	50 mg
+T18	drug 2412 2417	DPSGC
+T19	dosage 2430 2442	25 and 50 mg
+R2	no_effect_on_drug Arg1:TS719922894 Arg2:T18	

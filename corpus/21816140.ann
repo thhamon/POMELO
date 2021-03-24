@@ -1,0 +1,23 @@
+TS1321816140	food 11 16	foods
+TS1421816140	drug 21 40	dietary supplements
+TS1221816140	drug 313 333	nutrition complement
+TS121816140	food 390 399	nutrition
+TS821816140	food 487 492	foods
+TS2021816140	drug 497 516	dietary supplements
+TS321816140	food 575 579	food
+TS721816140	food 638 643	foods
+TS421816140	food 805 810	foods
+TS1921816140	drug 815 834	dietary supplements
+R4	relation Arg1:TS421816140 Arg2:TS1921816140
+TS2121816140	food 859 864	foods
+TS221816140	drug 868 887	dietary supplements
+R5	relation Arg1:TS2121816140 Arg2:TS221816140
+TS2421816140	sideeffect 1157 1179	food-drug interactions
+TS921816140	food 1485 1490	foods
+TS1621816140	drug 1495 1514	dietary supplements
+TS1021816140	food 1563 1568	foods
+TS1721816140	drug 1572 1591	dietary supplements
+R6	relation Arg1:TS1021816140 Arg2:TS1721816140
+R7	relation Arg1:TS921816140 Arg2:TS1621816140
+T1	food 1220 1242	functional ingredients
+R1	increase_side_effect Arg1:T1 Arg2:TS2421816140	

@@ -1,0 +1,15 @@
+Phase I dose-finding and pharmacokinetic trial of orally administered indibulin ( D-24851 ) to patients with solid tumors .
+Indibulin is a synthetic small molecule which antitumor activity is based upon destabilization of microtubules .
+The primary study objectives were to determine the impact of fasted and fed condition on pharmacokinetic parameters , as well as the maximum tolerated dose of the oral drinking solution of indibulin administered once daily for 14 days every 3 weeks in patients with solid tumors .
+In the pilot food effect part , patients received a single dose of 20 mg indibulin on day-8 and -4 , fasted or fed , in a randomized crossover design .
+In the dose-escalation part , patients received a single dose of indibulin on day-4. .
+Three dose levels were evaluated: 20 , 40 and 80 mg .
+After a washout period , patients received indibulin once daily for 14 days every 3 weeks ( multiple dose part ) .
+Blood samples were collected in the pilot food effect- and in the dose escalation study .
+A total of 14 patients entered , of which 6 completed the food effect study .
+The ratio of indibulin ( fed  fasted ) in the food effect study for AUC ( 0-72 ) was estimated as 1.24 ( P=0.082 , 95%CI 0.96-1.41 ) and C ( max ) ratio was 0.89 ( P=0.54 , 95%CI 0.55-1.44 ) .
+Interpatient variability was high .
+Higher peak plasma concentrations were reached under fasting conditions which was undesired regarding tolerability .
+Therefore the dose escalation study was continued under fed conditions .
+Dose limiting toxicities , nausea and vomiting , appeared to be related to the increased volume of the solvent lactic acid .
+This study is continued , evaluating indibulin administered as capsules on the recommended dose level of 60 mg daily for 14 days .

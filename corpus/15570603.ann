@@ -1,0 +1,40 @@
+TS5315570603	food 10 22	fruit juices
+TS915570603	drugEffect 35 50	bioavailability
+TS2715570603	drug 54 66	fexofenadine
+R1	relation Arg1:TS5315570603 Arg2:TS2715570603
+TS3715570603	drug 77 89	Fexofenadine
+TS5615570603	food 310 322	fruit juices
+TS3615570603	drugEffect 340 355	bioavailability
+TS3515570603	drug 359 371	fexofenadine
+R2	relation Arg1:TS5615570603 Arg2:TS3515570603
+TS4815570603	food 480 492	fruit juices
+TS2215570603	drug 519 531	fexofenadine
+TS415570603	sideeffect 567 596	fruit juice- drug interaction
+R3	relation Arg1:TS4815570603 Arg2:TS2215570603
+TS315570603	drug 615 627	fexofenadine
+TS1715570603	drug 810 822	fexofenadine
+TS3315570603	drug 828 840	ketoconazole
+TS1815570603	drug 893 905	fexofenadine
+TS515570603	drug 951 963	fexofenadine
+TS2915570603	food 969 981	orange juice
+TS2415570603	food 985 996	apple juice
+TS615570603	drug 1036 1048	fexofenadine
+R4	relation Arg1:TS2915570603 Arg2:TS615570603
+TS3215570603	food 1107 1113	orange
+TS4515570603	food 1117 1128	apple juice
+TS2115570603	drug 1181 1193	fexofenadine
+R5	relation Arg1:TS3215570603 Arg2:TS2115570603
+TS215570603	drug 1245 1257	fexofenadine
+TS1615570603	drugEffect 1258 1273	bioavailability
+TS4715570603	food 1357 1369	fruit juices
+TS3815570603	drug 1446 1458	fexofenadine
+R6	relation Arg1:TS4715570603 Arg2:TS3815570603
+TS5415570603	sideeffect 1546 1570	juice- -drug interaction
+TS5515570603	sideeffect 1627 1651	food- -drug interactions
+T1	sideeffect 390 415	inhibiting OATP over P-gp
+R7	relation Arg1:TS5615570603 Arg2:T1	
+T2	modeadm 500 504	oral
+T3	drug 845 859	P-gp inhibitor
+R8	relation Arg1:TS2415570603 Arg2:TS615570603	
+T4	sideeffect 1394 1406	inhibit OATP
+R9	relation Arg1:TS4715570603 Arg2:T4	

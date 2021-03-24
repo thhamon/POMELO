@@ -1,0 +1,33 @@
+TS2817916059	drug 11 23	escitalopram
+TS2217916059	treatedDisease 31 47	major depression
+TS417916059	treatedDisease 115 132	anxiety disorders
+TS2417916059	drug 135 147	Escitalopram
+TS1617916059	drug 154 192	active ( S ) -enantiomer of citalopram
+TS1217916059	treatedDisease 288 305	anxiety disorders
+TS617916059	drug 345 355	citalopram
+TS717916059	drug 585 595	citalopram
+TS1917916059	sideeffect 599 651	binding to the histamine H1 and muscarinic receptors
+TS217916059	drug 654 666	Escitalopram
+TS2617916059	drugEffect 731 746	bioavailability
+TS3017916059	food 777 781	food
+TS317916059	sideeffect 824 836	interactions
+TS817916059	drug 1128 1138	metoprolol
+TS117916059	sideeffect 1189 1223	severe hepatic or renal impairment
+TS1017916059	drug 1269 1281	escitalopram
+TS2917916059	drug 1353 1365	Escitalopram
+TS2317916059	treatedDisease 1411 1428	anxiety disorders
+TS3217916059	treatedDisease 1578 1607	obsessive-compulsive disorder
+TS2717916059	treatedDisease 1610 1638	generalised anxiety disorder
+TS2017916059	treatedDisease 1641 1655	panic disorder
+TS1417916059	treatedDisease 1660 1673	social phobia
+TS3117916059	treatedDisease 1729 1754	impulse control disorders
+T1	treatedDisease 273 283	depression
+R2	treat Arg1:TS2817916059 Arg2:TS2217916059	
+R3	treat Arg1:TS2817916059 Arg2:TS417916059	
+R4	treat Arg1:TS2417916059 Arg2:T1	
+R5	treat Arg1:TS2417916059 Arg2:TS1217916059	
+T2	drugEffect 359 389	inhibiting serotonin re-uptake
+R6	has_effect Arg1:TS617916059 Arg2:T2	
+T3	drug 438 478	selective serotonin re-uptake inhibitors
+R1	no_effect_on_drug Arg1:TS3017916059 Arg2:TS217916059	
+R7	treat Arg1:TS2917916059 Arg2:TS2317916059	

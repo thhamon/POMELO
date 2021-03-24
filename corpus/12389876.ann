@@ -1,0 +1,46 @@
+TS4212389876	drug 0 17	Imatinib mesylate
+TS5512389876	food 155 164	drug-food
+TS3812389876	sideeffect 165 182	food interactions
+TS112389876	drug 186 194	imatinib
+TS212389876	drug 230 238	imatinib
+TS3012389876	treatedDisease 259 283	chronic myeloid leukemia
+R1	relation Arg1:TS5512389876 Arg2:TS112389876
+R2	relation Arg1:TS5512389876 Arg2:TS212389876
+TS912389876	drug 488 496	imatinib
+TS3112389876	treatedDisease 725 749	chronic myeloid leukemia
+TS2112389876	drug 752 760	imatinib
+TS3412389876	drug 763 773	interferon
+TS512389876	drug 776 783	Gleevec
+TS2912389876	treatedDisease 786 794	leukemia
+TS2512389876	treatedDisease 797 828	gastrointestinal stromal tumors
+TS2712389876	drug 845 871	tyrosine kinase inhibitors
+TS2212389876	drug 874 882	Imatinib
+TS3312389876	drugEffect 938 976	inhibition of tyrosine kinase activity
+TS1212389876	drug 979 987	Imatinib
+TS3912389876	treatedDisease 1124 1155	gastrointestinal stromal tumors
+TS5312389876	treatedDisease 1158 1163	GISTs
+TS312389876	drug 1214 1222	Imatinib
+TS5412389876	treatedDisease 1387 1392	GISTs
+TS1012389876	drug 1547 1555	imatinib
+TS4612389876	sideeffect 1566 1581	adverse effects
+TS3512389876	sideeffect 1641 1646	edema
+TS2412389876	sideeffect 1649 1663	hepatotoxicity
+TS1912389876	sideeffect 1670 1690	hematologic toxicity
+TS712389876	drug 1693 1701	Imatinib
+TS2312389876	drugEffect 1725 1749	inhibit tyrosine kinases
+TS4012389876	sideeffect 1782 1794	malignancies
+TS4712389876	drug 1809 1817	imatinib
+TS1312389876	treatedDisease 1821 1827	tumors
+TS3612389876	drug 1910 1918	Imatinib
+TS5012389876	treatedDisease 1963 1968	tumor
+TS3712389876	drug 2050 2058	imatinib
+R3	has_effect Arg1:TS2212389876 Arg2:TS3312389876	
+T1	treatedDisease 286 289	CML
+T2	treatedDisease 1036 1039	CML
+R4	treat Arg1:TS1212389876 Arg2:T2	
+T4	drug 1051 1076	interferon ( IFN ) -alpha
+R5	treat Arg1:T4 Arg2:T2	
+R6	treat Arg1:TS1212389876 Arg2:TS3912389876	
+T3	treatedDisease 1307 1310	CML
+R7	has_effect Arg1:TS712389876 Arg2:TS2312389876	
+T5	treatedDisease 2044 2047	CML

@@ -1,0 +1,13 @@
+TS2011957745	sideeffect 0 28	Pharmacokinetic interactions
+TS1511957745	drug 32 39	statins
+TS311957745	drug 42 49	Statins
+TS1111957745	treatedDisease 87 107	hypercholesterolemia
+TS411957745	sideeffect 411 422	interaction
+TS1611957745	food 512 516	food
+TS1811957745	sideeffect 718 746	pharmacokinetic interactions
+TS611957745	drug 752 759	statins
+TS1411957745	sideeffect 783 794	interaction
+TS511957745	drug 815 821	statin
+TS1311957745	sideeffect 1075 1086	interaction
+TS211957745	drug 1334 1341	statins
+T1	drug 950 968	HMG-CoA inhibitors

@@ -1,0 +1,12 @@
+TS122217686	sideeffect 67 79	interactions
+TS722217686	treatedDisease 413 425	malignancies
+TS922217686	sideeffect 636 651	adverse effects
+TS622217686	sideeffect 849 864	adverse effects
+TS322217686	sideeffect 869 881	interactions
+TS822217686	sideeffect 951 963	interactions
+TS522217686	sideeffect 968 983	adverse effects
+T1	modeadm 7 11	oral
+T2	drug 12 28	anticancer drugs
+T3	sideeffect 42 64	adverse drug reactions
+T4	modeadm 174 178	oral
+T5	drug 179 196	anticancer agents

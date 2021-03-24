@@ -1,0 +1,13 @@
+Safety , tolerability , and pharmacokinetics of escalating high doses of ivermectin in healthy adult subjects .
+Safety and pharmacokinetics ( PK ) of the antiparasitic drug ivermectin , administered in higher and  or more frequent doses than currently approved for human use , were evaluated in a double-blind , placebo-controlled , dose escalation study .
+Subjects ( n = 68 ) were assigned to one of four panels ( 3:1 , ivermectin  placebo ) : 30 or 60 mg ( three times a week ) or 90 or 120 mg ( single dose ) .
+The 30 mg panel ( range: 34 7-594 microg  kg ) also received a single dose with food after a 1-week washout .
+Safety assessments addressed both known ivermectin CNS effects and general toxicity .
+The primary safety endpoint was mydriasis , accurately quantitated by pupillometry .
+Ivermectin was generally well tolerated , with no indication of associated CNS toxicity for doses up to 10 times the highest FDA-approved dose of 200 microg  kg .
+All dose regimens had a mydriatic effect similar to placebo .
+Adverse experiences were similar between ivermectin and placebo and did not increase with dose .
+Following single doses of 30 to 120 mg , AUC and Cmax were generally dose proportional , with t ( max ) approximately 4 hours and t1  2 approximately 18 hours .
+The geometric mean AUC of 30 mg ivermectin was 2.6 times higher when administered with food .
+Geometric mean AUC ratios ( day 7  day 1 ) were 1.24 and 1.40 for the 30 and 60 mg doses , respectively , indicating that the accumulation of ivermectin given every fourth day is minimal .
+This study demonstrated that ivermectin is generally well tolerated at these higher doses and more frequent regimens .

@@ -1,0 +1,14 @@
+TS19211455	sideeffect 0 26	Drug-nutrient interactions
+TS59211455	sideeffect 88 100	interactions
+TS29211455	sideeffect 149 162	malabsorption
+TS79211455	sideeffect 225 255	stimulate or suppress appetite
+TS109211455	sideeffect 283 302	nausea and vomiting
+T1	drug 30 45	enteral feeding
+T2	food 79 87	nutrient
+T3	drug 70 74	Drug
+R1	relation Arg1:T2 Arg2:T3	
+R2	relation Arg1:T2 Arg2:TS59211455	
+R3	has_sideeffect Arg1:T3 Arg2:TS59211455	
+R4	increase_side_effect Arg1:T2 Arg2:TS29211455	
+T4	food 787 791	food
+T5	modeadm 800 815	enteral formula

@@ -1,0 +1,8 @@
+Monoamine oxidase inhibitors .
+A perspective on their use in the elderly .
+Monoamine oxidase inhibitors ( MAOIs ) are mainly used in psychiatry for the treatment of depressive disorders and in neurology for the treatment of Parkinson's disease .
+While the classical , nonselective and nonreversible MAOIs , such as phenelzine and tranylcypromine , are characterised by the risk of inducing a hypertensive crisis when dietary tyramine is ingested , the selective monoamine oxidase- oxidase-B ( MAO-B ) inhibitor selegiline ( deprenyl ) and , even more so , the selective and reversible monoamine oxidase- oxidase-A ( MAO-A ) inhibitor moclobemide , are free from this potential interaction .
+Drug tolerability data for the elderly show that moclobemide is one of the most well tolerated compounds .
+Selegiline , especially when used in combination with levodopa , can cause anorexia , dry mouth , dyskinesia and , most problematic , orthostatic hypotension .
+For the traditional MAOIs , phenelzine and tranylcypromine , published data are insufficient to be able to give a conclusive tolerability statement regarding the use of these compounds in elderly people .
+Although orthostatic hypotension occurs in most patients treated with traditional MAOIs , the incidence in elderly patients with depression does not appear to be greater than that reported with tricyclic antidepressants .

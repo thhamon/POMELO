@@ -1,0 +1,14 @@
+TS79796864	food 9 13	diet
+TS139796864	sideeffect 14 26	interactions
+TS159796864	sideeffect 62 71	paralysis
+TS99796864	sideeffect 108 134	drug and diet interactions
+TS189796864	drug 183 203	antidepressant drugs
+TS149796864	drug 349 364	antidepressants
+TS59796864	sideeffect 646 672	drug and diet interactions
+TS29796864	drug 715 730	antidepressants
+TS109796864	drug2 840 847	enzymes
+TS49796864	drug 926 945	antidepressant drug
+TS69796864	sideeffect 956 979	drug  diet interactions
+T1	drug 0 4	Drug
+R1	has_sideeffect Arg1:TS189796864 Arg2:TS99796864	
+R2	has_sideeffect Arg1:TS49796864 Arg2:TS69796864	

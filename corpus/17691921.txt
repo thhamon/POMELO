@@ -1,0 +1,14 @@
+Different roles of pummelo furanocoumarin and cytochrome P450 3A5*3 polymorphism in the fate and action of felodipine .
+Herein we aim to test if pummelo furanocoumarins can inhibit cytochrome P450 ( CYP ) 3A both in vitro and in vivo , and to explore the influence of CYP3A5* CYP3A5*3 ( GenBank AC005020: A22893- -sentsupG ) polymorphism in the pharmacokinetics and pharmacological response to felodipine .
+Fruit juices of pummelo grapefruit ( Citrus paradisi Macf .
+, G ) , 'Guanximiyou' ( C. .
+grandis Osbeck vs. .
+Guanxi , P ) and 'Changshanhuyou' ( C. .
+changshanhuyou Y.B. .
+Chang , H ) were selected by screening Citrus fruit juices for their furanocoumarin contents and their inhibition of testosterone 6beta-hydroxylation in human liver microsomes .
+Twelve healthy male Chinese were administered 250 mL G , P , H or water ( W ) alternatively with 26-mumol ( 10-mg ) plain tablet felodipine , and were observed for 12 h .
+G had more furanocoumarins and at higher levels than P while H had none , and their potencies for in vitro CYP3A inhibition were in the order as G sentsup P sentsup H. .
+The geometric mean and 90% confidence intervals of pharmacokinetic parameters for human oral felodipine with G , P , H and W were respectively as follows: peak plasma concentration ( nmol.L ( -1 ) ) , 37 ( 32-44 ) , 25 ( 21-29 ) , 19 ( 16-22 ) and 18 ( 15-21 ) ; area under the plasma concentration-time curve ( nmol.h.L ( -1 ) ) , 118 ( 103-136 ) , 84 ( 73-97 ) , 64 ( 56-74 ) and 59 ( 51-68 ) .
+Subjects showed higher heart rates with G than with H or W. .
+CYP3A5* CYP3A5*3 polymorphism showed no significant effect on felodipine pharmacokinetics and related hemodynamic changes .
+This work supports the hypothesis that CYP3A inhibition by furanocoumarins caused pummelo fruit juice- drug interaction ; while the role of CYP3A5 in the population pharmacokinetics of felodipine and blood pressure response appear to be limited .

@@ -1,0 +1,50 @@
+TS169884817	drug 16 28	itraconazole
+TS79884817	drug 72 84	Itraconazole
+TS209884817	drug 304 316	Itraconazole
+TS289884817	mealTime 433 440	fasting
+TS129884817	mealTime 488 494	a meal
+TS189884817	drug 497 509	Itraconazole
+TS39884817	drug 671 682	metabolites
+TS419884817	drug 685 706	hydroxy- itraconazole
+TS299884817	drugEffect 745 764	antifungal activity
+TS239884817	drug 886 898	itraconazole
+TS89884817	drug 912 924	itraconazole
+TS389884817	drug 1095 1107	itraconazole
+TS409884817	sideeffect 1191 1204	Renal failure
+TS379884817	drug 1255 1267	itraconazole
+TS69884817	sideeffect 1317 1338	hepatic insufficiency
+TS319884817	drug 1389 1401	itraconazole
+TS359884817	sideeffect 1417 1443	gastrointestinal disorders
+TS119884817	drug 1467 1489	cytotoxic chemotherapy
+TS259884817	drug 1516 1528	itraconazole
+TS99884817	drug 1618 1630	Itraconazole
+TS369884817	drug 1821 1833	Itraconazole
+TS429884817	sideeffect 1865 1894	Gastrointestinal disturbances
+TS329884817	sideeffect 1899 1908	dizziness
+TS399884817	sideeffect 1942 1957	adverse effects
+TS199884817	treatedDisease 1994 2021	haemotological malignancies
+TS139884817	drug 2151 2163	itraconazole
+TS149884817	drug 2199 2211	itraconazole
+TS439884817	drug 2217 2237	hydroxy-itraconazole
+TS109884817	drugEffect 2267 2299	prophylactic antifungal activity
+TS19884817	food4 2341 2349	enhanced
+TS249884817	drug 2367 2379	itraconazole
+R1	relation Arg1:TS19884817 Arg2:TS249884817
+TS279884817	treatedDisease 2759 2793	life-threatening fungal infections
+TS339884817	drug 2807 2819	itraconazole
+TS349884817	drugEffect 2918 2937	antifungal activity
+T1	drugEffect 119 153;166 182	broad spectrum of activity against fungal pathogens
+R2	has_effect Arg1:TS79884817 Arg2:T1	
+T2	treatedDisease 285 301	immunodepression
+R3	increase_absorption Arg1:TS129884817 Arg2:TS189884817	
+R4	has_effect Arg1:TS419884817 Arg2:TS299884817	
+R5	has_effect Arg1:TS239884817 Arg2:TS299884817	
+T3	modeadm 1045 1049	oral
+R6	has_sideeffect Arg1:TS119884817 Arg2:TS359884817	
+T4	sideeffect 1636 1683	potent inhibitor of cytochrome P450 ( CYP ) 3A4
+R7	has_sideeffect Arg1:TS99884817 Arg2:T4	
+R8	has_sideeffect Arg1:TS369884817 Arg2:TS429884817	
+R9	has_sideeffect Arg1:TS369884817 Arg2:TS329884817	
+R10	has_effect Arg1:TS439884817 Arg2:TS109884817	
+R11	has_effect Arg1:TS149884817 Arg2:TS109884817	
+R12	treat Arg1:TS339884817 Arg2:TS279884817	

@@ -1,0 +1,28 @@
+TS1822951238	sideeffect 25 42	drug interactions
+TS422951238	drug 48 76	monoamine oxidase inhibitors
+TS922951238	drug 90 128	Monoamine oxidase inhibitors ( MAOIs )
+TS322951238	drug 235 250	antidepressants
+TS1622951238	sideeffect 334 351	drug interactions
+TS122951238	sideeffect 384 403	Hypertensive crisis
+TS722951238	sideeffect 458 470	interactions
+TS1422951238	food 489 494	foods
+TS1022951238	drug 506 514	tyramine
+TS822951238	sideeffect 526 538	interactions
+R1	relation Arg1:TS1422951238 Arg2:TS1022951238
+TS1222951238	food 616 621	foods
+T1	food 0 7	Dietary
+T2	treatedDisease 158 168	depression
+R2	treat Arg1:TS922951238 Arg2:T2	
+T3	drug 263 268	MAOIs
+R3	treat Arg1:TS322951238 Arg2:T2	
+T4	sideeffect 408 426	serotonin syndrome
+T5	drug 479 484	MAOIs
+R4	has_sideeffect Arg1:T5 Arg2:TS122951238	
+R5	increase_side_effect Arg1:TS1422951238 Arg2:T4	
+R6	has_sideeffect Arg1:T5 Arg2:T4	
+R7	new_side_effect Arg1:TS1422951238 Arg2:T5	
+R8	increase_side_effect Arg1:TS1422951238 Arg2:TS122951238	
+T6	drug 544 583	serotonergic and sympathomimetic agents
+T7	sideeffect 647 664	adverse reactions
+T8	drug 697 702	MAOIs
+T9	treatedDisease 881 891	depression

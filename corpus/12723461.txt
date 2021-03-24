@@ -1,0 +1,18 @@
+Single-dose pharmacokinetics and pharmacodynamics of RWJ 67657 , a specific p38 mitogen-activated protein kinase inhibitor: a first-in-human study .
+The objective of this study was to investigate the pharmacokinetics and ex vivo pharmacodynamics of increasing doses of RWJ 67657 , along with the effect of food at one dose level in a first-in-human ( FIH ) study .
+This was a placebo-controlled , double-blind , randomized trial in healthy male subjects .
+Subjects received increasing doses of RWJ 67657 or placebo as a single oral dose ( 0.25-30 mg  kg ) under fasting conditions .
+The effect of food was investigated for the 10-mg  kg dose .
+Plasma concentrations of RWJ 67657 were measured over a period of 48 hours using a validated LC-MS  MS method .
+To evaluate the pharmacodynamics of RWJ 67657 , inhibition of cytokine production was monitored from exvivo-stimulated polymorphonuclear blood cells ( PBMCs ) .
+Pharmacokinetic  pharmacodynamic modeling was used to characterize the inhibitory activity of RWJ 67657. .
+RWJ 67657 was rapidly absorbed ( mean tmax = 0.6-2.5 h ) .
+The pharmacokinetics of RWJ 67657 appear to be nonlinear with respect to single-dose administration of the investigative formulation .
+Coadministration of food did not have a significant effect on half-life or time to peak concentration ( tmax ) but decreased the exposure .
+Mean Cmax values in the presence of food were almost 50% lower than during fasting ( 542 vs. .
+1283 ng  mL ) , and the AUC decreased from 2832 to 1904 ng.h  mL with food .
+RWJ 67657 inhibited TNF-alpha , IL-8 , and IL-6 in a concentration-dependent manner with mean IC50 values of 0.18 microM , 0.04 microM , and 0.43 microM , respectively .
+At 20 mg  kg , the median inhibition was greater than 85%. .
+There were no significant adverse effects associated with single doses of this drug .
+This study demonstrates that RWJ 67657 has acceptable safety and pharmacokinetics to warrant further investigation in a repeat-dose setting .
+In addition , the early determination of effect on biomarkers suggests potential efficacy in diseases mediated by proinflammatory and inflammatory cytokines .

@@ -1,0 +1,9 @@
+Investigation of a potential food effect on the pharmacokinetics of roflumilast , an oral , once-daily phosphodiesterase 4 inhibitor , in healthy subjects .
+This open , randomized , single-dose crossover study investigated effects of a high-fat meal on the pharmacokinetics of roflumilast and its major active N-oxide metabolite .
+Twelve healthy subjects received oral roflumilast 500 microg ( 2 x 250 microg ) after overnight fasting and after breakfast .
+Blood was sampled up to 54 hours for pharmacokinetic profiling of roflumilast and N-oxide .
+Geometric mean ratios ( fed  fasted ) for point estimates ( PE ) and 90% confidence intervals ( CI ) were calculated for AUC ( 0-last ) , AUC ( 0-infinity ) , and C ( max ) of both compounds .
+After the meal , roflumilast C ( max ) ( PE , 0.59 ; 90% CI , 0.49-0.70 ) was modestly reduced ; N-oxide C ( max ) ( PE , 0.95 ; 90% CI , 0.90-1.01 ) was unchanged .
+Roflumilast t ( max ) was delayed in fed state ( 2.0 +  - 0.4 hours ) versus fasted state ( 1.0 +  - 0.2 hours ) ; N-oxide t ( max ) was unaltered .
+No significant food effect on roflumilast AUC ( 0-last ) ( PE , 1.04 ; 90% CI , 0.90-1.21 ) , AUC ( 0-infinity ) ( PE , 1.12 ; 90% CI , 1.00-1.25 ) , and respective N-oxide AUCs ( PE , 0.91 ; 90% CI , 0.79-1.04 ; PE , 0.99 ; 90% CI , 0.92-1.06 ) occurred .
+Because roflumilast N-oxide is the major contributor to roflumilast's overall pharmacologic effects , these findings suggest that roflumilast can be taken with or without food .

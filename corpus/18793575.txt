@@ -1,0 +1,13 @@
+Influence of food intake on the pharmacokinetics of avosentan in man .
+Avosentan is a potent , selective endothelin A receptor blocker .
+The effect of food intake on the pharmacokinetics of avosentan was investigated in healthy volunteers .
+In a randomized , open-label , 2-period oral crossover study , 12 healthy subjects ( 8 males and 4 females ) received Treatments A and B. .
+Treatment A consisted of a single dose of avosentan 50 mg after a high-fat , high-calorie breakfast .
+Treatment B consisted of a single dose of avosentan 50 mg administered in the fasted state .
+Plasma concentrations of avosentan and its hydroxymethyl metabolite Ro 68-5925 were measured by liquid chromatography-tandem mass spectrometry .
+The overall exposure to avosentan and its metabolite , as reflected by the area under the plasma concentration-time curve from time zero to infinity ( AUC0-inf ) , was not affected by food intake .
+The ratios of least square means ( 90% confidence interval ( CI ) ) of AUC0-inf for avosentan and Ro 68-5925 in the fed and fasted state were 1.06 ( 0.96 , 1.17 ) and 1.05 ( 0.96 , 1.15 ) , respectively .
+The maximum plasma concentration ( Cmax ) of avosentan and its metabolite was increased by food intake , and their apparent terminal half-life ( t1  2 ) was shortened .
+The ratios of least square means ( 90% CI ) of pharmacokinetic parameters for avosentan and its metabolite in the fed and fasted state were Cmax 1.61 ( 1.37 , 1.90 ) and 1.46 ( 1.27 , 1.67 ) , and t1  2 ; 0.80 ( 0.69 , 0.92 ) and 0.61 ( 0.51 , 0.74 ) , respectively .
+Single oral doses of avosentan were well tolerated under fasted and fed conditions .
+Food intake does not influence the pharmacokinetics of avosentan to a clinically relevant extent .

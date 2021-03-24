@@ -1,0 +1,5 @@
+TS318074531	sideeffect 9 24	Adverse effects
+TS218074531	drug 28 47	calcium antagonists
+TS418074531	drug 52 66	beta-blockers]
+R1	has_sideeffect Arg1:TS218074531 Arg2:TS318074531	
+R2	has_sideeffect Arg1:TS418074531 Arg2:TS318074531	

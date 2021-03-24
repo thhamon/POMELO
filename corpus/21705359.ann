@@ -1,0 +1,38 @@
+TS1021705359	food 0 9	Nutrition
+TS1821705359	treatedDisease 13 35	cardiovascular disease
+TS3321705359	food 45 49	salt
+TS3221705359	treatedDisease 53 65	hypertension
+TS121705359	treatedDisease 70 83	heart failure
+TS2421705359	food 143 147	salt
+TS1121705359	food 195 199	salt
+TS921705359	food 269 273	salt
+TS1521705359	sideeffect 338 350	hypertensive
+TS621705359	sideeffect 355 367	normotensive
+TS2721705359	food 514 518	salt
+TS1421705359	sideeffect 565 587	cardiovascular disease
+TS521705359	food 631 640	high salt
+TS221705359	sideeffect 671 699	left ventricular hypertrophy
+TS4021705359	sideeffect 782 795	heart failure
+TS2121705359	food 836 840	salt
+TS2221705359	sideeffect 881 894	heart failure
+TS3621705359	sideeffect 926 939	heart failure
+TS1921705359	food 944 953	high salt
+TS3721705359	sideeffect 1014 1049	exacerbating heart failure symptoms
+TS421705359	sideeffect 1054 1080	progression of the disease
+TS1721705359	food 1091 1095	salt
+TS2021705359	sideeffect 1148 1161	heart failure
+TS3021705359	food 1227 1231	salt
+TS3921705359	sideeffect 1260 1273	heart failure
+TS2321705359	food 1337 1341	salt
+TS1621705359	food 1463 1467	salt
+R1	increase_side_effect Arg1:TS2721705359 Arg2:TS1421705359	
+R2	increase_side_effect Arg1:TS521705359 Arg2:TS221705359	
+T1	sideeffect 702 705	LVH
+R3	increase_side_effect Arg1:TS2121705359 Arg2:TS2221705359	
+T2	sideeffect 976 1003	retention of salt and water
+R4	increase_side_effect Arg1:TS1921705359 Arg2:T2	
+R5	increase_side_effect Arg1:TS1921705359 Arg2:TS3721705359	
+R6	reduce_side_effect Arg1:TS1921705359 Arg2:TS421705359	
+R7	increase_side_effect Arg1:TS1721705359 Arg2:TS2021705359	
+R8	increase_side_effect Arg1:TS3021705359 Arg2:TS3921705359	
+T3	drug 1545 1553	diuretic

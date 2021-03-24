@@ -1,0 +1,44 @@
+TS4721532276	food 14 27	mineral water
+TS2621532276	drug 50 61	alendronate
+TS1321532276	drug 74 85	Alendronate
+TS3521532276	drug 124 131	Fosamax
+TS821532276	treatedDisease 183 195	osteoporosis
+TS3621532276	drug 206 213	Fosamax
+TS1421532276	drugEffect 260 275	bioavailability
+TS4821532276	food 303 316	mineral water
+TS1721532276	food 426 431	water
+TS3821532276	drug 449 460	alendronate
+R2	relation Arg1:TS1721532276 Arg2:TS3821532276
+TS321532276	food 508 521	mineral water
+TS2421532276	drug 548 559	alendronate
+TS121532276	drug 636 647	Alendronate
+TS3121532276	food 668 673	water
+TS2921532276	mealTime 740 758	after 24-hour fast
+TS4121532276	drug 853 864	alendronate
+TS3321532276	drug 971 982	alendronate
+TS621532276	drug 1144 1155	alendronate
+TS1121532276	drug 1212 1223	Alendronate
+TS421532276	food 1418 1427	tap water
+TS4421532276	food 1470 1475	water
+TS2721532276	food 1693 1708	ultrapure water
+TS521532276	drug 1798 1809	alendronate
+TS2221532276	food 1833 1840	calcium
+TS4221532276	food 1858 1871	mineral water
+TS1521532276	food 1890 1903	mineral water
+TS3921532276	food 1930 1937	calcium
+TS2021532276	drug 1962 1973	alendronate
+R4	negative_effect_on_drug Arg1:TS3921532276 Arg2:TS2021532276
+T1	modeadm 45 49	oral
+T2	drug 96 110	bisphosphonate
+T3	modeadm 91 95	oral
+R1	treat Arg1:TS1321532276 Arg2:TS821532276	
+R5	treat Arg1:T2 Arg2:TS821532276	
+R6	treat Arg1:TS3621532276 Arg2:TS821532276	
+R7	has_effect Arg1:TS3621532276 Arg2:TS1421532276	
+R8	negative_effect_on_drug Arg1:TS4821532276 Arg2:TS3621532276	
+T4	modeadm 698 704	orally
+T5	dosage 707 717	0.7 mg  kg
+T6	food 1430 1435	evian
+R9	decrease_absorption Arg1:TS2221532276 Arg2:TS521532276	
+R3	decrease_absorption Arg1:TS4221532276 Arg2:TS521532276	
+R10	negative_effect_on_drug Arg1:TS1521532276 Arg2:TS2021532276	

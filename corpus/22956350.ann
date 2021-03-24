@@ -1,0 +1,33 @@
+TS822956350	drug 20 30	febuxostat
+TS222956350	drug 63 73	Febuxostat
+TS1522956350	drug 85 135	non-purine selective inhibitor of xanthine oxidase
+TS522956350	treatedDisease 168 181	hyperuricemia
+TS1622956350	treatedDisease 199 203	gout
+TS922956350	food 286 290	food
+TS722956350	drug 318 328	febuxostat
+R1	relation Arg1:TS922956350 Arg2:TS722956350
+TS622956350	drug 529 539	febuxostat
+TS1022956350	mealTime 546 563	fasted conditions
+TS1322956350	mealTime 603 606	fed
+TS1422956350	drug 644 654	febuxostat
+TS122956350	drug 767 777	febuxostat
+TS1222956350	drug 1258 1268	febuxostat
+TS1122956350	food 1295 1299	food
+TS1722956350	drug 1428 1438	febuxostat
+TS422956350	drug 1441 1451	Febuxostat
+TS322956350	drug 1565 1575	febuxostat
+R2	treat Arg1:TS222956350 Arg2:TS522956350	
+R3	treat Arg1:TS222956350 Arg2:TS1622956350	
+R4	treat Arg1:TS1522956350 Arg2:TS522956350	
+R5	treat Arg1:TS1522956350 Arg2:TS1622956350	
+T1	dosage 480 485	40 mg
+T2	dosage 585 590	80 mg
+T3	dosage 488 502;507 525	multiple 40 mg single 80 mg doses
+T4	dosage 721 736	40 mg and 80 mg
+T5	dosage 1102 1107	40 mg
+T6	duration 1113 1135	for 6 consecutive days
+T7	drug 1252 1262	febuxostat
+T8	food 1289 1293	food
+T9	drug 1422 1432	febuxostat
+T10	drug 1435 1445	Febuxostat
+T11	drug 1559 1569	febuxostat

@@ -1,0 +1,26 @@
+TS3211572503	food 15 31	grapefruit juice
+TS711572503	sideeffect 32 48	drug interaction
+TS511572503	drug 56 65	midazolam
+TS2211572503	drug 146 155	midazolam
+TS2311572503	drug 230 239	midazolam
+TS811572503	drug 290 299	midazolam
+TS311572503	food 382 398	Grapefruit juice
+TS1511572503	drug 622 631	midazolam
+TS1111572503	sideeffect 673 686	plasma levels
+TS1811572503	drug 690 699	midazolam
+TS1911572503	drug 721 730	midazolam
+TS1611572503	drugEffect 731 746	bioavailability
+TS911572503	sideeffect 776 792	excessive levels
+TS611572503	sideeffect 796 804	sedation
+TS1011572503	food 833 849	Grapefruit juice
+TS3011572503	drug 897 906	midazolam
+R1	negative_effect_on_drug Arg1:TS1011572503 Arg2:TS3011572503
+T1	drug 5 14	midazolam
+R2	relation Arg1:TS3211572503 Arg2:T1	
+T2	modeadm 133 142	oral form
+T3	modeadm 227 229	IV
+T4	modeadm 246 250	oral
+T5	modeadm 316 322	orally
+T6	sideeffect 441 465	inhibits cytochrome P450
+R3	relation Arg1:TS311572503 Arg2:T6	
+T7	sideeffect 593 618	reduced first pass effect

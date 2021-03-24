@@ -1,0 +1,12 @@
+New oral anticoagulants anticoagulants: a review of the literature with particular emphasis on patients with impaired renal function .
+Oral anticoagulant therapy ( OAT ) is widely used to prevent and treat thromboembolic events .
+Traditionally , warfarin has been the drug of choice and , indeed , this drug is effective and provides a more than 60% reduction in stroke risk in patients with atrial fibrillation .
+However , OAT entails an increased bleeding risk , and management of this is challenging .
+Among other things , new oral anticoagulant drugs offer fixed dosing , more predictable pharmacokinetics and fewer interactions with drugs and food .
+Moreover , these drugs seem to provide an improved benefit-risk ratio with respect to thromboembolic events and bleeding complications in a broad patient population .
+The new drugs differ from traditional OAT with respect to their mechanism of action and pharmacokinetics , especially with respect to elimination through the kidneys .
+These drugs may potentially cause bleeding complications in patients with reduced drug excretion due to impaired renal function .
+Dabigatran etexilate and rivaroxaban carry the highest risk due to a high degree of renal excretion , whereas the risk for apixaban , edoxaban and betrixaban seems lower .
+Pharmacokinetic studies and data from clinical studies have provided information on how to guide dosing in patients with renal impairment .
+However , the risk of drug accumulation and bleeding may be amplified by several drug-drug interactions .
+This article provides a review of the literature on the pharmacology of new anticoagulant drugs with particular focus on the impact of impaired renal function .

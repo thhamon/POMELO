@@ -1,0 +1,12 @@
+Food effect on the oral bioavailability of Manidipine Manidipine: single dose , randomized , crossover study in healthy male subjects .
+The effect of food on the oral bioavailability of a manidipine 20 mg tablet was studied after a single administration in 12 male healthy subjects .
+The clinical trial was conducted as an open , randomised , crossover study .
+In two different administration sessions , the subjects received a 20 mg manidipine tablet either in the fasting state or after a standardized breakfast .
+Plasma samples were collected before and at different times after each administration for up to 24 h .
+The concentrations of manidipine and its pyridine metabolite ( M-XIII metabolite ) were determined by HPLC with coulometric detection .
+The tolerability of manidipine was good .
+Only two cases of mild headache , one with each treatment , were reported .
+Food significantly improved the absorption , with an increase in AUC from 19.1 to 27.2 ng.h  ml ( geometric mean , psentinf0.01 ) but did not modify the rate of absorption ( tmax unchanged , median = 1.5 h ) .
+Peak plasma concentration was also increased ( from 6.2 to 7.8 ng  ml ) , but the difference was not statistically significant ( p=0.18 ) .
+Other pharmacokinetic parameters ( apparent elimination half-life and mean residence time ) remained unchanged .
+The increase in bioavailability of manidipine administered with food is related to its high lipophilicity and may be explained through a solubilization effect produced by food and bile secretions .

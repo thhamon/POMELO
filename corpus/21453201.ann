@@ -1,0 +1,41 @@
+TS1521453201	drug 10 20	rasagiline
+TS1221453201	treatedDisease 42 61	Parkinson's disease
+TS521453201	drug 64 72	Levodopa
+TS2221453201	treatedDisease 113 132	Parkinson's disease
+TS2321453201	sideeffect 195 206	dyskinesias
+TS321453201	drug 245 262	dopamine agonists
+TS1021453201	drug 310 347	monoamine oxidase B enzyme inhibitors
+TS421453201	drug 413 423	Rasagiline
+TS721453201	drug 609 619	rasagiline
+TS2721453201	sideeffect 781 803	food-drug interactions
+TS1821453201	sideeffect 829 857	levodopa-induced dyskinesias
+TS2521453201	drug 870 880	Rasagiline
+TS121453201	drug 957 965	levodopa
+TS1621453201	sideeffect 1090 1107	Food interactions
+TS1421453201	drug 1121 1129	tyramine
+TS621453201	sideeffect 1178 1194	Drug interaction
+TS821453201	sideeffect 1229 1247	serotonin toxicity
+TS2421453201	drug 1253 1283	serotoninergic antidepressants
+R2	treat Arg1:TS1521453201 Arg2:TS1221453201	
+R3	treat Arg1:TS521453201 Arg2:TS2221453201	
+T1	treatedDisease 135 137	PD
+T2	sideeffect 172 190	motor fluctuations
+R4	has_sideeffect Arg1:TS521453201 Arg2:T2	
+R5	has_sideeffect Arg1:TS521453201 Arg2:TS2321453201	
+T3	drug 215 234	dopaminergic agents
+T4	drug 265 305	catechol-O-methyl transferase inhibitors
+T5	drug 350 357	MAO-B I
+T6	treatedDisease 408 410	PD
+R6	treat Arg1:TS321453201 Arg2:T6	
+R7	treat Arg1:T4 Arg2:T6	
+R8	treat Arg1:TS1021453201 Arg2:T6	
+T7	drug 447 454	MAO-B I
+T8	treatedDisease 581 583	PD
+T9	treatedDisease 641 643	PD
+R9	treat Arg1:TS721453201 Arg2:T9	
+T10	treatedDisease 916 918	PD
+R1	treat Arg1:TS2521453201 Arg2:T10	
+R10	treat Arg1:TS121453201 Arg2:T10	
+T11	treatedDisease 1047 1049	PD
+R11	has_sideeffect Arg1:TS1421453201 Arg2:TS1621453201	
+R12	has_sideeffect Arg1:TS2421453201 Arg2:TS821453201	

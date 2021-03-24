@@ -1,0 +1,11 @@
+Quantifying amount of adsorption of levothyroxine by percutaneous endoscopic gastrostomy tubes .
+It has been the authors' clinical experience that hypothyroid patients who achieve a euthyroid state on a steady dose of oral levothyroxine often become hypothyroid over time if the medication is given via a feeding tube .
+The authors hypothesize that the tubing and enteral feeds may adsorb a significant percentage of the levothyroxine and thereby reduce its bioavailability .
+To the authors' knowledge , no previous research has been reported on this subject .
+They therefore performed an in vitro assessment of the degree of levothyroxine adsorption to quantify the amount of drug adsorbed to the percutaneous endoscopic gastrostomy ( PEG ) tube and how enteral tube feeds mitigate or exacerbate this adsorption .
+Using levothyroxine radiolabeled with an I 125 tracer , a known dose of levothyroxine was passed through 60 new PEG tubes .
+One-half of the tubes were pretreated with Jevity feeds , and the other half were not .
+The authors measured the activity of the radiolabeled levothyroxine before and after it had passed through the tubes and , using a subtraction analysis , inferred the amount of thyroxine left within the tube .
+Tubes presoaked with feeds had a greater uptake in radioactivity by 326.4 cpm ( 95% confidence interval , 226.7-426.1 ) , corresponding to a 45.08% relative increase in uptake compared with virgin PEG tubes without feeds .
+Although the authors found statistically significant differences in mean drug concentrations , they conclude that the amount of uptake of levothyroxine by PEG tubes and adsorption of levothyroxine by PEG tubes is probably clinically insignificant .
+The differences found may be attributed to the amount of drug lost during crushing and transfer .

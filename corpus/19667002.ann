@@ -1,0 +1,14 @@
+TS919667002	drug 59 76	enteral nutrition
+TS2119667002	drug 138 155	enteral nutrition
+TS419667002	sideeffect 257 269	interactions
+TS819667002	drug 286 303	enteral nutrition
+TS1919667002	drug 669 686	enteral nutrition
+TS2019667002	sideeffect 940 952	interactions
+TS1719667002	drug 969 986	enteral nutrition
+TS519667002	food 991 995	food
+TS1819667002	drug 1112 1129	enteral nutrition
+R1	relation Arg1:TS519667002 Arg2:TS1819667002
+TS1419667002	sideeffect 1597 1623	drug-nutrient interactions
+TS319667002	drug 1707 1724	enteral nutrition
+TS1219667002	sideeffect 1765 1791	drug-nutrient interactions
+R2	has_sideeffect Arg1:TS319667002 Arg2:TS1419667002	

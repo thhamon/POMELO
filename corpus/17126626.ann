@@ -1,0 +1,21 @@
+TS2217126626	foodSupplement 0 19	Dietary supplements
+TS1617126626	foodSupplement 180 199	dietary supplements
+TS1717126626	foodSupplement 288 307	dietary supplements
+TS1917126626	foodSupplement 743 761	dietary supplement
+TS2017126626	food 854 864	supplement
+TS317126626	foodSupplement 1017 1035	dietary supplement
+TS417126626	foodSupplement 1149 1167	dietary supplement
+TS717126626	food 1197 1207	supplement
+TS1017126626	drug 1230 1258	multivitamins  multiminerals
+TS1117126626	drug 1315 1343	multivitamins  multiminerals
+TS1217126626	food 1369 1379	supplement
+TS817126626	food 1465 1476	supplements
+TS917126626	food 1515 1526	supplements
+TS117126626	food 1649 1659	supplement
+TS1317126626	drug 1693 1721	Multivitamins  multiminerals
+TS2317126626	food 1748 1759	supplements
+TS217126626	food 1842 1846	Food
+T1	sideeffect 1096 1109	adverse event
+R1	relation Arg1:TS417126626 Arg2:T1	
+T2	sideeffect 1272 1286	adverse events
+R2	has_sideeffect Arg1:TS1117126626 Arg2:T2	

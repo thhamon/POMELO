@@ -1,0 +1,6 @@
+TS220457501	food 14 29	milk components
+TS120457501	food 46 52	casein
+TS420457501	drugEffect 62 77	bioavailability
+TS320457501	drug 81 94	ciprofloxacin
+R1	relation Arg1:TS220457501 Arg2:TS320457501	
+R2	relation Arg1:TS120457501 Arg2:TS320457501	

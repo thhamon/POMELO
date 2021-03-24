@@ -1,0 +1,25 @@
+TS420081065	food 619 623	food
+TS120081065	drugEffect 1214 1225	coagulation
+T1	drug 86 105	factor Xa inhibitor
+T2	drug 106 114	edoxaban
+T3	drug 334 353	factor Xa inhibitor
+T4	drug 354 362	edoxaban
+T5	modeadm 322 326	oral
+T6	frequency 247 268	single ascending dose
+T7	frequency 283 306	multiple ascending dose
+T8	frequency 462 465	SAD
+T9	dosage 489 521	10 , 30 , 60 , 90 , 120 , 150 mg
+T10	frequency 530 533	MAD
+T11	dosage 557 562	90 mg
+T12	dosage 571 576	60 mg
+T13	dosage 591 597	120 mg
+T14	frequency 563 568	daily
+T15	frequency 577 588	twice daily
+T16	frequency 598 603	daily
+T17	frequency 709 712	SAD
+T18	dosage 746 752	150 mg
+T19	frequency 941 944	MAD
+T20	drug 1161 1169	edoxaban
+T21	drug 1239 1247	Edoxaban
+T22	drug 1378 1386	edoxaban
+T23	dosage 1415 1427	up to 150 mg

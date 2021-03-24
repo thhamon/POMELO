@@ -1,0 +1,60 @@
+TS1410507245	food 14 18	food
+TS1710507245	drug 185 212	inhibitor of cholinesterase
+TS1810507245	treatedDisease 243 262	Alzheimer's disease
+TS3010507245	food 333 337	food
+TS310507245	drug 426 437	metrifonate
+TS2110507245	mealTime 565 572	fasting
+TS1610507245	mealTime 593 604;631 640	5 min after breakfast
+TS3110507245	mealTime 731 754	after overnight fasting
+TS410507245	mealTime 771 786	7 h after lunch
+TS710507245	mealTime 807 823	4 h after dinner
+TS3310507245	drug 970 981	metrifonate
+TS2210507245	drug 986 990	DDVP
+TS1910507245	drugEffect 1059 1134	acetylcholinesterase ( AChE ) and butyrylcholinesterase ( BChE ) inhibition
+TS3210507245	food 1184 1216	high-fat  high-calorie breakfast
+TS1510507245	mealTime 1207 1216	breakfast
+TS2010507245	drug 1245 1249	DDVP
+TS1110507245	drug 1262 1266	Cmax
+TS810507245	mealTime 1329 1336	fasting
+TS1210507245	drug 1448 1452	DDVP
+TS510507245	drug 1486 1497	metrifonate
+TS2710507245	drug 1589 1593	DDVP
+TS610507245	drug 1691 1695	DDVP
+TS110507245	drugEffect 1806 1823	nhibition of AChE
+TS2310507245	food 1967 1971	food
+TS2410507245	drugEffect 1995 2010	bioavailability
+TS910507245	food 2043 2047	food
+TS1010507245	food 2154 2158	food
+TS2810507245	food 2272 2276	food
+TS210507245	drugEffect 2314 2329	bioavailability
+T1	drug 100 111	metrifonate
+T2	drug 114 125	Metrifonate
+T3	drug 172 176	DDVP
+R2	treat Arg1:TS1710507245 Arg2:TS1810507245	
+R3	treat Arg1:T2 Arg2:TS1810507245	
+R4	relation Arg1:TS1410507245 Arg2:T1	
+T4	drug 442 446	DDVP
+T5	drugEffect 451 476	cholinesterase inhibition
+R5	has_effect Arg1:T4 Arg2:T5	
+R6	has_effect Arg1:TS310507245 Arg2:T5	
+T6	drug 509 520	metrifonate
+T7	drug 674 685	metrifonate
+T8	dosage 521 526	50 mg
+T9	dosage 686 691	80 mg
+T10	food 622 640	American breakfast
+T11	mealTime 703 727	given either at 8:00 a.m
+R7	relation Arg1:T11 Arg2:T7	
+R8	relation Arg1:TS2110507245 Arg2:T6	
+R9	relation Arg1:TS1610507245 Arg2:T6	
+R1	slow_absorption Arg1:TS3210507245 Arg2:TS2010507245	
+T12	drugEffect 1736 1751	BChE inhibition
+R10	has_effect Arg1:TS610507245 Arg2:T12	
+T13	drug 1839 1850	Metrifonate
+T14	drug 1950 1961	metrifonate
+R11	decrease_absorption Arg1:TS2310507245 Arg2:T14	
+T15	drug 2333 2337	DDVP
+T16	drug 2442 2453	metrifonate
+T17	mealTime 2467 2481	in the morning
+T18	mealTime 2467 2473;2485 2492	in the evening
+R12	no_effect_on_drug Arg1:T17 Arg2:T16	
+R13	no_effect_on_drug Arg1:T18 Arg2:T16	

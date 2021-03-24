@@ -1,0 +1,17 @@
+TS1521254874	food 14 30	grapefruit juice
+TS521254874	food 93 109	grapefruit juice
+TS2021254874	sideeffect 118 136	-drug interactions
+TS1221254874	sideeffect 797 800;806 822	GFJ drug interaction
+TS1021254874	drugEffect 974 989	bioavailability
+TS2221254874	sideeffect 1354 1375	GFJ-drug interactions
+T1	food 112 115	GFJ
+T2	food 279 282	GFJ
+T3	food 449 452	GFJ
+T4	food 956 959	GFJ
+T5	modeadm 998 1004	orally
+R1	improve_drug_effect Arg1:T4 Arg2:TS1021254874	
+T6	food 1124 1127	GFJ
+T7	sideeffect 1132 1160	decrease the oral absorption
+R2	increase_side_effect Arg1:T6 Arg2:T7	
+T8	food 1287 1290	GFJ
+R3	relation Arg1:T8 Arg2:TS2221254874	

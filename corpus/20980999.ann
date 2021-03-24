@@ -1,0 +1,45 @@
+TS420980999	drug 67 76	pazopanib
+TS2120980999	food 84 92	high-fat
+TS4320980999	mealTime 96 108	low-fat meal
+TS2020980999	treatedDisease 135 147	solid tumors
+TS2320980999	drug 150 159	Pazopanib
+TS1120980999	drug 171 249;252 291;298 315	angiogenesis inhibitor of vascular endothelial growth factor ( VEGF ) receptor platelet-derived growth factor receptor cytokine receptor
+TS2720980999	food 399 402;408 422	low high-fat meals
+TS220980999	drug 457 466	pazopanib
+TS1420980999	treatedDisease 493 505	solid tumors
+R1	relation Arg1:TS2720980999 Arg2:TS220980999
+TS2220980999	drug 666 675	pazopanib
+TS1520980999	mealTime 688 703	a high-fat meal
+TS4920980999	food 722 727	food-
+TS1820980999	drug 790 799	pazopanib
+TS2620980999	mealTime 810 813	fed
+TS4820980999	mealTime 835 847	low-fat meal
+TS3520980999	mealTime 853 860	fasting
+R2	relation Arg1:TS4920980999 Arg2:TS1820980999
+TS1920980999	drug 1009 1018	pazopanib
+TS3820980999	drug 1046 1055	pazopanib
+TS3120980999	food 1066 1069;1075 1089	low high-fat meals
+TS4620980999	mealTime 1315 1321	fasted
+TS3320980999	drug 1346 1355	pazopanib
+TS4520980999	mealTime 1398 1404	fasted
+TS3420980999	drug 1493 1502	pazopanib
+TS1020980999	treatedDisease 1520 1526	cancer
+R4	no_effect_on_drug Arg1:TS4520980999 Arg2:TS3420980999
+T1	modeadm 62 66	oral
+T2	food 97 103	ow-fat
+T3	modeadm 166 170	oral
+R5	treat Arg1:TS420980999 Arg2:TS2020980999	
+R6	treat Arg1:TS220980999 Arg2:TS1420980999	
+T4	frequency 651 662	single dose
+T5	dosage 676 682	400 mg
+T6	food 690 698	high-fat
+T7	frequency 774 786	single doses
+T8	dosage 800 806	800 mg
+T9	food 826 842	high- or low-fat
+T10	frequency 1003 1008	daily
+T11	dosage 1019 1025	800 mg
+T12	mealTime 1084 1089	meals
+R3	increase_absorption Arg1:TS3120980999 Arg2:TS3820980999	
+R7	no_effect_on_drug Arg1:TS4620980999 Arg2:TS3820980999	
+R8	during Arg1:TS4520980999 Arg2:TS3320980999	
+R9	treat Arg1:TS3420980999 Arg2:TS1020980999	

@@ -1,0 +1,13 @@
+TS618174962	drug 0 9	Maraviroc
+TS518174962	drug 12 21	Maraviroc
+TS318174962	drug 348 357	Maraviroc
+TS418174962	drug 605 614	maraviroc
+TS218174962	drug 846 855	maraviroc
+T1	drug 64 85	antiretroviral agents
+T2	drug 95 111	CCR5 antagonists
+T3	treatedDisease 196 208	HIV-infected
+T4	treatedDisease 251 274	CCR5-tropic HIV-1 virus
+T5	sideeffect 302 345	resistant to multiple antiretroviral agents
+T6	drug 522 543	antiretroviral agents
+T7	sideeffect 923 937	adverse events
+R1	has_sideeffect Arg1:TS218174962 Arg2:T7	

@@ -1,0 +1,5 @@
+TS417368832	food 9 18	green tea
+TS517368832	food 28 50	green leafy vegetables
+TS217368832	drug 59 67	warfarin
+R1	worsen_drug_effect Arg1:TS417368832 Arg2:TS217368832
+R2	worsen_drug_effect Arg1:TS517368832 Arg2:TS217368832	

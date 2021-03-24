@@ -1,0 +1,9 @@
+Effects of food on the relative bioavailability of lapatinib in cancer patients .
+This study was conducted to characterize the effect of food on the relative bioavailability of lapatinib .
+A single 1 , 500-mg , oral dose of lapatinib was administered to 27 patients with advanced solid tumors on each of three occasions that were 1 week apart , in random order order: after an overnight fast , with a low-fat breakfast , and with a high-fat breakfast .
+The low-fat breakfast produced mean increases in lapatinib area under the concentration-time curve ( AUC ) of 167% ( 2.67-fold ) and maximum concentration ( C ( max ) ) of 142% ( 2.42-fold ) .
+The high-fat breakfast produced mean increases in lapatinib AUC of 325% ( 4.25-fold ) and C ( max ) of 203% ( 3.03-fold ) compared with the fasted state .
+Increased bioavailability in the fed state did not significantly decrease relative variability .
+Therefore , absolute variability in systemic exposure was increased .
+These large increases in lapatinib bioavailability and absolute variability support the recommendation for dosing in the fasted state to achieve consistent therapeutic exposure .
+Prescribers and patients should consider the potential consequences of toxicity or diminished efficacy that might result from dosing without regard to variations in diet .

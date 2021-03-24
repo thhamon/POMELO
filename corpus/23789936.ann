@@ -1,0 +1,46 @@
+TS1723789936	sideeffect 59 84	myelodysplastic syndromes
+TS2323789936	drug 91 124	multi-kinase inhibitor rigosertib
+TS123789936	drugEffect 149 163	mitotic arrest
+TS2023789936	drugEffect 168 192	apoptosis in myeloblasts
+TS1823789936	treatedDisease 415 440	myelodysplastic syndromes
+TS1423789936	drugEffect 779 794	bioavailability
+TS1023789936	mealTime 825 828	fed
+TS2223789936	mealTime 852 859	fasting
+TS1123789936	sideeffect 935 943	toxicity
+TS723789936	sideeffect 954 961	dysuria
+TS823789936	sideeffect 966 985	shortness of breath
+TS523789936	sideeffect 1053 1088	grade 3 non-haematological toxicity
+TS623789936	sideeffect 1113 1136	urothelial inflammation
+TS223789936	sideeffect 1139 1150	hypotension
+TS923789936	sideeffect 1155 1162	syncope
+TS1323789936	sideeffect 1165 1172	fatigue
+TS423789936	sideeffect 1177 1191	abdominal pain
+TS2123789936	drugEffect 1267 1277	remissions
+TS1923789936	treatedDisease 1281 1299	refractory anaemia
+TS1223789936	drug 1359 1370	azacitidine
+T1	drug 31 41	rigosertib
+R2	has_effect Arg1:TS2323789936 Arg2:TS123789936	
+R3	has_effect Arg1:TS2323789936 Arg2:TS2023789936	
+T2	drug 387 397	rigosertib
+T3	modeadm 367 371	oral
+T4	treatedDisease 443 446	MDS
+R4	treat Arg1:T2 Arg2:TS1823789936	
+T5	frequency 531 537	weekly
+T6	drug 499 509	rigosertib
+T7	drug 614 624	rigosertib
+T8	frequency 625 636	twice daily
+T9	duration 637 661	for 14 d of a 21-d cycle
+T10	numbers 674 676	37
+T11	drug 701 711	Rigosertib
+T12	modeadm 747 751	oral
+T13	dosage 892 898	560 mg
+T14	frequency 899 905	b.i.d.
+T15	dosage 1004 1010	700 mg
+T16	frequency 1011 1016	b.i.d
+T17	numbers 1027 1040	Five patients
+T18	drugEffect 1415 1439	transfusion independence
+T19	drugEffect 1444 1471	haematological improvements
+T20	drug 1495 1505	rigosertib
+T21	treatedDisease 1586 1589	MDS
+T22	drugEffect 1551 1568	clinical activity
+R1	treat Arg1:T20 Arg2:T21	

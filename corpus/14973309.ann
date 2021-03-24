@@ -1,0 +1,47 @@
+TS2514973309	drug 57 66	ribavirin
+TS4214973309	drug 93 102	Ribavirin
+TS3614973309	treatedDisease 177 196	chronic hepatitis C
+TS4414973309	sideeffect 232 249	hemolytic anemia-
+TS1814973309	drug 344 353	ribavirin
+TS1914973309	drug 372 381	ribavirin
+TS514973309	drug 434 443	ribavirin
+TS1414973309	drugEffect 444 450	levels
+TS614973309	drug 527 536	ribavirin
+TS3014973309	drug 598 607	ribavirin
+TS414973309	sideeffect 620 628	toxicity
+TS1214973309	drug 1223 1232	ribavirin
+TS1314973309	drug 1294 1303	ribavirin
+TS3914973309	drug 1436 1445	ribavirin
+TS914973309	drug 1475 1484	ribavirin
+TS1014973309	drug 1616 1625	ribavirin
+TS1114973309	drug 1646 1655	ribavirin
+TS2214973309	drug 1691 1700	ribavirin
+TS2314973309	drug 1824 1833	ribavirin
+TS2914973309	drug 1870 1879	ribavirin
+TS3814973309	food 1999 2014	a high-fat meal
+TS114973309	drug 2057 2066	ribavirin
+TS714973309	food 2194 2209	A high-fat meal
+TS814973309	drug 2303 2312	ribavirin
+T1	drug 31 41	viramidine
+T2	drug 318 328	viramidine
+T3	drug 397 407	Viramidine
+R1	has_sideeffect Arg1:TS3014973309 Arg2:TS414973309	
+T4	drug 798 808	viramidine
+T5	drug 870 880	viramidine
+T6	modeadm 855 859	oral
+T7	dosage 900 907	1200 mg
+T8	dosage 890 893	600
+T9	dosage 884 887	200
+T10	sideeffect 958 972	adverse events
+T11	dosage 1094 1101	1200-mg
+T12	dosage 1121 1127	600-mg
+T13	dosage 1152 1158	200-mg
+T14	drug 1167 1177	Viramidine
+T15	drug 1279 1289	viramidine
+T16	drug 1546 1556	viramidine
+T17	drug 2042 2052	viramidine
+T18	modeadm 2073 2077	oral
+T19	drug 2088 2098	viramidine
+T20	dosage 2102 2108	600 mg
+T21	drug 2220 2230	viramidine
+R2	relation Arg1:TS714973309 Arg2:T21	

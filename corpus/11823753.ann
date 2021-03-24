@@ -1,0 +1,53 @@
+TS5311823753	food 0 12	Fruit juices
+TS4111823753	sideeffect 13 47	inhibit organic anion transporting
+TS2111823753	drug 118 130	fexofenadine
+TS6011823753	food 186 192	fruits
+TS611823753	drug 382 389	digoxin
+TS1211823753	drug 483 495	fexofenadine
+TS211823753	drug 581 593	fexofenadine
+TS3411823753	food 612 617	water
+TS911823753	food 633 649	grapefruit juice
+TS3111823753	food 671 681	grapefruit
+TS4211823753	food 684 690	orange
+TS4911823753	food 696 708	apple juices
+TS411823753	food 795 811	Grapefruit juice
+TS1811823753	food 829 840	apple juice
+TS5011823753	sideeffect 880 903	P-glycoprotein activity
+TS3611823753	food 906 924	Grapefruit extract
+TS2811823753	food 1085 1095	grapefruit
+TS4511823753	food 1098 1104	orange
+TS5811823753	food 1111 1123	apple juices
+TS811823753	drug 1331 1344	bioflavonoids
+TS3711823753	food 1379 1389	Grapefruit
+TS4011823753	food 1392 1398	orange
+TS6111823753	food 1405 1417	apple juices
+TS3911823753	drug 1432 1444	fexofenadine
+TS1411823753	sideeffect 1715 1727	urine volume
+R6	relation Arg1:TS3711823753 Arg2:TS3911823753
+TS4411823753	drug 1750 1762	fexofenadine
+TS2511823753	food 1772 1777	juice
+TS311823753	food 1847 1852	water
+TS5911823753	food 1855 1867	Fruit juices
+TS1111823753	drugEffect 1981 1996	bioavailability
+TS5511823753	sideeffect 2074 2095	food-drug interaction
+T1	drugEffect 97 114	oral availability
+R1	decrease_absorption Arg1:TS5311823753 Arg2:TS2111823753	
+T2	drug 393 404	vinblastine
+T3	dosage 574 580	120 mg
+T4	drug 945 974	6' , 7' -Dihydroxybergamottin
+R2	relation Arg1:TS1811823753 Arg2:TS5011823753	
+R3	relation Arg1:TS411823753 Arg2:TS5011823753	
+T5	drug 1311 1326	furanocoumarins
+T6	drugEffect 238 285	organic anion transporting polypeptide ( OATP )
+T7	drugEffect 219 233	P-glycoprotein
+T8	sideeffect 1158 1176	reduced human OATP
+T9	drug 1201 1230	6' , 7' -Dihydroxybergamottin
+T10	sideeffect 1350 1376	reduced rat oatp3 activity
+R4	has_sideeffect Arg1:TS811823753 Arg2:T10	
+R5	has_sideeffect Arg1:T5 Arg2:T10	
+R7	relation Arg1:TS6111823753 Arg2:TS3911823753	
+R8	relation Arg1:TS4011823753 Arg2:TS3911823753	
+T11	sideeffect 1670 1691	elimination half-life
+T12	sideeffect 1694 1709	renal clearance
+T13	sideeffect 1901 1920	inhibitors of OATPs
+R9	relation Arg1:TS5911823753 Arg2:T13	

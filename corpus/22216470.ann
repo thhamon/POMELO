@@ -1,0 +1,3 @@
+TS322216470	food 25 35	grapefruit
+TS422216470	drug 63 69	statin
+R1	relation Arg1:TS322216470 Arg2:TS422216470	

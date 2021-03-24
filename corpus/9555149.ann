@@ -1,0 +1,3 @@
+TS89555149	sideeffect 1 28	Excessive terfenadine level
+TS69555149	food 48 65	grapefruit juice]
+R1	increase_side_effect Arg1:TS69555149 Arg2:TS89555149	

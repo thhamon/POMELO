@@ -1,0 +1,4 @@
+TS516613116	sideeffect 0 12	[Interaction
+TS116613116	food 31 46	cranberry juice
+T1	drug 21 26	Waran
+R1	relation Arg1:TS116613116 Arg2:T1	

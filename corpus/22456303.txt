@@ -1,0 +1,10 @@
+Effect of food on the bioavailability of lesogaberan given as an oral solution or as modified-release capsules in healthy male volunteers .
+The novel Type B gamma-aminobutyric acid ( GABAB ) -receptor agonist lesogaberan ( AZD3355 ) has been evaluated as an add-on to proton pump inhibitor treatment for gastroesophageal reflux disease , but the effect of food on the bioavailability of this compound has not been assessed .
+In this openlabel crossover study , healthy males received single 100 mg doses of lesogaberan ( oral solution ( A ) or oral modified release ( MR ) capsules with a dissolution rate of 50% ( B ) or 100% ( C ) over 4 h ) with and without food .
+Blood plasma concentrations of lesogaberan were assessed over 48 h .
+A log-transformed geometric mean Cmax and AUC ratio within the 90% confidence interval ( CI ) range ( 0.80 - 1.25 ) was defined as excluding a clinically relevant food effect .
+Overall , 57 subjects completed the study .
+Only the oral lesogaberan solution had a fed  fasting Cmax ratio outside the 90% CI range ( Cmax ratio: 0.76 ) .
+AUC ratios were within the 90% CI limits for all three lesogaberan formulations .
+The only substantial change in tmax associated with food intake was observed for the oral solution ( 1.0 h without food , 1.8 h with food ) .
+In conclusion , a clinically relevant food effect could be excluded for the lesogaberan MR formulations , but not for the oral lesogaberan solution .

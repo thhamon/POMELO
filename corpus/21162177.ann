@@ -1,0 +1,4 @@
+TS321162177	food 25 41	grapefruit juice
+TS121162177	drug 100 107	Lipitor
+R1	relation Arg1:TS321162177 Arg2:TS121162177
+TS521162177	food 165 171	pomelo

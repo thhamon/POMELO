@@ -1,0 +1,23 @@
+TS1515980352	drugEffect 160 210	anti-human immunodeficiency virus ( HIV ) activity
+TS415980352	food 367 371	food
+TS715980352	mealTime 662 676	overnight fast
+TS1315980352	food 705 723	high-fat breakfast
+TS915980352	sideeffect 1294 1312	abdominal cramping
+TS615980352	sideeffect 1315 1321	nausea
+TS1215980352	sideeffect 1328 1336	diarrhea
+TS1415980352	food 1803 1807	Food
+T1	drug 59 74	CCR5 antagonist
+T2	dosage 615 617	50
+T3	dosage 620 623	200
+T4	dosage 626 629	400
+T5	dosage 632 635	800
+T6	dosage 642 652	1 , 200 mg
+T7	dosage 682 688	400 mg
+T8	dosage 857 860	200
+T9	dosage 863 866	400
+T10	dosage 869 872	600
+T11	dosage 878 884	800 mg
+T12	frequency 885 895	every 12 h
+T13	duration 904 913	for 8 day
+T14	frequency 898 901	BID
+T15	dosage 1109 1124	50 mg to 800 mg

@@ -1,0 +1,11 @@
+The effects of grapefruit juice on sertraline metabolism metabolism: an in vitro and in vivo study .
+Grapefruit juice is an inhibitor of cytochrome P-450 3A4 ( CYP3A4 ) .
+This study was designed to assess the in vitro and in vivo effects of grapefruit juice on sertraline metabolism .
+The in vitro assay involved analysis of sertraline metabolism by CYP3A4 using CYP3A4- CYP3A4-expressed human beta-lymphoblast microsomes .
+The in vivo study involved high-performance liquid chromatographic analysis of serum trough levels of sertraline and desmethylsertraline in 5 patients who had been taking their usual dose of sertraline for sentsup or =6 weeks , followed by concurrent use of sertraline with grapefruit juice for 1 week .
+The in vitro assay demonstrated that grapefruit juice inhibited the formation of desmethylsertraline in a dose-dependent manner .
+In the in vivo study , mean serum sertraline levels were determined in 5 patients with a history of depression ( 4 males and 1 female ) .
+The mean age of the patients was 68.6 years , their mean weight was 69.6 kg , and their mean sertraline dosage was 55 mg  d. .
+The results of the in vivo study appeared to be consistent with the in vitro findings , in that mean ( +  - SD ) serum sertraline trough levels increased significantly from 13.7+  -4.9 microg  L before to 20.2+  -4.4 microg  L ( P = 0.047 ) after administration of grapefruit juice .
+Thus the in vitro study demonstrated that grapefruit juice can inhibit the metabolism of sertraline .
+A larger study is warranted to substantiate the clinical significance of the in vivo findings .

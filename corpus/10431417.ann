@@ -1,0 +1,5 @@
+TS110431417	sideeffect 0 11	Interaction
+TS210431417	food 55 60	foods
+T1	drug 24 42	irreversible MAOIs
+R1	relation Arg1:TS210431417 Arg2:T1	
+R2	relation Arg1:TS210431417 Arg2:TS110431417	

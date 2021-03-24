@@ -1,0 +1,9 @@
+Probing small-molecule binding to cytochrome P450 2D6 and 2C9: An in silico protocol for generating toxicity alerts .
+Drug metabolism , toxicity , and their interaction profiles are major issues in the drug-discovery and lead-optimization processes .
+The cytochromes P450 ( CYPs ) 2D6 and 2C9 are enzymes involved in the oxidative metabolism of a majority of marketed drugs .
+Therefore , the prediction of the binding affinity towards CYP2D6 and CYP2C9 would be beneficial for identifying cytochrome-mediated adverse effects triggered by drugs or chemicals ( e.g e.g. , toxic reactions , drug-drug , and food-drug interactions ) .
+By identifying the binding mode by using pharmacophore prealignment , automated flexible docking , and by quantifying the binding affinity by multidimensional QSAR ( mQSAR ) , we validated a model family of 56 compounds ( 46 training , 10 test ) and 85 compounds ( 68 training , 17 test ) for CYP2D6 and CYP2C9 , respectively .
+The correlation with the experimental data ( cross-validated rbiga²=0.811 for CYP2D6 and 0.687 for CYP2C9 ) suggests that our approach is suited for predicting the binding affinity of compounds towards CYP2D6 and CYP2C9 CYP2C9. .
+The models were challenged by Y-scrambling and by testing an external dataset of binding compounds ( 15 compounds for CYP2D6 and 40 for CYP2C9 ) .
+To assess the probability of false-positive predictions , datasets of nonbinders ( 64 compounds for CYP2D6 and 56 for CYP2C9 ) were tested by using the same protocol .
+The two validated mQSAR models were subsequently added to the VirtualToxLab ( VTL , http:   www.virtualtoxlab.org ) .

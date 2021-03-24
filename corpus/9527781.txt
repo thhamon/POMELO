@@ -1,0 +1,13 @@
+Single-dose pharmacokinetics of indinavir and the effect of food .
+Indinavir sulfate is a human immunodeficiency virus type 1 ( HIV-1 ) protease inhibitor indicated for treatment of HIV infection and AIDS in adults .
+The purpose of this report is to summarize single-dose studies which characterized the pharmacokinetics of the drug and the effect of food in healthy volunteers .
+Indinavir concentrations in plasma and urine were obtained by high-pressure liquid chromatography and UV detection assay methods .
+The results indicate that indinavir was rapidly absorbed in the fasting state , with the time to the maximum concentration in plasma occurring at approximately 0.8 h for all doses studied .
+Over the 40- to 1 , 000-mg dose range studied , concentrations in plasma and urinary excretion of unchanged drug increased greater than dose proportionally .
+The nonlinear pharmacokinetics were attributed to the dose-dependent oxidative metabolism of first-pass metabolism as well as to metabolism in the systemic circulation .
+Renal clearance slightly exceeded the glomerular filtration rate , suggesting a net tubular secretion component .
+At high concentrations in plasma , tubular secretion appeared to be lowered because there was a trend for a decreased renal clearance .
+Administration of 400 mg of indinavir sulfate following a high-fat breakfast resulted in a blunted and decreased absorption ( areas under the concentration-time curves [AUCs] , 6.86 microM.h in the fasted state versus 1.54 microM.h in the fed state ; n = 10 ) .
+However , two types of low-fat meals were found to have no significant effect on the absorption of 800 mg of indinavir sulfate ( AUCs , 23.15 microM.h in the fasted state versus 22.71 and 21.36 microM.h , respectively , in the fed state ; n = 11 ) .
+Immediately following dosing , the concentrations of indinavir in urine often exceeded its intrinsic solubility .
+To reduce the risk of nephrolithiasis , it is recommended that indinavir sulfate be administered with water .

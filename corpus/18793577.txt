@@ -1,0 +1,18 @@
+A pharmacokinetic study of two modified-release methylphenidate formulations under different food conditions in healthy volunteers .
+Primary objective was to investigate bioequivalence of Ritalin LA ( R ) ; 40 mg compared to Medikinet retard 40 mg in healthy male volunteers under fasted and fed conditions .
+Secondary objectives included assessment of tolerability and determination of further pharmacokinetic parameters .
+The difference between the kinetic profiles of Ritalin LA ( R ) and Medikinet retard with respect to breakfast intake was additionally explored .
+28 subjects were randomized in this open-label , four-treatment , cross-over-design study .
+Pharmacokinetic evaluations included AUC ( 0-inf ) , Cmax , tmax , elimination half life ( t1  2 ) and mean residence time MRT ( 0-inf ) ) .
+The relative bioavailability of Ritalin LA ( R ) and Medikinet retard and the food effect were assessed using a 90% confidence interval ( CI ) based on the lower and upper endpoints of the CI for the ratios of the geometric means being within the 80 - 125% equivalence criterion .
+25 volunteers completed all treatment arms .
+Frequency of adverse events were comparable for all treatments .
+Under fasted condition Ritalin LA ( R ) showed a consistent bimodal concentration time profile with two tmax peaks .
+Medikinet retard showed a steady absorption with a single tmax peak .
+The point estimators for AUC ( 0-inf ) and Cmax were found to be 99.7% and 85.9% , respectively .
+Under fed condition both Ritalin LA ( R ) and Medikinet retard showed a bimodal concentration time profile with two tmax peaks .
+The point estimators for AUC ( 0-inf ) and Cmax were estimated as 89.8% and 68.6% , respectively .
+Both methylphenidate formulations were safe and well tolerated .
+Ritalin LA and Medikinet retard were bioequivalent in fasted state but not in fed state .
+Only Ritalin LA had a biphasic kinetic profile under both fasted and fed conditions .
+This difference in the kinetic profiles might be of clinical relevance and might offer a potential advantage of Ritalin LA .

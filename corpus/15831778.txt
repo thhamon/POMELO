@@ -1,0 +1,10 @@
+Clinical pharmacology and pharmacokinetics of once-daily hydromorphone hydrochloride extended-release capsules .
+Hydromorphone hydrochloride extended release ( HHER ) is a multiparticulate melt-extrusion pellet capsule formulation administered q24h .
+Study 1 investigated the bioavailability of 24-mg HHER fed , as well as 24-mg and 12-mg HHER and 8-mg hydromorphone hydrochloride immediate-release ( HHIR ) tablets fasting .
+No clinically significant food effect was observed on hydromorphone C ( max ) or AUC for the 24-mg HHER , and dose proportionality ( AUC ) was demonstrated between 12- and 24-mg HHER .
+Study 2 demonstrated dose strength proportionality for 3 x 12-mg HHER versus 1 x 32-mg HHER .
+Study 3 evaluated 12-mg HHER q24h versus 3-mg HHIR q6h at steady state .
+HHER produced relatively constant steady-state concentrations over 24 hours .
+HHER and HHIR were equivalent for AUC ( ss ) .
+C ( ssmax ) was 26% lower for HHER than HHIR , C ( ssmin ) was 43% higher for HHER , and peak-to-trough fluctuation was 126% for HHER versus 328% for HHIR , which are ideal attributes of a once-daily oral extended-release dosage form .
+HHER administration resulted in fewer adverse events than HHIR in study 3. .

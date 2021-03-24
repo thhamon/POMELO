@@ -1,0 +1,24 @@
+TS1019167586	drugEffect 9 24	bioavailability
+TS1519167586	drug 28 52	tizanidine hydrochloride
+TS1919167586	food 120 130	applesauce
+TS2219167586	mealTime 214 220	fasted
+TS1619167586	drug 276 286	tizanidine
+TS1419167586	drug 384 394	tizanidine
+TS1219167586	drug 541 551	tizanidine
+TS1819167586	food 590 600	applesauce
+TS2519167586	mealTime 604 610	fasted
+TS819167586	drug 725 735	tizanidine
+TS919167586	food 818 828	applesauce
+TS1719167586	drug 915 925	tizanidine
+TS2319167586	sideeffect 2088 2094	deaths
+TS119167586	drug 2189 2199	tizanidine
+TS1319167586	food 2221 2231	applesauce
+TS2419167586	mealTime 2291 2297	fasted
+TS219167586	food 2401 2411	applesauce
+T1	dosage 525 529	6-mg
+T2	mealTime 736 740	6-mg
+T3	sideeffect 1045 1059	adverse events
+T4	sideeffect 2070 2084	adverse events
+T5	dosage 2269 2273	6-mg
+R1	negative_effect_on_drug Arg1:TS1319167586 Arg2:TS119167586	
+T6	sideeffect 2429 2443	adverse events

@@ -1,0 +1,13 @@
+TS29650536	drug 7 47	angiotensin-converting enzyme inhibitors
+TS69650536	drug 87 96	diuretics
+TS99650536	drug 101 125	calcium channel blockers
+TS229650536	drug 128 157;166 176	Angiotensin-converting enzyme inhibitors
+TS189650536	drug 160 163	ACE
+TS159650536	drug 342 351	captopril
+TS179650536	drug 396 410	ACE inhibitors
+TS169650536	drug 645 659	ACE inhibitors
+TS209650536	sideeffect 715 732	drug interactions
+TS139650536	sideeffect 735 750	adverse effects
+TS249650536	drug 804 818	ACE inhibitors
+TS19650536	drug 831 840	diuretics
+TS109650536	drug 844 868	calcium channel blockers

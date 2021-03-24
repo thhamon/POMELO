@@ -1,0 +1,53 @@
+TS319048359	food 0 16	Grapefruit juice
+TS819048359	drug 46 56	colchicine
+TS519048359	sideeffect 100 111	interaction
+R1	increase_absorption Arg1:TS319048359 Arg2:TS819048359
+TS3119048359	sideeffect 174 185	interaction
+TS419048359	food 194 210	grapefruit juice
+TS619048359	drug 269 279	colchicine
+R2	relation Arg1:TS419048359 Arg2:TS619048359
+TS2719048359	drug 312 322	Colchicine
+TS2519048359	drug 491 500	verapamil
+TS2419048359	drug 505 514	quinidine
+TS1619048359	drug 622 630	naringin
+TS3019048359	drug 651 661	colchicine
+TS2319048359	drug 724 734	colchicine
+TS2119048359	drug 846 856	Colchicine
+TS1319048359	drug 980 989	verapamil
+TS1919048359	drug 991 1000	quinidine
+TS1819048359	drug 1003 1013	Colchicine
+TS719048359	food 1335 1340	juice
+TS1719048359	drug 1427 1435	naringin
+TS2619048359	sideeffect 1485 1525	inhibition on colchicine BL-AP secretion
+TS1219048359	drug 1614 1624	colchicine
+TS1119048359	drug 1742 1752	colchicine
+TS2919048359	drugEffect 1758 1773	bioavailability
+TS2219048359	drug 1783 1793	colchicine
+TS1519048359	sideeffect 1871 1882	interaction
+R3	relation Arg1:TS419048359 Arg2:TS3119048359	
+T1	drug 232 268	microtubule polymerization inhibitor
+T2	modeadm 227 231	oral
+T3	sideeffect 473 488	P-gp inhibitors
+R4	has_sideeffect Arg1:TS2519048359 Arg2:T3	
+R5	has_sideeffect Arg1:TS2419048359 Arg2:T3	
+T4	food 558 561	GFJ
+T5	food 213 216	GFJ
+T6	drug 591 619	6' -7' -dihydroxybergamottin
+T7	drug 635 645	naringenin
+T8	food 717 720	GFJ
+T9	food 1074 1077	GFJ
+T10	sideeffect 1180 1210	inhibition of efflux transport
+R6	increase_side_effect Arg1:T9 Arg2:T10	
+T11	food 1313 1316	GFJ
+T12	drug 1396 1424	6' -7' -Dihydroxybergamottin
+T13	drug 1440 1450	naringenin
+R7	has_sideeffect Arg1:T12 Arg2:TS2619048359	
+R8	has_sideeffect Arg1:TS1719048359 Arg2:TS2619048359	
+R9	has_sideeffect Arg1:T13 Arg2:TS2619048359	
+T14	food 1602 1605	GFJ
+T15	food 1726 1729	GFJ
+T16	modeadm 1753 1757	oral
+R10	increase_absorption Arg1:T15 Arg2:TS1119048359	
+R11	has_effect Arg1:TS1119048359 Arg2:TS2919048359	
+T17	sideeffect 1832 1850	toxic side-effects
+R12	has_sideeffect Arg1:TS2219048359 Arg2:T17	

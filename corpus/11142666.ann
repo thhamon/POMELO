@@ -1,0 +1,26 @@
+TS1311142666	drug 46 59	chlorhexidine
+TS411142666	drug 64 89	cetyl pyridinium chloride
+TS211142666	drug 159 179	Cationic antiseptics
+TS1211142666	drug 188 201	chlorhexidine
+TS911142666	drug 214 239	cetyl pyridinium chloride
+TS1011142666	sideeffect 450 470	tea staining effects
+TS111142666	food 678 683	water
+TS511142666	food 896 899	tea
+TS811142666	food 1285 1290	Water
+TS1111142666	drug 1654 1665	antiseptics
+TS711142666	drug 1731 1742	antiseptics
+T1	foodSupplement 262 280	dietary chromogens
+T2	sideeffect 292 307	extrinsic stain
+R1	relation Arg1:T1 Arg2:TS911142666	
+R2	without_food Arg1:T1 Arg2:TS1211142666	
+R3	without_food Arg1:T1 Arg2:TS211142666	
+R4	has_sideeffect Arg1:TS1211142666 Arg2:T2	
+R5	has_sideeffect Arg1:TS911142666 Arg2:T2	
+R6	has_sideeffect Arg1:TS211142666 Arg2:T2	
+T3	drug 204 207	CHX
+T4	drug 242 245	CPC
+T5	drug 14 24	toothpaste
+T6	drug 424 434	toothpaste
+T7	drug 474 477	CHX
+T8	drug 482 485	CPC
+T9	duration 881 887	60 min

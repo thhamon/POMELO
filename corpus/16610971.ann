@@ -1,0 +1,37 @@
+TS416610971	drug 0 8	Warfarin
+TS1116610971	sideeffect 17 29	interactions
+TS1716610971	food 35 40	foods
+TS1916610971	food 43 48	herbs
+TS1816610971	foodSupplement 59 78	dietary supplements
+TS1416610971	drug 147 155	warfarin
+TS2216610971	drug 198 211	anticoagulant
+TS716610971	drugEffect 239 254	anticoagulation
+TS1216610971	food 317 321	food
+TS2816610971	sideeffect 326 343	drug interactions
+TS516610971	drug 360 375	anticoagulation
+TS116610971	sideeffect 428 436	bleeding
+TS2016610971	food 541 558	dietary vitamin K
+TS1016610971	drugEffect 613 628	anticoagulation
+TS216610971	drug 654 662	warfarin
+TS2516610971	foodSupplement 711 730	dietary supplements
+TS2716610971	food 735 750	herbal products
+TS1516610971	drug 785 798	anticoagulant
+TS1316610971	drugEffect 799 805	levels
+R3	relation Arg1:TS2716610971 Arg2:TS1516610971
+TS916610971	food 919 923	food
+TS316610971	foodSupplement 926 944	dietary supplement
+TS816610971	food 949 955	herbal
+TS1616610971	sideeffect 956 968	interactions
+TS2116610971	drug 974 982	warfarin
+R4	relation Arg1:TS916610971 Arg2:TS2116610971
+R5	relation Arg1:TS316610971 Arg2:TS2116610971
+TS2616610971	sideeffect 1054 1066	interactions
+R1	relation Arg1:TS1716610971 Arg2:TS416610971	
+R6	relation Arg1:TS1916610971 Arg2:TS416610971	
+R7	relation Arg1:TS1816610971 Arg2:TS416610971	
+R8	has_sideeffect Arg1:TS416610971 Arg2:TS1116610971	
+R9	has_sideeffect Arg1:TS516610971 Arg2:TS116610971	
+T1	sideeffect 440 468	thromboembolic complications
+R10	has_sideeffect Arg1:TS516610971 Arg2:T1	
+R11	relation Arg1:TS2016610971 Arg2:TS216610971	
+R2	has_effect Arg1:TS216610971 Arg2:TS1016610971	

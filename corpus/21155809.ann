@@ -1,0 +1,12 @@
+TS621155809	drug 38 63	nutraceutical supplements
+TS321155809	food 68 72	food
+TS721155809	food 1090 1094	food
+TS121155809	drugEffect 1297 1312	bioavailability
+TS921155809	sideeffect 1441 1458	drug interactions
+T1	drug 83 97	Nutraceuticals
+T2	drug 197 211	nutraceuticals
+T3	drug 925 938	nutraceutical
+T4	drug 1358 1372	nutraceuticals
+T5	sideeffect 1424 1436	side effects
+T6	drug 1494 1508	nutraceuticals
+R1	has_sideeffect Arg1:T6 Arg2:TS921155809	

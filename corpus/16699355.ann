@@ -1,0 +1,17 @@
+TS1216699355	drug 41 49	warfarin
+TS1716699355	drug 160 168	warfarin
+TS1616699355	drug 179 187	Warfarin
+TS416699355	drug 323 348	anticoagulation treatment
+TS216699355	drug 671 679	warfarin
+TS1816699355	drug 891 899	warfarin
+TS1016699355	food 925 939	vitamin K food
+TS2116699355	drug 1348 1356	warfarin
+TS1416699355	drug 1424 1432	warfarin
+TS2016699355	drug 1644 1652	warfarin
+TS516699355	drug 1754 1762	warfarin
+TS616699355	drug 1806 1814	warfarin
+TS916699355	drug 2265 2273	warfarin
+TS2216699355	drug 2356 2364	warfarin
+T1	sideeffect 297 309	side effects
+T2	treatedDisease 75 98	heart valve replacement
+T3	treatedDisease 773 796	heart valve replacement

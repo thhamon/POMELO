@@ -1,0 +1,36 @@
+TS1119281729	treatedDisease 133 145	solid tumors
+TS2019281729	food 248 251	i.e
+TS1619281729	food 399 403	food
+TS319281729	treatedDisease 522 534	solid tumors
+TS1819281729	food 824 829	food-
+TS1919281729	mealTime 923 929	fasted
+TS1319281729	mealTime 934 937	fed
+TS719281729	mealTime 1399 1402	fed
+TS2219281729	mealTime 1407 1413	fasted
+TS519281729	food 1427 1431	food
+TS819281729	treatedDisease 1906 1918	solid tumors
+TS1519281729	mealTime 1926 1929	fed
+TS2119281729	mealTime 1933 1939	fasted
+T1	drug 35 44	topotecan
+T2	modeadm 30 34	oral
+R1	treat Arg1:T1 Arg2:TS1119281729	
+T3	drug 224 233	topotecan
+T4	modeadm 219 223	oral
+T5	modeadm 317 321	oral
+T6	drug 454 463	topotecan
+T7	modeadm 449 453	oral
+R2	treat Arg1:T6 Arg2:TS319281729	
+T8	dosage 872 876	4 mg
+T9	drug 952 961	topotecan
+T10	drug 966 983	topotecan lactone
+T11	drug 1296 1313	topotecan lactone
+T12	drug 1453 1470	topotecan lactone
+T13	drug 1481 1490	topotecan
+T14	drug 1625 1634	topotecan
+T15	modeadm 1620 1624	oral
+R3	slow_absorption Arg1:TS519281729 Arg2:T12	
+R4	decrease_absorption Arg1:TS519281729 Arg2:T13	
+T16	drug 1772 1781	topotecan
+T17	modeadm 1767 1771	oral
+R5	no_effect_on_drug Arg1:TS1519281729 Arg2:T16	
+R6	no_effect_on_drug Arg1:TS2119281729 Arg2:T16	

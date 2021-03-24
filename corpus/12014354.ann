@@ -1,0 +1,5 @@
+TS212014354	sideeffect 0 11	Interaction
+TS112014354	drug 20 28	warfarin
+TS412014354	food 33 44	mango fruit
+R1	relation Arg1:TS412014354 Arg2:TS112014354	
+R2	relation Arg1:TS412014354 Arg2:TS212014354	

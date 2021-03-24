@@ -1,0 +1,13 @@
+Lack of effect of food on the bioavailability of a new ketolide antibacterial , telithromycin .
+Telithromycin is an innovative antibacterial designed for the treatment of community-acquired respiratory tract infections .
+This study assessed the effect of food on the bioavailability of a single oral dose of telithromycin 800 mg in healthy male subjects .
+Male volunteers aged 18-45 y were recruited for an open-label , single-dose , 2-period , cross-over study .
+In each trial period , subjects received a single oral dose of telithromycin 800 mg after an overnight fast , or after a standard high-fat breakfast .
+A washout period of 6-8 d separated the 2 study periods .
+All 18 subjects recruited ( mean age 30.7 y ) completed the study .
+Telithromycin was rapidly absorbed , reaching maximum plasma concentrations within a median of 2.50 and 2.25 h in the fasting and non-fasting states , respectively .
+There was no statistical difference between the non-fasting and fasting states for any of the pharmacokinetic parameters measured .
+The mean plasma telithromycin concentration versus time profiles for the non-fasting and fasting phases were almost superimposable .
+For the maximum plasma concentration and area under the curve from time 0 to infinity , the 90% confidence intervals for the mean non-fasting:fasting ratios were 83-116 and 101-123 mg x h  l , respectively ; these are within 80-125% of the bioequivalence range .
+Telithromycin was well tolerated .
+The bioavailability , rate and extent of absorption of the new ketolide antibacterial telithromycin were unaffected by food .

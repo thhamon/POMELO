@@ -1,0 +1,21 @@
+TS229505992	drug 43 67	P-glycoprotein modulator
+TS119505992	drug 164 173	Valspodar
+TS189505992	drug 179 200	cyclosporine D analog
+TS89505992	drugEffect 927 942	bioavailability
+TS249505992	food 1245 1258	fat-rich meal
+TS19505992	mealTime 1232 1237;1254 1258	after meal
+TS239505992	food 1382 1395	fat-rich meal
+TS79505992	mealTime 1369 1374;1391 1395	after meal
+TS179505992	sideeffect 1695 1713	hyperbilirubinemia
+TS39505992	drugEffect 1735 1741	levels
+TS129505992	drug 1909 1924	gelatin capsule
+T1	drug 29 38	valspodar
+T2	modeadm 330 334	oral
+T3	dosage 551 557	200 mg
+T4	modeadm 561 572	intravenous
+T5	dosage 586 592	600 mg
+T6	modeadm 593 599	orally
+T7	dosage 1181 1203	200 , 400 , and 600 mg
+T8	dosage 1210 1216	400-mg
+T9	drugEffect 1758 1783	P-glycoprotein inhibition
+T10	modeadm 1887 1891	oral

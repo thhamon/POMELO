@@ -1,0 +1,11 @@
+Safety , tolerability , pharmacokinetics , and pharmacodynamic properties of the GPR40 agonist TAK-875: results from a double-blind , placebo-controlled single oral dose rising study in healthy volunteers .
+TAK-875 is a selective G-protein- G-protein-coupled receptor 40 agonist in development for the treatment of type 2 diabetes mellitus .
+This randomized , double-blind , placebo-controlled study evaluated the safety , tolerability , pharmacokinetics , and pharmacodynamics of TAK-875 following administration of a single oral dose of TAK-875 ( 25-800 mg ) in 60 healthy volunteers .
+TAK-875 was eliminated slowly with a mean terminal elimination t ( 1  2 ) of approximately 28.1 to 36.6 hours .
+Systemic exposure of TAK-875 did not exhibit dose-proportional increases across the dose range evaluated due to a greater than proportional increase in exposure at doses greater than 200 mg .
+A preliminary food effect assessment indicated that coadministration of TAK-875 with a high-fat meal decreased C ( max ) of TAK-875 by 40% and AUC by 17%. .
+Clinical adverse experiences were generally mild and transient .
+No dose-dependent pattern was observed .
+In healthy volunteers , no glucose- glucose-lowering effect and no increase in insulin or c-peptide secretion were evident following administration of TAK-875 ; the frequency of plasma glucose concentrations sentinf70 mg  dL was similar in the TAK-875 and pooled placebo groups .
+TAK-875 was well tolerated in the study and has pharmacokinetic characteristics suitable for a once-daily regimen .
+The pharmacodynamic data support the notion that TAK-875 , if effective in diabetic patients , may bear a low risk of hypoglycemia .

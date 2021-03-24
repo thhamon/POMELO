@@ -1,0 +1,35 @@
+TS118363537	sideeffect 10 21	interaction
+TS2118363537	drug 30 38	warfarin
+TS2018363537	food 56 63	protein
+TS2418363537	drug 115 123	warfarin
+TS818363537	drug 239 247	warfarin
+TS3018363537	food 292 308	low-carbohydrate
+TS3318363537	food 311 328	high-protein diet
+TS2518363537	sideeffect 684 695	interaction
+TS918363537	drug 704 712	warfarin
+TS1418363537	food 719 736	high-protein diet
+TS518363537	food 775 782	protein
+TS2618363537	food 1049 1056	protein
+TS218363537	sideeffect 1069 1100	increase in warfarin metabolism
+TS2218363537	sideeffect 1252 1263	interaction
+TS1618363537	drug 1272 1280	warfarin
+TS1218363537	food 1287 1304	high-protein diet
+TS3118363537	food 1336 1354	high-protein diets
+TS2718363537	drug 1420 1428	warfarin
+TS1518363537	drugEffect 1429 1444	anticoagulation
+TS1718363537	sideeffect 1506 1517	interaction
+T1	treatedDisease 149 173	aortic valve replacement
+T2	dosage 248 253	95 mg
+T3	frequency 255 259	week
+T4	duration 260 271	for 5 weeks
+T5	dosage 616 621	95 mg
+T6	frequency 623 627	week
+R5	relation Arg1:TS1418363537 Arg2:TS918363537	
+R6	relation Arg1:TS1418363537 Arg2:TS2518363537	
+T7	sideeffect 793 819	raise serum albumin levels
+R1	increase_side_effect Arg1:TS2618363537 Arg2:TS218363537	
+R2	increase_side_effect Arg1:TS1218363537 Arg2:TS2218363537	
+R7	relation Arg1:TS1218363537 Arg2:TS1618363537	
+R3	has_effect Arg1:TS2718363537 Arg2:TS1518363537	
+R4	relation Arg1:TS3118363537 Arg2:TS1718363537	
+R8	relation Arg1:TS3118363537 Arg2:TS2718363537	

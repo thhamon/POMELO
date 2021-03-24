@@ -1,0 +1,11 @@
+TS1522139686	sideeffect 24 41	drug interactions
+TS2022139686	food 280 288	proteins
+TS1722139686	food 398 406	proteins
+TS2122139686	food 575 583	proteins
+TS322139686	sideeffect 744 753;756 765;770 779;780 797	drug-drug drug-herb drug-food food interactions
+TS1822139686	sideeffect 997 1014	drug interactions
+TS1422139686	sideeffect 1066 1083	drug interactions
+TS2422139686	sideeffect 1237 1254	drug interactions
+TS1222139686	sideeffect 1345 1361	drug interaction
+TS2322139686	sideeffect 1541 1558	drug interactions
+T1	drug 492 497	drugs

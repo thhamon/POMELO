@@ -1,0 +1,21 @@
+Effect of food on the pharmacokinetics of clozapine orally disintegrating tablet 12.5 mg: a randomized , open-label , crossover study in healthy male subjects .
+Food has reportedly not affected the systemic bioavailability of the atypical antipsychotic drug clozapine .
+However , searches of the medical literature could find no studies to support this food claim for any formulation of clozapine .
+The purpose of the current study was to assess the effect of food on the bioavailability and pharmacokinetics of clozapine orally disintegrating tablet ( ODT ) following single 12.5 mg doses in the healthy subjects in fasted and fed conditions .
+This was a randomized , open-label , two-way crossover study in which healthy males aged 18-45 years completed two dosing periods .
+In period I , subjects received one dose of clozapine ODT 12.5 mg after an overnight fast and in period II they received one dose of clozapine ODT 12.5 mg within 30 minutes of consuming a high-fat  -calorie breakfast .
+Venous blood samples were taken at regular intervals before and after study drug administration , and plasma concentrations of clozapine and desmethylclozapine were measured from each blood sample .
+Standard pharmacokinetic parameters were calculated .
+Safety and tolerability were also assessed .
+Twenty-four subjects were enrolled: all the subjects completed the study and were included in the pharmacokinetic analyses .
+Pharmacokinetic results demonstrated significant differences in mean plasma concentration-time curves between fasted and fed conditions for both clozapine and desmethylclozapine at various time points after administration of a single clozapine ODT 12.5 mg dose .
+For both clozapine and desmethylclozapine , the lower limits of the 90% confidence intervals ( CIs ) for the geometric mean fed-to- fed-to-fasted maximum plasma concentration ( C ( max ) ) ratios ( 0.73 for both clozapine and desmethylclozapine ) were below the bioequivalence lower limit , 0.80. .
+The mean C ( max ) of both clozapine and desmethylclozapine was decreased by approximately 20% when clozapine ODT was administered after a high-fat  -calorie breakfast .
+However , the 90% CIs for the fed-to- fed-to-fasted ratios of geometric means of area under the plasma concentration-time curve from time zero to the time of the last measurable concentration ( AUC ( last ) ) [1.01 , 1.15 for clozapine ; 1.00 , 1.18 for desmethylclozapine ) and from time zero to infinity ( AUC ( infinity ) ) [1.03 , 1.14 for clozapine ; 1.01 , 1.15 for desmethylclozapine] were within the bioequivalence boundaries of 0.80-1.25. .
+There were no serious adverse events , discontinuations due to adverse events , or abnormalities in clinical laboratory evaluations .
+Seventy-one adverse events were reported and 96% were mild in intensity - the most common adverse event was somnolence ( 42  71 events ) .
+Two severe adverse events ( syncope , n = 1 fasted subject ; vasovagal syncope , n = 1 fed subject ) were reported approximately 4 hours after administration of clozapine ODT and asystole ( 5-10 seconds ) was associated with syncope in the fasted subject .
+When compared with drug administration in the fasted state , coadministration of food was shown to decrease the rate of clozapine absorption from clozapine ODT 12.5 mg as assessed by C ( max ) but had no effect on the extent of clozapine absorption as assessed by AUC ( last ) and AUC ( infinity ) .
+The C ( max ) value for clozapine was approximately 20% lower in the fed versus the fasted state .
+Thus , clozapine ODT should be administered at least 1 hour before meals or after a light meal .
+The reported adverse events in 24 healthy male subjects were consistent with those expected from healthy subjects taking oral clozapine .

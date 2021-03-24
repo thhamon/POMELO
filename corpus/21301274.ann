@@ -1,0 +1,3 @@
+TS321301274	food 13 28	Cranberry juice
+TS221301274	drug 33 41	warfarin
+R1	relation Arg1:TS321301274 Arg2:TS221301274

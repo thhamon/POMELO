@@ -1,0 +1,26 @@
+TS316562361	treatedDisease 28 41	HIV infection
+TS216562361	treatedDisease 296 309	HIV infection
+TS816562361	drug 518 531	emtricitabine
+TS1116562361	drug 534 544	atazanavir
+TS1216562361	drug 547 560	fosamprenavir
+TS516562361	treatedDisease 1005 1018	HIV infection
+TS1516562361	drug 1032 1075	nucleoside reverse transcriptase inhibitors
+TS1916562361	drug 1189 1191	PI
+TS1416562361	drug 1224 1233	stavudine
+TS1016562361	drug 1299 1308	efavirenz
+TS716562361	drug 1332 1342	nevirapine
+TS2016562361	drug 1392 1395	PIs
+TS1316562361	drug 1421 1430	ritonavir
+TS2116562361	drug 1433 1435	PI
+TS916562361	treatedDisease 1530 1547	hepatitis B virus
+TS416562361	treatedDisease 1559 1571	tuberculosis
+T1	drug 0 14	Antiretroviral
+T2	drug 567 577	enfuvirtid
+T3	drug 648 665	fusion inhibitors
+T4	drug 1078 1083	NRTIs
+T5	drug 1092 1137	non-nucleoside reverse transcriptase inhibito
+T6	drug 1141 1146	NNRTI
+T7	drug 1156 1161	NRTIs
+T8	drug 1168 1186	protease inhibitor
+T9	drug 1216 1221	NRTIs
+T10	drug 1285 1290	NNRTI

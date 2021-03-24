@@ -1,0 +1,12 @@
+TS322108488	foodSupplement 33 49	food supplements
+TS622108488	sideeffect 474 486	interactions
+TS222108488	food 687 697	supplement
+TS722108488	sideeffect 954 965	interaction
+T1	drug 14 28	nutraceuticals
+T2	foodSupplement 81 97	food supplements
+T3	foodSupplement 172 188	food supplements
+T4	drug 153 167	Nutraceuticals
+T5	drug 323 337	Nutraceuticals
+T6	drug 1038 1052	nutraceuticals
+T7	foodSupplement 1057 1073	food supplements
+R1	relation Arg1:T7 Arg2:T6	

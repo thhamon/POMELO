@@ -1,0 +1,29 @@
+TS2516326816	sideeffect 10 29	inhibition of cyp3a
+TS2316326816	food 41 57	star fruit juice
+TS916326816	food 60 76	Star fruit juice
+TS216326816	drug 98 116	inhibitor of CYP3A
+TS316326816	sideeffect 162 192	inhibition of CYP3A activities
+TS1016326816	food 196 212	star fruit juice
+TS5616326816	sideeffect 298 320	fruit-drug interaction
+TS2016326816	food 345 361	star fruit juice
+TS2116326816	drug 365 378	carbamazepine
+R2	relation Arg1:TS2016326816 Arg2:TS2116326816
+TS4216326816	food 438 443	water
+TS3616326816	drug 501 514	carbamazepine
+TS2616326816	food 555 571	star fruit juice
+TS3716326816	drug 643 656	carbamazepine
+TS2816326816	drug 716 729	carbamazepine
+TS2916326816	drug 751 764	carbamazepine
+TS3016326816	drug 784 797	carbamazepine
+TS4916326816	food 840 856	star fruit juice
+TS4416326816	food 886 902	star fruit juice
+TS5216326816	food 1085 1101	star fruit juice
+TS5316326816	food 1122 1138	star fruit juice
+TS1416326816	food 1219 1235	star fruit juice
+TS4816326816	food 1299 1315	star fruit juice
+TS516326816	drug 1327 1340	carbamazepine
+R5	negative_effect_on_drug Arg1:TS4816326816 Arg2:TS516326816
+R1	increase_side_effect Arg1:TS1016326816 Arg2:TS316326816	
+R6	relation Arg1:TS2316326816 Arg2:TS2516326816	
+T1	modeadm 620 624	oral
+T2	dosage 659 668	50 mg  kg

@@ -1,0 +1,15 @@
+TS211552202	drug 0 8	Warfarin
+TS1111552202	sideeffect 126 137	interaction
+TS311552202	drug 182 190	warfarin
+TS411552202	sideeffect 231 242	interaction
+TS711552202	drug 378 386	warfarin
+TS1011552202	drugEffect 402 417	bioavailability
+TS111552202	drug 469 477	warfarin
+TS511552202	food 486 493	protein
+TS811552202	sideeffect 555 566	interaction
+TS611552202	drug 582 590	warfarin
+TS911552202	sideeffect 689 700	interaction
+T1	foodSupplement 161 177	feeding products
+T2	foodSupplement 356 372	feeding products
+T3	foodSupplement 511 526	feeding product
+T4	foodSupplement 603 619	feeding products

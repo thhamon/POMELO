@@ -1,0 +1,28 @@
+TS1415145962	food 17 35	dietary supplement
+TS1815145962	food 47 59	citrus fruit
+TS715145962	sideeffect 70 87	food interactions
+TS1615145962	sideeffect 133 155	drug-drug interactions
+TS1015145962	sideeffect 286 298	interactions
+TS1715145962	sideeffect 489 511	drug-drug interactions
+TS315145962	food 519 537	dietary supplement
+TS1315145962	food 547 559	citrus fruit
+TS515145962	sideeffect 560 572	interactions
+TS815145962	sideeffect 822 834	interactions
+T2	drug 12 16	drug
+T1	drug 42 46	drug
+R1	relation Arg1:TS1415145962 Arg2:T2	
+R2	relation Arg1:TS1815145962 Arg2:T1	
+R3	relation Arg1:TS1415145962 Arg2:TS715145962	
+R4	relation Arg1:TS1815145962 Arg2:TS715145962	
+T3	sideeffect 312 359	inhibition or induction of metabolizing enzymes
+T4	sideeffect 364 383	efflux transporters
+T5	sideeffect 437 451	drug reactions
+T6	sideeffect 455 471	loss of efficacy
+T7	drug 514 518	drug
+T8	drug 542 546	drug
+R5	relation Arg1:TS1315145962 Arg2:T8	
+R6	relation Arg1:TS315145962 Arg2:T7	
+R7	relation Arg1:TS315145962 Arg2:TS515145962	
+R8	relation Arg1:TS1315145962 Arg2:TS515145962	
+T9	sideeffect 607 629	adverse drug reactions
+T10	sideeffect 633 649	loss of efficacy

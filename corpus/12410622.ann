@@ -1,0 +1,14 @@
+TS212410622	sideeffect 4 15	interaction
+TS812410622	food 64 68	diet
+TS412410622	food 73 84	carotenoids
+TS312410622	foodSupplement 126 147	antioxidant nutrients
+TS1412410622	food 466 470	diet
+TS1112410622	food 479 501	antioxidant-rich foods
+TS1612410622	food 510 516	fruits
+TS512410622	food 519 529	vegetables
+TS1012410622	food 536 542	spices
+TS712410622	food 659 664	fruit
+TS1212410622	food 669 678	vegetable
+T1	drug 41 53	antioxidants
+T2	foodSupplement 420 441	antioxidant nutrients
+T3	foodSupplement 692 722	supplementation of antioxidant

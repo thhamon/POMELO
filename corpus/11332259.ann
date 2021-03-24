@@ -1,0 +1,35 @@
+TS4111332259	food 2 11	'Licorice
+TS1511332259	sideeffect 12 24	hypertension
+TS2611332259	food 54 66	licorice tea
+TS2311332259	treatedDisease 130 152	essential hypertension
+TS1911332259	drug 172 180	atenolol
+TS811332259	drug 185 196	candesartan
+TS2811332259	drug 267 286	hydrochlorothiazide
+TS1711332259	sideeffect 330 342	hypokalaemia
+TS1311332259	sideeffect 348 361	muscle cramps
+TS3111332259	sideeffect 366 374	weakness
+TS3411332259	sideeffect 382 394	hypokalaemia
+TS3311332259	drug 469 489	potassium suppletion
+TS1011332259	sideeffect 507 515	polyuria
+TS3011332259	food 641 654	liquorice tea
+TS3911332259	food2 685 701	liquorice sweets
+TS1111332259	sideeffect 726 738	hypertension
+TS2111332259	food 810 823	liquorice tea
+TS2211332259	drug 851 860	potassium
+TS711332259	food 914 927	liquorice tea
+TS2011332259	treatedDisease 990 1002	hypertension
+TS2911332259	treatedDisease 1007 1019	hypokalaemia
+TS4311332259	food2 1040 1056	liquorice sweets
+TS311332259	food 1124 1133	liquorice
+TS2711332259	food 1142 1155	liquorice tea
+TS911332259	food 1177 1190	liquorice tea
+R6	increase_side_effect Arg1:TS2611332259 Arg2:TS1511332259	
+T1	drug 289 292	HCT
+R7	has_sideeffect Arg1:TS2811332259 Arg2:TS1711332259	
+R8	has_sideeffect Arg1:TS2811332259 Arg2:TS1311332259	
+R9	has_sideeffect Arg1:TS2811332259 Arg2:TS3111332259	
+T2	duration 419 426	4 weeks
+T3	frequency 655 660	a day
+R1	increase_side_effect Arg1:TS3911332259 Arg2:TS1111332259	
+R2	increase_side_effect Arg1:TS2111332259 Arg2:TS1111332259	
+T4	duration 878 886	2 months

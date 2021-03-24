@@ -1,0 +1,9 @@
+Bioequivalence studies of tacrolimus capsule under fasting and fed conditions in healthy male and female subjects .
+The bioequivalence of tacrolimus ( CAS 104987-11-3 ) 5 mg capsules was assessed in two single-dose , open-label , randomIzed 2-way crossover trials with a minimum washout period of 14 days ; one trial was conducted under fasting condition ( n = 44 ) and the other one under fed condition ( n = 48 ) .
+Blood samples were collected over a 120-h period and concentrations were assayed using a liquid chromatography tandem mass spectrometry ( LCMS  MS ) method .
+A non-compartmental method was used for calculation of pharmacokinetic parameters .
+Under fasting conditions , mean AUC ( 0-t ) , AUC ( 0-inf ) and C ( max ) were comparable between the test ( 296 ng x h  mL , 318 ng x h  mL and 32 ng  mL , respectively ) and the reference formulations ( 289 ng x h  mL , 309 ng x h  mL and 33 ng  mL , respectively ) .
+T ( max ) was reached between 1.5 and 2 h post-dose .
+Mean AUC ( 0-t ) , AUC ( 0-inf ) and C ( max ) were also comparable under fed conditions ( 154 ng x h  mL , 169 ng x h  mL and 7.6 ng  mL , respectively , for the test and 161 ng x h  mL , 176 ng x h  mL and 7.5 ng  mL , respectively , for the reference formulation ) .
+Under fed conditions , T ( max ) was reached between 5 and 6 h post-dose .
+90% geometric confidence intervals were all within the acceptable 80-125% limit , suggesting bioequivalence between the generic product and the innovator product .

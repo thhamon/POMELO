@@ -1,0 +1,71 @@
+TS1920040339	food 54 58	food
+TS2620040339	drug 61 70	metformin
+TS2520040339	drug 76 86	cimetidine
+R1	relation Arg1:TS1920040339 Arg2:TS2620040339
+R2	relation Arg1:TS1920040339 Arg2:TS2520040339
+TS3620040339	drug 155 165;177 198	dipeptidyl peptidase-4 inhibitor
+TS720040339	treatedDisease 247 262	Type 2 diabetes
+TS1720040339	food 341 345	food
+TS3420040339	sideeffect 404 432	pharmacokinetic interactions
+TS2120040339	drug 456 465	metformin
+TS220040339	drug 469 479	cimetidine
+R3	relation Arg1:TS1720040339 Arg2:T3
+TS2220040339	mealTime 722 725	fed
+TS1820040339	mealTime 729 746	fasted conditions
+TS3220040339	drug 875 884	metformin
+TS1120040339	drug 944 953	metformin
+TS2020040339	drug 1050 1060	cimetidine
+TS2420040339	drug 1101 1111	cimetidine
+TS420040339	food 1274 1278	Food
+TS120040339	mealTime 1470 1473	fed
+TS3320040339	mealTime 1475 1481	fasted
+R4	no_effect_on_drug Arg1:TS420040339 Arg2:T27
+TS2720040339	drug 1585 1594	Metformin
+TS1020040339	drug 1599 1609	cimetidine
+TS2820040339	drug 1683 1692	metformin
+TS2920040339	drug 1798 1807	metformin
+TS3020040339	drug 1811 1820	metformin
+TS520040339	drug 1907 1917	cimetidine
+TS1520040339	mealTime 2045 2050	meals
+TS1220040339	drug 2060 2069	metformin
+TS820040339	drug 2073 2083	cimetidine
+T1	drug 20 30	alogliptin
+T2	drug 199 209	alogliptin
+R5	treat Arg1:T2 Arg2:TS720040339	
+R6	treat Arg1:TS3620040339 Arg2:TS720040339	
+T3	drug 349 359	alogliptin
+T4	drug 441 451	alogliptin
+T5	drug 500 510	alogliptin
+R7	has_sideeffect Arg1:T3 Arg2:TS3420040339	
+R8	has_sideeffect Arg1:T4 Arg2:TS3420040339	
+R9	has_sideeffect Arg1:TS2120040339 Arg2:TS3420040339	
+R10	has_sideeffect Arg1:TS220040339 Arg2:TS3420040339	
+T6	drug 698 708	alogliptin
+T7	dosage 709 715	100 mg
+T8	drug 833 843	alogliptin
+T9	dosage 844 850	100 mg
+T10	frequency 851 861	once daily
+T11	frequency 864 867	q.d
+T12	dosage 885 895	1 , 000 mg
+T13	frequency 896 907	twice daily
+T14	frequency 910 915	b.i.d
+T15	drug 924 934	alogliptin
+T16	frequency 935 938	q.d
+T17	frequency 954 959	b.i.d
+T18	drug 1023 1033	alogliptin
+T19	dosage 1034 1040	100 mg
+T20	frequency 1041 1045	q.d.
+T21	dosage 1061 1067	400 mg
+T22	frequency 1068 1071	q.d
+T23	frequency 1092 1096	q.d.
+T24	drug 1081 1091	alogliptin
+T25	frequency 1112 1118	b.i.d.
+T26	sideeffect 1235 1249	adverse events
+T27	drug 1296 1306	alogliptin
+T28	drug 1625 1635	alogliptin
+T29	drug 1655 1665	Alogliptin
+T30	drug 1785 1795	alogliptin
+T31	drug 1881 1891	Alogliptin
+T32	drug 1937 1947	Alogliptin
+T33	drug 1996 2006	Alogliptin
+R11	no_effect_on_drug Arg1:TS1520040339 Arg2:T33	

@@ -1,0 +1,82 @@
+TS3722893357	food 14 29	dietary calcium
+TS4522893357	drug 41 50	vitamin D
+TS5122893357	food 123 138	dietary calcium
+TS622893357	drug 149 158	vitamin D
+TS3122893357	sideeffect 311 331	acute phase reaction
+TS922893357	foodSupplement 371 404	calcium and vitamin D supplements
+TS522893357	foodSupplement 452 485	Calcium and vitamin D supplements
+TS3922893357	drug 517 532	bisphosphonates
+TS4022893357	drug 635 650	bisphosphonates
+R5	relation Arg1:TS522893357 Arg2:TS3922893357
+TS1322893357	food 686 701	dietary calcium
+TS1722893357	drug 712 721	vitamin D
+TS322893357	drugEffect 742 748;767 787	effect bone mineral density
+TS422893357	sideeffect 840 861	acute phase reactions
+TS1522893357	treatedDisease 952 972	vitamin D deficiency
+TS2522893357	food 982 989	calcium
+TS3422893357	drug 994 1003	vitamin D
+TS3822893357	food 1129 1144	dietary calcium
+TS822893357	food 1192 1201	vitamin D
+TS2022893357	sideeffect 1341 1353	interactions
+TS722893357	food 1479 1486	calcium
+TS5322893357	sideeffect 1600 1612	interactions
+TS4922893357	food 1659 1666	calcium
+TS4122893357	food 1679 1688	vitamin D
+TS1622893357	food2 1744 1752	turnover
+TS4222893357	sideeffect 1831 1842	interaction
+TS1922893357	food 1868 1875	calcium
+TS2122893357	food 1894 1903	vitamin D
+TS3522893357	food 1973 1980	calcium
+TS2222893357	food 1992 2001	vitamin D
+TS3622893357	food 2089 2096	calcium
+TS2322893357	food 2101 2110	vitamin D
+TS4422893357	sideeffect 2187 2207	vitamin D deficiency
+T1	drug 76 87	zoledronate
+T2	drug 190 201	zoledronate
+T3	drug 246 257	zoledronate
+R1	has_sideeffect Arg1:T3 Arg2:TS3122893357	
+T4	drug 410 421	zoledronate
+T5	sideeffect 619 631	side effects
+R2	has_sideeffect Arg1:TS4022893357 Arg2:T5	
+R3	reduce_side_effect Arg1:TS522893357 Arg2:T5	
+T6	drug 1208 1237	25-hydroxyvitamin D ( 25OHD )
+T7	dosage 1171 1178	≥800 mg
+T8	frequency 1180 1183	day
+T9	drug 752 763	zoledronate
+R4	has_effect Arg1:T9 Arg2:TS322893357	
+T10	drugEffect 799 812	bone turnover
+R6	has_effect Arg1:T9 Arg2:T10	
+T11	drugEffect 236 242;258 281	effect on bone mineral density
+T12	drugEffect 284 297	bone turnover
+R7	has_effect Arg1:T3 Arg2:T11	
+R8	has_effect Arg1:T3 Arg2:T12	
+R9	has_sideeffect Arg1:T9 Arg2:TS422893357	
+T13	drug 908 919	zoledronate
+T14	drug 1190 1199	vitamin D
+T15	drug 1051 1062	zoledronate
+T16	drug 1393 1404	zoledronate
+T17	food 1464 1479	dietary calcium
+T18	dosage 1487 1494	≥800 mg
+T19	frequency 1496 1499	day
+T20	drug 1526 1531	25OHD
+T21	drug 1502 1507	25OHD
+T22	dosage 1254 1265	≥50 nmol  L
+T23	dosage 1296 1307	≥75 nmol  L
+T24	dosage 1508 1519	≥50 nmol  L
+T25	dosage 1532 1543	≥75 nmol  L
+T26	sideeffect 1587 1599	interactions
+T27	food 1638 1653	dietary calcium
+T28	drug 1666 1675	vitamin D
+T29	sideeffect 864 867	APR
+T30	sideeffect 1783 1786	APR
+T31	sideeffect 1817 1828	interaction
+T32	food 1846 1861	dietary calcium
+T33	drug 1880 1889	vitamin D
+T34	food 1951 1966	dietary calcium
+T35	drug 1978 1987	vitamin D
+T36	drug 2024 2035	zoledronate
+R10	no_effect_on_drug Arg1:T34 Arg2:T36	
+T37	food 2075 2082	calcium
+T38	drug 2087 2096	vitamin D
+T39	drug 2102 2113	zoledronate
+T40	sideeffect 2173 2193	vitamin D deficiency

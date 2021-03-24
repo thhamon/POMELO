@@ -1,0 +1,68 @@
+TS2122129569	drug 84 94	cilostazol
+TS4822129569	sideeffect 216 227	food-effect
+TS4022129569	drug 298 308	cilostazol
+TS4322129569	drug 584 594	cilostazol
+TS3622129569	food 675 679	food
+TS2522129569	drug 1133 1143	cilostazol
+TS4722129569	mealTime 1169 1175	fasted
+TS922129569	drug 1293 1303	cilostazol
+TS4922129569	mealTime 1322 1328	fasted
+TS3322129569	mealTime 1335 1338	fed
+TS722129569	drug 1512 1522	Cilostazol
+TS2022129569	drug 1589 1600	metabolites
+TS1622129569	drug 1956 1966	cilostazol
+TS522129569	drug 1975 1986	metabolites
+TS1722129569	drug 2173 2183	cilostazol
+TS2222129569	food 2241 2245	food
+TS822129569	drug 2450 2460	cilostazol
+TS1922129569	drug 2824 2834	cilostazol
+TS2722129569	sideeffect 2839 2847	Headache
+TS3822129569	food 3015 3019	food
+TS4422129569	mealTime 3043 3047	meal
+TS4122129569	sideeffect 3144 3150	nausea
+TS3922129569	food 3193 3197	food
+TS4522129569	mealTime 3220 3224	meal
+TS3722129569	sideeffect 3316 3325	dizziness
+TS2422129569	sideeffect 3457 3462	fever
+TS2322129569	sideeffect 3465 3470	cough
+TS4622129569	sideeffect 3473 3481	vomiting
+TS1022129569	sideeffect 3484 3495	palpitation
+TS622129569	sideeffect 3498 3506	diarrhea
+TS4222129569	sideeffect 3513 3528	epigastric pain
+TS3022129569	drug 3665 3675	cilostazol
+TS2622129569	food 3870 3874	Food
+TS3422129569	drugEffect 3903 3918	bioavailability
+TS322129569	drug 3947 3957	cilostazol
+T1	modeadm 45 80	immediate-release oral formulations
+T2	modeadm 258 294	sustained-release ( SR ) formulation
+T3	modeadm 410 446	immediate-release ( IR ) formulation
+T4	modeadm 544 558	SR formulation
+T5	modeadm 566 580	IR formulation
+T6	modeadm 1041 1043	SR
+T7	dosage 1046 1052	200 mg
+T8	frequency 1067 1077	once daily
+T9	modeadm 1084 1086	IR
+T10	dosage 1089 1095	100 mg
+T11	frequency 1111 1114	BID
+T12	modeadm 1144 1150	orally
+T13	modeadm 1239 1241	SR
+T14	dosage 1244 1250	200 mg
+T15	frequency 1265 1275	once daily
+T16	sideeffect 1631 1645	Adverse events
+R1	increase_absorption Arg1:TS2222129569 Arg2:TS822129569	
+T17	modeadm 2763 2777	SR formulation
+T18	modeadm 2936 2950	IR formulation
+T19	modeadm 2967 2981	SR formulation
+T20	food 3034 3047	high-fat meal
+T21	drug 2528 2539	clilostazol
+T22	modeadm 3082 3096	IR formulation
+T23	modeadm 3113 3127	SR formulation
+T24	food 3211 3224	high-fat meal
+T25	modeadm 3258 3272	IR formulation
+T26	modeadm 3288 3302	SR formulation
+T27	modeadm 3382 3396	IR formulation
+T28	modeadm 3412 3426	SR formulation
+T29	modeadm 3647 3661	SR formulation
+T30	modeadm 3741 3755	IR formulation
+T31	modeadm 3926 3940	SR formulation
+T32	modeadm 3958 3980	SR and IR formulations

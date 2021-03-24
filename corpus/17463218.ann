@@ -1,0 +1,35 @@
+TS2117463218	food 10 14	food
+TS2417463218	drug 62 75	antibacterial
+R1	relation Arg1:TS2117463218 Arg2:TS2417463218
+TS717463218	drug 126 136	antibiotic
+TS1217463218	drug 161 169	rifampin
+TS317463218	drug 259 270	antibiotics
+TS2217463218	food 452 470	standard breakfast
+TS1717463218	food 482 485	fat
+TS1017463218	food 509 527	high-fat breakfast
+TS1917463218	food 539 542	fat
+TS517463218	mealTime 571 585	overnight fast
+TS117463218	food 766 769	fat
+TS217463218	mealTime 790 799	breakfast
+TS2817463218	mealTime 844 851	fasting
+TS3117463218	food 893 907	fat-containing
+TS3217463218	mealTime 908 918	breakfasts
+TS417463218	food 969 973	food
+TS2517463218	food 1060 1064	food
+TS617463218	food 1139 1158	dietary fat content
+TS1117463218	food 1294 1298	food
+TS1517463218	mealTime 1345 1348	fed
+TS1317463218	mealTime 1353 1370	fasted conditions
+T1	drug 42 51	rifalazil
+R4	relation Arg1:TS2117463218 Arg2:T1	
+T2	drug 107 116	Rifalazil
+T3	drug 240 255	rifamycin class
+T4	dosage 405 410	25-mg
+T5	modeadm 411 415	oral
+T6	drug 416 425	rifalazil
+T7	drug 664 673	rifalazil
+T8	drug 1264 1273	rifalazil
+R2	relation Arg1:TS1117463218 Arg2:T8	
+T9	drug 1301 1310	Rifalazil
+R3	no_effect_on_drug Arg1:TS1517463218 Arg2:T9	
+R5	no_effect_on_drug Arg1:TS1317463218 Arg2:T9	

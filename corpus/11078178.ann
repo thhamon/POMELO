@@ -1,0 +1,65 @@
+TS4411078178	drug 11 21	isradipine
+TS2211078178	drug 25 34	enalapril
+TS4311078178	foodSupplement 106 130;98 101	high dietary salt intake low
+TS5511078178	drugEffect 205 229	antihypertensive effects
+TS4711078178	drug 233 243	isradipine
+TS4011078178	drug 248 287	dihydropyridine calcium channel blocker
+TS1511078178	drug 292 301	enalapril
+TS3611078178	drug 307 346	angiotensin-converting enzyme inhibitor
+TS1011078178	treatedDisease 358 385	salt-sensitive hypertensive
+TS4811078178	foodSupplement 401 404;409 431	low high salt intake diets
+TS811078178	foodSupplement 478 487	salt diet
+TS911078178	foodSupplement 663 676	low salt diet
+TS2911078178	foodSupplement 711 720	high salt
+TS211078178	foodSupplement 905 919	high salt diet
+TS2711078178	drug 1042 1052	isradipine
+TS311078178	drug 1080 1089	enalapril
+TS4611078178	foodSupplement 1199 1212	low salt diet
+TS2111078178	foodSupplement 1269 1282	low salt diet
+TS1311078178	drug 1546 1556	isradipine
+TS3111078178	drug 1561 1570	enalapril
+TS2611078178	foodSupplement 1646 1660	high salt diet
+TS3211078178	drug 1693 1702	enalapril
+TS1411078178	drug 1752 1762	isradipine
+TS611078178	foodSupplement 1774 1787	low salt diet
+TS3011078178	drug 1940 1950	isradipine
+TS3711078178	foodSupplement 2012 2025	low salt diet
+TS3311078178	drug 2146 2155	enalapril
+TS5111078178	foodSupplement 2193 2198	diets
+TS2411078178	foodSupplement 2209 2225	salt restriction
+TS2511078178	foodSupplement 2310 2326	salt restriction
+T1	treatedDisease 62 90	salt-sensitive hypertensives
+R3	treat Arg1:TS1511078178 Arg2:TS1011078178	
+R4	treat Arg1:TS4711078178 Arg2:TS1011078178	
+R5	relation Arg1:TS4811078178 Arg2:TS1511078178	
+R6	relation Arg1:TS4811078178 Arg2:TS4711078178	
+T2	duration 442 448	3-week
+T3	duration 789 796	3 weeks
+T4	drugEffect 515 547	sitting diastolic blood pressure
+T5	drugEffect 550 554	SDBP
+T6	frequency 1103 1114	twice a day
+T7	dosage 1090 1102	2.5 to 20 mg
+T8	dosage 1053 1065	2.5 to 10 mg
+T9	frequency 1066 1077	twice a day
+T10	duration 1150 1156	3-week
+T11	numbers 1429 1432	916
+T12	numbers 1453 1456	464
+T13	numbers 1515 1518	397
+T14	drugEffect 1585 1616	sitting systolic blood pressure
+R1	has_effect Arg1:TS3111078178 Arg2:T14	
+R7	has_effect Arg1:TS1311078178 Arg2:T14	
+T15	drugEffect 1619 1623	SSBP
+R2	worsen_drug_effect Arg1:TS2611078178 Arg2:TS3111078178	
+T16	drugEffect 1733 1737	SSBP
+T17	drugEffect 1742 1746	SDBP
+R8	worsen_drug_effect Arg1:TS2611078178 Arg2:TS1311078178	
+R9	positive_effect_on_drug Arg1:TS611078178 Arg2:TS3211078178	
+R10	positive_effect_on_drug Arg1:TS611078178 Arg2:TS1411078178	
+T18	foodSupplement 1998 2002;2016 2025	high salt diet
+R11	relation Arg1:T18 Arg2:TS3011078178	
+R12	relation Arg1:TS3711078178 Arg2:TS3011078178	
+R13	relation Arg1:TS5111078178 Arg2:TS3311078178	
+T19	drugEffect 2239 2243	SSBP
+T20	drugEffect 2248 2252	SDBP
+R14	positive_effect_on_drug Arg1:TS2411078178 Arg2:T19	
+R15	positive_effect_on_drug Arg1:TS2411078178 Arg2:T20	

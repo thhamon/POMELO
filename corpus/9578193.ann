@@ -1,0 +1,26 @@
+TS59578193	food 10 14	food
+TS69578193	drug 105 146	non-ergoline dopamine D2-receptor agonist
+TS159578193	mealTime 240 246	fasted
+TS39578193	food 315 319	food
+TS119578193	treatedDisease 404 423	Parkinson's disease
+TS139578193	mealTime 534 538	'fed
+TS49578193	drug 896 906	ropinirole
+TS129578193	mealTime 686 690	'fed
+TS149578193	mealTime 823 827	'fed
+TS29578193	food 855 859	Food
+T1	drug 42 52	ropinirole
+T2	drug 80 90	Ropinirole
+T3	drugEffect 152 179	antiparkinsonian properties
+R1	has_effect Arg1:TS69578193 Arg2:T3	
+R2	has_effect Arg1:T2 Arg2:T3	
+T4	treatedDisease 56 77	parkinsonian patients
+R3	treat Arg1:T1 Arg2:T4	
+T5	drug 216 226	ropinirole
+R4	relation Arg1:TS39578193 Arg2:T5	
+R5	relation Arg1:TS159578193 Arg2:T5	
+T6	drug 481 491	ropinirole
+T7	mealTime 522 528	fasted
+T8	mealTime 579 582	fed
+T9	mealTime 605 611	fasted
+T10	mealTime 718 724	fasted
+R6	slow_absorption Arg1:TS29578193 Arg2:TS49578193	

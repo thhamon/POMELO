@@ -1,0 +1,11 @@
+The effect of food on the bioavailability of ebastine .
+Two studies were performed to characterize the influence of food on the bioavailability of the current formulation of ebastine tablets .
+Study 1 was an open label , randomized , three-period , crossover food effect study where 18 healthy male volunteers received 10 mg ebastine after an overnight fast , a low-fat breakfast , and a high-fat breakfast .
+Study 2 was an open label , randomized , two period crossover food effect study where 12 healthy male volunteers received 20 mg ebastine after both an overnight fast and a high-fat breakfast .
+Plasma samples were obtained at selected times and analyzed for ebastine and carebastine , the active metabolite of ebastine , using a validated high-performance liquid chromatography assay .
+Biopharmaceutic parameters for carebastine , area under the plasma concentration-time curves ( AUC ( 0-infinity ) ) , and maximum plasma concentrations ( C ( max ) ) , were estimated using noncompartmental techniques and analyzed for statistical differences .
+AUC ( 0-infinity ) and C ( max estimates were 40%-50% and 30%-40% higher under fed conditions as compared with fasting conditions .
+The time to reach maximum concentrations ( T ( max ) ) , the terminal elimination rate ( K ( e ) ) , and the half-life ( t ( 1  2 ) ) were not significantly altered by the ingestion of a low-fat or high-fat meal .
+Statistical analyses of the natural logarithmic transformed data for AUC ( ( 0-infinity ) and C ( max ) also demonstrated significant differences between fasted and fed ( low-fat and high-fat ) conditions .
+This indicates that food had a statistically significant effect on the rate and extent of carebastine formation .
+Therefore , it may be concluded that administration with food maximizes the bioavailability of carebastine .

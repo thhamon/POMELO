@@ -1,0 +1,32 @@
+TS1017499891	sideeffect 19 27	toxicity
+TS217499891	sideeffect 73 81	toxicity
+TS1217499891	sideeffect 477 485	toxicity
+TS1417499891	drug 973 998	nutrients supplementation
+TS117499891	food 1046 1055	nutrients
+TS817499891	food 1168 1177	nutrients
+TS317499891	sideeffect 1204 1217	lead toxicity
+TS617499891	drugEffect 1304 1321	blood lead levels
+TS1317499891	foodSupplement 1355 1380	nutrients supplementation
+TS717499891	food 1411 1419	vitamins
+TS417499891	sideeffect 1425 1438	lead toxicity
+T1	food 32 43	nutritional
+T2	drug 711 727	chelating agents
+T3	drug 865 894	conventional chelating agents
+T4	drug 14 18	lead
+T5	drug 68 72	lead
+T6	drug 187 191	lead
+T7	drugEffect 366 383	blood lead levels
+T8	drug 472 476	lead
+R1	has_sideeffect Arg1:T4 Arg2:TS1017499891	
+R2	has_sideeffect Arg1:T5 Arg2:TS217499891	
+R3	has_sideeffect Arg1:T8 Arg2:TS1217499891	
+T9	drug 613 617	lead
+T10	drug 1021 1025	lead
+T11	sideeffect 1099 1112	toxic effects
+T12	drug 1116 1120	lead
+R4	reduce_side_effect Arg1:TS117499891 Arg2:T11	
+R5	has_sideeffect Arg1:T12 Arg2:T11	
+R6	positive_effect_on_drug Arg1:TS117499891 Arg2:T12	
+R7	relation Arg1:TS817499891 Arg2:TS317499891	
+R8	reduce_side_effect Arg1:TS717499891 Arg2:TS417499891	
+R9	reduce_side_effect Arg1:TS1317499891 Arg2:TS417499891	

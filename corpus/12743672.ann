@@ -1,0 +1,35 @@
+TS612743672	drug 64 94	oral direct thrombin inhibitor
+TS1012743672	drug 161 186	direct thrombin inhibitor
+TS1312743672	food 531 535	food
+TS112743672	mealTime 922 933	with dinner
+TS212743672	mealTime 939 953	with breakfast
+TS912743672	mealTime 958 970	after dinner
+TS1212743672	drugEffect 1121 1136	bioavailability
+TS412743672	food 1492 1496	food
+TS712743672	drugEffect 1524 1539	Anticoagulation
+TS512743672	sideeffect 1693 1701	bleeding
+T1	drug 41 53	ximelagatran
+T2	drug 130 142	Ximelagatran
+T3	drug 248 258	melagatran
+T4	drug 324 336	ximelagatran
+T5	drug 490 500	melagatran
+T6	drug 696 708	ximelagatran
+T7	modeadm 682 686	oral
+T8	dosage 711 718	1-98 mg
+T9	duration 793 798	5-day
+T10	dosage 848 853	20-mg
+T11	modeadm 854 858	oral
+T12	drug 867 879	ximelagatran
+T13	frequency 880 891	twice daily
+T14	mealTime 901 917	before breakfast
+T15	drug 973 985	Ximelagatran
+T16	drug 1024 1034	melagatran
+T17	drug 1140 1150	melagatran
+T18	drug 1272 1282	melagatran
+T19	drug 1306 1316	melagatran
+T20	drug 1428 1438	melagatran
+T21	drug 1614 1624	melagatran
+T22	drug 1741 1753	ximelagatran
+T23	drug 1804 1816	ximelagatran
+T24	modeadm 1781 1785	oral
+T25	drug 1895 1905	melagatran

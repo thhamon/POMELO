@@ -1,0 +1,11 @@
+The minimal impact of food on the pharmacokinetics of ridaforolimus .
+Ridaforolimus , a potent inhibitor of the mammalian target of rapamycin ( mTOR ) , is under development for the treatment for solid tumors .
+This open-label , randomized , 3-period crossover study investigated the effect of food on the pharmacokinetics of ridaforolimus 40 mg as well as safety and tolerability of the study medication .
+Ridaforolimus was administered to 18 healthy , male subjects ( mean age 36.4 years ) in the fasted state , following ingestion of a light breakfast , and following a high-fat breakfast .
+Whole blood samples were collected from each subject pre-dose and 1 , 2 , 3 , 4 , 6 , 8 , 24 , 48 , 72 , 96 , and 168 h post-dose .
+The geometric mean ( 95 % confidence interval , CI ) fasted blood area under the curve ( AUC ( 0-∞ ) ) and maximum concentration ( C ( max ) ) were 1940 ( 1510 , 2500 ) ng h  mL and 116 ( 87 , 156 ) ng  mL , respectively , and median time to C ( max ) ( T ( max ) ) and average apparent terminal half-life ( t ( 1  2 ) ) were 6.0 and 64.5 h , respectively .
+Both T ( max ) and t ( 1  2 ) were similar in the fasted and fed states .
+With a light breakfast , the geometric mean intra-individual ratios ( GMRs ) for AUC ( 0-∞ ) and C ( max ) ( fed  fasted ) and 90 % CIs were 1.06 ( 0.85 , 1.32 ) and 1.15 ( 0.83 , 1.60 ) ; following a high-fat breakfast , the AUC ( 0-∞ ) and C ( max ) GMRs ( 90 % CI ) were 1.46 ( 1.18 , 1.81 ) and 1.12 ( 0.81 , 1.53 ) , respectively .
+Increases in ridaforolimus exposure following both the light and high-fat breakfasts were not considered to be clinically meaningful .
+Ridaforolimus was generally well tolerated , and there were no discontinuations due to drug-related AEs .
+Ridaforolimus should be given without regard to food .

@@ -1,0 +1,39 @@
+TS2020374180	food 24 40	grapefruit juice
+TS1420374180	food 44 54	grapefruit
+TS3320374180	drugEffect 62 80	hypotensive effect
+TS2820374180	drug 110 145	dihydropyridine calcium antagonists
+TS3020374180	drug 148 158	amlodipine
+TS3520374180	drug 163 173	nifedipine
+R1	relation Arg1:TS2020374180 Arg2:TS3020374180
+TS2320374180	food 262 278	grapefruit juice
+TS720374180	food 282 292	grapefruit
+TS3420374180	drug 396 406	amlodipine
+TS2120374180	drug 411 421	nifedipine
+TS1120374180	treatedDisease 447 469	essential hypertension
+TS1520374180	food 484 500	Grapefruit juice
+TS1920374180	drug 540 561	antihypertensive drug
+TS1820374180	food 574 584	grapefruit
+R8	relation Arg1:TS1520374180 Arg2:TS1920374180
+TS2720374180	food 744 760	grapefruit juice
+TS920374180	drug 785 795	amlodipine
+TS3220374180	drug 841 851	nifedipine
+TS320374180	sideeffect 870 894	decreased blood pressure
+R9	no_effect_on_drug Arg1:TS2720374180 Arg2:TS920374180
+TS1620374180	food 952 962	Grapefruit
+TS2420374180	food 1065 1081	grapefruit juice
+TS2620374180	drug 1153 1163	nifedipine
+R10	negative_effect_on_drug Arg1:TS2420374180 Arg2:TS2620374180
+R2	has_effect Arg1:TS2820374180 Arg2:TS3320374180	
+R3	has_effect Arg1:TS3020374180 Arg2:TS3320374180	
+R11	has_effect Arg1:TS3520374180 Arg2:TS3320374180	
+R12	relation Arg1:TS2020374180 Arg2:TS2820374180	
+R13	relation Arg1:TS2020374180 Arg2:TS3520374180	
+T1	drugEffect 300 318	hypotensive effect
+T2	drug 347 382	dihydropyridine calcium antagonists
+R5	relation Arg1:TS720374180 Arg2:TS2120374180	
+R6	relation Arg1:TS720374180 Arg2:TS3420374180	
+T3	mealTime 595 616	before drug ingestion
+R4	increase_side_effect Arg1:TS2720374180 Arg2:TS320374180	
+R7	slow_elimination Arg1:TS2720374180 Arg2:TS3220374180	
+T4	sideeffect 1089 1121	rapid decrease in blood pressure
+R14	increase_side_effect Arg1:TS2420374180 Arg2:T4	

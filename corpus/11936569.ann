@@ -1,0 +1,30 @@
+TS1911936569	food 34 38	food
+TS611936569	sideeffect 45 57	interactions
+TS811936569	foodSupplement 194 209	foods fortified
+TS1511936569	food 215 222	calcium
+TS311936569	food 225 229	iron
+TS2611936569	food 242 250	minerals
+TS2111936569	food 255 263	vitamins
+TS2911936569	foodSupplement 292 310	food fortification
+TS111936569	mealTime 419 423	meal
+TS1611936569	sideeffect 432 454	food- drug interaction
+TS511936569	food 468 476	high-fat
+TS211936569	food 479 496	high-calorie meal
+TS3011936569	food 571 586	taken with food
+TS711936569	food 625 630	foods
+TS2511936569	food 686 700	fortified food
+TS1111936569	sideeffect 701 718	food interactions
+TS3211936569	food 771 783	drug-mineral
+TS2311936569	sideeffect 784 796	interactions
+TS2011936569	sideeffect 1012 1024	interactions
+TS411936569	sideeffect 1123 1144	antibiotic resistance
+TS3111936569	sideeffect 1305 1322	drug interactions
+R1	relation Arg1:TS3211936569 Arg2:TS2311936569	
+T1	drug 671 685	drug-fortified
+R2	relation Arg1:TS2511936569 Arg2:T1	
+R3	has_sideeffect Arg1:T1 Arg2:TS1111936569	
+T2	sideeffect 817 845	exhibit decreased absorption
+T3	sideeffect 853 862	chelation
+T4	sideeffect 867 877	adsorption
+T5	sideeffect 1079 1096	treatment failure
+T6	sideeffect 1151 1184	increased morbidity and mortality

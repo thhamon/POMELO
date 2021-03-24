@@ -1,0 +1,20 @@
+TS622495943	drug 26 40	anticoagulants
+TS1722495943	drug 84 98	anticoagulants
+TS1222495943	drug 195 203	Apixaban
+TS1822495943	drug 208 219	rivaroxaban
+TS1522495943	drug 428 439	coagulation
+TS822495943	drug 478 486	warfarin
+TS222495943	sideeffect 560 577	food interactions
+TS1922495943	sideeffect 590 612	drug-drug interactions
+TS522495943	sideeffect 615 627	interactions
+TS1322495943	sideeffect 749 765	drug interaction
+TS1422495943	drug 974 988	anticoagulants
+TS1122495943	treatedDisease 1228 1234	stroke
+TS1022495943	treatedDisease 1249 1268	atrial fibrillation
+T1	drug 224 254	direct inhibitors of Factor Xa
+T2	drug 263 273	dabigatran
+T3	drug 274 293	inhibits Factor IIa
+T4	treatedDisease 894 918	thromboembolic disorders
+T5	modeadm 969 973	oral
+T6	drugEffect 1082 1108	thromboembolic prophylaxis
+T7	treatedDisease 1192 1223	venous thromboembolic disorders

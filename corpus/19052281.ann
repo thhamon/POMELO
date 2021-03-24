@@ -1,0 +1,25 @@
+TS2319052281	sideeffect 180 197	drug interactions
+TS1619052281	drug 272 289	Enteral nutrition
+TS1319052281	foodSupplement 340 349	nutrition
+TS719052281	foodSupplement 480 489	nutrition
+TS1819052281	sideeffect 805 820	adverse effects
+TS2519052281	drug 1040 1047	elixirs
+TS919052281	foodSupplement 1184 1192	sorbitol
+TS319052281	sideeffect 1243 1258	adverse effects
+TS1019052281	sideeffect 1640 1666	drug-nutrient interactions
+TS619052281	drug 1727 1736	phenytoin
+TS119052281	drug 1739 1752	carbamazepine
+TS1119052281	drug 1755 1763	warfarin
+TS219052281	drug 1789 1811	proton pump inhibitors
+TS1419052281	sideeffect 1877 1892	tube occlusions
+T1	modeadm 203 210	enteral
+T2	modeadm 445 451	orally
+T3	sideeffect 769 792	decreased drug efficacy
+T4	sideeffect 745 766	clogged feeding tubes
+T5	sideeffect 826 856	drug-formula incompatibilities
+T6	modeadm 1052 1063	suspensions
+T7	modeadm 1084 1091	enteral
+R1	increase_side_effect Arg1:TS919052281 Arg2:TS319052281	
+T8	modeadm 1503 1510	enteral
+T9	drug 1766 1782	fluoroquinolones
+T10	modeadm 1990 1997	enteral

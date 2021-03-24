@@ -1,0 +1,6 @@
+TS222834058	drug 24 32	warfarin
+TS822834058	treatedDisease 49 68	atrial fibrillation
+TS322834058	food 105 121	green vegetables
+TS622834058	food 149 158	vitamin K
+R1	treat Arg1:TS222834058 Arg2:TS822834058	
+R2	negative_effect_on_drug Arg1:TS622834058 Arg2:TS222834058	

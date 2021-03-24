@@ -1,0 +1,43 @@
+TS1110423596	food 14 18	food
+TS710423596	drugEffect 26 41	bioavailability
+TS210423596	drug 45 53	ebastine
+R1	relation Arg1:TS1110423596 Arg2:TS210423596
+TS3810423596	food 116 120	food
+TS1210423596	drugEffect 128 143	bioavailability
+TS2110423596	drug 174 182	ebastine
+R2	relation Arg1:TS3810423596 Arg2:TS2110423596
+TS3210423596	food 259 263	food
+TS2810423596	drug 325 333	ebastine
+TS810423596	mealTime 343 357	overnight fast
+TS4510423596	food 362 379	low-fat breakfast
+TS3410423596	mealTime 370 379	breakfast
+TS2210423596	food 388 406	high-fat breakfast
+TS3510423596	mealTime 397 406	breakfast
+R3	relation Arg1:TS3210423596 Arg2:TS2810423596
+TS3910423596	food 471 475	food
+TS1010423596	drug 537 545	ebastine
+TS1310423596	mealTime 560 574	overnight fast
+TS4010423596	food 581 599	high-fat breakfast
+TS510423596	mealTime 590 599	breakfast
+R4	relation Arg1:TS3910423596 Arg2:TS1010423596
+TS310423596	drug 666 674	ebastine
+TS410423596	drug 718 726	ebastine
+TS2010423596	mealTime 1133 1136	fed
+TS3710423596	mealTime 1165 1172	fasting
+TS4310423596	food 1373 1380	low-fat
+TS4110423596	food 1384 1397	high-fat meal
+TS4210423596	mealTime 1554 1560	fasted
+TS2710423596	mealTime 1565 1568	fed
+TS4410423596	food 1571 1578	low-fat
+TS910423596	food 1583 1591	high-fat
+TS1410423596	food 1627 1631	food
+TS1910423596	food 1778 1782	food
+TS1510423596	drugEffect 1797 1812	bioavailability
+T1	dosage 319 324	10 mg
+T2	dosage 531 536	20 mg
+T3	drug 679 690	carebastine
+T4	drug 825 836	carebastine
+T5	drug 1697 1708	carebastine
+R5	increase_absorption Arg1:TS1410423596 Arg2:T5	
+T6	drug 1816 1827	carebastine
+R6	increase_absorption Arg1:TS1910423596 Arg2:T6	

@@ -1,0 +1,33 @@
+TS2117691921	food 19 41	pummelo furanocoumarin
+TS1017691921	drug 107 117	felodipine
+R1	relation Arg1:TS2117691921 Arg2:TS1017691921
+TS1917691921	food 145 168	pummelo furanocoumarins
+TS2517691921	drug 394 404	felodipine
+TS3617691921	food 407 419	Fruit juices
+TS1417691921	food 423 430	pummelo
+TS2617691921	food 431 441	grapefruit
+TS2017691921	food 444 450	Citrus
+TS117691921	food 619 638	Citrus fruit juices
+TS2917691921	food 824 829	water
+TS2417691921	drug 887 897	felodipine
+TS1617691921	drugEffect 970 976	levels
+TS2217691921	food 1065 1070	order
+TS1717691921	drug 1192 1202	felodipine
+TS917691921	sideeffect 1512 1530	higher heart rates
+TS1517691921	drug 1620 1630	felodipine
+TS417691921	sideeffect 1721 1737	CYP3A inhibition
+TS1217691921	sideeffect 1764 1801	pummelo fruit juice- drug interaction
+TS3117691921	drug 1867 1877	felodipine
+T1	sideeffect 173 207	inhibit cytochrome P450 ( CYP ) 3A
+R2	relation Arg1:TS1917691921 Arg2:TS2517691921	
+R5	increase_side_effect Arg1:TS1917691921 Arg2:T1	
+T2	drug 649 663	furanocoumarin
+T3	sideeffect 683 729	inhibition of testosterone 6beta-hydroxylation
+R6	has_sideeffect Arg1:T2 Arg2:T3	
+R7	increase_side_effect Arg1:TS117691921 Arg2:T3	
+R8	relation Arg1:TS117691921 Arg2:T2	
+T4	drug 940 955	furanocoumarins
+T5	drug 1741 1756	furanocoumarins
+R3	has_sideeffect Arg1:T5 Arg2:TS417691921	
+T6	sideeffect 1036 1052	CYP3A inhibition
+T7	modeadm 1187 1191	oral

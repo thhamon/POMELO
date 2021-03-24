@@ -1,0 +1,5 @@
+TS311141164	sideeffect 8 27	torsades de pointes
+TS411141164	food 53 69	Grapefruit juice
+T1	drug 33 50	non-cardiac drugs
+T2	sideeffect 112 134	adverse drug reactions
+R1	relation Arg1:TS411141164 Arg2:T2	

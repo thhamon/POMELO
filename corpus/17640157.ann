@@ -1,0 +1,18 @@
+TS1917640157	sideeffect 25 42	drug interactions
+TS1217640157	drug 48 76	monoamine oxidase inhibitors
+TS517640157	drugEffect 101 124	Antidepressant activity
+TS1417640157	drug 128 166	monoamine oxidase inhibitors ( MAOIs )
+TS1017640157	drug 251 275	antidepressant treatment
+TS817640157	sideeffect 312 330	acute hypertensive
+TS717640157	food 376 381	foods
+TS1317640157	food 386 395	beverages
+TS317640157	drug 460 485	tricyclic antidepressants
+TS217640157	drug 494 533	selective serotonin reuptake inhibitors
+TS1517640157	sideeffect 782 803	drug-food interaction
+T1	food 0 20	Dietary restrictions
+R1	has_effect Arg1:TS1417640157 Arg2:TS517640157	
+R2	has_sideeffect Arg1:TS1417640157 Arg2:TS817640157	
+T2	drug 432 437	MAOIs
+T3	drug 564 569	MAOIs
+T4	drug 582 587	MAOIs
+T5	modeadm 697 708	transdermal

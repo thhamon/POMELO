@@ -1,0 +1,21 @@
+TS917101740	sideeffect 12 40	Grapefruit-drug interactions
+TS1017101740	sideeffect 59 71	interactions
+TS617101740	food 96 106	Grapefruit
+TS1917101740	treatedDisease 226 232	cancer
+TS2017101740	treatedDisease 237 259	cardiovascular disease
+TS1217101740	food 329 339	grapefruit
+TS417101740	sideeffect 387 399	interactions
+TS1317101740	food 418 428	grapefruit
+TS117101740	food 433 449	grapefruit juice
+TS1517101740	food 483 493	grapefruit
+TS1717101740	sideeffect 648 659	interaction
+TS517101740	sideeffect 739 751	interactions
+TS1617101740	sideeffect 916 927	interaction
+TS2517101740	sideeffect 979 1007	grapefruit drug interactions
+TS2217101740	sideeffect 1083 1095	interactions
+T1	drug 118 128	flavonoids
+T2	drug 408 413	drugs
+T3	drug 540 568	HMG-CoA reductase inhibitors
+T4	drug 571 590	calcium antagonists
+T5	drug 597 615	immunosuppressives
+T6	sideeffect 672 701	inhibition of cytochrome P450

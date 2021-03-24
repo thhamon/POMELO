@@ -1,0 +1,25 @@
+TS99604126	food 17 21	food
+TS109604126	drug 62 72	rufinamide
+R1	relation Arg1:TS99604126 Arg2:TS109604126
+TS179604126	food 111 115	food
+TS149604126	drug 161 171	rufinamide
+R2	relation Arg1:TS179604126 Arg2:TS149604126
+TS129604126	drug 282 292	rufinamide
+TS49604126	mealTime 299 316	overnight fasting
+TS79604126	food 322 352	fat and protein rich breakfast
+TS219604126	mealTime 513 519	fasted
+TS159604126	mealTime 603 612	breakfast
+TS139604126	drug 657 667	rufinamide
+TS169604126	food 683 687	food
+TS199604126	mealTime 809 826	fasted conditions
+TS29604126	mealTime 838 857	fed after breakfast
+TS39604126	food 929 933	food
+T1	drug 48 61	antiepileptic
+R4	relation Arg1:TS99604126 Arg2:T1	
+T2	drug 147 160	antiepileptic
+T3	dosage 272 278	600 mg
+T4	mealTime 343 352	breakfast
+R5	relation Arg1:TS49604126 Arg2:TS129604126	
+R6	relation Arg1:T4 Arg2:TS129604126	
+R7	increase_absorption Arg1:TS169604126 Arg2:TS139604126	
+R3	speed_up_absorption Arg1:TS29604126 Arg2:TS139604126	

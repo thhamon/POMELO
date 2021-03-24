@@ -1,0 +1,20 @@
+Moexipril shows a long duration of action related to an extended pharmacokinetic half-life and prolonged ACE inhibition .
+To characterize the lipophilic ACE inhibitor moexipril and its active metabolite moexiprilat regarding the duration of action , the susceptibility of the pharmacokinetics and pharmacodynamics to food intake and the concentration-dependent effect .
+Three independent , open , randomized studies were performed in healthy subjects using crossover or parallel-group designs .
+In the first study , pharmacokinetics ( AUC , Cmax , tmax , t 1  2 ) and ACE inhibition ( up to 72 h ) were investigated following single oral doses of 15 mg moexipril administered in the fasting and postprandial state ( n = 24 ) .
+The individual ACE inhibition data and plasma concentration data were fitted to an Emax model .
+In the second study , carried out in 52 volunteers , the pharmacokinetics were followed over 36 h following administration of 2 single oral doses of 15 mg moexipril .
+In the third study , the pharmacokinetics after multiple dosing of 15 mg moexipril once daily for 5 days were investigated in 12 young and 12 elderly subjects .
+Moexiprilat tmax was 1.5-2 h with only minor differences between single and multiple dosing .
+Compared to fasting , the postprandial moexiprilat Cmax and AUC ( ratio fed  fasted 58.0% ; 90% CI 52.2-64.5% ) were distinctly reduced ( ANOVA p = 0.0001 ) .
+Moexiprilat showed a biphasic elimination phase with an average t 1  2 of 29-30 h .
+In contrast to the alpha-phase , the plasma concentrations during the terminal elimination phase were not affected by food .
+A relationship between ACE inhibition and plasma concentration was not observed .
+The average ACE inhibition over 72 h was 71 % in the fasting state and 74% in the postprandial state .
+ACE inhibition increased to about 80% after 24 h and decreased to about 60% at 72 h .
+The S-shaped concentration-effect curve indicated that a moexiprilat level of 1.3 ng  ml was sufficient to produce 50% inhibition of ACE .
+With repeated dosing there were no signs of drug accumulation and day-to-day drug levels were relatively constant .
+The trough concentrations at 24 h did not fall below the limit of 1-2 ng  ml , i.e i.e. a 50% ACE inhibition .
+Moexiprilat showed an extended duration of action owing to a long terminal pharmacokinetic half-life and produced a persistent ACE inhibition .
+Although the pharmacokinetics were partly influenced by food intake , ACE inhibition was not affected .
+This might be explained by a second compartment directly related to the ACE which is less prone to food effects and the reaching of a ceiling in the sigmoidal concentration-effect curve even with the lower Cmax concentrations associated with the postprandial state .

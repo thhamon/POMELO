@@ -1,0 +1,19 @@
+Pharmacokinetics of alogliptin when administered with food , metformin , or cimetidine cimetidine: a two-phase , crossover study in healthy subjects .
+The dipeptidyl peptidase- peptidase-4 inhibitor alogliptin , under development for treatment of Type 2 diabetes , primarily is excreted renally .
+This study investigated ( 1 ) the effect of food on alogliptin pharmacokinetics and tolerability and ( 2 ) pharmacokinetic interactions between alogliptin and metformin or cimetidine and tolerability of alogliptin when administered with either drug .
+This randomized , open-label , two-phase , crossover study recruited healthy adults .
+In the single-dose phase , 36 subjects received an oral dose of alogliptin 100 mg under fed or fasted conditions .
+In the multiple-dose phase , subjects in one arm ( n = 17 ) received 6 days each of alogliptin 100 mg once daily ( q.d. .
+) , metformin 1 , 000 mg twice daily ( b.i.d ) , and alogliptin q.d. .
++ metformin b.i.d ; subjects in the other arm ( n = 18 ) received 6 days each of alogliptin 100 mg q.d. .
+, cimetidine 400 mg q.d. .
+, and alogliptin q.d. .
++ cimetidine b.i.d. .
+Pharmacokinetic parameters were determined after the last dose in each period .
+Tolerability was assessed through adverse events and clinical findings .
+Food had no effect on alogliptin area under the concentration-time curve ( AUC ) from 0 h to infinity and a small , clinically insignificant effect on maximum plasma concentration ( C ( max ) ) ( fed  fasted least squares ( LS ) geometric mean ratio , 0.856 ; 90% confidence interval ( CI ) , 0.798 - 0.917 ) .
+Metformin and cimetidine did not affect alogliptin pharmacokinetics .
+Alogliptin had no effect on metformin C ( max ) and a small , clinically insignificant effect on AUC over the dosing interval ( ( alogliptin + metformin )  metformin LS geometric mean ratio , 1.19 ; 90% CI , 1.095 - 1.291 ) .
+Alogliptin did not affect cimetidine pharmacokinetics .
+Alogliptin tolerability was similar under all conditions .
+Alogliptin can be administered without regard to meals and with metformin or cimetidine without the need for dose adjustment .

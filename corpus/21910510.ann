@@ -1,0 +1,51 @@
+TS1421910510	mealTime 135 141	fasted
+TS821910510	mealTime 146 149	fed
+TS121910510	drug 216 262	non-peptide angiotensin II receptor antagonist
+TS1321910510	food3 452 458	Fasted
+TS521910510	mealTime 722 725	fed
+TS1221910510	mealTime 891 897	fasted
+TS1021910510	sideeffect 1214 1232	postural dizziness
+TS221910510	drugEffect 1318 1339	plasma renin activity
+TS921910510	food 1903 1907	food
+TS321910510	mealTime 1963 1966	fed
+TS1521910510	mealTime 2138 2144	fasted
+TS421910510	mealTime 2180 2183	fed
+TS1621910510	mealTime 2217 2223	fasted
+TS721910510	treatedDisease 2496 2508	hypertension
+T1	modeadm 108 112	oral
+T2	drug 179 189	Fimasartan
+T3	drugEffect 270 311	selective type I receptor blockade effect
+R1	has_effect Arg1:T2 Arg2:T3	
+T4	drug 439 449	fimasartan
+T5	food 487 497	fimasartan
+T6	dosage 498 507	20-480 mg
+T7	drug 664 674	fimasartan
+T8	dosage 675 681	240 mg
+T9	drug 802 812	fimasartan
+T10	dosage 813 827	120 and 360 mg
+T11	frequency 850 860	once daily
+T12	duration 861 871	for 7 days
+T13	drug 1057 1067	fimasartan
+T14	dosage 1241 1247	360 mg
+T15	drug 1285 1295	Fimasartan
+T16	drug 1127 1137	Fimasartan
+T17	sideeffect 1190 1209	incidence of low BP
+R2	has_sideeffect Arg1:T16 Arg2:T17	
+R3	has_sideeffect Arg1:T16 Arg2:TS1021910510	
+R4	has_effect Arg1:T15 Arg2:TS221910510	
+T18	drugEffect 1305 1314;1342 1362	increases angiotensin I and II
+R5	has_effect Arg1:T15 Arg2:T18	
+T19	drug 1483 1493	Fimasartan
+T20	duration 1748 1758	for 7 days
+T21	drug 1854 1864	fimasartan
+T22	dosage 1949 1955	240 mg
+R6	no_effect_on_drug Arg1:TS921910510 Arg2:T21	
+T23	drug 2072 2082	Fimasartan
+T24	modeadm 2152 2156	oral
+T25	dosage 2166 2175	20-480 mg
+T26	modeadm 2191 2195	oral
+T27	dosage 2204 2210	240 mg
+T28	modeadm 2233 2237	oral
+T29	dosage 2247 2261	120 and 360 mg
+T30	drug 2468 2478	fimasartan
+R7	treat Arg1:T30 Arg2:TS721910510	

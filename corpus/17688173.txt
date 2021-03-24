@@ -1,0 +1,16 @@
+Effect of Five Alive fruit juice on the dissolution and absorption profiles of ciprofloxacin .
+To determine the effect of interaction of five Alive fruit juice on the dissolution and absorption profiles of ciprofloxacin tablets using urinary excretion .
+In-vitro dissolution of ciprofloxacin 500 mg tablets was studied using US Pharmacopoeia dissolution apparatus II .
+This was conducted using 0.1N HCl and equal volumes of the fruit juice and 0.1N HCL .
+Samples were collected at predetermined time intervals for two hours .
+For the in-vivo study , eleven ( 5 males and 6 females ) healthy volunteers participated in an open , single dose , cross-over randomized trial .
+After an overnight fasting , each volunteer either ingested a 500 mg ciprofloxacin tablet with 250 ml table water or with the fruit juice .
+Total urine voided was collected for 72 hrs after each dose of ciprofloxacin .
+Dissolution and urine samples were assayed using a controlled and validated UV spectrophotometric analysis .
+A lag time of 5 minutes was observed in dissolution profile of ciprofloxacin in the juice .
+The percent dissolved of ciprofloxacin in 0.1NHCl and fruit juice were found to be dissimilar ( f2 =18.2 ) using similarity factor .
+There was statistical difference between the K ( el ) ( elimination constant ) , K ( e ) ( excretion rate ) and X ( u ) ( cumulative amount excreted unchanged ) of subjects on water ( 0.1759 +  - 0.0144 ; 12.81 +  - 1.36 ; 375.5 +  - 41.2 ) and that of fruit juice ( 0.1250 +  - 0.0161 ; 7.6 +  - 1.07 ; 241.6 +  - 34.0 ) .
+However , there was no difference between the t ( 1  2 ) of the subjects ( 4.2 +  - 0.3 ; 5.5 +  - 0.8 ) .
+There was a decrease in relative availability of the drug by 35.75%. .
+We conclude that the absorption of ciprofloxacin can be reduced by concomitant ingestion of the juice containing calcium carbonate and grape .
+Therefore to avoid drug therapeutic failures and subsequent bacterial resistance as a result of subtherapeutic level of the drug in the systemic circulation , ingestion of the juice with ciprofloxacin should be discouraged .

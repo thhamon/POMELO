@@ -1,0 +1,9 @@
+An overview of the pharmacokinetics of cilomilast ( Ariflo ) , a new , orally active phosphodiesterase 4 inhibitor , in healthy young and elderly volunteers .
+The oral pharmacokinetics of cilomilast ( Ariflo ) were investigated in five separate studies in healthy volunteers .
+Cilomilast was rapidly absorbed , and pharmacokinetics were dose proportional after single and repeat dosing .
+The elimination half-life was 7 to 8 hours ; accordingly , steady state was reached on the 3rd day of dosing .
+The degree of accumulation following repeat twice-daily dosing was predictable from the data following a single dose .
+Although systemic exposure ( AUC ) was , on average , 21% higher in elderly ( 65-84 years ) compared with young subjects , values for Cmax and t ( 1  2 ) were similar , and no difference in tolerability was noted .
+Single and repeat doses of cilomilast up to and including 15 mg ( dosed before or taken between meals ) were well tolerated .
+Dosing with food reduced the rate of absorption without affecting total bioavailability .
+Hence , tolerability was optimal in the fed state ; repeat doses up to and including 30 mg twice daily aftermeals were well tolerated following dose titration .

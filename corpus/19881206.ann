@@ -1,0 +1,35 @@
+TS2319881206	drug 498 565	( - ) -N- ( trans-4-Isopropylcyclohexanecarbonyl ) -D-phenylalanine
+TS419881206	drug 568 579	nateglinide
+TS2719881206	drug 592 610	hypoglycemic agent
+TS219881206	drug 691 702	nateglinide
+TS319881206	drug 779 790	nateglinide
+TS1019881206	drug 858 869	nateglinide
+TS2519881206	sideeffect 1053 1075	drug-drug interactions
+TS1419881206	sideeffect 1224 1246	food-drug interactions
+TS1119881206	food 1413 1418	foods
+TS819881206	drug2 1438 1450	ferulic acid
+TS719881206	food 1490 1494	food
+TS519881206	sideeffect 1564 1572	toxicity
+TS1919881206	drug 1597 1621	irinotecan hydrochloride
+TS2019881206	sideeffect 1717 1725	diarrhea
+TS1819881206	drug 1902 1910	Baicalin
+TS119881206	sideeffect 2042 2050	diarrhea
+T1	drug 50 61	carboxylate
+T2	modeadm 72 76	Oral
+T3	drug 256 269	anionic drugs
+T4	drug 479 495	monocarboxylates
+T5	modeadm 587 591	oral
+T6	drug 1280 1291	polyphenols
+T7	drug 1352 1363	Polyphenols
+R1	has_sideeffect Arg1:TS1919881206 Arg2:TS519881206	
+T8	drug 1624 1695	7-ethyl-10- ( 4- [1-piperidino]-1-piperidino ) -carbonyloxycamptothecin
+T9	drug 1698 1704	CPT-11
+R2	has_sideeffect Arg1:TS1919881206 Arg2:TS2019881206	
+R3	has_sideeffect Arg1:T8 Arg2:TS2019881206	
+T10	drug 1816 1846	7-ethyl-10-hydroxycamptothecin
+T11	drug 1849 1854	SN-38
+T12	drug 1915 1935	sulfobromophthatlein
+T13	sideeffect 1936 1960	inhibit this transporter
+R4	has_sideeffect Arg1:T12 Arg2:T13	
+R5	has_sideeffect Arg1:TS1819881206 Arg2:T13	
+T14	sideeffect 1963 1993	Inhibition of this transporter

@@ -1,0 +1,45 @@
+TS1519243207	food 10 14	food
+TS419243207	drug 53 68	cyclobenzaprine
+R1	relation Arg1:TS1519243207 Arg2:TS419243207
+TS719243207	food 155 159	Food
+TS1619243207	drugEffect 174 189	bioavailability
+TS1219243207	food 289 293	food
+TS619243207	drug 332 347	cyclobenzaprine
+R2	relation Arg1:TS1219243207 Arg2:TS619243207
+TS519243207	mealTime 597 600	fed
+TS2919243207	mealTime 608 614	fasted
+TS1319243207	drug 679 694	cyclobenzaprine
+TS1419243207	drug 807 822	cyclobenzaprine
+TS1819243207	food 990 994	food
+TS119243207	mealTime 1131 1134	fed
+TS2719243207	mealTime 1136 1142	fasted
+TS2419243207	drug 1426 1441	cyclobenzaprine
+TS1019243207	mealTime 1515 1518	fed
+TS1119243207	mealTime 1584 1587	fed
+TS3119243207	mealTime 1592 1598	fasted
+TS2319243207	mealTime 1640 1643	fed
+TS2519243207	mealTime 1647 1653	fasted
+TS2019243207	food 1827 1831	food
+TS1919243207	mealTime 1911 1914	fed
+TS2819243207	mealTime 1919 1925	fasted
+TS3019243207	food 2034 2049	taken with food
+TS1719243207	mealTime 2136 2139	fed
+TS2619243207	mealTime 2148 2154	fasted
+T1	frequency 42 52	once-daily
+T2	modeadm 348 364	extended-release
+T3	drug 367 370	CER
+T4	frequency 321 331	once-daily
+T5	drug 517 520	CER
+T6	dosage 521 526	30 mg
+T7	sideeffect 1192 1206	Adverse events
+T8	drug 1567 1570	CER
+T9	dosage 1571 1576	30 mg
+T10	modeadm 69 85	extended-release
+T11	dosage 86 91	30 mg
+T12	modeadm 197 215	controlled-release
+T13	sideeffect 1846 1860	adverse events
+T14	drug 2021 2024	CER
+T15	dosage 2025 2030	30 mg
+R3	increase_absorption Arg1:TS3019243207 Arg2:T14	
+T16	drug 2052 2055	CER
+T17	dosage 2056 2061	30 mg

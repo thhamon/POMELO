@@ -1,0 +1,25 @@
+Pharmacokinetic properties of rosuvastatin after single-dose , oral administration in Chinese volunteers: a randomized , open-label , three-way crossover study .
+Rosuvastatin , a 3-hydroxy-3- 3-hydroxy-3-methyl glutaryl coenzyme A reductase inhibitor ( " statin " ) , has been marketed for the treatment of patients with dyslipidemia .
+The objective of this study was to assess the dose proportionality and pharmacokinetic ( PK ) properties of rosuvastatin after single-dose administration in Chinese volunteers .
+The effects of food and sex on the PK properties of rosuvastatin in these volunteers were also assessed .
+This single-dose , randomized , open-label , 3-way crossover trial was conducted at West China Second University Hospital , Sichuan University , Chengdu , People's Republic of China .
+Healthy , male and female , adult ( aged 20-24 years ) , Han Chinese volunteers were enrolled .
+Volunteers were allocated to receive , in randomized order according to a computer-generated randomization schedule , single doses of rosuvastatin ( 5 , 10 , and 20 mg ) administered in separate trial periods , with a 1-week washout between periods .
+PK properties ( C ( max ) , T ( max ) , AUC ( 0-t ) , apparent elimination t ( 1  2 ) ) and tolerability were assessed immediately before ( 0 hour ) and at 0.5 , 1 , 1.5 , 2 , 3 , 4 , 5 , 6 , 8 , 12 , 15 , 24 , 36 , 48 , and 72 hours after study drug administration .
+The Student-Newman-Keuls test was used to test for linearity .
+The effects of food intake and sex on the PK properties of rosuvastatin were also investigated in subanalyses using standardized meals and the t test of logarithm-transformed ( lg ) values to detect differences in C ( max ) and AUC ( 0-t ) between sexes and between the fed ( test ) and fasted ( reference ) states .
+All of the results were corrected for dose by weight ( mg  kg ) .
+The study enrolled 12 healthy Chinese volunteers ( 6 men: mean [SD] age , 22.3 [1.5] years ; mean [SD] weight , 61.8 [2.4] kg [range , 59-64 kg] ; 6 women: mean [SD] age , 21.6 [1.4] years ; mean [SD] weight , 56.4 [6.4] kg [range , 50-64 kg] ) .
+Geometric mean ( SD ) C ( max ) values of 10.22 ( 8.05 ) , 25.86 ( 18.77 ) , and 44.99 ( 17.99 ) ng  mL were achieved at a median T ( max ) of 2.5 hours after administration of single doses of 5 , 10 , and 20 mg of rosuvastatin , respectively ; the corresponding geometric mean ( SD ) values of AUC ( 0-t ) were 73.67 ( 48.78 ) , 210.21 ( 178.70 ) , and 303.81 ( 193.29 ) ng  mL .
+h ( -1 ) , and the mean ( SD ) apparent elimination t ( 1  2 ) values were 13.01 ( 8.68 ) , 13.33 ( 5.21 ) , and 15.40 ( 5.43 ) hours after administration .
+The Student-Newman-Keuls test results found that C ( max ) and AUC ( 0-t ) were both linearly related to dose .
+In men , the mean ( SD ) C ( max ) values were 7.57 ( 6.49 ) , 20.43 ( 14.10 ) , and 36.80 ( 15.64 ) ng  mL , and the mean ( SD ) AUC ( 0-t ) values were 51.74 ( 33.92 ) , 136.35 ( 97.18 ) , and 232.25 ( 101.66 ) ng  mL x h ( -1 ) , with the 5- , 10- , and 20-mg doses of rosuvastatin , respectively .
+In women , the corresponding C ( max ) values were 13.40 ( 9.27 ) , 32.44 ( 23.10 ) , and 54.82 ( 16.78 ) ng  mL , and AUC ( 0-t ) values were 99.99 ( 54.07 ) , 298.85 ( 223.66 ) , and 430.21 ( 194.61 ) ng  mL x h-1. .
+Results of the t tests of ( lg ) C ( max ) and ( lg ) AUC ( 0-t ) found no significant differences between the male and female groups .
+However , C ( max ) and AUC ( 0-t ) values of 0.82 ng  mL and 6.87 ng  mL x h-1 , respectively , after oral administration of 10 mg of rosuvastatin in the fed state were significantly different from the corresponding values under fasting conditions ( both , P sentinf 0.05 ) .
+Two adverse events ( pharyngitis and nausea ) were reported in 3 subjects ( 2 women , 1 man ) at the 20-mg fasting state .
+Two cases of elevated laboratory values ( bilirubin , from 16.1 micromol  L at baseline to 31.4 micromol  L ; phosphocreatine , from 141 U  L at baseline to 307 U  L ) were found at the poststudy follow-up immediately after study completion in 2 volunteers ( 1 man , 1 woman ) at the 10-mg fed state ; both values had returned to normal 5 days later .
+The PK properties of rosuvastatin are based on first-order kinetics in the dose range tested .
+In this small , selected group of healthy Chinese volunteers , no clinically significant differences in PK properties between doses or sexes were found .
+The absorption of rosuvastatin was significantly decreased in the fed state compared with the fasting state , which suggests that rosuvastatin should be administered on an empty stomach .
+All rosuvastatin doses tested were well tolerated .

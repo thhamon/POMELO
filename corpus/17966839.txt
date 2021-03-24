@@ -1,0 +1,22 @@
+Effect of food on the pharmacokinetics of lonafarnib ( SCH 66336 ) following single and multiple doses .
+The objective was to determine whether food affects the pharmacokinetics and safety of lonafanib , an orally bioavailable farnesyl transferase inhibitor that is under clinical evaluation for the treatment of various hematologic malignancies and solid tumors .
+Two Phase 1 studies were conducted in separate patient populations .
+A single-dose study was performed in 12 healthy subjects who received lonafarnib 100 mg under fasted and fed conditions .
+Additionally , a multiple-dose study was performed in 19 patients with advanced cancer who received lonafarnib 200 mg Q 12 H for 28 days under fasted and fed conditions .
+Nine of the 19 patients completed both treatment cycles and were used for pharmacokinetic assessment .
+A 2-week washout period separated treatments in each study .
+Single-dose pharmacokinetics were assessed at various time points up to 48 hours postdose and multiple-dose pharmacokinetics were assessed at Day 15 for 24 hours postdose .
+The pharmacokinetics of lonafarnib were affected by food during single-dose but not multiple-dose administration .
+Relative oral bioavailabilities ( fed vs. .
+fasted ) based on log-transformed maximum plasma concentration ( C ( max ) ) and area under the concentration-time curve ( AUC ) were 48% and 77% , respectively , following single-dose administration , and 87% and 96% , respectively , following multiple-dose administration .
+Intrasubject variability in the pharmacokinetic parameters was less pronounced after multiple dosing ( 17% ) than that after single dosing ( 33% ) of lonafarnib .
+Intersubject variability was unaffected by food in either study .
+In the single-dose study , 7 of the 12 subjects ( 58% ) reported treatment emergent adverse events , the most common being headache .
+No clinically significant differences in adverse events were seen between fasting and fed states after a single dose administration .
+Thus , single dose 100 mg lonafarnib was safe and generally well tolerated .
+In the multiple-dose study , all 19 subjects reported at least one treatment-emergent adverse event .
+General disorders including fatigue and anorexia , and gastrointestinal disorders including diarrhea , vomiting and nausea , were the most commonly reported adverse events after multiple doses .
+While gastrointestinal adverse events were reported with equal frequency under both fasting ( 82% , 14  17 ) and fed states ( 83% , 15  18 ) , the incidence of severe gastrointestinal adverse events was higher in fasted ( 47% , 8  17 ) vs. .
+fed subjects ( 22% , 4  18 ) after multiple-dose administration .
+The administration of food does not affect the pharmacokinetics of lonafanib following multiple-dose administration .
+We recommend that multiple-dose lonafarnib should be administered with food to enhance tolerability .

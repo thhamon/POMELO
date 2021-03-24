@@ -1,0 +1,36 @@
+TS2411816871	food 22 38	grapefruit juice
+TS6211816871	drug 54 64	clozapine'
+TS711816871	drugEffect 90 103	plasma levels
+R1	no_effect_on_drug Arg1:TS2411816871 Arg2:TS6211816871
+TS1611816871	food 141 157	Grapefruit juice
+TS5311816871	sideeffect 253 259	CYP1A2
+TS211816871	food 292 322	grapefruit juice bioflavonoids
+TS4911816871	drug 472 481	clozapine
+TS1211816871	food 556 572	grapefruit juice
+TS5511816871	drug 631 640	clozapine
+R5	relation Arg1:TS1211816871 Arg2:TS5511816871
+TS2111816871	drug 669 678	Clozapine
+TS3211816871	food 908 924	grapefruit juice
+TS1411816871	drug 974 983	clozapine
+TS4511816871	drugEffect 1014 1027	Plasma levels
+TS4011816871	drug 1031 1040	clozapine
+TS3611816871	drug 1054 1065	metabolites
+TS2911816871	drug 1068 1080	norclozapine
+TS4111816871	drug 1085 1102	clozapine N-oxide
+TS4311816871	food 1190 1195	juice
+TS4411816871	food 1320 1325	juice
+TS5411816871	drug 1410 1419	clozapine
+TS2311816871	drug 1428 1439	metabolites
+TS3411816871	food 1536 1552	grapefruit juice
+TS3711816871	sideeffect 1680 1702	Extrapyramidal Symptom
+TS1711816871	food 1912 1928	grapefruit juice
+TS2611816871	drug 1990 1999	clozapine
+TS811816871	sideeffect 2000 2010	metabolism
+TS2811816871	drug 2109 2118	clozapine
+TS3011816871	food 2140 2156	grapefruit juice
+TS1011816871	sideeffect 2157 2172	inhibits CYP3A4
+TS2511816871	drug 2251 2260	clozapine
+T1	sideeffect 162 218	inhibit the gastrointestinal activity of cytochrome P450
+R2	increase_side_effect Arg1:TS1611816871 Arg2:T1	
+R7	relation Arg1:TS1611816871 Arg2:TS5311816871	
+R3	increase_side_effect Arg1:TS3011816871 Arg2:TS1011816871	

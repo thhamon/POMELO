@@ -1,0 +1,60 @@
+TS2022133697	drug 0 11	Ziprasidone
+TS3622133697	treatedDisease 16 35	psychotic disorders
+TS222133697	drug 180 203	atypical antipsychotics
+TS722133697	drug 206 217	ziprasidone
+TS3522133697	drug 335 358	atypical antipsychotics
+TS2622133697	drug 470 481	ziprasidone
+TS3022133697	drug 601 612	ziprasidone
+TS1622133697	drug 767 778	ziprasidone
+TS922133697	drug 923 934	ziprasidone
+TS1422133697	treatedDisease 956 965	psychoses
+TS2422133697	treatedDisease 1024 1037	bipolar mania
+TS622133697	drug 1119 1133	antipsychotics
+TS3122133697	drug 1370 1381	ziprasidone
+TS2922133697	drug 1396 1406	olanzapine
+TS3722133697	drug 1459 1470	risperidone
+TS2322133697	drug 1598 1609	ziprasidone
+TS2722133697	drug 1624 1634	quetiapine
+TS822133697	drug 1652 1663	haloperidol
+TS422133697	sideeffect 1838 1870	Low levels of hyperprolactinemia
+TS2522133697	sideeffect 1875 1886	weight gain
+TS122133697	sideeffect 1919 1951	moderate extrapyramidal symptoms
+TS1022133697	drug 2010 2021	ziprasidone
+TS1922133697	drug 2028 2039	Ziprasidone
+TS1122133697	food 2105 2109	food
+TS1822133697	food 2128 2131	fat
+TS1322133697	drug 2142 2153	Ziprasidone
+TS2122133697	drug 2456 2467	ziprasidone
+TS3322133697	treatedDisease 2516 2535	psychotic disorders
+TS1522133697	drug 2550 2560	olanzapine
+TS1222133697	drug 2565 2576	risperidone
+TS522133697	sideeffect 2592 2624	low levels of hyperprolactinemia
+TS322133697	sideeffect 2629 2640	weight gain
+TS2222133697	drug 2683 2694	ziprasidone
+TS2822133697	drug 2743 2757	antipsychotics
+R1	treat Arg1:TS2022133697 Arg2:TS3622133697	
+T1	modeadm 918 922	oral
+T2	treatedDisease 983 1015	schizophrenia-spectrum disorders
+R2	treat Arg1:TS922133697 Arg2:TS1422133697	
+R3	treat Arg1:TS922133697 Arg2:T2	
+R4	treat Arg1:TS922133697 Arg2:TS2422133697	
+T3	dosage 1786 1796	120-160 mg
+T4	sideeffect 1966 1990	QT-interval prolongation
+R5	has_sideeffect Arg1:TS1022133697 Arg2:T4	
+R6	has_sideeffect Arg1:TS1022133697 Arg2:TS122133697	
+R7	has_sideeffect Arg1:TS1022133697 Arg2:TS2522133697	
+R8	has_sideeffect Arg1:TS1022133697 Arg2:TS422133697	
+R9	increase_absorption Arg1:TS1122133697 Arg2:TS1922133697	
+R10	increase_absorption Arg1:TS1822133697 Arg2:TS1922133697	
+T5	dosage 2154 2164	120-160 mg
+T6	dosage 2379 2387	20-60 mg
+T7	frequency 2389 2390	d
+T8	dosage 2468 2478	120-160 mg
+T9	frequency 2480 2481	d
+T10	sideeffect 2487 2511	less effective treatment
+R11	treat Arg1:TS2122133697 Arg2:TS3322133697	
+R12	has_sideeffect Arg1:TS2122133697 Arg2:T10	
+R13	treat Arg1:TS1522133697 Arg2:TS3322133697	
+R14	treat Arg1:TS1222133697 Arg2:TS3322133697	
+R15	has_sideeffect Arg1:TS2222133697 Arg2:TS322133697	
+R16	has_sideeffect Arg1:TS2222133697 Arg2:TS522133697	

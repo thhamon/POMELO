@@ -1,0 +1,9 @@
+Dose proportionality and the effect of food on vildagliptin , a novel dipeptidyl peptidase IV inhibitor , in healthy volunteers .
+Vildagliptin is a potent and selective dipeptidyl peptidase IV inhibitor in development for the treatment of type 2 diabetes that improves glycemic control by enhancing alpha- and beta-cell responsiveness to glucose .
+Two open-label , single-dose , randomized , crossover studies in healthy subjects ( ages 18-45 years ) investigated the dose proportionality of vildagliptin pharmacokinetics ( n = 20 ) and the effect of food ( n = 24 ) on vildagliptin pharmacokinetics .
+There was a linear relationship ( r ( 2 ) = 0.999 ) between vildagliptin doses of 25 , 50 , 100 , and 200 mg and area under the plasma concentration-time curve from time zero to infinity ( AUC ( 0-infinity ) ) and maximum plasma concentration ( C ( max ) ) .
+Dose proportionality was assessed using a statistical power model [X = alpha x ( dose ) ( beta ) ] .
+The 90% confidence intervals of the proportionality coefficient , beta , for AUC ( 0-infinity ) ( 1.15-1.19 ) and C ( max ) ( 1.04-1.14 ) indicated that deviations from dose proportionality were small ( sentinf7.7% ) .
+Doubling of dose led to 2.1- to 2.3-fold increases in AUC ( 0-infinity ) and C ( max ) but no dose-dependent changes in time to reach C ( max ) or terminal elimination half-life .
+Administration of vildagliptin 100 mg following a high-fat meal decreased C ( max ) by 19% and AUC ( 0-infinity ) by 10%. .
+Vildagliptin displays approximately dose-proportional pharmacokinetics over the 25- to 200-mg dose range , and administration with food has no clinically relevant effect on vildagliptin pharmacokinetics .

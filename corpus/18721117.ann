@@ -1,0 +1,42 @@
+TS2018721117	drug 24 33	metformin
+TS318721117	treatedDisease 63 78	type 2 diabetes
+TS1018721117	drug 229 238	metformin
+TS1518721117	drugEffect 405 420	bioavailability
+TS1718721117	drug 474 483	metformin
+TS818721117	drugEffect 593 608	bioavailability
+TS1118721117	drug 680 689	metformin
+TS918721117	drugEffect 703 718	bioavailability
+TS1218721117	food 802 806	food
+TS118721117	mealTime 846 852	a meal
+TS418721117	mealTime 870 882	evening meal
+TS1818721117	drug 893 902	metformin
+TS1418721117	sideeffect 1044 1060	renal impairment
+TS1318721117	drug 1091 1104	sulfonylureas
+TS718721117	drug 1154 1163	metformin
+T1	modeadm 34 50	extended-release
+R1	treat Arg1:TS2018721117 Arg2:TS318721117	
+T2	modeadm 197 213	extended-release
+T3	drug 241 245	M-ER
+T4	drugEffect 303 319	glycemic control
+R2	has_effect Arg1:TS1018721117 Arg2:T4	
+T5	frequency 325 335	once daily
+T6	drug 424 428	M-ER
+R3	has_effect Arg1:T6 Arg2:TS1518721117	
+T7	modeadm 456 473	immediate-release
+T8	frequency 490 501	twice daily
+T9	drug 518 522	M-ER
+T10	modeadm 662 679	immediate-release
+T11	drug 773 777	M-ER
+R4	relation Arg1:TS1218721117 Arg2:T11	
+R5	during Arg1:TS118721117 Arg2:T11	
+R6	during Arg1:TS418721117 Arg2:T11	
+T12	drug 960 964	M-ER
+T13	drug 1081 1085	M-ER
+T14	drug 1107 1110	SUs
+T15	drug 1196 1200	M-ER
+T16	duration 1223 1235	for 24 weeks
+T17	drug 1276 1278	SU
+T18	drugEffect 1296 1312	glycemic control
+T19	drug 1398 1402	M-ER
+R7	has_effect Arg1:T19 Arg2:T18	
+T20	drug 1405 1409	M-ER

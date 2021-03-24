@@ -1,0 +1,15 @@
+TS717542349	food 959 963	food
+TS517542349	drug 1545 1556	metabolites
+T1	drug 105 114	Sarizotan
+T2	drug 20 29	sarizotan
+T3	modeadm 36 40	oral
+T4	drug 120 143	5-HTIA receptor agonist
+T5	drugEffect 154 186	affinity for D3 and D4 receptors
+R2	has_effect Arg1:T1 Arg2:T5	
+T6	drug 452 461	sarizotan
+T7	drug 512 521	sarizotan
+T8	drug 708 717	Sarizotan
+T9	drug 1149 1158	sarizotan
+T10	drug 1591 1600	sarizotan
+T11	drug 1669 1678	sarizotan
+T12	dosage 1828 1833	20 mg

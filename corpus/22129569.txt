@@ -1,0 +1,25 @@
+Pharmacokinetic comparison of sustained- and immediate-release oral formulations of cilostazol in healthy Korean subjects: a randomized , open-label , 3-part , sequential , 2-period , crossover , single-dose , food- food-effect , and multiple-dose study .
+A sustained-release ( SR ) formulation of cilostazol was recently developed in Korea and was expected to yield a lower C ( max ) and a similar AUC to the immediate-release ( IR ) formulation .
+The goal of the present study was to compare the pharmacokinetic profiles of a newly developed SR formulation and an IR formulation of cilostazol after single- and multiple-dose administration and to evaluate the influence of food in healthy Korean subjects .
+This study was developed as part of a product development project at the request of the Korean regulatory agency .
+This was a randomized , 3-part , sequential , open-label , 2-period crossover study .
+Each part consisted of different subjects between the ages of 19 and 55 years .
+In part 1 , each subject received a single dose of SR ( 200 mg Ã 1 tablet , once daily ) and IR ( 100 mg Ã 2 tablets , BID ) formulations of cilostazol orally 7 days apart in a fasted state .
+In part 2 , each subject received a single dose of the SR ( 200 mg Ã 1 tablet , once daily ) formulation of cilostazol 7 days apart in a fasted and a fed state .
+In part 3 , each subject received multiple doses of the 2 formulations for 8 consecutive days 21 days apart .
+Blood samples were taken for 72 hours after the dose .
+Cilostazol pharmacokinetics were determined for both the parent drug and its metabolites ( OPC-13015 and OPC-13213 ) .
+Adverse events were evaluated through interviews and physical examinations .
+Among the 92 enrolled subjects ( 66 men , 26 women ; part 1 , n = 26 ; part 2 , n = 26 ; part 3 , n = 40 ) , 87 completed the study .
+In part 1 , all the primary pharmacokinetic parameters satisfied the criterion for assumed bioequivalence both in cilostazol and its metabolites , yielding 90% CI ratios of 0.9624 to 1.2323 , 0.8873 to 1.1208 , and 0.8919 to 1.1283 for C ( max ) and 0.8370 to 1.0134 , 0.8204 to 0.9807 , and 0.8134 to 0.9699 for AUC ( 0-last ) of cilostazol , OPC-13015 , and OPC-13213 , respectively .
+In part 2 , food intake increased C ( max ) and AUC significantly ( P sentinf 0.0001 ) , yielding geometric mean ratios of 3.2879 , 2.9894 , and 3.0592 for C ( max ) and 1.7001 , 1.7689 , and 1.6976 for AUC ( 0-last ) of cilostazol , OPC-13015 , and OPC-13213. .
+In part 3 , only the C ( ssmax ) of clilostazol in the reference formulation did not satisfy the criterion for assumed bioequivalence , yielding 90% CI ratios of 1.2693 to 1.4238 and 1.2038 to 1.3441 , respectively .
+When each dose was normalized , the C ( max ) for the SR formulation was significantly lower ( P sentinf 0.005 for cilostazol ) .
+Headache was the most frequently noted adverse effect ( part 1 , a total of 14 subjects with the IR formulation and 14 with the SR formulation ; part 2 , a total of 10 without food and 23 with a high-fat meal ; part 3 , a total of 10 with the IR formulation and 24 with the SR formulation ) , followed by nausea ( part 1 , none ; part 2 , only 1 without food and 3 with a high-fat meal ; part 3 , a total of 3 with the IR formulation and 3 with the SR formulation ) , and then dizziness ( parts 1 and 2 , none ; part 3 , a total of 4 with the IR formulation and 5 with the SR formulation ) .
+All other AEs , including fever , cough , vomiting , palpitation , diarrhea , and epigastric pain , occurred in sentinf3 subjects .
+These findings suggest that in this select group of healthy Korean volunteers , the SR formulation of cilostazol was not significantly different in AUC compared with that of the IR formulation , although it did display a significantly lower C ( max ) per dose in both the single- and multiple-dose groups .
+Food significantly increased the bioavailability of the SR formulation .
+The cilostazol SR and IR formulations were well tolerated in all parts of the study , with no serious adverse events reported .
+ClinicalTrials.gov identifier: NCT01455558. .
+Copyright bigasentc 2011 Elsevier HS Journals , Inc. .
+All rights reserved .

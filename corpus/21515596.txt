@@ -1,0 +1,16 @@
+Bleeding risk assessment and management in atrial fibrillation patients: a position document from the European Heart Rhythm Association , endorsed by the European Society of Cardiology Working Group on Thrombosis .
+Despite the clear net clinical benefit of oral anticoagulation ( OAC ) in atrial fibrillation ( AF ) patients at risk for stroke , major bleeding events ( especially intra-cranial bleeds ) may be devastating events when they do occur .
+The decision for OAC is often based on a careful assessment of both stroke risk and bleeding risk , but clinical scores for bleeding risk estimation are much less well validated than stroke risk scales .
+Also , the estimation of bleeding risk is rendered difficult since many of the known factors that increase bleeding risk overlap with stroke risk factors .
+As well as this , many factors that increase bleeding risk are transient , such as variable international normalized ratio values , operations , vascular procedures , or drug-drug and food-drug interactions .
+In this Position Document , we comprehensively review the published evidence and propose a consensus on bleeding risk assessments in AF patients , with a view to summarizing 'best practice' when approaching antithrombotic therapy in AF patients .
+We address the epidemiology and size of the problem of bleeding risk in AF and review established bleeding risk factors .
+We also summarize definitions of bleeding in the published literature .
+Patient values and preferences balancing the risk of bleeding against thrombo-embolism is reviewed , and the prognostic implications of bleeding are discussed .
+We also review bleeding risk stratification and currently published bleeding risk schema .
+A brief discussion of special situations [e .
+g. .
+peri-ablation , peri-devices ( implantable cardioverter-defibrillator , pacemakers ) and presentation with acute coronary syndromes and  or requiring percutaneous coronary interventions  stents and bridging therapy] , as well as a discussion of prevention of bleeds and managing bleeding complications , is made .
+Finally , this document also puts forwards consensus statements that may help to define evidence gaps and assist in everyday clinical practice .
+Bleeding risk is almost inevitably lower than stroke risk in patients with atrial fibrillation .
+Nonetheless , identification of patients at high risk of bleeding and delineation of conditions and situations associated with bleeding risk can help to refine antithrombotic therapy to minimize bleeding risk .

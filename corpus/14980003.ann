@@ -1,0 +1,25 @@
+TS1314980003	drug 70 82	halofantrine
+TS114980003	drug 152 164	Halofantrine
+TS914980003	drug 436 448	halofantrine
+TS1014980003	drug 483 495	halofantrine
+TS514980003	drug 578 590	halofantrine
+TS1114980003	drug 805 816	lipoprotein
+TS2514980003	drug 845 857	lipoproteins
+TS214980003	drug 918 930	halofantrine
+TS614980003	drug 1010 1022	halofantrine
+TS2814980003	mealTime 1079 1085	fasted
+TS714980003	drug 1238 1250	halofantrine
+TS1414980003	drug 1423 1435	halofantrine
+TS2114980003	mealTime 1490 1496	fasted
+TS314980003	drug 1580 1592	halofantrine
+TS414980003	drug 1729 1741	halofantrine
+T1	sideeffect 192 216	QT interval prolongation
+R2	has_sideeffect Arg1:TS114980003 Arg2:T1	
+T2	mealTime 288 307	after post-prandial
+T3	sideeffect 339 375	Halofantrine-induced QT prolongation
+T4	modeadm 998 1009	intravenous
+T5	dosage 1040 1048	10 mg kg
+T6	sideeffect 1675 1690	QT prolongation
+R1	has_sideeffect Arg1:TS314980003 Arg2:T6	
+T7	mealTime 1697 1710	post-prandial
+R3	after Arg1:T7 Arg2:TS314980003	

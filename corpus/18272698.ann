@@ -1,0 +1,60 @@
+TS3618272698	sideeffect 0 11	Interaction
+TS3118272698	drug 20 28	levodopa
+TS1318272698	foodSupplement 33 50	enteral nutrition
+TS2618272698	sideeffect 77 102	drug-nutrient interaction
+TS1218272698	drug 113 121	levodopa
+TS1818272698	foodSupplement 126 133	protein
+TS5018272698	foodSupplement 137 154	enteral nutrition
+TS2518272698	treatedDisease 181 200	Parkinson's disease
+TS4818272698	sideeffect 247 271	intracerebral hemorrhage
+TS4518272698	foodSupplement 354 371	enteral nutrition
+TS4418272698	foodSupplement 406 413	protein
+TS4918272698	drug 518 526	levodopa
+TS4018272698	drug 589 600	pramipexole
+TS318272698	drug 628 638	entacapone
+TS1718272698	sideeffect 719 727	rigidity
+TS2418272698	sideeffect 778 789	interaction
+TS218272698	drug 798 806	levodopa
+TS3418272698	foodSupplement 811 818	protein
+TS618272698	sideeffect 844 855	interaction
+TS2318272698	foodSupplement 872 879	protein
+TS2218272698	foodSupplement 887 904	enteral nutrition
+TS3318272698	drug 1040 1048	levodopa
+TS1418272698	sideeffect 1168 1193	drug-nutrient interaction
+TS518272698	foodSupplement 1202 1209	protein
+TS1618272698	drug 1214 1222	levodopa
+TS1518272698	sideeffect 1306 1317	interaction
+TS818272698	foodSupplement 1367 1384	enteral nutrition
+R5	relation Arg1:TS518272698 Arg2:TS1618272698
+TS418272698	foodSupplement 1551 1568	enteral nutrition
+TS118272698	sideeffect 1609 1646	interference with levodopa absorption
+TS718272698	sideeffect 1706 1717	interaction
+TS2918272698	foodSupplement 1730 1737	protein
+TS2018272698	drug 1764 1772	levodopa
+TS2118272698	sideeffect 1788 1815	decreased levodopa efficacy
+R7	decrease_absorption Arg1:TS2918272698 Arg2:TS2018272698
+TS3818272698	sideeffect 1866 1891	drug-nutrient interaction
+TS3018272698	drug 1900 1908	levodopa
+TS3218272698	foodSupplement 1913 1930	enteral nutrition
+R1	relation Arg1:TS5018272698 Arg2:TS2618272698	
+R3	relation Arg1:TS5018272698 Arg2:TS1218272698	
+T1	dosage 393 402	1.4 g  kg
+R2	increase_side_effect Arg1:TS1818272698 Arg2:TS2618272698	
+T2	frequency 427 432	daily
+T3	dosage 527 532	25 mg
+T4	dosage 534 540	100 mg
+T5	frequency 573 586	4 times daily
+T6	dosage 601 607	1.5 mg
+T7	frequency 608 621	3 times daily
+T8	dosage 639 645	200 mg
+T9	frequency 646 659	4 times daily
+R11	has_sideeffect Arg1:TS3418272698 Arg2:TS2418272698	
+R12	negative_effect_on_drug Arg1:TS3418272698 Arg2:TS218272698	
+T10	dosage 922 931	0.9 g  kg
+T11	frequency 933 936	day
+T12	sideeffect 1125 1161	improvement of parkinsonian symptoms
+R4	has_sideeffect Arg1:TS518272698 Arg2:TS1418272698	
+R6	has_sideeffect Arg1:TS2918272698 Arg2:TS718272698	
+R8	increase_side_effect Arg1:TS2918272698 Arg2:TS2118272698	
+R9	relation Arg1:TS3218272698 Arg2:TS3018272698	
+R10	has_sideeffect Arg1:TS3218272698 Arg2:TS3818272698	

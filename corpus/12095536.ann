@@ -1,0 +1,34 @@
+TS2112095536	food 14 30	grapefruit juice
+TS1712095536	food 43 55	orange juice
+TS4312095536	drug 83 99	dextromethorphan
+R1	relation Arg1:TS2112095536 Arg2:TS4312095536
+R2	relation Arg1:TS1712095536 Arg2:TS4312095536
+TS2812095536	food 221 237	grapefruit juice
+TS2212095536	food 250 262	orange juice
+TS4512095536	drug 266 282	dextromethorphan
+R3	relation Arg1:TS2812095536 Arg2:TS4512095536
+TS2512095536	food 473 481	caffeine
+TS1912095536	food 493 502	beverages
+TS312095536	food 505 511	coffee
+TS2612095536	food 514 518	soda
+TS3212095536	food 578 583	water
+TS5112095536	food 593 609	grapefruit juice
+TS3312095536	food 619 624	water
+TS1012095536	food 642 654	orange juice
+TS3412095536	food 668 673	water
+TS2412095536	drug 770 781	metabolites
+TS4412095536	drugEffect 1089 1104	Bioavailability
+TS4112095536	food 1146 1156	grapefruit
+TS2312095536	food 1169 1181	orange juice
+TS1212095536	food 1278 1288	grapefruit
+TS2712095536	food 1301 1313	orange juice
+TS3712095536	sideeffect 1343 1395	irreversible inhibitors of gut CYP3A  P-glycoprotein
+TS4612095536	food 1398 1408	Grapefruit
+TS5012095536	food 1421 1433	orange juice
+R6	relation Arg1:TS2212095536 Arg2:TS4512095536	
+T1	drug 796 814	3-methoxymorphinan
+T2	drug 819 837	3-hydroxymorphinan
+R7	slow_elimination Arg1:TS4112095536 Arg2:TS4412095536	
+R8	slow_elimination Arg1:TS2312095536 Arg2:TS4412095536	
+R4	increase_side_effect Arg1:TS2712095536 Arg2:TS3712095536	
+R5	increase_side_effect Arg1:TS1212095536 Arg2:TS3712095536	

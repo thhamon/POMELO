@@ -1,0 +1,32 @@
+TS1616425970	sideeffect 12 29	food interactions
+TS3916425970	drug 46 56	nifedipine
+TS2016425970	drug 185 195	nifedipine
+TS1516425970	drugEffect 196 211	bioavailability
+TS2516425970	drug 248 262	Adalat OROS 30
+TS2116425970	drug 281 291	Nifedipine
+TS3716425970	mealTime 845 852	fasting
+TS816425970	food 886 894	high-fat
+TS116425970	mealTime 904 913	breakfast
+TS216425970	drug 1022 1032	nifedipine
+TS4316425970	mealTime 1124 1130	fasted
+TS2916425970	drug 1154 1164	nifedipine
+R1	relation Arg1:TS4316425970 Arg2:TS2916425970
+TS916425970	food 1296 1304	high-fat
+TS2716425970	mealTime 1314 1323	breakfast
+TS1116425970	sideeffect 1363 1379	food interaction
+TS1416425970	drug 1408 1418	Nifedipine
+TS3816425970	mealTime 1521 1528	fasting
+TS2816425970	food 1554 1558	food
+TS2416425970	drugEffect 1603 1618	bioavailability
+TS1316425970	drug 1622 1632	nifedipine
+TS2616425970	drug 1668 1674	Adalat
+R3	relation Arg1:TS2816425970 Arg2:TS1316425970
+TS4116425970	drug 1837 1847	Nifedipine
+TS1716425970	mealTime 2021 2036	a high-fat meal
+TS416425970	drug 2054 2064	Nifedipine
+TS1916425970	drug 2106 2112	Adalat
+TS516425970	drug 2173 2183	nifedipine
+TS3416425970	mealTime 2445 2458	fasting state
+TS3516425970	mealTime 2483 2489	a meal
+TS3016425970	drug 2545 2555	nifedipine
+T1	frequency 218 229	single dose

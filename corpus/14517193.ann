@@ -1,0 +1,20 @@
+TS814517193	mealTime 719 725	fasted
+TS214517193	mealTime 767 785	high-fat breakfast
+TS914517193	mealTime 838 844	fasted
+TS114517193	mealTime 1555 1573	high-fat breakfast
+TS714517193	mealTime 1712 1718	fasted
+T1	drug 18 28	moxidectin
+T2	drug 4 17	antiparasitic
+T3	drug 240 250	moxidectin
+T4	drug 253 256	MOX
+T5	drug 398 401	MOX
+T6	drug 226 239	antiparasitic
+T7	dosage 647 651	9-mg
+T8	dosage 656 661	36-mg
+T9	dosage 1530 1534	9-mg
+T10	dosage 1539 1544	36-mg
+T11	sideeffect 940 954	adverse events
+T12	drug 1186 1189	MOX
+T13	sideeffect 1237 1275	slightly higher incidence of transient
+T14	sideeffect 1587 1628	delay and increase the overall absorption
+R1	relation Arg1:TS114517193 Arg2:T14	

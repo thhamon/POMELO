@@ -1,0 +1,34 @@
+TS1018793575	food 13 17	food
+TS1218793575	drug 95 134	selective endothelin A receptor blocker
+TS918793575	food 151 155	food
+TS318793575	mealTime 439 455	after a high-fat
+TS1518793575	food 458 480	high-calorie breakfast
+TS1718793575	mealTime 561 567	fasted
+TS418793575	food 905 909	food
+TS718793575	mealTime 1035 1038	fed
+TS2018793575	mealTime 1043 1049	fasted
+TS518793575	drug 1169 1178	avosentan
+TS1618793575	food 1215 1219	food
+TS1418793575	mealTime 1407 1410	fed
+TS1818793575	mealTime 1415 1421	fasted
+TS1918793575	mealTime 1618 1624	fasted
+TS618793575	mealTime 1629 1632	fed
+TS1118793575	food 1646 1650	Food
+T1	drug 52 61	avosentan
+T2	drug 71 80	Avosentan
+T3	drug 190 199	avosentan
+T4	drug 423 432	avosentan
+T5	dosage 433 438	50 mg
+T6	drug 525 534	avosentan
+T7	dosage 535 540	50 mg
+T8	drug 601 610	avosentan
+T9	drug 644 654	Ro 68-5925
+T10	drug 745 754	avosentan
+R2	no_effect_on_drug Arg1:TS418793575 Arg2:T10	
+T11	drug 1701 1710	avosentan
+R3	no_effect_on_drug Arg1:TS1118793575 Arg2:T11	
+T12	drug 1003 1012	avosentan
+T13	drug 1017 1027	Ro 68-5925
+R4	increase_absorption Arg1:TS1618793575 Arg2:TS518793575	
+T14	drug 1371 1380	avosentan
+T15	drug 1582 1591	avosentan

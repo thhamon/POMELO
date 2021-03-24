@@ -1,0 +1,29 @@
+TS1018042957	drug 159 178	dietary supplements
+TS1218042957	food 233 276	nonvitamin , nonmineral ( NVNM ) supplement
+TS618042957	drug 398 409	supplements
+TS318042957	sideeffect 488 500	interactions
+TS718042957	drug 514 525	supplements
+TS3818042957	food 629 633	food
+TS3918042957	foodSupplement 657 668	supplements
+TS218042957	foodSupplement 751 767	NVNM supplements
+TS418042957	food 780 784	food
+TS1918042957	foodSupplement 874 890	NVNM supplements
+TS518042957	foodSupplement 987 996	glutamine
+TS4318042957	foodSupplement 1007 1024	N-acetyl-cysteine
+TS1618042957	foodSupplement 1035 1043	fish oil
+TS2918042957	foodSupplement 1054 1071	alpha-lipoic acid
+TS4418042957	foodSupplement 1082 1100	acetyl-l-carnitine
+TS3118042957	foodSupplement 1115 1127	coenzyme Q10
+TS4018042957	foodSupplement 1184 1212	vitamin  mineral supplements
+TS3518042957	foodSupplement 1238 1250	multivitamin
+TS3018042957	foodSupplement 1275 1284	vitamin E
+TS3418042957	foodSupplement 1295 1304	vitamin C
+TS2318042957	foodSupplement 1315 1332	vitamin B complex
+TS1518042957	foodSupplement 1365 1373	selenium
+TS3718042957	foodSupplement 1423 1439	NVNM supplements
+TS2418042957	food 1489 1499	supplement
+TS1118042957	foodSupplement 1601 1616	NVNM supplement
+T1	foodSupplement 0 47	Nonvitamin , nonmineral dietary supplementation
+T2	treatedDisease 51 63	HIV-positive
+T3	treatedDisease 284 304	HIV-infected persons
+T4	foodSupplement 1343 1350	calcium

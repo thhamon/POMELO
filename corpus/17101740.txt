@@ -1,0 +1,6 @@
+Grapefruit- Grapefruit-drug interactions interactions: can interactions with drugs be avoided ?
+Grapefruit is rich in flavonoids , which have been demonstrated to have a preventive influence on many chronic diseases , such as cancer and cardiovascular disease .
+However , since the early 1990s , the potential health benefits of grapefruit have been overshadowed by the possible risk of interactions between drugs and grapefruit and grapefruit juice .
+Several drugs interacting with grapefruit are known in different drug classes , such as HMG-CoA reductase inhibitors , calcium antagonists , and immunosuppressives .
+Currently known mechanisms of interaction include the inhibition of cytochrome P450 as a major mechanism , but potential interactions with P-glycoprotein and organic anion transporters have also been reported .
+This review is designed to provide a comprehensive summary of underlying mechanisms of interaction and human clinical trials performed in the area of grapefruit drug interactions and to point out possible replacements for drugs with a high potential for interactions .

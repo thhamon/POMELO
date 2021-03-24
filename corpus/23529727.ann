@@ -1,0 +1,39 @@
+TS1923529727	food 26 30	food
+TS2423529727	drug 81 124	peptide deformylase inhibitor antibacterial
+R1	relation Arg1:TS1923529727 Arg2:TS2423529727
+TS323529727	drug 165 176	antibiotics
+TS623529727	drugEffect 405 420	bioavailability
+TS1723529727	mealTime 710 714	meal
+TS1323529727	sideeffect 719 735	drug interaction
+TS2823529727	food 778 787	vitamin C
+TS3123529727	food3 871 876	fast-
+TS923529727	drug 976 985	reference
+TS1823529727	drugEffect 1021 1036	bioavailability
+R2	relation Arg1:TS3123529727 Arg2:TS923529727
+TS1623529727	mealTime 1134 1138	meal
+TS3023529727	mealTime 1431 1437	fasted
+TS2723529727	food 1712 1721	vitamin C
+TS3323529727	food 1731 1734	i.e
+T1	drug 66 76	GSK1322322
+R3	relation Arg1:TS1923529727 Arg2:T1	
+T2	drug 127 137	GSK1322322
+T3	drug 179 209	peptide deformylase inhibitors
+T4	drugEffect 226 284	against multidrug-resistant respiratory and skin pathogens
+R4	has_effect Arg1:T3 Arg2:T4	
+R5	has_effect Arg1:T2 Arg2:T4	
+T5	drug 463 473	GSK1322322
+T6	dosage 339 349	1 , 000 mg
+T7	food 701 714	high-fat meal
+T8	drug 822 832	GSK1322322
+T9	drug 890 900	GSK1322322
+T10	drug 1090 1100	GSK1322322
+T11	drug 1466 1476	GSK1322322
+T12	drug 1661 1671	GSK1322322
+T13	drug 1846 1856	GSK1322322
+T14	food 1125 1138	high-fat meal
+T15	drug 1485 1495	H2 blocker
+T16	drug 744 754	H2 blocker
+T17	drug 762 772	H2 blocker
+T18	sideeffect 1517 1536	delay in absorption
+R6	has_sideeffect Arg1:T15 Arg2:T18	
+T19	food 1710 1719	vitamin C

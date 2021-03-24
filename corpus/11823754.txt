@@ -1,0 +1,15 @@
+Effects of grapefruit juice on the pharmacokinetics of sildenafil .
+Because of extensive first-pass metabolism , oral bioavailability of sildenafil reaches only 40%. .
+Formation of the primary metabolite , N -desmethylsildenafil , is mainly mediated by the cytochrome P450 enzyme CYP3A4 CYP3A4. .
+In this study we investigated the influence of grapefruit juice , containing inhibitors of intestinal CYP3A4 , on the pharmacokinetics of sildenafil and N -desmethylsildenafil .
+In a randomized crossover study , 24 healthy white male volunteers received single 50-mg doses of sildenafil .
+Two doses each of 250 ml grapefruit juice or water , respectively , were administered 1 hour before and together with the drug .
+Plasma concentrations of sildenafil and N -desmethylsildenafil were determined up to 24 hours post dose by use of liquid chromatography-tandem mass spectrometry ( limit of quantification , 1 ng  ml ) .
+Grapefruit juice changed the area under the sildenafil plasma concentration-time curve from time zero to infinity [AUC ( 0-infinity ) from 620 [1.53] ng  ml x h to 761 [1.58] ng  ml x h ( geometric mean with geometric standard deviation ) , corresponding to a 23% increase ( 90% confidence interval , 13%-33% ) .
+N-Desmethyl sildenafil AUC ( 0-infinity ) increased by 24% ( 90% confidence interval , 17%-32% ) .
+Maximum plasma concentrations ( C ( max ) ) of sildenafil and N -desmethylsildenafil were essentially unchanged .
+There was a trend toward a prolonged time to reach C ( max ) during the grapefruit juice period ( from a median of 0.75 hour to a median of 1.13 hours ) , corresponding to an increase by 0.25 hour ( 90% confidence interval , 0-0.63 hour ) .
+Interindividual variability was pronounced in both periods .
+Grapefruit juice increases sildenafil bioavailability and tends to delay sildenafil absorption .
+Sildenafil pharmacokinetics may become less predictable with grapefruit juice .
+Although patients usually will not be endangered by concomitant use of grapefruit juice , it seems advisable to avoid this combination .

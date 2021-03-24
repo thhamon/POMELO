@@ -1,0 +1,32 @@
+TS1820642557	food 20 35	cranberry juice
+TS1920642557	drug 63 71	warfarin
+R1	relation Arg1:TS1820642557 Arg2:TS1920642557
+TS2020642557	food 130 145	cranberry juice
+TS2320642557	drug 166 174	warfarin
+R2	improve_drug_effect Arg1:TS2020642557 Arg2:TS2320642557
+TS920642557	food 201 216	cranberry juice
+TS820642557	sideeffect 239 250	interaction
+TS1020642557	food 288 303	cranberry juice
+TS1120642557	drug 323 331	warfarin
+R3	relation Arg1:TS1020642557 Arg2:TS1120642557
+TS120642557	food 334 349	Cranberry juice
+TS320642557	drug 411 419	warfarin
+R4	relation Arg1:TS120642557 Arg2:TS320642557
+TS2520642557	food 448 463	cranberry juice
+TS1220642557	drug 524 532	warfarin
+R5	relation Arg1:TS2520642557 Arg2:TS1220642557
+TS2420642557	drug 576 584	warfarin
+TS2220642557	food 596 611	cranberry juice
+TS620642557	food 737 742	juice
+TS1620642557	food 987 992	juice
+TS1520642557	food 1010 1025	Cranberry juice
+TS2120642557	drug 1098 1106	warfarin
+R6	no_effect_on_drug Arg1:TS1520642557 Arg2:TS2120642557
+T1	frequency 217 222	daily
+T2	frequency 360 371	twice daily
+T3	frequency 473 484	twice daily
+T4	frequency 622 633	twice daily
+T5	duration 634 644	for 7 days
+T6	frequency 1035 1046	twice daily
+T7	duration 1047 1057	for 1 week
+T8	dosage 1028 1034	240 ml

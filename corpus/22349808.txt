@@ -1,0 +1,11 @@
+Safety , tolerability , and pharmacokinetics of amuvatinib from three phase 1 clinical studies in healthy volunteers .
+Amuvatinib is a multi-targeted tyrosine kinase inhibitor with activity that also disrupts DNA damage repair through suppression of homologous recombination protein Rad51. .
+Amuvatinib dry- dry-powder capsules ( DPC ) showed evidence of activity in early Phase 1 cancer studies but low systemic exposure .
+The purposes of the studies were to investigate the cause of low exposure , develop , and test an alternative formulation with improved exposure , and establish the dose to be tested in future studies in cancer patients .
+Three studies were conducted in a total of 58 healthy subjects: a food- food-effect study using amuvatinib DPC , a single-dose pharmacokinetic study comparing amuvatinib DPC to a new lipid- lipid-suspension capsules ( LSC ) , and a multiple-dose pharmacokinetic study using amuvatinib LSC .
+A high-fat meal administered with amuvatinib DPC increased the rate and extent of absorption compared to the Fasted state , a 183 and 118% increase in the mean C ( max ) and AUC ( 0-∞ ) of amuvatinib , respectively .
+The single-dose pharmacokinetics of amuvatinib LSC resulted in an approximately two-third-fold increased exposure ( AUC ) compared with amuvatinib DPC .
+The multiple-dose pharmacokinetics of the amuvatinib LSC 300 mg administered every 8 h exhibited improved accumulation compared with the 12-h regimens and achieved presumed therapeutic level safely with no serious or severe adverse events reported .
+No subject discontinued treatment due to an adverse event .
+Amuvatinib LSC , 300 mg every 8 h , is being studied in cancer patients based on the improved exposure and similar safety profile to amuvatinib DPC .
+A lipid- lipid-based formulation approach may be a useful tool for other low aqueous soluble compounds .

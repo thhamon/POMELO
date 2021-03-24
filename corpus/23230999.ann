@@ -1,0 +1,49 @@
+TS623230999	food 0 4	Food
+TS823230999	drug 40 69	doxylamine hydrogen succinate
+R1	relation Arg1:TS623230999 Arg2:TS823230999
+TS4523230999	drug 177 197	Doxylamine succinate
+TS1223230999	drug 217 249	ethanolamine-based antihistamine
+TS4723230999	treatedDisease 292 300	insomnia
+TS1323230999	drug 388 398	doxylamine
+TS4923230999	food 554 558	food
+TS1123230999	drug 596 606	doxylamine
+R2	relation Arg1:TS4923230999 Arg2:TS1123230999
+TS4023230999	drug 701 711	doxylamine
+TS4123230999	drug 744 773	doxylamine hydrogen succinate
+TS4423230999	mealTime 812 815	fed
+TS2723230999	mealTime 820 827	fasting
+TS2823230999	drug 1073 1102	doxylamine hydrogen succinate
+TS2923230999	drug 1136 1146	doxylamine
+TS3423230999	mealTime 1206 1209	fed
+TS323230999	food 1223 1231	high-fat
+TS5023230999	food 1234 1246	high-calorie
+TS723230999	food 1247 1251	food
+TS2523230999	mealTime 1264 1271	fasting
+TS3923230999	drug 1463 1473	doxylamine
+TS3023230999	drug 1903 1923	Doxylamine succinate
+TS1423230999	drugEffect 1961 1976	bioavailability
+TS3723230999	drug 1980 1990	doxylamine
+TS2423230999	mealTime 1998 2011	fasting state
+TS223230999	mealTime 2263 2266	fed
+TS4223230999	mealTime 2509 2512	fed
+TS3823230999	mealTime 2515 2522	fasting
+TS1723230999	food 2675 2683	High-fat
+TS5123230999	food 2686 2698	high-calorie
+TS3323230999	food 2699 2703	food
+TS3223230999	drug 2743 2753	doxylamine
+R4	no_effect_on_drug Arg1:TS1723230999 Arg2:TS3223230999
+T1	dosage 70 75	25 mg
+R5	treat Arg1:TS4523230999 Arg2:TS4723230999	
+R6	treat Arg1:TS1223230999 Arg2:TS4723230999	
+T2	drugEffect 316 332	sedative effects
+R7	has_effect Arg1:TS4523230999 Arg2:T2	
+R8	has_effect Arg1:TS1223230999 Arg2:T2	
+T3	modeadm 731 735	oral
+T4	dosage 774 779	25 mg
+T5	dosage 1103 1108	25 mg
+T6	sideeffect 1718 1732	adverse events
+T7	numbers 1828 1830	24
+T8	dosage 1924 1929	25 mg
+T9	modeadm 1956 1960	oral
+R3	no_effect_on_drug Arg1:TS5123230999 Arg2:TS3223230999	
+R9	no_effect_on_drug Arg1:TS3323230999 Arg2:TS3223230999	

@@ -1,0 +1,20 @@
+TS2617215845	food 57 73	grapefruit juice
+TS517215845	food 299 315	grapefruit juice
+TS2217215845	drug 495 507	Fexofenadine
+TS1517215845	food 628 644	grapefruit juice
+TS617215845	drug 688 700	fexofenadine
+R1	relation Arg1:TS1517215845 Arg2:TS617215845
+TS1117215845	food 717 733	grapefruit juice
+TS117215845	drug 1209 1221	fexofenadine
+TS817215845	food 1343 1359	grapefruit juice
+TS1917215845	drug 1388 1400	fexofenadine
+TS2017215845	drug 1449 1461	fexofenadine
+R2	relation Arg1:TS817215845 Arg2:TS1917215845
+R3	decrease_absorption Arg1:TS817215845 Arg2:TS2017215845
+TS2717215845	drug 1721 1733	fexofenadine
+TS1717215845	food 1777 1793	grapefruit juice
+TS3017215845	food 1823 1839	grapefruit juice
+TS2417215845	drug 1878 1890	fexofenadine
+R4	negative_effect_on_drug Arg1:TS3017215845 Arg2:TS2417215845
+T1	modeadm 668 674	orally
+R5	decrease_absorption Arg1:TS1717215845 Arg2:TS2717215845	

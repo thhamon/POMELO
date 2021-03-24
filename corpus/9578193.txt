@@ -1,0 +1,8 @@
+Effect of food on the pharmacokinetics of ropinirole in parkinsonian patients .
+Ropinirole is a specific non-ergoline dopamine D2-receptor agonist with antiparkinsonian properties .
+The pharmacokinetic parameters of ropinirole taken in the fasted condition were compared with those when it was co-administered with food .
+This was an open , randomized , two sessions cross over study in 12 patients with Parkinson's disease , comparing the steady-state pharmacokinetic profiles of ropinirole on two different study days: 'fasted' and 'fed 'fed' .
+The mean Cmax was lower in the 'fed' regimen than in the 'fasted' one ( -25% , P=0.002 ) .
+The median tmax was observed 2.6 h later in the 'fed 'fed' regimen than in the 'fasted' regimen ( Psentinf0.05 ) .
+There was a slight but significant decrease in AUC ( 0 , 8 h ) in the 'fed 'fed' regimen ( P=0.03 ) .
+Food decreases the rate of absorption of ropinirole , but has little effect on the extent of absorption .

@@ -1,0 +1,16 @@
+Influence of food on the pharmacokinetic profile of fesoterodine .
+Fesoterodine is a new , once-daily , oral , antimuscarinic agent indicated for the treatment of overactive bladder .
+It undergoes rapid and extensive metabolism by plasma esterases to form its principal active moiety , 5-hydroxymethyl tolterodine ( 5-HMT ) .
+The sustained-release formulation of fesoterodine delivers 5-HMT with linear , dose-proportional pharmacokinetics ( PK ) suitable for once-daily dosing .
+This study was designed for the definitive assessment of the effect of food on 5-HMT PK using the commercial formulation of fesoterodine .
+In this randomized , open-label , single-dose , 2-way , crossover study , fesoterodine 8 mg was administered orally to healthy subjects in either a fed ( after a high-fat , high-calorie breakfast ) or fasted state .
+Blood samples for PK were drawn up to 36 hours after dosing .
+Primary endpoints for food effect assessment were area under the concentration-versus-time curve up to the last sample ( AUC ( 0-tz ) ) , and maximum plasma concentration ( C ( max ) ) for 5-HMT .
+Adverse events , vital signs , hematology , clinical chemistry , and electrocardiograms were monitored for safety assessment .
+A total of 16 healthy male subjects enrolled and completed the study .
+Mean values of both primary PK parameters of 5-HMT ( AUC ( 0-tz ) and C ( max ) ) were approximately 19% higher after fesoterodine administration in the fed versus the fasted state .
+The upper limits of the corresponding 90% confidence intervals for the " fed  fasted " ratios of AUC ( 0-tz ) ( 104% , 137% ) and C ( max ) ( 94% , 149% ) were not included in the prespecified acceptance range ( 80% , 125% ) for concluding " no food effect .
+" Secondary PK variables , ( i.e i.e. time to maximum plasma concentration terminal elimination half-life and mean residence time ) , did not differ markedly between the fed and fasted states .
+Fesoterodine was well tolerated , and adverse events were mild , with no apparent difference in frequency between fed and fasted states .
+The hypothesis of " no food effect " could not be statistically confirmed ; however , only modest increases of approximately 19% were observed for C ( max ) and AUC ( 0-tz ) of 5-HMT .
+This magnitude of PK effects is unlikely to be of clinical relevance based on Phase 2 and 3 clinical experience with fesoterodine , supporting its administration without regard to meals .

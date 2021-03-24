@@ -1,0 +1,12 @@
+TS823456771	treatedDisease 89 97	epilepsy
+TS423456771	treatedDisease 115 123	seizures
+TS123456771	treatedDisease 161 169	seizures
+TS523456771	treatedDisease 559 566	seizure
+TS623456771	drugEffect 617 632	seizure control
+TS323456771	treatedDisease 860 868	epilepsy
+TS923456771	treatedDisease 922 929	seizure
+TS223456771	treatedDisease 1061 1069	epilepsy
+T1	drug 22 45	anti-convulsive therapy
+T2	drug 132 153	antiepileptic therapy
+R1	treat Arg1:T2 Arg2:TS423456771	
+R2	treat Arg1:T2 Arg2:TS823456771	

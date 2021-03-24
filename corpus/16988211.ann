@@ -1,0 +1,6 @@
+TS216988211	food 10 14	food
+TS516988211	drugEffect 22 37	bioavailability
+TS716988211	drug 41 60	amlodipine besylate
+TS316988211	drug 62 82	atorvastatin calcium
+R1	relation Arg1:TS216988211 Arg2:TS716988211
+R2	relation Arg1:TS216988211 Arg2:TS316988211	

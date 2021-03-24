@@ -1,0 +1,12 @@
+Assessing patients' information needs regarding drug-drug interactions .
+To assess patients' information needs regarding drug-drug interactions ( DDIs ) to inform patient DDI education resources .
+Cross-sectional study .
+Online ( United States in May 2011 ) .
+Registered users of an online medication monitoring service ( MediGuard ) .
+Online questionnaire .
+Participants' information needs regarding DDIs and perceived importance of questions related to detecting and preventing harm from DDIs .
+Characteristics of the 100 surveyed participants were as follows: 57% women , 88% white , 96% non-Hispanic , 71% retired , mean ( bigasentpleqSD ) age 65.2 bigasentpleq 9.7 years ( range 35-86 ) .
+The number of prescription medications ranged from 2 to 22 ( median 7 ) and the number of over-the-counter ( OTC ) medications from 1 to 10 ( 4 ) .
+The most common concerns cited by participants were identification of interacting medications , seriousness of DDIs , interactions with OTC medications , interactions with foods , exacerbating comorbidities , short- and long-term adverse effects , signs and frequency of DDIs , and how to minimize adverse effects .
+Statistically significant differences based on gender , number of prescriptions , and number of OTC medications were observed in rankings of the importance of some DDI questions ( P sentinf 0.05 ) .
+Patient-centered DDI education programs should consider addressing the seriousness of DDIs , the effect of DDIs on comorbidities , and interactions with OTC medications and foods and determining methods for identifying , minimizing , and managing DDIs .

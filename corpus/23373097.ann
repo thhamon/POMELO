@@ -1,0 +1,50 @@
+TS1023373097	food 0 10	Grapefruit
+TS7823373097	sideeffect 15 32	drug interactions
+TS2023373097	food 58 74	grapefruit juice
+TS3823373097	sideeffect 150 165	adverse effects
+TS7123373097	sideeffect 176 193	drug interactions
+TS3123373097	food 199 215	grapefruit juice
+TS6923373097	food 266 282	grapefruit juice
+TS623373097	food 355 360	fruit
+TS5323373097	sideeffect 469 481	interactions
+TS3223373097	food 490 500	grapefruit
+TS5623373097	food2 567 595	lyophylised grapefruit juice
+TS1723373097	food2 598 623	powdered whole grapefruit
+TS5423373097	food 626 649	grapefruit seed extract
+TS7423373097	sideeffect 683 700	drug interactions
+TS2223373097	food 706 722	grapefruit juice
+TS6623373097	food 923 939	Grapefruit juice
+TS5223373097	sideeffect 940 955	inhibits CYP3A4
+R6	increase_side_effect Arg1:TS6623373097 Arg2:TS5223373097
+TS6723373097	sideeffect 1138 1153	adverse effects
+TS6023373097	food 1156 1172	Grapefruit juice
+TS4523373097	sideeffect 1273 1285	interactions
+TS2323373097	food 1338 1348	grapefruit
+TS2723373097	drug 1432 1450	immunosuppressants
+TS4723373097	drug 1458 1465	statins
+TS723373097	drug 1468 1483	benzodiazepines
+TS1423373097	drug 1491 1515	calcium channel blockers
+TS5723373097	drug 1518 1527	indinavir
+TS123373097	drug 1532 1545	carbamazepine
+R7	negative_effect_on_drug Arg1:TS2323373097 Arg2:TS2723373097
+TS4123373097	food 1655 1671	grapefruit juice
+TS7323373097	sideeffect 1752 1769	drug interactions
+TS4223373097	food 1775 1791	grapefruit juice
+TS1323373097	sideeffect 1938 1950	interactions
+TS4823373097	food 1969 1985	grapefruit juice
+TS823373097	food 2031 2047	grapefruit juice
+TS5123373097	food 2157 2173	grapefruit juice
+TS5023373097	sideeffect 2292 2330	serious dose-dependent adverse effects
+T1	sideeffect 1179 1227	nhibits several other cytochrome P450 isoenzymes
+R1	increase_side_effect Arg1:TS6023373097 Arg2:T1	
+T2	sideeffect 1315 1332	Drugs interacting
+R2	negative_effect_on_drug Arg1:TS2323373097 Arg2:TS4723373097	
+R3	negative_effect_on_drug Arg1:TS2323373097 Arg2:TS723373097	
+R4	negative_effect_on_drug Arg1:TS2323373097 Arg2:TS1423373097	
+R5	negative_effect_on_drug Arg1:TS2323373097 Arg2:TS5723373097	
+R9	negative_effect_on_drug Arg1:TS2323373097 Arg2:TS123373097	
+R10	increase_side_effect Arg1:TS2323373097 Arg2:T2	
+T3	drug 1959 1964	drugs
+R8	increase_side_effect Arg1:TS4823373097 Arg2:TS1323373097	
+R11	negative_effect_on_drug Arg1:TS4823373097 Arg2:T3	
+R12	increase_side_effect Arg1:TS5123373097 Arg2:TS5023373097	

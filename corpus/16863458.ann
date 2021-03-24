@@ -1,0 +1,21 @@
+TS1816863458	drug 0 21	Mycophenolate mofetil
+TS1916863458	drug 96 117	Mycophenolate mofetil
+TS1616863458	treatedDisease 420 439	autoimmune diseases
+TS1416863458	drug 891 909	immunosuppressants
+TS1116863458	sideeffect 1000 1023	cardiovascular toxicity
+TS1716863458	sideeffect 1165 1191	gastrointestinal disorders
+TS416863458	drug 1314 1331	mycophenolic acid
+TS116863458	sideeffect 1408 1425	immunosuppression
+T1	drug 1340 1356	acyl glucuronide
+T2	drug 281 318	maintenance immunosuppressive therapy
+T3	drug 254 277	antiproliferative agent
+T4	drug 120 123	MMF
+T5	drugEffect 717 743	immunosuppressive activity
+T6	drug 747 750	MMF
+R1	has_effect Arg1:T6 Arg2:T5	
+T7	drugEffect 799 839	selective inhibition of purine synthesis
+R2	has_effect Arg1:T6 Arg2:T7	
+T8	sideeffect 983 997	nephrotoxicity
+T9	sideeffect 1027 1049	diabetogenic potential
+T10	drug 1153 1156	MMF
+R3	has_sideeffect Arg1:T10 Arg2:TS1716863458	

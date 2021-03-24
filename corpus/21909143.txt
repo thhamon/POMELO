@@ -1,0 +1,11 @@
+Between Scylla and Charybdis: antithrombotic therapy in hematopoietic progenitor cell transplant patients .
+Patients who undergo hematopoietic progenitor cell transplant may require antithrombotic therapy for a variety of reasons- -history of vascular events or developing new ones during therapy .
+For patients with arterial disease , use of antiplatelet therapy is based on acuity .
+For primary prevention of an arterial event , aspirin can be withheld at the start of transplant .
+On the other hand , in the face of a patient experiencing an acute myocardial infarction , aspirin should be given , no matter what the degree of thrombocytopenia is .
+Patients with cardiac 'hardware' -stents and mechanical valves-pose difficult issues because as higher risk patients ( especially patients with recent implantation of a drug eluting stent ) they require more aggressive anticoagulation , even in the face of severe thrombocytopenia .
+Anticoagulation with heparin is dependent on the platelet count with full dose recommended for a platelet count over 50 × 10 ( 9 )  L and prophylactic dosing with platelets in the 20-50 × 10 ( 9 )  L range .
+If the patient develops a distal venous thrombosis , then simple observation can be used , but more proximal thrombosis or pulmonary embolism requires consideration of anticoagulation .
+Central venous catheter thrombosis is best treated by line removal , as the risk of bleeding is high if the device is left in .
+The advent of new anticoagulants with minimal drug and food interactions may offer better choices for therapy for these difficult patients .
+This is also an area in which clinical trials would be helpful to clarify the treatment choices .

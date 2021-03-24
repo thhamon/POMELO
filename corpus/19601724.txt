@@ -1,0 +1,7 @@
+Drug interactions .
+Drugs for allergy are often taken in combination with other drugs , either to treat allergy or other conditions .
+In common with many pharmaceuticals , most such drugs are subject to metabolism by P450 enzymes and to transmembrane transport .
+This gives rise to considerable potential for drug-drug interactions , to which must be added consideration of drug-diet interactions .
+The potential for metabolism- metabolism-based drug interactions is increasingly being taken into account during drug development , using a variety of in silico and in vitro approaches .
+Prediction of transporter-based interactions is not as advanced .
+The clinical importance of a drug interaction will depend upon a number of factors , and it is important to address concerns quantitatively , taking into account the therapeutic index of the compound .

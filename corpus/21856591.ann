@@ -1,0 +1,3 @@
+TS221856591	food 30 42	papaya fruit
+TS321856591	drug 73 86	levothyroxine
+R1	relation Arg1:TS221856591 Arg2:TS321856591

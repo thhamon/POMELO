@@ -1,0 +1,7 @@
+TS221147941	drug 46 82	Monoamine oxidase ( MAO ) inhibitors
+TS321147941	drug 98 113	antidepressants
+TS421147941	food 201 205	food
+TS621147941	sideeffect 210 227	drug interactions
+T1	drug 0 14	MAO inhibitors
+T2	sideeffect 180 192	side effects
+T3	drug 302 316	MAO inhibitors

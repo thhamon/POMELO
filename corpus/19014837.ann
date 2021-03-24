@@ -1,0 +1,47 @@
+TS2319014837	drug 62 95	dipeptidyl peptidase IV inhibitor
+TS2619014837	drug 256 300	inhibitor of dipeptidyl peptidase ( DPP ) IV
+TS1319014837	treatedDisease 351 366	type 2 diabetes
+TS619014837	food 1071 1075	food
+TS319014837	food 1168 1181	high-fat diet
+TS119014837	drug 2067 2076	LC15-0444
+TS1519014837	food 2145 2158	High-fat diet
+TS1119014837	drug 2202 2212	LC15-0444.
+TS2419014837	sideeffect 2549 2557	headache
+TS2219014837	sideeffect 2572 2581	dizziness
+TS819014837	sideeffect 2590 2596	nausea
+TS719014837	sideeffect 2605 2614	epistaxis
+TS1419014837	sideeffect 2627 2647	increased heart rate
+TS919014837	food 2874 2878	food
+TS2119014837	drugEffect 3029 3076	increased active glucagon-like peptide-1 levels
+TS519014837	mealTime 3077 3102	after a standardized meal
+T1	drug 96 105	LC15-0444
+T2	drug 231 240	LC15-0444
+T3	drug 754 763	LC15-0444
+T4	drug 510 519	LC15-0444
+T5	drug 1729 1738	LC15-0444
+R1	treat Arg1:T2 Arg2:TS1319014837	
+R2	treat Arg1:TS2619014837 Arg2:TS1319014837	
+T6	dosage 713 715	25
+T7	dosage 718 720	50
+T8	dosage 723 726	100
+T9	dosage 729 732	200
+T10	dosage 735 738	400
+T11	dosage 744 750	600 mg
+T12	dosage 1110 1116	100-mg
+T13	dosage 2039 2051	50 to 400 mg
+T14	dosage 2078 2084	200 mg
+T15	drugEffect 2099 2106;2114 2129	inhibit DPP IV activity
+R3	has_effect Arg1:TS119014837 Arg2:T15	
+R4	no_effect_on_drug Arg1:TS1519014837 Arg2:TS1119014837	
+T16	drug 2215 2224	LC15-0444
+T17	drug 2706 2715	LC15-0444
+T18	dosage 2765 2777	50 to 400 mg
+T19	dosage 2911 2917	200 mg
+T20	drug 2921 2930	LC15-0444
+T21	drugEffect 2931 2940;2948 2963	inhibited DPP IV activity
+R5	has_effect Arg1:T20 Arg2:T21	
+T22	dosage 3017 3023	600-mg
+T23	duration 2130 2142	for 24 hours
+R6	has_effect Arg1:T20 Arg2:TS2119014837	
+R7	after Arg1:TS519014837 Arg2:T20	
+T24	drug 3105 3114	LC15-0444

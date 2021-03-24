@@ -1,0 +1,36 @@
+TS611426073	drug 84 94	fluoxetine
+TS411426073	drug 141 156	antidepressants
+TS1611426073	food 222 227	-food
+TS1011426073	sideeffect 228 245	food interactions
+TS111426073	drug 406 420	antidepressant
+TS511426073	drug 506 521	antidepressants
+TS1311426073	drug 670 685	antidepressants
+TS811426073	sideeffect 832 853	autonomic dysfunction
+TS1511426073	drugEffect 968 988	inhibit P450 enzymes
+TS211426073	drug 1021 1068	non-nucleoside reverse transcriptase inhibitors
+TS311426073	food 1075 1091	grapefruit juice
+T1	sideeffect 0 18	Serotonin syndrome
+T2	drug 57 79	antiretroviral therapy
+R1	has_sideeffect Arg1:T2 Arg2:T1	
+R2	has_sideeffect Arg1:TS611426073 Arg2:T1	
+T3	sideeffect 175 193	serotonin syndrome
+R3	has_sideeffect Arg1:TS411426073 Arg2:T3	
+R4	negative_effect_on_drug Arg1:TS1611426073 Arg2:TS411426073	
+T4	drug 387 401	antiretroviral
+T5	sideeffect 479 497	serotonin syndrome
+R5	has_sideeffect Arg1:TS111426073 Arg2:T5	
+R6	has_sideeffect Arg1:T4 Arg2:T5	
+T6	sideeffect 610 628	serotonin syndrome
+T7	drug 695 710	P450 inhibitors
+T8	sideeffect 713 731	Serotonin syndrome
+T9	sideeffect 860 887	neuromuscular abnormalities
+T10	sideeffect 809 829	mental status change
+T11	drug 767 791	serotonergic medications
+R7	has_sideeffect Arg1:T11 Arg2:T10	
+R8	has_sideeffect Arg1:T11 Arg2:TS811426073	
+R9	has_sideeffect Arg1:T11 Arg2:T9	
+R10	has_sideeffect Arg1:T11 Arg2:T8	
+T12	drug 999 1018	protease inhibitors
+R11	has_effect Arg1:T12 Arg2:TS1511426073	
+R12	has_effect Arg1:TS211426073 Arg2:TS1511426073	
+R13	relation Arg1:TS311426073 Arg2:TS1511426073	

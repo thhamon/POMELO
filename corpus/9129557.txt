@@ -1,0 +1,17 @@
+Grapefruit juice- juice-terfenadine single-dose interaction interaction: magnitude , mechanism , and relevance .
+To investigate the single dose-response effects of grapefruit juice on terfenadine disposition and electrocardiographic measurements .
+Twelve healthy males received 250 ml water or regular- or double-strength grapefruit juice with 60 mg terfenadine in a randomized crossover trial .
+Plasma concentrations of the cardiotoxic agent terfenadine and the active antihistaminic metabolite terfenadine carboxylate were determined over 8 hours .
+The QTc interval was monitored .
+Terfenadine concentrations were measurable ( sentsup 1 ng  ml ) in 27 ( 20% ; p sentinf 0.001 ) and 39 ( 30% ; p sentinf 0.001 ) samples from individuals treated with regular- and double-strength grapefruit juice , respectively , compared to only four ( 3% ) samples with water .
+Terfenadine plasma peak drug concentration ( Cmax ) was also higher .
+Terfenadine carboxylate area under the plasma drug concentration-time curve ( AUC ) , Cmax , and time to reach Cmax ( tmax ) were increased by both strengths of juice .
+However , terfenadine carboxylate apparent elimination half-life ( t1  2 ) was not altered .
+The magnitude of the interaction of terfenadine carboxylate AUC and Cmax ranged severalfold and correlated among individuals for regular-strength ( r2 = 0.87 ; p sentinf 0.0001 ) and double-strength ( r2 = 0.78 ; p sentinf 0.0001 ) grapefruit juice .
+No differences in the pharmacokinetics of terfenadine and terfenadine carboxylate were observed between the two strengths of grapefruit juice .
+QTc interval was not altered .
+A normal amount of regular-strength grapefruit juice produced maximum single-dose effects on terfenadine and carboxylic acid metabolite pharmacokinetics .
+The mechanism likely involved reduced presystemic drug elimination by inhibition of more than one metabolic pathway .
+The extent of the interaction was not sufficient to produce electrocardiographic changes .
+However , the pharmacokinetic effects were highly variable among individuals .
+This study further enhances the awareness of the potential for a serious interaction between grapefruit juice and terfenadine .

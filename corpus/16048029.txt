@@ -1,0 +1,9 @@
+[Grapefruit juice juice: potential drug interaction] interaction]. .
+More than a decade has passed since it was unintentionally discovered that grapefruit juice interacts with certain drugs .
+The coadministration of these drugs with grapefruit juice can markedly elevate drug bioavailability , and can alter pharmacokinetic and pharmacodynamic parameters of the drug .
+The predominant mechanism for this interaction is the inhibition of cytochrome P-450 3A4 in the small intestine , resulting in a significant reduction of drug presystemic metabolism .
+An additional mechanism is the inhibition of P-glycoprotein , a transporter that carries drug from the enterocyte back to the gut lumen , resulting in a further increase in the fraction of drug absorbed .
+Some calcium channel antagonists , benzodiazepines , HMG-CoA reductase inhibitors and cyclosporine are the most affected drugs .
+A single exposure to one glass of the grapefruit juice can usually produce the maximal magnitude of the interaction .
+The data available so far , concerning this interaction and its clinical implications , are reviewed in this article .
+It is likely that more information regarding this interaction will accumulate in the future , and awareness of such is necessary for achieving optimal drug therapy .

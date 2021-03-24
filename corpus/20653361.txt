@@ -1,0 +1,11 @@
+Management of drug and food interactions with azole antifungal agents in transplant recipients .
+Azole antifungal agents are frequently used in hematopoietic stem cell and solid organ transplant recipients for prevention or treatment of invasive fungal infections .
+However , because of metabolism by or substrate activity for various isoenzymes of the cytochrome P450 system and  or P-glycoprotein , azole antifungals have the potential to interact with many of the drugs commonly used in these patient populations .
+Thus , to identify drug interactions that may result between azole antifungals and other drugs , we conducted a literature search of the MEDLINE database ( 1966-December 2009 ) for English-language articles on drug interaction studies involving the azole antifungal agents fluconazole , itraconazole , voriconazole , and posaconazole .
+Another literature search between each of the azoles and the immunosuppressants cyclosporine , tacrolimus , and sirolimus , as well as the corticosteroids methylprednisolone , dexamethasone , prednisolone , and prednisone , was also conducted .
+Concomitant administration of azoles and immunosuppressive agents may cause clinically significant drug interactions resulting in extreme immunosuppression or toxicity .
+The magnitude and duration of an interaction between azoles and immunosuppressants are not class effects of the azoles , but differ between drug combinations and are subject to interpatient variability .
+Drug interactions in the transplant recipient receiving azole therapy may also occur with antibiotics , chemotherapeutic agents , and acid- acid-suppressive therapies , among other drugs .
+Initiation of an azole antifungal in transplant recipients nearly ensures a drug-drug drug interaction , but often these drugs are required .
+Management of these interactions first involves knowledge of the potential drug interaction , appropriate dosage adjustments when necessary , and therapeutic or clinical monitoring at an appropriate point in therapy to assess the drug-drug drug interaction ( e.g e.g. , immunosuppressive drug concentrations , signs and symptoms of toxicity ) .
+These aspects of drug interaction management are essential not only at the initiation of azole antifungal antifungal therapy , but also when these agents are removed from the regimen .

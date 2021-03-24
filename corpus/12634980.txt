@@ -1,0 +1,12 @@
+Genetic and environmental risk factors for oral anticoagulant overdose .
+Cytochrome P450 2C9 ( CYP2C9 ) allelic variant carriers have been shown to experience hyper- hyper-responsiveness to small doses of oral anticoagulants ( OAs ) ( warfarin or acenocoumarol ) and a higher bleeding rate .
+To determine the relative frequencies of different risk factors for OA overdose including diet , concomitant diseases , drug interactions , recent increment of OA dose and CYP2C9 genetic polymorphism among hospitalised patients .
+Frequencies of the different risk factors for OA overdose were determined in a prospective case-control study .
+Seventy-five consecutive patients with an International normalised ratio ( INR ) greater than 4 were matched with seventy-five control patients with an INR greater than 2 but less than 3.5 with respect to age , prescribed OA and daily dose .
+Genotyping of CYP2C9* CYP2C9*2 and CYP2C9* CYP2C9*3 allelic variants was detected by the TaqMan allelic discrimination assay .
+Drug interactions and a recent increment of OA dose were the only significant independent risk factors identified in the first analysis with odds ratio 2.13 ( 95% CI: 1.06-4.28 ) and 3.38 ( 95%CI: 1.51-7.57 ) , respectively .
+A recent increment of OA dose was the only significant independent risk factor identified among the patients treated with coumarin derivatives ( acenocoumarol or warfarin ) , excluding those treated with fluindione ; the odds ratio was 4.3 ( 95% CI: 1.5-12.3 ) .
+CYP2C9 genetic polymorphism did not significantly predict the increased risk of OA overanticoagulation in this study .
+However three homozygous CYP2C9* CYP2C9*3  CYP2C9* CYP2C9*3 genotype patients were found among the cases , whereas no such patients could be identified among controls .
+This is the first observational study investigating the role of CYP2C9 genetic polymorphism together with other environmental OA overdose risk factors .
+Our results support the view that although the CYP2C9* CYP2C9*3  CYP2C9* CYP2C9*3 genotype is associated soon after the introduction of OA with dramatic overanticoagulation , OA overdose is mostly related to environmental factors .

@@ -1,0 +1,39 @@
+TS1121803422	food 69 73	food
+TS621803422	drugEffect 90 105	bioavailability
+TS721803422	drug 109 120	linagliptin
+R1	relation Arg1:TS1121803422 Arg2:TS721803422
+TS1221803422	drugEffect 201 216	bioavailability
+TS4221803422	drug 246 288	dipeptidyl-peptidase-4 ( DPP-4 ) inhibitor
+TS1521803422	drug 289 300	linagliptin
+TS3221803422	food 328 340	without food
+TS1921803422	drug 586 597	linagliptin
+TS1321803422	mealTime 607 621	overnight fast
+TS3521803422	food 681 714	high-fat , high-calorie breakfast
+TS2921803422	drug 915 926	linagliptin
+TS2521803422	drugEffect 1046 1061	bioavailability
+TS1621803422	drug 1208 1219	linagliptin
+TS3321803422	mealTime 1360 1375	a high-fat meal
+TS2421803422	drugEffect 1399 1414	bioavailability
+TS1821803422	mealTime 1484 1487	fed
+TS4021803422	mealTime 1492 1498	fasted
+TS2121803422	food 1576 1580	food
+TS3921803422	mealTime 1668 1674	fasted
+TS3121803422	food 1708 1712	food
+TS1021803422	drug 2053 2064	Linagliptin
+TS3021803422	mealTime 2113 2128	a high-fat meal
+TS2621803422	drug 2149 2160	linagliptin
+TS1421803422	food 2250 2254	food
+TS2721803422	drug 2300 2311	linagliptin
+R3	no_effect_on_drug Arg1:TS1421803422 Arg2:TS2721803422
+T1	food 319 323;336 340	with food
+R4	relation Arg1:T1 Arg2:TS1521803422	
+R5	relation Arg1:TS3221803422 Arg2:TS1521803422	
+T2	frequency 566 577	single dose
+T3	dosage 581 585	5 mg
+T4	mealTime 660 665;705 714	after breakfast
+R6	relation Arg1:TS1321803422 Arg2:TS1921803422	
+R7	relation Arg1:T4 Arg2:TS1921803422	
+T5	drugEffect 1916 1935	inhibition of DPP-4
+R2	slow_absorption Arg1:TS3021803422 Arg2:TS2621803422	
+T6	food 2115 2123	high-fat
+R8	slow_absorption Arg1:T6 Arg2:TS2621803422	

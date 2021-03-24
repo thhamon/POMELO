@@ -1,0 +1,5 @@
+TS314675888	sideeffect 1 38	Atrioventricular complete heart block
+TS114675888	drug 56 65	verapamil
+TS214675888	food 84 89	honey
+R1	relation Arg1:TS214675888 Arg2:TS114675888	
+R2	has_sideeffect Arg1:TS114675888 Arg2:TS314675888	

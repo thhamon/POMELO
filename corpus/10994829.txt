@@ -1,0 +1,7 @@
+Drug-grapefruit juice interactions .
+Grapefruit juice , a beverage consumed in large quantities by the general population , is an inhibitor of the intestinal cytochrome P-450 3A4 system , which is responsible for the first-pass metabolism of many medications .
+Through the inhibition of this enzyme system , grapefruit juice interacts with a variety of medications , leading to elevation of their serum concentrations .
+Most notable are its effects on cyclosporine , some 1 , 4-dihydropyridine calcium antagonists , and some 3-hydroxy-3- 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors .
+In the case of some drugs , these increased drug concentrations have been associated with an increased frequency of dose-dependent adverse effects .
+The P-glycoprotein pump , located in the brush border of the intestinal wall , also transports many cytochrome P-450 3A4 substrates , and this transporter also may be affected by grapefruit juice .
+This review discusses the proposed mechanisms of action and the medications involved in drug-grapefruit grapefruit juice interactions and addresses the clinical implications of these interactions .

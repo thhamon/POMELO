@@ -1,0 +1,33 @@
+TS1512520629	food 28 32	food
+TS2312520629	drug 60 74	sodium oxybate
+TS2412520629	drug 136 157	gamma-hydroxybutyrate
+TS1612520629	treatedDisease 238 247	cataplexy
+TS812520629	treatedDisease 265 275	narcolepsy
+TS1112520629	food 476 480	food
+TS312520629	drugEffect 493 508	bioavailability
+TS1912520629	mealTime 568 582	overnight fast
+TS912520629	mealTime 593 614	after a high-fat meal
+TS2012520629	food 737 741	food
+TS512520629	drugEffect 768 783	bioavailability
+TS712520629	food 957 961	Food
+TS1312520629	food 1117 1121	food
+TS612520629	mealTime 1226 1248	after the evening meal
+TS1412520629	food 1289 1293	food
+T1	modeadm 75 79	oral
+T2	drug 111 125	Sodium oxybate
+T3	drug 128 133	Xyrem
+T4	modeadm 369 373	oral
+T5	dosage 374 379	4.5-g
+T6	drug 389 403	sodium oxybate
+T7	drug 441 448	oxybate
+T8	frequency 617 644	1 week separated treatments
+T9	drug 647 661	Sodium oxybate
+T10	drugEffect 970 988	affect elimination
+T11	drugEffect 993 1010	urinary excretion
+R1	no_effect_on_drug Arg1:TS712520629 Arg2:T11	
+R2	no_effect_on_drug Arg1:TS712520629 Arg2:T10	
+T12	drug 787 794	oxybate
+R3	has_effect Arg1:T12 Arg2:TS512520629	
+T13	drug 1053 1067	sodium oxybate
+T14	drug 1205 1219	sodium oxybate
+R4	without_food Arg1:TS1312520629 Arg2:T14	

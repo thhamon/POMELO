@@ -1,0 +1,8 @@
+Effect of food on the single-dose pharmacokinetics and tolerability of clinofibrate tablets in Chinese healthy volunteers .
+The aim of this study is to investigate a food effect on the single-dose pharmacokinetics and tolerability of clinofibrate tablets in 12 Chinese healthy volunteers .
+The authors evaluated the effect of being under a fasting or fed state at the time of drug intake on the single-dose of clinofibrate 400 mg tablets in a randomized , balanced , single-dose , two-treatment ( fed and fasting ) , two-period , two-sequence study design with a 7-day washout period .
+The end points were the maximum plasma drug concentration ( Cmax ) and areas under the plasma-concentration curve ( AUC ) for 72 hours exposure ( AUC AUC0-72 ) and total exposure ( AUC AUC0-∞ ) .
+All participants completed the whole study without side effects being observed .
+The Cmax mean of clinofibrate glucuronides and parent clinofibrate were 21.91 , 17.85 μ  ml for the fasting state and 13.14 , 11.25 μ  ml for the fed state , respectively .
+The AUC0-72 and AUC0-∞ of clinofibrate glucuronides and parent clinofibrate were 381.60 , 307.07 μ  ml and 404.55 , 342.24 μ  ml for the fasting state and 379.02 , 321.14 μ  ml and 432.24 , 351.80 μ  ml for the fed state .
+The authors showed that food intake was associated with a significant decrease in Cmax , but no significant change in AUC values .

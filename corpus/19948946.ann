@@ -1,0 +1,33 @@
+TS1619948946	food 10 26	grapefruit juice
+TS3019948946	drug 54 63	nilotinib
+R1	relation Arg1:TS1619948946 Arg2:TS3019948946
+TS3119948946	drug 90 99	Nilotinib
+TS3319948946	drug 102 109	Tasigna
+TS3819948946	drug 162 195	BCR-ABL tyrosine kinase inhibitor
+TS2019948946	treatedDisease 294 359	Philadelphia chromosome positive ( Ph+ ) chronic myeloid leukemia
+TS319948946	food 435 451	grapefruit juice
+TS1219948946	drug 479 488	nilotinib
+R2	relation Arg1:TS319948946 Arg2:TS1219948946
+TS1419948946	drug 622 631	nilotinib
+TS3919948946	food 660 676	grapefruit juice
+TS2219948946	food 687 692	water
+TS2719948946	drug 785 794	nilotinib
+TS2519948946	food 902 918	grapefruit juice
+TS1819948946	drug 933 942	nilotinib
+TS1919948946	drug 1146 1155	nilotinib
+R3	relation Arg1:TS2519948946 Arg2:TS1819948946
+TS119948946	sideeffect 1194 1202	headache
+TS1019948946	sideeffect 1207 1215	vomiting
+TS3519948946	drug 1377 1386	nilotinib
+TS3619948946	drug 1426 1435	nilotinib
+TS3719948946	drug 1476 1485	nilotinib
+TS2119948946	food 1491 1507	grapefruit juice
+T1	sideeffect 242 260	imatinib-resistant
+T2	sideeffect 274 293	imatinib-intolerant
+T3	dosage 615 621	400 mg
+T4	modeadm 602 606	oral
+T5	drugEffect 943 961	peak concentration
+R4	has_effect Arg1:TS1819948946 Arg2:T5	
+R5	has_sideeffect Arg1:TS1919948946 Arg2:TS119948946	
+R6	has_sideeffect Arg1:TS1919948946 Arg2:TS1019948946	
+R7	negative_effect_on_drug Arg1:TS2119948946 Arg2:TS3719948946	

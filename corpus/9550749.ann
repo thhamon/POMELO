@@ -1,0 +1,23 @@
+TS229550749	sideeffect 0 10;23 28	[Excessive level
+TS219550749	food 45 62	grapefruit juice]
+TS79550749	sideeffect 139 161	drug-drug interactions
+TS89550749	sideeffect 192 214	food-drug interactions
+TS29550749	food 250 266	grapefruit juice
+TS59550749	drugEffect 285 309	systemic bioavailability
+TS189550749	food 404 420	grapefruit juice
+TS49550749	drugEffect 537 549	blood levels
+T1	drug 11 22	terfenadine
+R1	increase_side_effect Arg1:TS219550749 Arg2:TS229550749	
+R2	relation Arg1:TS219550749 Arg2:T1	
+R3	has_sideeffect Arg1:T1 Arg2:TS229550749	
+T2	drug 313 324	terfenadine
+R4	has_effect Arg1:T2 Arg2:TS59550749	
+R5	slow_elimination Arg1:TS29550749 Arg2:T2	
+T3	drug 500 511	terfenadine
+T4	sideeffect 421 482	interfere with the function of intestinal cytochrome P450 3A4
+R6	increase_side_effect Arg1:TS189550749 Arg2:T4	
+T5	drug 553 564	terfenadine
+T6	sideeffect 577 600	heart rate disturbances
+R7	has_sideeffect Arg1:T5 Arg2:T6	
+R8	has_effect Arg1:T5 Arg2:TS49550749	
+R9	negative_effect_on_drug Arg1:TS189550749 Arg2:T3	

@@ -1,0 +1,13 @@
+Effect of grapefruit juice intake on etoposide bioavailability .
+Oral administration of etoposide is limited by the high degree of unpredictable variation in systemic availability .
+This pilot study was conducted to evaluate the potential of pretreatment with grapefruit juice for improving the use of oral etoposide .
+In a randomized crossover study , six patients were sequentially treated with 50 mg IV etoposide over 1 h , 50 mg orally , or 50 mg orally post grapefruit juice on day 1 , day 4 , and day 8. .
+Blood samples were drawn up to 24 h after the end of infusion and oral drug administration .
+Plasma etoposide concentrations were determined by reversed-phase HPLC with UV detection .
+A two-compartment model was used for pharmacokinetic parameter estimation .
+Pharmacokinetic parameters were evaluated using descriptive statistics .
+Pretreatment with grapefruit juice resulted in an unexpected decrease of 26.2% in the AUC after oral treatment .
+Median absolute bioavailability with and without pretreatment with grapefruit juice was 52.4% and 73.2% , respectively .
+Interindividual variability was large in all treatment arms .
+Grapefruit juice seems to reduce rather than increase oral bioavailability of etoposide .
+Moreover , we did not observe a reduction in interpatient variability of bioavailability .

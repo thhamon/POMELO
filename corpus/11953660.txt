@@ -1,0 +1,6 @@
+Drug-nutrient interaction in clinical nutrition .
+Drug-nutrient interactions have been recognized for decades .
+It is known that improper management of some of these interactions may lead to therapeutic failure or cause serious adverse effects to the patients .
+While most of the known drug-nutrient interactions involve changes in oral bioavailabilities and absorption of the offending compounds , recent investigations suggest that different mechanisms also exist .
+A mechanism-derived classification system for drug-nutrient interactions has only recently been developed .
+This system should facilitate the future research and development of practice guidelines in the identification and management of important interactions .

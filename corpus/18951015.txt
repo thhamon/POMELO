@@ -1,0 +1,8 @@
+' No risk , no fun' : challenges for the oncology phase I clinical trial time-performance .
+Drug development in oncology is faced with the challenge of making active new compounds available for standard of care in the shortest possible time frame .
+While rules and regulations create an accepted factor in delaying trial execution , protocol issues and procedures are more often a delay factor than needed , particularly in industry-sponsored studies .
+This provides an option to decrease trial time , without affecting patient safety .
+Among the possible rooms for improvement are a balanced use of in- and exclusion criteria , justified by animal toxicology , and flexible dose escalation steps still defined a priori .
+It is also of crucial importance to make sure in the phase I programme that the pharmacology of the agent involved is appropriately understood .
+Including real-time pharmacokinetics , food food-effect studies and , if possible , bioavailability studies in the phase I programme would decrease the risk of taking the wrong decisions for follow-on development .
+The concept of increasing the number of study sites to speed up accrual has a negative effect on trial execution and is actually a delay factor that in addition has the intrinsic risk of putting patient safety at stake .

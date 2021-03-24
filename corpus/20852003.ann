@@ -1,0 +1,5 @@
+TS220852003	food 0 4	Food
+TS120852003	drug 57 88	dual orexin receptor antagonist
+R1	relation Arg1:TS220852003 Arg2:TS120852003
+T1	drug 89 99	almorexant
+R2	relation Arg1:TS220852003 Arg2:T1	

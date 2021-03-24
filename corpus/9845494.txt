@@ -1,0 +1,6 @@
+Principles of clinical pharmacology in postexposure prophylaxis .
+Deciding on postexposure prophylaxis for any infection requires that the patient and healthcare provider understand the magnitude of infection risk and the adverse consequences of therapeutic intervention or nonintervention .
+Principles of epidemiology and microbiology allow us to estimate the risk of infection .
+Principles of clinical pharmacology allow us to estimate the risk and benefit of therapy .
+The dose-response-time relationships for antiviral activity and toxicity of a drug can be used to develop regimens that maximize benefit and minimize risk .
+Other important pharmacologic considerations include the role of active and toxic drug metabolites , combination chemotherapy , drug interactions , and medication compliance .

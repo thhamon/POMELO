@@ -1,0 +1,16 @@
+Significant food interactions observed with a nifedipine modified-release formulation marketed in the European Union .
+The objective of this study was to compare the rate and extent of nifedipine bioavailability after single dose administration of Adalat OROS 30 ( Reference ) and Nifedipine Sandoz retard 30 tablets ( Test ) .
+Both modified release formulations are marketed in Member States of the European Union .
+Prior to the clinical study the in vitro dissolution characteristics were investigated .
+There was a significant pH dependency observed with the Test product but drug release with the Reference product was almost independent of the experimental conditions used .
+In the subsequent open , randomized , controlled , 4-way crossover study both pharmaceutical products were administered to 28 healthy male volunteers , either after fasting overnight or immediately after a high-fat American breakfast .
+Blood sampling was performed over 48 hours post-dose for the determination of pharmacokinetic profiles of nifedipine .
+Considerable differences were observed between the two formulations when administered to fasted subjects where maximum nifedipine plasma concentration ( C ( max ) ) were higher in the case of the Test formulation .
+Differences were even more pronounced after a high-fat American breakfast .
+Under these conditions a significant food interaction was detected in the case of Nifedipine Sandoz retard 30 with a three-fold increase in the mean C ( max ) when compared to values obtained in fasting subjects .
+In contrast , food intake had no clinically relevant effect on bioavailability of nifedipine ( rate and extent ) in the case of Adalat OROS 30. .
+The pharmacokinetic findings in this study were reflected in the adverse event pattern which indicated a potential tolerability problem in the case of Nifedipine Sandoz retard 30. .
+The results confirm the relationship between the in vitro dissolution profile results and the effects of the drug in vivo .
+Dose dumping after intake of a high-fat meal could be shown .
+Nifedipine Sandoz retard 30 is not bioequivalent to Adalat OROS 30 and produced highly variable and poorly predictable nifedipine plasma concentrations .
+The differences observed between the two products investigated may have direct therapeutic relevance when switching from one formulation to the other and , in particular , when administration conditions change i.e. administration in the fasting state and administration with a meal , since the pharmacological and therapeutic actions of nifedipine are closely associated with the concentration .

@@ -1,0 +1,15 @@
+Effect of high-fat breakfast and moderate-fat evening meal on the pharmacokinetics of vardenafil , an oral phosphodiesterase-5 inhibitor for the treatment of erectile dysfunction .
+The effects of food on the pharmacokinetics of vardenafil were examined in 25 healthy adult males .
+Single-dose vardenafil 20 mg was administered in a randomized four-way crossover design after an overnight fast ( at 8 a.m. .
+) , after consumption of a high-fat breakfast ( at 8 a.m. .
+) , on an empty stomach ( at 6 p.m. .
+) , and after a typical moderate-fat evening meal ( at 6 p.m. .
+) .
+Serial blood samples were analyzed for vardenafil and metabolite ( M1 ) levels .
+When administered after an overnight fast and after a high-fat breakfast , vardenafil geometric mean Cmax was 17.14 and 14.0 micrograms  L , respectively , and AUC was 66.78 and 67.09 micrograms .
+ h  L , respectively ; the median tmax was 1 hour under fasting conditions and 2 hours with consumption of high-fat breakfast .
+When administered in the evening on an empty stomach and after a moderate-fat meal , vardenafil geometric mean Cmax was 14.22 and 13.04 micrograms  L , respectively , and AUC was 51.97 and 59.12 micrograms.h  L , respectively .
+The median tmax was 1 hour after fasting or a moderate-fat meal in the evening .
+All treatments were well tolerated .
+Thus , while a high-fat meal may alter Cmax slightly and delay the absorption up to 1 hour , a moderate-fat meal has no clinically relevant effect on vardenafil pharmacokinetics .
+Dosage changes are not warranted based on the wide therapeutic index and the efficacy observed with vardenafil in Phase III studies that were not restricted with respect to food .

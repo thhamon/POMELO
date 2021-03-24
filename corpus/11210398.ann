@@ -1,0 +1,40 @@
+TS2711210398	food 19 33	high-fat meals
+TS711210398	drug 37 47	tacrolimus
+R1	relation Arg1:TS2711210398 Arg2:TS711210398
+TS2511210398	drug 120 130	Tacrolimus
+TS2111210398	drug 133 138	FK506
+TS111210398	drug 141 148	Prograf
+TS211210398	drug 156 184	macrolide lactone antibiotic
+TS3211210398	food 382 394	low-fat meal
+TS1611210398	mealTime 413 426	fasting state
+TS1211210398	drug 482 492	tacrolimus
+TS1511210398	food 765 769	Food
+TS1811210398	drugEffect 827 842	bioavailability
+TS311210398	drug 969 979	tacrolimus
+TS2911210398	mealTime 1059 1066	fasting
+TS1311210398	food 1069 1077	high-fat
+TS3011210398	mealTime 1382 1389	fasting
+TS611210398	mealTime 1399 1402	fed
+TS511210398	mealTime 1552 1557	meals
+TS2011210398	drug 1614 1624	tacrolimus
+T1	food 10 13;24 33	low fat meals
+R3	relation Arg1:T1 Arg2:TS711210398	
+T2	dosage 69 73	5 mg
+T3	modeadm 81 85	oral
+T4	frequency 74 80	single
+T5	modeadm 204 208	oral
+T6	treatedDisease 303 321	kidney transplants
+T7	treatedDisease 294 299;310 321	liver transplants
+T8	food 367 371;386 394	high fat meal
+T9	dosage 523 527	5 mg
+T10	modeadm 528 532	oral
+T11	frequency 516 522	single
+T12	dosage 623 627	1 mg
+T13	numbers 640 642	15
+R4	slow_absorption Arg1:TS1511210398 Arg2:TS1811210398	
+T14	sideeffect 856 874	slowing absorption
+R5	increase_side_effect Arg1:TS1511210398 Arg2:T14	
+T15	food 1084 1091	low-fat
+T16	dosage 1604 1608	5 mg
+T17	frequency 1597 1603	single
+T18	modeadm 1609 1613	oral

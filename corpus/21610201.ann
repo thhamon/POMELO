@@ -1,0 +1,23 @@
+TS121610201	treatedDisease 315 339	type 2 diabetes mellitus
+TS1521610201	food 906 910	food
+TS621610201	mealTime 988 992	meal
+TS1121610201	sideeffect 1669 1681	hypoglycemia
+T1	drug 95 102	TAK-875
+T2	drug 220 229;241 278	selective G-protein-coupled receptor 40 agonist
+T3	drug 207 214	TAK-875
+R2	treat Arg1:T2 Arg2:TS121610201	
+R3	treat Arg1:T3 Arg2:TS121610201	
+T4	drug 481 488	TAK-875
+T5	modeadm 526 530	oral
+T6	drug 539 546	TAK-875
+T7	dosage 549 558	25-800 mg
+T8	drug 588 595	TAK-875
+T9	drug 721 728	TAK-875
+T10	dosage 883 889	200 mg
+T11	drug 964 971	TAK-875
+T12	food 979 992	high-fat meal
+R4	decrease_absorption Arg1:T12 Arg2:T11	
+T13	frequency 1530 1540	once-daily
+T14	drug 1435 1442	TAK-875
+T15	drug 1600 1607	TAK-875
+R1	has_sideeffect Arg1:T15 Arg2:TS1121610201	

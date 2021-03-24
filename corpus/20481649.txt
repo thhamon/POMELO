@@ -1,0 +1,29 @@
+Pharmacokinetic  pharmacodynamic profile of posaconazole .
+Posaconazole is a recently approved lipophilic triazole antifungal agent that exhibits potent and broad-spectrum antifungal activity in vitro and in vivo against most Candida spp .
+, Cryptococcus neoformans , Aspergillus spp .
+, many Zygomycetes , endemic fungi and dermatophytes .
+It has been documented that posaconazole has potency and spectrum of activity similar to those of itraconazole and superior to those of fluconazole against clinically important isolates of Candida spp .
+, C. .
+neoformans and Aspergillus spp .
+This new triazole has been developed for the treatment of fungal infections , which most often occur in severely immunocompromised patients , such as organ transplant patients or cancer patients undergoing chemotherapy .
+Since posanconazole has low solubility in aqueous and acidic media , its absorption is dose limited and significantly dependent upon food intake .
+The time to reach the maximum plasma concentration has been reported to be 5-8 hours following oral administration of a single dose .
+The relative bioavailability of posaconazole has been estimated to be significantly different among regimens and has been observed to be significantly increased by administration in divided doses .
+Posaconazole binds predominantly to albumin , and the extent of protein binding is high ( sentsup98% ) .
+Posaconazole has a large mean apparent volume of distribution after oral administration ( V ( d )  F ) , which is approximately 5-25 L  kg , suggesting extensive extravascular distribution and penetration into intracellular spaces .
+The V ( d )  F is influenced by the dosage regimen .
+Since food significantly increases its bioavailability , posaconazole should be administered with a full meal whenever possible , to ensure optimal absorption .
+Posaconazole primarily circulates in plasma and then is widely distributed to the tissues and is slowly eliminated .
+Posaconazole is not metabolized to a significant extent through the cytochrome P450 ( CYP ) enzyme system and also has no effect on the CYP isoenzymes of 1A2 , 2C8 , 2C9 , 2D6 and 2E1. .
+The limited metabolism of posaconazole is mediated predominantly through phase 2 biotransformations via uridine diphosphate glucuronosyltransferase enzyme pathways .
+Therefore , inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations .
+Since posaconazole is an inhibitor primarily of CYP3A4 , plasma concentrations of drugs that are predominantly metabolized by CYP3A4 may be increased by posaconazole .
+Posaconazole has a median terminal elimination half-life of 15-35 hours .
+The renal elimination of posaconazole is less than 1 mL  h , which is negligible compared with the mean total oral clearance of 16.3 L  h .
+Posaconazole shows potent in vitro activity against yeasts such as Candida spp .
+and C. .
+neoformans , and against a range of moulds such as Aspergillus spp .
+, as well as many dimorphic fungi and dermatophytes .
+Posaconazole has been shown to improve survival and  or to reduce the fungal tissue burden in animals infected with Blastomyces dermatitidis , C. .
+neoformans , Aspergillus fumigatus , Aspergillus flavus , Aspergillus terreus , Coccidioides immitis or Pseudallescheria boydii .
+The predictive pharmacokinetic  pharmacodynamic parameter for posaconazole treatment efficacy- -the ratio between the mean free-drug area under the plasma concentration-time curve from 0 to 24 hours and the minimum inhibitory concentration ( AUC ( 24 )  MIC ) - -is about 17 , which is similar to the value observed for other azoles in this infection model of disseminated Candida albicans infection .

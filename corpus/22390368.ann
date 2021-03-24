@@ -1,0 +1,57 @@
+TS1222390368	food 31 35	food
+TS4522390368	modeadm 42 46;65 82	oral prolonged-release
+TS1922390368	drug 94 118	ropinirole hydrochloride
+TS3122390368	treatedDisease 145 164	Parkinson's disease
+TS922390368	drug 167 191	Ropinirole hydrochloride
+TS2022390368	drug 196 221	dopamine receptor agonist
+TS4022390368	drug 229 247	non-ergot alkaloid
+TS722390368	drugEffect 270 323	selective for the dopamine D ( 2 )  D ( 3 ) receptors
+TS4222390368	modeadm 434 438;457 474	oral prolonged-release
+TS1022390368	drug 486 510	ropinirole hydrochloride
+TS1822390368	treatedDisease 575 594	Parkinson's disease
+TS3222390368	treatedDisease 1248 1267	Parkinson's Disease
+TS3922390368	modeadm 1411 1415;1434 1451	oral prolonged-release
+TS3422390368	drug 1463 1487	ropinirole hydrochloride
+TS2722390368	drug 1661 1672	metabolites
+TS2822390368	drug 1714 1738	ropinirole hydrochloride
+TS3822390368	modeadm 1739 1756	prolonged-release
+TS1322390368	drug 1869 1880	metabolites
+TS2922390368	food 1897 1908	normal diet
+TS1122390368	mealTime 1939 1952	fasting state
+TS3722390368	sideeffect 2007 2017	somnolence
+TS322390368	sideeffect 2020 2026	nausea
+TS122390368	sideeffect 2029 2041	constipation
+TS822390368	sideeffect 2044 2057	hallucination
+TS522390368	sideeffect 2062 2077	nasopharyngitis
+TS1722390368	sideeffect 2148 2153	death
+TS4322390368	modeadm 2587 2604	prolonged-release
+TS1522390368	drug 2616 2640	ropinirole hydrochloride
+TS422390368	drug 2760 2771	metabolites
+TS1622390368	food 2803 2807	food
+TS4422390368	modeadm 2866 2883	prolonged-release
+R1	has_effect Arg1:TS922390368 Arg2:TS722390368	
+R2	has_effect Arg1:TS2022390368 Arg2:TS722390368	
+T1	drug 529 535	L-dopa
+T2	treatedDisease 597 599	PD
+R3	treat Arg1:T1 Arg2:TS1822390368	
+R4	treat Arg1:TS1022390368 Arg2:TS1822390368	
+R5	treat Arg1:TS1922390368 Arg2:TS3122390368	
+T3	drug 838 859	N-depropyl ropinirole
+T4	drug 903 913	ropinirole
+T5	treatedDisease 1514 1516	PD
+T6	drug 1519 1529	ropinirole
+T7	drug 819 835	SKsentandF104557
+T8	drug 1532 1548	SKsentandF104557
+T9	drug 1638 1648	ropinirole
+T10	dosage 1805 1815	2 to 16 mg
+T11	frequency 1817 1820	day
+T12	drug 1846 1856	ropinirole
+T13	sideeffect 2194 2208	adverse events
+T14	drug 2659 2665	L-dopa
+T15	treatedDisease 2705 2707	PD
+T16	drug 2741 2751	ropinirole
+R6	no_effect_on_drug Arg1:TS1622390368 Arg2:T16	
+T17	modeadm 2828 2859	immediate-release ( IR ) tablet
+T18	drug 2937 2939	PD
+T19	frequency 2953 2958	daily
+T20	drug 3083 3093	ropinirole

@@ -1,0 +1,3 @@
+TS39129556	sideeffect 0 17	Drug interactions
+TS29129556	food 23 33	grapefruit
+R1	relation Arg1:TS29129556 Arg2:TS39129556	

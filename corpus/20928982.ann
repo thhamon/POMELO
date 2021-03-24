@@ -1,0 +1,20 @@
+TS1420928982	drug 32 41	warfarin]
+TS720928982	drug 55 63	Warfarin
+TS920928982	drug 90 103	anticoagulant
+TS520928982	treatedDisease 137 147	thrombosis
+TS1320928982	sideeffect 228 238	thrombosis
+TS1120928982	drug 300 308	warfarin
+TS820928982	sideeffect 424 435	interaction
+TS1220928982	food 506 515	vitamin K
+TS220928982	food 531 535	diet
+TS120928982	drug 787 795	warfarin
+TS420928982	drug 838 852	anticoagulants
+TS1020928982	drug 865 873	warfarin
+T1	modeadm 85 89	oral
+R1	treat Arg1:TS920928982 Arg2:TS520928982	
+R2	treat Arg1:TS720928982 Arg2:TS520928982	
+T2	sideeffect 559 584	hemorrhagic complications
+T3	sideeffect 588 609	thrombotic recurrence
+R3	increase_side_effect Arg1:TS1220928982 Arg2:T2	
+R4	increase_side_effect Arg1:TS1220928982 Arg2:T3	
+T4	modeadm 833 837	oral

@@ -1,0 +1,55 @@
+TS202248078	drug 0 11	Moclobemide
+TS42248078	drug 110 121	moclobemide
+TS22248078	drug 150 165	antidepressants
+TS82248078	drug 239 250	moclobemide
+TS292248078	sideeffect 315 324	dry mouth
+TS192248078	sideeffect 327 333	tremor
+TS272248078	sideeffect 336 344	sweating
+TS242248078	sideeffect 347 356	dizziness
+TS332248078	sideeffect 361 373	constipation
+TS212248078	drug 444 469	tricyclic antidepressants
+TS32248078	drug 486 497	moclobemide
+TS172248078	drug 641 652	moclobemide
+TS162248078	sideeffect 684 705	Hypertensive episodes
+TS382248078	sideeffect 709 731	food-drug interactions
+TS362248078	drug 764 775	moclobemide
+TS342248078	drug 791 806	antidepressants
+TS302248078	food 854 860	cheese
+TS52248078	sideeffect 881 889	headache
+TS352248078	drug 923 934	moclobemide
+TS282248078	drug 989 1000	moclobemide
+TS252248078	sideeffect 1090 1104	poor tolerance
+TS232248078	drug 1133 1148	tranylcypromine
+TS312248078	drug 1151 1162	nomifensine
+TS72248078	drug 1165 1176	desipramine
+TS142248078	drug 1179 1191	clomipramine
+TS262248078	drug 1194 1207	amitriptyline
+TS182248078	drug 1212 1222	imipramine
+TS222248078	sideeffect 1255 1272	attempted suicide
+TS92248078	drug 1278 1289	moclobemide
+TS152248078	drug 1329 1339	imipramine
+TS122248078	sideeffect 1377 1390	intoxications
+T1	numbers 90 94	2203
+T2	numbers 126 130	1214
+T3	numbers 190 194	2294
+T4	numbers 410 413	681
+T5	numbers 482 485	694
+T6	numbers 749 751	19
+T7	numbers 780 781	5
+R1	has_sideeffect Arg1:TS212248078 Arg2:TS332248078	
+R2	has_sideeffect Arg1:TS212248078 Arg2:TS242248078	
+R3	has_sideeffect Arg1:TS212248078 Arg2:TS272248078	
+R4	has_sideeffect Arg1:TS212248078 Arg2:TS192248078	
+R5	has_sideeffect Arg1:TS212248078 Arg2:TS292248078	
+R6	has_sideeffect Arg1:TS32248078 Arg2:TS292248078	
+R7	has_sideeffect Arg1:TS32248078 Arg2:TS192248078	
+R8	has_sideeffect Arg1:TS32248078 Arg2:TS272248078	
+R9	has_sideeffect Arg1:TS32248078 Arg2:TS242248078	
+R10	has_sideeffect Arg1:TS32248078 Arg2:TS332248078	
+R11	increase_side_effect Arg1:TS302248078 Arg2:TS52248078	
+T8	numbers 984 988	1401
+T9	dosage 1298 1309	950-2000 mg
+T10	dosage 1342 1348	300 mg
+T11	dosage 1353 1360	1200 mg
+R12	has_sideeffect Arg1:TS92248078 Arg2:TS222248078	
+R13	has_sideeffect Arg1:TS152248078 Arg2:TS222248078	

@@ -1,0 +1,11 @@
+Effect of high-dose cranberry juice on the pharmacodynamics of warfarin in patients .
+Case reports suggest an association between cranberry juice and potentiation of warfarin .
+Studies using 240 ml of cranberry juice daily demonstrated no interaction .
+It is unknown if higher amounts of cranberry juice will interact with warfarin .
+Cranberry juice at 240 ml twice daily does not alter the pharmacodynamics of warfarin .
+To determine if high-dose cranberry juice ( 240 ml twice daily ) alters the pharmacodynamic action of warfarin .
+Ten male patients taking stable doses of warfarin were given cranberry juice at 240 ml twice daily for 7 days .
+Prothrombin times were drawn at baseline and days 2 , 6 and 8 after administration of the juice .
+Prothrombin times were averaged for each day and mean times were compared from each study day to baseline using repeated measures ANOVA .
+There was no statistical difference between mean prothrombin time at baseline and any day tested during juice administration .
+Cranberry juice ( 240 ml twice daily for 1 week ) did not alter the pharmacodynamics of warfarin in patients .

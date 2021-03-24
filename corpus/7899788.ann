@@ -1,0 +1,47 @@
+TS127899788	drug 4 16	chemotherapy
+TS267899788	treatedDisease 20 34	onchocerciasis
+TS167899788	drug 67 78	albendazole
+TS187899788	treatedDisease 96 110	onchocerciasis
+TS277899788	food 124 128	food
+TS287899788	drug 151 161	ivermectin
+R1	relation Arg1:TS277899788 Arg2:TS287899788
+TS177899788	drug 300 311	albendazole
+TS87899788	drug 337 347	ivermectin
+TS257899788	treatedDisease 368 382	onchocerciasis
+TS17899788	food 462 472	fatty meal
+TS307899788	drugEffect 489 504	bioavailability
+TS207899788	drug 508 519	albendazole
+TS217899788	drug 572 594	albendazole sulphoxide
+TS237899788	drug 634 644	ivermectin
+TS227899788	drug 700 721	albendazole suphoxide
+R2	relation Arg1:TS17899788 Arg2:TS207899788
+TS137899788	drug 747 758	albendazole
+TS147899788	drug 881 903	albendazole sulphoxide
+TS297899788	drug 1106 1116	ivermectin
+TS57899788	drug 1158 1180	albendazole sulphoxide
+TS247899788	drug 1232 1243	Albendazole
+TS97899788	drug 1301 1311	ivermectin
+TS37899788	food 1488 1503	fatty breakfast
+TS67899788	drugEffect 1544 1559	bioavailability
+TS27899788	drug 1563 1574	albendazole
+TS117899788	drug 1640 1651	albendazole
+TS47899788	food 1670 1674	food
+TS157899788	drug 1796 1806	ivermectin
+TS197899788	treatedDisease 1948 1967	Onchocerca volvulus
+R4	treat Arg1:TS167899788 Arg2:TS187899788	
+T1	drugEffect 648 661	antiparasitic
+T2	dosage 764 770	800 mg
+T3	frequency 773 780	3 daily
+T4	dosage 784 791	1200 mg
+T5	frequency 794 801	3 daily
+T6	drugEffect 825 838	antiparasitic
+R5	has_effect Arg1:TS237899788 Arg2:T1	
+T7	dosage 1074 1080	800 mg
+T8	duration 1286 1294	5-7 days
+R6	positive_effect_on_drug Arg1:TS37899788 Arg2:TS97899788	
+T9	drug 1876 1889	benzimidazole
+T10	drugEffect 1369 1385	macrofilaricidal
+T11	drugEffect 1414 1428	chemosterilant
+R3	improve_drug_effect Arg1:TS37899788 Arg2:T11	
+T12	drugEffect 1897 1913	macrofilaricidal
+T13	drugEffect 1919 1943	permanent chemosterilant

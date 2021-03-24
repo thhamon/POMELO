@@ -1,0 +1,12 @@
+Bioavailability of a co-formulated combination of amodiaquine and artesunate under fed and fasted conditions .
+A randomised , open-label crossover study .
+To assess the effect of food on the pharmacokinetics of the anti-malarial amodiaquine ( AQ , CAS 6398-98-7 ) and artesunate ( AS , CAS 182824-33-5 ) and their active metabolites [desethylamodiaquine ( DSA , CAS 81496-81-3 ) and dihydroartemisinin ( DHA , CAS79352-78-6 ) , respectively] in healthy volunteers .
+In an open , two-way crossover study , 22 healthy male volunteers fasted overnight and were randomised to receive a single oral administration of 4 tablets of a fixed-dose combination containing 135 mg AQ and 50 mg AS in the absence or presence of a standardised high-fat breakfast , administered 30 min before drug administration .
+Blood samples were collected up to Day 10 and AQ , DSA , AS and DHA were assayed by an LC  MS  MS method .
+Relative to the fasting state , the administration of the fixed-dose combination after a high-fat breakfast resulted in delayed median Tmax values for AQ ( 15 min and for DSA ( 2.3 h ) .
+The geometric mean ratios ( GMR ) of fed to fasting conditions indicated increased Cmax values for AQ ( GMR 1.22 ) ( 90% CI: 1.07-1.39 ) and DSA ( GMR 1.21 ) ( 90% CI: 1.05-1.39 ) and increased AUC0-t values for AQ ( GMR 1.59 ) ( 90% CI: 1.39-1.83 ) and for DSA ( GMR 1.13 ) ( 90% CI: 1.04-1.24 ) .
+The median Tmax values were not delayed for AS as opposed to DHA ( approximately 1 h delay ) .
+The Cmax values were decreased for AS ( GMR 0.36 ) ( 90% CI: 0.30-0.47 ) and for DHA ( GMR 0.51 ) ( 90% CI: 0.44-0.60 ) .
+The AUC0-t values were slightly decreased for AS ( GMR 0.89 ) ( 90% CI: 0.74-1.06 ) and for DHA ( GMR 0.93 ) ( 90% CI: 0.84-1.02 ) .
+Intake of AQ and AS with a high fat meal resulted in ( 1 ) a statistically significant increase in blood levels of AQ and DSA which may affect the safety and tolerability of the study drugs and ( 2 ) a decrease in AS and DHA blood levels which may affect efficacy .
+These results suggest that the fixed-dose combination should not be administered with a high-fat meal .

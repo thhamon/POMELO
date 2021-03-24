@@ -1,0 +1,9 @@
+Effect of low- and high-fat meals on tacrolimus absorption following 5 mg single oral doses to healthy human subjects .
+Tacrolimus ( FK506 , Prograf ) is a macrolide lactone antibiotic widely used by the oral route for the prophylaxis of organ rejection in patients who have received allogenic liver or kidney transplants .
+This study investigated the influence of a high- versus a low-fat meal , relative to the fasting state ( three treatments total ) , on the rate and extent of tacrolimus absorption following a single 5 mg oral dose .
+The protocol employed a three-period , randomized , crossover design employing 5 x 1 mg capsules in 15 healthy male nonsmoking , drug-free volunteers , 20 to 45 years of age , who were within 15% of their ideal body weight .
+Food had a clinically significant effect in reducing relative bioavailability , as well as slowing absorption , but did not affect terminal exponential half-life ( approximately 34 hours ) .
+Mean maximum tacrolimus blood concentration ( Cmax ) values were 25.6 , 5.88 , and 9.03 ng  mL for the fasting , high-fat , and low-fat treatments , respectively ; mean area under the blood concentration-time curve ( AUC ( 0-infinity ) values were 272 , 181 , and 201 ( ng  mL ) -h , respectively ; and mean time of Cmax ( tmax ) values were 1.37 , 6.47 , and 3.20 hours , respectively .
+Differences in parameters between the fasting and each fed treatment were statistically significantly different ( p sentinf 0.05 ) .
+Statistically significant differences also existed in tmax between the two meals .
+Results also indicated the safety of single 5 mg oral tacrolimus doses administered to healthy volunteers .

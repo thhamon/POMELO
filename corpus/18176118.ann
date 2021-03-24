@@ -1,0 +1,30 @@
+TS1418176118	food 10 14	food
+TS1918176118	drug 42 51	erlotinib
+TS718176118	drug 64 129	active epidermal growth factor receptor tyrosine-kinase inhibitor
+R1	relation Arg1:TS1418176118 Arg2:TS1918176118
+R2	relation Arg1:TS1418176118 Arg2:TS718176118
+TS1818176118	food 172 176	food
+TS1718176118	drug 204 213	erlotinib
+R3	relation Arg1:TS1818176118 Arg2:TS1718176118
+TS1518176118	drug 329 338	erlotinib
+TS1218176118	mealTime 369 376	fasting
+TS118176118	mealTime 380 383	fed
+TS318176118	mealTime 570 573	fed
+TS218176118	drug 720 729	erlotinib
+TS618176118	mealTime 783 790	fasting
+TS2218176118	food3 803 810	feeding
+TS1618176118	food 864 868	food
+TS918176118	food 1096 1100	food
+TS1318176118	drug 1147 1156	erlotinib
+R4	relation Arg1:TS918176118 Arg2:TS1318176118
+TS418176118	drug 1195 1204	erlotinib
+TS518176118	drug 1251 1260	erlotinib
+TS1118176118	mealTime 1290 1297	fasting
+T1	modeadm 57 63	orally
+T2	dosage 319 325	150 mg
+T3	dosage 710 716	100 mg
+T4	duration 753 763	for 8 days
+T5	frequency 747 752	daily
+T6	drugEffect 1128 1143	plasma exposure
+R5	has_effect Arg1:TS1318176118 Arg2:T6	
+R6	without_food Arg1:TS1118176118 Arg2:TS518176118	

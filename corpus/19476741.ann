@@ -1,0 +1,13 @@
+TS419476741	drug 0 16	Maitake mushroom
+TS1219476741	drug 178 185	maitake
+TS719476741	sideeffect 283 295	interactions
+TS1019476741	sideeffect 298 313	adverse effects
+TS1419476741	sideeffect 722 737	adverse effects
+TS319476741	sideeffect 761 770	lactation
+TS1619476741	sideeffect 773 785	interactions
+TS1119476741	drug 1058 1065	maitake
+TS1519476741	treatedDisease 1190 1196	cancer
+TS119476741	treatedDisease 1199 1207	diabetes
+TS919476741	drug 1276 1292	maitake mushroom
+T1	sideeffect 316 326	toxicology
+T2	drugEffect 1214 1231	immunostimulation

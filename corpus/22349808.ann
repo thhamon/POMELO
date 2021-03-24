@@ -1,0 +1,43 @@
+TS1622349808	drug 150 175	tyrosine kinase inhibitor
+TS922349808	treatedDisease 367 387	early Phase 1 cancer
+TS122349808	treatedDisease 628 634	cancer
+TS1222349808	mealTime 937 952	A high-fat meal
+TS2222349808	mealTime 1046 1052	Fasted
+TS722349808	drug 1272 1275	AUC
+TS1422349808	sideeffect 1675 1681	cancer
+TS2022349808	drug2 1771 1777	lipid-
+T1	drug 48 58	amuvatinib
+T2	drug 119 129	Amuvatinib
+T3	drug 292 302	Amuvatinib
+R3	treat Arg1:T3 Arg2:TS922349808	
+T4	modeadm 308 335	dry-powder capsules ( DPC )
+T5	numbers 689 691	58
+T6	drug 742 752	amuvatinib
+T7	modeadm 753 756	DPC
+T8	drug 805 815	amuvatinib
+T9	modeadm 816 819	DPC
+T10	sideeffect 718 729	food-effect
+T11	modeadm 829 869	lipid- lipid-suspension capsules ( LSC )
+T12	drug 920 930	amuvatinib
+T13	modeadm 931 934	LSC
+T14	drug 971 981	amuvatinib
+T15	modeadm 982 985	DPC
+T16	food 937 947	A high-fat
+R1	increase_absorption Arg1:T16 Arg2:T14	
+T17	drug 1126 1136	amuvatinib
+T18	drug 1190 1200	amuvatinib
+T19	modeadm 1201 1204	LSC
+T20	drug 1290 1300	amuvatinib
+T21	modeadm 1301 1304	DPC
+T22	drug 1349 1359	amuvatinib
+T23	modeadm 1360 1363	LSC
+T24	dosage 1364 1370	300 mg
+T25	frequency 1384 1393	every 8 h
+T26	sideeffect 1601 1614	adverse event
+T27	drug 1617 1627	Amuvatinib
+T28	modeadm 1628 1631	LSC
+T29	dosage 1634 1640	300 mg
+T30	frequency 1641 1650	every 8 h
+T31	drug 1750 1760	amuvatinib
+T32	modeadm 1761 1764	DPC
+T33	modeadm 1776 1799	lipid-based formulation

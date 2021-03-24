@@ -1,0 +1,45 @@
+TS3517919554	sideeffect 0 11	Interaction
+TS2017919554	drug 20 28	warfarin
+TS3917919554	food 33 48	cranberry juice
+TS817919554	drug 51 59	Warfarin
+TS3017919554	treatedDisease 97 118	thromboembolic events
+TS3417919554	food 121 136	Cranberry juice
+TS717919554	sideeffect 167 178	interaction
+TS3317919554	drug 184 192	warfarin
+R1	relation Arg1:TS3417919554 Arg2:TS3317919554
+TS4817919554	drug 243 252	warfarin-
+TS2617919554	sideeffect 269 280	interaction
+TS2817919554	drug 319 327	warfarin
+TS2317919554	treatedDisease 364 383	atrial fibrillation
+TS1317919554	food 578 587	cranberry
+TS917919554	food 589 600	apple juice
+TS4317919554	food 670 685	cranberry juice
+TS1117919554	drug 704 712	warfarin
+TS1217919554	drug 748 756	warfarin
+R2	relation Arg1:TS4317919554 Arg2:TS1117919554
+R3	relation Arg1:TS4317919554 Arg2:TS1217919554
+TS2417919554	sideeffect 855 892	warfarin-cranberry juice interactions
+TS417919554	food 986 1001	cranberry juice
+TS317919554	drug 1031 1039	warfarin
+TS2917919554	sideeffect 1082 1090	bleeding
+R4	improve_drug_effect Arg1:TS417919554 Arg2:TS317919554
+TS3217919554	food 1162 1177	cranberry juice
+TS1817919554	sideeffect 1317 1328	interaction
+TS4517919554	drug 1337 1345	warfarin
+TS4217919554	food 1350 1365	cranberry juice
+TS1517919554	drug 1419 1433	anticoagulants
+TS1917919554	sideeffect 1453 1464	interaction
+R5	relation Arg1:TS4217919554 Arg2:TS1517919554
+TS2117919554	drug 1498 1506	warfarin
+TS517919554	food 1526 1541	cranberry juice
+TS4017919554	sideeffect 1607 1615	bleeding
+R6	treat Arg1:TS817919554 Arg2:TS3017919554	
+T1	food 253 268	cranberry juice
+R7	negative_effect_on_drug Arg1:T1 Arg2:TS4817919554	
+R9	increase_side_effect Arg1:T1 Arg2:TS2617919554	
+T2	dosage 354 359	45 mg
+T3	duration 718 728	for 5 days
+T4	dosage 783 788	40 mg
+R8	has_sideeffect Arg1:TS317919554 Arg2:TS2917919554	
+R10	increase_side_effect Arg1:TS417919554 Arg2:TS2917919554	
+R11	relation Arg1:TS517919554 Arg2:TS2117919554	

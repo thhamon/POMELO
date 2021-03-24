@@ -1,0 +1,28 @@
+TS2622124880	food 73 89	grapefruit juice
+TS922124880	drug 93 102	aliskiren
+R1	relation Arg1:TS2622124880 Arg2:TS922124880
+TS3122124880	sideeffect 188 199	interaction
+TS1022124880	drug 208 217	aliskiren
+TS522124880	food 222 238	grapefruit juice
+TS1622124880	drug 308 317	aliskiren
+TS1922124880	food 385 390	water
+TS222124880	food 394 410	grapefruit juice
+TS1322124880	drug 650 659	aliskiren
+TS3222124880	drug 700 709	aliskiren
+TS822124880	food 715 731	grapefruit juice
+TS3322124880	drug 770 779	aliskiren
+R2	decrease_absorption Arg1:TS822124880 Arg2:TS3322124880
+TS3022124880	drug 1033 1045	atorvastatin
+TS3622124880	drug 1146 1155	aliskiren
+TS3722124880	drug 1077 1091	[¹⁴C]aliskiren
+TS3822124880	drug 1141 1155	[¹⁴C]aliskiren
+TS3522124880	drug 1164 1176	fexofenadine
+TS2122124880	drug 1235 1243	naringin
+TS322124880	food 1340 1356	Grapefruit juice
+TS2222124880	drug 1379 1388	aliskiren
+R4	decrease_absorption Arg1:TS322124880 Arg2:TS2222124880
+T1	sideeffect 11 29	OATP1A2 inhibition
+R5	relation Arg1:TS522124880 Arg2:TS1022124880	
+T2	dosage 318 324	300 mg
+T3	sideeffect 1403 1436	inhibition of intestinal OATP1A2.
+R3	increase_side_effect Arg1:TS322124880 Arg2:T3	

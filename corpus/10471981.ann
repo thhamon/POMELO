@@ -1,0 +1,42 @@
+TS110471981	mealTime 10 14	meal
+TS2810471981	drug 63 72	tegaserod
+TS1710471981	drug 153 162	tegaserod
+TS910471981	mealTime 219 225	a meal
+TS2310471981	drug 383 392	tegaserod
+TS2910471981	food 470 474	fat-
+TS510471981	mealTime 484 493	breakfast
+TS2410471981	drug 564 573	tegaserod
+TS2110471981	drug 850 859	tegaserod
+TS610471981	mealTime 893 896	fed
+TS3010471981	mealTime 924 930	fasted
+TS1210471981	drug 1038 1047	tegaserod
+TS1410471981	mealTime 1064 1067	fed
+TS310471981	drug 1139 1148	tegaserod
+TS3210471981	mealTime 1197 1203	fasted
+TS1510471981	mealTime 1208 1211	fed
+TS2010471981	drug 1229 1238	tegaserod
+TS2510471981	drugEffect 1419 1434	bioavailability
+TS1010471981	drug 1438 1447	tegaserod
+TS2210471981	mealTime 1454 1457	fed
+TS2610471981	food 1639 1643	food
+TS1310471981	drug 1707 1716	tegaserod
+TS2710471981	food 1741 1745	food
+T1	drug 75 82	HTF 919
+T2	drug 165 172	HTF 919
+R3	relation Arg1:TS110471981 Arg2:TS2810471981	
+R4	relation Arg1:TS910471981 Arg2:TS1710471981	
+T3	dosage 364 369	12 mg
+T4	mealTime 413 435	30 or 15 minutes prior
+T5	food 456 493	600-calorie , fat- fat-rich breakfast
+R5	before Arg1:T4 Arg2:TS2310471981	
+T6	dosage 545 550	12 mg
+T7	modeadm 370 374	oral
+T8	modeadm 551 555	oral
+T9	mealTime 574 589;608 625	1 minute before the start of meal
+T10	mealTime 592 625	2.5 hours after the start of meal
+R6	decrease_absorption Arg1:TS610471981 Arg2:TS2110471981	
+R7	has_effect Arg1:TS1010471981 Arg2:TS2510471981	
+R8	decrease_absorption Arg1:TS2210471981 Arg2:TS1010471981	
+T11	mealTime 1607 1643	the timing of administration of food
+R1	relation Arg1:T11 Arg2:TS1310471981	
+R2	decrease_absorption Arg1:TS2710471981 Arg2:TS1310471981	

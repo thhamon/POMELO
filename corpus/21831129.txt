@@ -1,0 +1,6 @@
+Anticoagulant management in the cardiovascular setting .
+Vitamin K antagonists have been used as oral anticoagulants ( OACs ) for over five decades , yet their use in real-world practice is problematic primarily because of their narrow therapeutic window , exacerbated by extensive food and drug interactions , necessitating regular coagulation monitoring and dose adjustment .
+Around half of patients receiving warfarin are within the therapeutic range , exposing them to the dangers of under-anticoagulation ( i.e. thrombosis formation ) or over-anticoagulation ( i.e. bleeding ) .
+A new generation of OACs with improved pharmacology promises to revolutionize antithrombotic management .
+Rivaroxaban , apixaban ( both oral direct Factor Xa inhibitors ) and dabigatran ( a direct thrombin inhibitor ) all exhibit predictable anticoagulant responses and few drug-drug interactions and do not require routine coagulation monitoring .
+bigasentc 2011 The Author Fundamental and Clinical Pharmacology bigasentc 2011 SociÃsentctÃsentc FranÃ§aise de Pharmacologie et de ThÃsentcrapeutique .

@@ -1,0 +1,68 @@
+TS1422020317	food 10 14	food
+TS1622020317	drug 21 42	proton pump inhibitor
+TS1322020317	treatedDisease 137 149	solid tumors
+TS1222020317	food 306 310	food
+TS2322020317	drug 395 406	metabolites
+TS622020317	drug 443 464	proton pump inhibitor
+R2	relation Arg1:TS1222020317 Arg2:TS2322020317
+TS222020317	mealTime 589 592	fed
+TS2122020317	mealTime 596 603	fasting
+TS322020317	mealTime 655 658	fed
+TS122020317	mealTime 880 883	fed
+TS1722020317	mealTime 945 952	fasting
+TS522020317	mealTime 1035 1038	fed
+TS1822020317	mealTime 1046 1053	fasting
+TS722020317	food 1107 1111	food
+TS822020317	food 1141 1145	food
+TS1122020317	drugEffect 1225 1240	bioavailability
+TS1022020317	mealTime 1274 1277	fed
+TS922020317	mealTime 1290 1297	fasting
+TS422020317	drugEffect 1326 1341	bioavailability
+TS1922020317	mealTime 1383 1390	fasting
+T1	drug 70 73	S-1
+T2	modeadm 84 88	oral
+T3	drug 107 110	S-1
+R1	treat Arg1:T3 Arg2:TS1322020317	
+R3	relation Arg1:TS1422020317 Arg2:T1	
+T4	drug 172 188	fluoropyrimidine
+T5	modeadm 167 171	oral
+T6	drug 152 155	S-1
+T7	drug 226 235	gimeracil
+T8	drug 249 267	oteracil potassium
+T9	drug 238 242	CDHP
+T10	drug 270 273	Oxo
+T11	drug 353 356	Oxo
+T12	drug 379 382	S-1
+R4	relation Arg1:TS1222020317 Arg2:T11	
+T13	drugEffect 420 439	gastric pH adjusted
+R5	has_effect Arg1:TS622020317 Arg2:T13	
+T14	drug 467 470	PPI
+T15	drug 501 504	PPI
+T16	drug 523 526	S-1
+T17	dosage 530 535	30 mg
+T18	frequency 545 556	twice daily
+T19	modeadm 557 563	orally
+T20	mealTime 646 653	fasting
+T21	numbers 742 744	55
+T22	numbers 764 766	27
+T23	drug 870 873	S-1
+T24	drug 929 932	Oxo
+R6	increase_absorption Arg1:TS122020317 Arg2:T24	
+T25	drug 1015 1019	CDHP
+T26	drug 1024 1028	5-FU
+T27	drug 202 204	FT
+T28	drug 1076 1078	FT
+R7	no_effect_on_drug Arg1:TS722020317 Arg2:T28	
+R8	no_effect_on_drug Arg1:TS522020317 Arg2:T25	
+R9	no_effect_on_drug Arg1:TS522020317 Arg2:T26	
+R10	no_effect_on_drug Arg1:TS1822020317 Arg2:T25	
+R11	no_effect_on_drug Arg1:TS1822020317 Arg2:T26	
+T29	drug 1155 1158	PPI
+T30	drug 1188 1191	S-1
+T31	drug 1243 1246	Oxo
+R12	decrease_absorption Arg1:TS1022020317 Arg2:T31	
+R13	increase_absorption Arg1:TS922020317 Arg2:T31	
+T32	drug 1345 1348	S-1
+R14	has_effect Arg1:T32 Arg2:TS422020317	
+T33	drug 1373 1376	S-1
+R15	increase_absorption Arg1:TS1922020317 Arg2:T33	

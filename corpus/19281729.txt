@@ -1,0 +1,11 @@
+Bioequivalence study of a new oral topotecan formulation , relative to the current topotecan formulation , in patients with advanced solid tumors .
+The aims of this study were to investigate the bioequivalence of a new oral topotecan formulation ( i.e i.e. , proposed commercial formulation ) relative to the current oral formulation ( formulation used in previous clinical trials ) , the effect of food on the absorption and disposition of the new oral topotecan and its safety and tolerability in patients with advanced solid tumors .
+This was a multi-center , pharmacological Phase I , multiple-dose , randomized , open-label , cross-over bioequivalence study .
+In the bioequivalence part , 85 patients were randomized to receive either a 4 mg ( 4 x 1 mg ) dose of the new or current formulation on Days 1 or 8. .
+In the food- food-effect part , 23 patients received a 4 mg ( 4 x 1 mg ) dose of the new formulation in a fasted and fed state .
+Total topotecan and topotecan lactone were determined and pharmacokinetic data were analyzed by non-compartmental method .
+Bioequivalence was demonstrated as the 90% confidence intervals of the ratio of the new to current formulation for both the area under the plasma concentration-time curve ( AUC ) and the maximal drug concentration ( Cmax ) for topotecan lactone were contained within the 0.8 - 1.25 boundary .
+The AUC and Cmax were similar in the fed and fasted state whilst food delayed the tmax for topotecan lactone and total topotecan .
+Safety data were collected on all subjects enrolled ( n = 108 ) and were consistent with observations from previous studies of oral topotecan .
+All subjects experienced at least one adverse event , the majority of which were graded as mild to moderate in severity .
+The new oral topotecan formulation demonstrated bioequivalence to the current formulation and demonstrated it can be administered to patients with solid tumors in the fed or fasted state with similar systemic exposure .

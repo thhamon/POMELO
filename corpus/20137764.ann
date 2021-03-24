@@ -1,0 +1,61 @@
+TS2020137764	food 14 18	food
+TS920137764	food 32 35	fat
+TS3420137764	drug 80 90	gabapentin
+TS1520137764	drug 120 140	gabapentin enacarbil
+R1	relation Arg1:TS2020137764 Arg2:TS3420137764
+R2	relation Arg1:TS920137764 Arg2:TS3420137764
+TS5020137764	drug 143 163	Gabapentin enacarbil
+TS4320137764	drug 201 211	gabapentin
+TS4420137764	drug 267 277	gabapentin
+TS5420137764	food 306 310	food
+TS5320137764	food 322 325	fat
+TS6220137764	drug 378 398	gabapentin enacarbil
+R4	relation Arg1:TS5420137764 Arg2:TS6220137764
+R5	relation Arg1:TS5320137764 Arg2:TS6220137764
+TS2620137764	drug 493 513	gabapentin enacarbil
+TS7020137764	mealTime 574 580	fasted
+TS220137764	food 651 654	fat
+TS6620137764	food 659 671	moderate-fat
+TS420137764	food 720 723	fat
+TS6020137764	food 729 743	high-fat meals
+TS620137764	food 790 793	fat
+TS2720137764	drugEffect 1039 1054	bioavailability
+TS2120137764	drug 1088 1098	gabapentin
+TS4120137764	drug 1104 1124	gabapentin enacarbil
+TS6720137764	mealTime 1146 1152	fasted
+TS7120137764	food 1175 1187	low-fat meal
+TS7420137764	food 1210 1222	moderate-fat
+TS3720137764	mealTime 1223 1227	meal
+TS7720137764	food 1254 1267	high-fat meal
+TS3920137764	drug 1272 1282	Gabapentin
+TS4920137764	mealTime 1312 1315	fed
+TS7820137764	mealTime 1338 1350	low-fat meal
+TS7920137764	food 1361 1373	moderate-fat
+TS5820137764	mealTime 1374 1378	meal
+TS6920137764	mealTime 1393 1406	high-fat meal
+TS7320137764	mealTime 1441 1447	fasted
+TS720137764	drug 1546 1566	gabapentin enacarbil
+TS1020137764	food 1617 1625;1631 1645	moderate high-fat meals
+TS7220137764	mealTime 1664 1670	fasted
+TS7620137764	mealTime 1680 1692	low-fat meal
+TS3020137764	sideeffect 1771 1780	dizziness
+TS2320137764	sideeffect 1798 1814	balance disorder
+TS6120137764	sideeffect 1834 1844	somnolence
+TS2420137764	drug 1924 1944	gabapentin enacarbil
+TS6320137764	food 1950 1954	food
+TS1720137764	drug 1964 1974	gabapentin
+TS5520137764	mealTime 1998 2015	fasted conditions
+TS2820137764	food 2036 2039	fat
+TS2520137764	drug 2065 2085	gabapentin enacarbil
+R6	increase_absorption Arg1:TS6320137764 Arg2:TS1720137764
+R7	relation Arg1:TS2820137764 Arg2:TS2520137764
+T1	modeadm 97 101	oral
+T2	dosage 486 492	200 mg
+T3	food 596 603	low-fat
+T4	food 1338 1345	low-fat
+T5	food 1393 1401	high-fat
+T6	food 1680 1687	low-fat
+T7	sideeffect 1722 1755	treatment-emergent adverse events
+T8	sideeffect 1758 1763	TEAEs
+T9	sideeffect 1866 1871	TEAEs
+R3	relation Arg1:TS5520137764 Arg2:TS1720137764	

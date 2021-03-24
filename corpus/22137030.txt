@@ -1,0 +1,11 @@
+Prevention of liver ischemia reperfusion injury by a combined thyroid hormone and fish oil protocol .
+Several preconditioning strategies are used to prevent ischemia- ischemia-reperfusion ( IR ) liver injury , a deleterious condition associated with tissue resection , transplantation or trauma .
+Although thyroid hormone ( Tâ ) administration exerts significant protection against liver IR injury in the rat , its clinical application is controversial due to possible adverse effects .
+Considering that prevention of liver IR injury has also been achieved by n-3 polyunsaturated fatty acid ( n-3 PUFA ) supplementation to rats , we studied the effect of n-3 PUFA dietary supplementation plus a lower dose of Tâ against IR injury .
+Male Sprague-Dawley rats receiving fish oil ( 300 mg  kg ) for 3 days followed by a single intraperitoneal dose of 0.05 mg Tâ  kg were subjected to 1 h of ischemia followed by 20 h of reperfusion .
+Parameters of liver injury ( serum transaminases , histology ) and oxidative stress ( liver contents of GSH and oxidized proteins ) were correlated with fatty acid composition , NF-ÎºB activity , and tumor necrosis factor-Îsentpleq ( TNF-Îsentpleq ) and haptoglobin expression .
+IR significantly modified liver histology ; enhanced serum transaminases , TNF-Îsentpleq response or liver oxidative stress ; and decreased liver NF-ÎºB activity and haptoglobin expression .
+Although IR injury was not prevented by either n-3 PUFA supplementation or Tâ administration , substantial decrease in liver injury and oxidative stress was achieved by the combined protocol , which also led to increased liver n-3 PUFA content and decreased n-6  n-3 PUFA ratios , with recovery of NF-ÎºB activity and TNF-Îsentpleq and haptoglobin expression .
+Prevention of liver IR injury achieved by a combined protocol of Tâ and n-3 PUFA supplementation may represent a novel noninvasive preconditioning strategy with potential clinical application .
+Copyright bigasentc 2012 Elsevier Inc. .
+All rights reserved .

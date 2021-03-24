@@ -1,0 +1,7 @@
+The temporal effect of food on tacrine bioavailability .
+A four-way cross-over study was performed to assess the temporal effect of food on the rate and extent of tacrine ( Cognex , THA ) absorption after drug administration to healthy , older volunteers .
+Each volunteer received four single 40-mg THA doses at 1-week intervals .
+Doses were administered after an 8-hour overnight fast , 1 hour before a standard breakfast , 15 minutes after beginning a standard breakfast , and 2 hours after completion of a standard breakfast .
+Gastrointestinal side effects were most frequently reported after drug administration to fasted subjects .
+Mean Cmax and AUC ( 0-infinity ) values after THA administration during breakfast ( 9.9 ng  mL and 70.2 ng.hr  mL ) and 2 hours after breakfast ( 11.6 ng  mL and 74.2 ng.hour-1.mL-1 ) were significantly lower than values determined after administration of THA to fasting subjects ( 15.8 ng  mL , and 91.8 ng.hour-1.mL-1 ) .
+Little effect was evident when THA was administered 1 hour before breakfast .

@@ -1,0 +1,16 @@
+[Influence of mineral water on absorption of oral alendronate in rats]. .
+Alendronate , an oral bisphosphonate ( e.g e.g. , Fosamax ( bigasentr ) ) , is effective in the treatment of osteoporosis , and the Fosamax ( bigasentr ) package insert advises that the bioavailability is reduced when taken with mineral water containing high levels of metal cations ( Ca ( 2+ ) , Mg ( 2+ ) , etc. ) .
+However , standards regarding the water used when taking alendronate are unclear .
+In this study , the influence of mineral water on the absorption of oral alendronate was investigated based on urinary excretion of its unchanged form in rats .
+Alendronate was diluted in each water sample and administered orally ( 0.7 mg  kg ) to male Wistar rats after 24-hour fast .
+Urine samples were collected until 24 h after dosing .
+Urine samples were alkalinized , and alendronate in urine was precipitated as a calcium salt , followed by loading on an anion exchange cartridge .
+Eluted alendronate was derivatized with 9-fluorenylmethoxycarbonyl ( Fmoc ) chloride and determined by HPLC with fluorescent detection .
+Cumulative urinary excretion recoveries of alendronate were calculated from the amounts of urinary excretion .
+Alendronate was rapidly excreted in the first 6 h , and similar elimination rate constants were seen ( from 0.28 to 0.45 h ( -1  2 ) ) among the water samples .
+Cumulative urinary excretion recoveries with tap water , evian ( bigasentr ) and 100% deep ocean water were 0.98bigasentpleq0.17% , 0.80bigasentpleq0.18% and 1.01bigasentpleq0.16% ( meanbigasentpleqS .
+E. .
+, n=4 ) .
+Those with Contrex ( bigasentr ) ( 0.33bigasentpleq0.07% ) were significantly lower when compared with ultrapure water ( 1.56bigasentpleq0.35% , psentinf0.01 ) .
+These findings suggest that the absorption of alendronate decreases based on the calcium concentration of mineral water .
+In conclusion , mineral water containing high levels of calcium is not recommended when alendronate is taken .

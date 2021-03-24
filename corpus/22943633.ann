@@ -1,0 +1,44 @@
+TS2822943633	food 10 25	blueberry juice
+TS622943633	drug 42 51	buspirone
+TS2022943633	drug 56 68	flurbiprofen
+R1	relation Arg1:TS2822943633 Arg2:TS622943633
+R2	relation Arg1:TS2822943633 Arg2:TS2022943633
+TS4322943633	sideeffect 138 155	drug interactions
+TS2322943633	food 166 189	blueberry juice ( BBJ )
+TS2122943633	sideeffect 369 396;458 480	inhibitor of CYP3A activity and of CYP2C9 activity
+TS1422943633	drug 416 425	triazolam
+TS722943633	drug 446 455	buspirone
+TS3822943633	drug 483 495	flurbiprofen
+TS1522943633	drug 583 592	buspirone
+TS2222943633	drug 602 614	flurbiprofen
+TS822943633	food 873 889	Grapefruit juice
+R4	increase_side_effect Arg1:TS822943633 Arg2:T6
+TS3222943633	drug 1161 1170	buspirone
+TS422943633	food 1239 1244	water
+TS922943633	drug 1344 1356	flurbiprofen
+TS1322943633	drug 1411 1422	fluconazole
+TS1022943633	drug 1447 1459	flurbiprofen
+TS1922943633	drug 1546 1555	buspirone
+TS1622943633	drug 1661 1673	flurbiprofen
+TS4222943633	sideeffect 1767 1784	drug interactions
+T1	food 892 895	GFJ
+T2	food 336 339	BBJ
+R3	increase_side_effect Arg1:T2 Arg2:TS2122943633	
+R5	slow_elimination Arg1:T2 Arg2:TS1422943633	
+R6	slow_elimination Arg1:T2 Arg2:TS722943633	
+R7	slow_elimination Arg1:T2 Arg2:TS3822943633	
+T3	food 684 687	BBJ
+T4	food 690 693	BBJ
+T5	sideeffect 694 729	inhibited CYP3A and CYP2C9 activity
+T6	sideeffect 903 927	inhibited CYP3A activity
+R8	increase_side_effect Arg1:T4 Arg2:T5	
+T7	food 1054 1057	GFJ
+R9	slow_absorption Arg1:T7 Arg2:TS3222943633	
+T8	food 1215 1218	GFJ
+T9	food 1485 1488	BBJ
+T10	food 1576 1579	BBJ
+R10	relation Arg1:T10 Arg2:TS1922943633	
+T11	food 1640 1643	BBJ
+R11	no_effect_on_drug Arg1:T11 Arg2:TS1622943633	
+T12	food 1788 1791	BBJ
+R12	increase_side_effect Arg1:T12 Arg2:TS4222943633	

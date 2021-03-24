@@ -1,0 +1,17 @@
+A randomized , open-label , crossover study evaluating the effect of food on the relative bioavailability of linagliptin in healthy subjects .
+The objective of this study was to determine the relative bioavailability of the dipeptidyl-peptidase- dipeptidyl-peptidase-4 ( DPP-4 ) inhibitor linagliptin when administered with and without food , in accordance with regulatory requirements to support dosing recommendations for patients .
+This was a randomized , open-label , crossover study involving 32 healthy white male and female subjects .
+All subjects received a single dose of 5 mg linagliptin after an overnight fast of at least 10 hours , or immediately after ingestion of a high-fat , high-calorie breakfast .
+These treatments were separated by a period of 5 weeks .
+Plasma samples for pharmacokinetic analysis were collected before dosing and at prespecified time points after dosing .
+The concentration of linagliptin in these samples was analyzed by high-performance liquid chromatography coupled to tandem mass spectrometry .
+Relative bioavailability was assessed by the total area under the curve between 0 and 72 hours ( AUC ( 0-72 ) ) and maximum measured plasma concentration ( C ( max ) ) of linagliptin .
+Tolerability was also assessed .
+In 32 subjects ( mean age , 34.8 years ; weight , 74.3 kg ; male , 53% ; white race , 100% ) , intake of a high-fat meal resulted in comparable bioavailability with regard to AUC ( 0-72 ) ( geometric mean ratio [GMR] between the fed and fasted group means was 103.5% ; 90% CI , 98.1%-109.2% ) .
+Individuals' responses to food ranged from a maximum increase in exposure of 38% to a decrease of 32% relative to the fasted state .
+The concurrent intake of food increased the time to reach maximum plasma concentration ( T ( max ) ) by approximately 2 hours and reduced C ( max ) by about 15% ( GMR 84.7% ; 90% CI , 75.9%-94.6% ) .
+Since adequate drug exposure for inhibition of DPP-4 was still given for the entire 24-hour dosing interval , this result was considered to be of no clinical relevance .
+Linagliptin was well tolerated during the study .
+Intake of a high-fat meal reduced the rate of linagliptin absorption but had no influence on the extent of absorption ; this finding suggests that food has no relevant influence on the efficacy of linagliptin .
+Copyright bigasentc 2011 Elsevier HS Journals , Inc. .
+All rights reserved .

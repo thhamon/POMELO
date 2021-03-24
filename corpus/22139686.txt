@@ -1,0 +1,9 @@
+Role of transporters in drug interactions .
+Over the past few decades , a tremendous amount of work has been done on the molecular characterization of transport proteins in animals and humans , leading to a better understanding of the physiological roles of a number of transport proteins .
+Furthermore , there is increasing preclinical and clinical evidence to support the importance of transport proteins in the pharmacokinetics and toxicokinetics of a wide variety of structurally diverse drugs .
+As a consequence , the degree of expression and functionality of transport proteins may directly affect the therapeutic effectiveness , safety and target specificity of drugs .
+Recently , there has also been increased awareness about potential drug-drug , drug-herb and drug-food food interactions involving transporters .
+Traditionally , a change in metabolic clearance of a drug , particularly via cytochrome P450-mediated metabolism , has been considered the cause of many clinically important drug interactions .
+However , increasing evidence suggests that some drug interactions result from changes in the activity and  or expression of drug transporters .
+Accordingly , assessment of the clinical relevance of transporter-mediated drug interactions has become a regulatory issue during the drug approval process and also the evaluation of drug interaction potential has become an integral part of risk assessment during drug development processes .
+Therefore , this review will highlight the role of some selected drug transporters in drug interactions , as well as their clinical implication .

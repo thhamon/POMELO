@@ -1,0 +1,13 @@
+The effect of food on the absorption of oral ziprasidone .
+Oral ziprasidone bioavailability is increased when taken with food .
+Here we describe two pharmacokinetic studies to quantify the impact of food on ziprasidone absorption in healthy volunteers .
+The first , an open-label , six-way crossover study , investigated ziprasidone absorption in eight healthy men .
+Subjects received oral ziprasidone ( 20 , 40 , and 80 mg ) after an 8-hour fast or immediately following a US Food and Drug Administration standard meal ( 50% fat ) .
+In this study , area under the serum concentration- time curve ( AUC ) was greater in fed than in fasting states at each dose ( 20 mg , +48% ; 40 mg , +87% ; 80 mg , +101% ) .
+Under fasting conditions , increases in AUC and maximum drug concentration ( Cmax ) were less than dose-proportional ; under fed conditions , they were dose-proportional .
+The second , an open-label , randomized , three-way crossover study , explored the impact of dietary fat on ziprasidone absorption in 14 healthy subjects .
+Subjects received ziprasidone ( 40 mg ) under three conditions: fasting , with a high-fat meal ( 60% fat ) , and with a moderate-fat ( 30% fat ) meal .
+AUC and Cmax under fed conditions increased by 104% and 84% ( 60%-fat meal ) and 79% and 98% ( 30%-fat meal ) , respectively , relative to the fasting state .
+There was no clear difference in ziprasidone bioavailability between the fed groups , suggesting that meal fat content is not a major determinant of bioavailability .
+Less pharmacokinetic variability was observed in the fed state , suggesting more consistent absorption of ziprasidone .
+These results demonstrate that administration of ziprasidone with food is crucial to ensure optimal , reliable dose-dependent bioavailability and thus predictable symptom control and tolerability .

@@ -1,0 +1,5 @@
+TS417530235	drug 0 10	Tacrolimus
+TS317530235	food 52 62	grapefruit
+TS217530235	food 66 82	orange marmalade
+R1	negative_effect_on_drug Arg1:TS317530235 Arg2:TS417530235	
+R2	negative_effect_on_drug Arg1:TS217530235 Arg2:TS417530235	

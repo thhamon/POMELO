@@ -1,0 +1,35 @@
+TS3321142260	sideeffect 0 30	Grapefruit- -drug interactions
+TS1621142260	food 33 49	Grapefruit juice
+TS921142260	food 54 64	grapefruit
+TS1121142260	sideeffect 165 177	interactions
+TS2621142260	drug 209 233	calcium channel blockers
+TS2221142260	drug 236 254	immunosuppressants
+TS2421142260	drug 259 273	antihistamines
+R1	relation Arg1:TS1621142260 Arg2:TS2621142260
+TS621142260	sideeffect 312 324	interactions
+TS1021142260	drugEffect 441 456	bioavailability
+TS1221142260	food 507 517	Grapefruit
+TS2521142260	sideeffect 558 570	interactions
+TS521142260	sideeffect 800 812	interactions
+TS2921142260	sideeffect 852 864	interactions
+TS421142260	food 946 956	grapefruit
+TS1321142260	food2 981 986	juice
+TS2321142260	sideeffect 1139 1175	grapefruit product-drug interactions
+TS2821142260	sideeffect 1263 1275	interactions
+TS121142260	sideeffect 1312 1320	toxicity
+TS1421142260	sideeffect 1429 1457	grapefruit-drug interactions
+R6	relation Arg1:TS921142260 Arg2:TS2621142260	
+R7	relation Arg1:TS921142260 Arg2:TS2421142260	
+R8	relation Arg1:TS921142260 Arg2:TS2221142260	
+R9	relation Arg1:TS1621142260 Arg2:TS2421142260	
+R10	relation Arg1:TS1621142260 Arg2:TS2221142260	
+T1	sideeffect 357 398	intestinal cytochrome P450 3A4 inhibition
+T2	drug 402 417	furanocoumarins
+R2	has_sideeffect Arg1:T2 Arg2:T1	
+T3	drug 725 735	flavonoids
+R3	has_sideeffect Arg1:T3 Arg2:TS521142260	
+T4	drug 908 923	furanocoumarins
+T5	drug 928 938	flavonoids
+R4	has_sideeffect Arg1:T4 Arg2:TS2921142260	
+R11	has_sideeffect Arg1:T5 Arg2:TS2921142260	
+R5	increase_side_effect Arg1:TS421142260 Arg2:TS2921142260	

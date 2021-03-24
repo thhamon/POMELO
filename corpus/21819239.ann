@@ -1,0 +1,24 @@
+TS521819239	drug 20 34	anticoagulants
+TS1821819239	drug 98 105	heparin
+TS1621819239	drug 178 192	anticoagulants
+TS721819239	drug 212 220	warfarin
+TS1721819239	drug 258 272	anticoagulants
+TS821819239	drug 279 287	warfarin
+TS1221819239	drug 405 413	Warfarin
+TS1921819239	drug 433 442	coumarins
+TS1121819239	sideeffect 587 602	adverse effects
+TS221819239	sideeffect 623 640	food interactions
+TS921819239	drug 730 744	anticoagulants
+TS421819239	treatedDisease 799 809	thrombosis
+TS1321819239	drug 898 911	anticoagulant
+TS1421819239	drug 1004 1018	anticoagulants
+TS1521819239	drug 1042 1050	warfarin
+TS121819239	drug 1090 1098	warfarin
+TS1021819239	drug 1160 1179	antithrombin agents
+T1	modeadm 253 257	oral
+T2	modeadm 725 729	oral
+R1	treat Arg1:TS921819239 Arg2:TS421819239	
+T3	drugEffect 834 848	cardiovascular
+R2	has_effect Arg1:TS921819239 Arg2:T3	
+T4	drugEffect 918 950	Factor Xa and thrombin targeting
+T5	drug 1148 1155;1173 1179	anti-Xa agents

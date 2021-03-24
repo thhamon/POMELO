@@ -1,0 +1,14 @@
+The impact of dietary calcium intake and vitamin D status on the effects of zoledronate .
+We investigated whether baseline dietary calcium intake or vitamin D status modified the effects of zoledronate .
+Neither variable influenced the effect of zoledronate on bone mineral density , bone turnover , or risk of acute phase reaction , suggesting that co-administration of calcium and vitamin D supplements with zoledronate may not always be necessary .
+Calcium and vitamin D supplements are often co-administered with bisphosphonates , but it is unclear whether they are necessary for therapeutic efficacy or minimizing side effects of bisphosphonates .
+We investigated whether baseline dietary calcium intake or vitamin D status modified the effect of zoledronate on bone mineral density ( BMD ) or bone turnover at 1 year , or the risk of acute phase reactions ( APR ) .
+Data were pooled from two trials of zoledronate in postmenopausal women without vitamin D deficiency in which calcium and vitamin D were not routinely administered .
+The cohort ( zoledronate n = 154 , placebo n = 68 ) was divided into subgroups by baseline dietary calcium intake ( sentinf800 vs. .
+≥800 mg  day ) and vitamin D status [25-hydroxyvitamin D ( 25OHD ) sentinf50 vs. .
+≥50 nmol  L , and sentinf75 nmol  L vs. .
+≥75 nmol  L] and treatment × subgroup interactions tested .
+There were 52 , 86 , and 36 % of the zoledronate group and 64 , 94 , and 46 % of the placebo group that had dietary calcium intake ≥800 mg  day , 25OHD ≥50 nmol  L , and 25OHD ≥75 nmol  L , respectively .
+There were no significant interactions between treatment and either baseline dietary calcium or baseline vitamin D status for lumbar spine BMD , total hip BMD , the bone turnover markers P1NP and β-CTx , or the risk of an APR .
+There was also no three-way interaction between baseline dietary calcium intake , baseline vitamin D status , and treatment for any of these variables .
+Baseline dietary calcium intake and vitamin D status did not alter the effects of zoledronate , suggesting that co-administration of calcium and vitamin D with zoledronate may not be necessary for individuals not at risk of marked vitamin D deficiency .

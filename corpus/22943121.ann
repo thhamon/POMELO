@@ -1,0 +1,19 @@
+TS122943121	sideeffect 41 54	heart failure
+TS722943121	drug 171 207	monoamine oxidase ( MAO ) inhibitors
+TS1122943121	sideeffect 271 280;285 294;300 312	drug-drug drug-food interactions
+TS1422943121	food 358 382	tyramine-containing food
+TS1222943121	treatedDisease 577 596	Parkinson's disease
+TS622943121	treatedDisease 779 792	heart failure
+TS222943121	treatedDisease 795 809	renal diseases
+TS322943121	treatedDisease 814 832	multiple sclerosis
+T1	treatedDisease 5 15	depression
+T2	treatedDisease 19 36	neurodegeneration
+T3	drug 94 108	MAO inhibitors
+T4	treatedDisease 158 168	depression
+R1	treat Arg1:TS722943121 Arg2:T4	
+R2	has_sideeffect Arg1:TS722943121 Arg2:TS1122943121	
+T5	sideeffect 389 404	'cheese' effect
+R3	negative_effect_on_drug Arg1:TS1422943121 Arg2:TS722943121	
+T6	drug 427 462	selective MAO-A or MAO-B inhibitors
+T7	treatedDisease 562 572	depression
+T8	drugEffect 674 700	neuroprotective properties

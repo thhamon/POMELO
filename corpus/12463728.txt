@@ -1,0 +1,13 @@
+Effect of dietary fat content in meals on pharmacokinetics of quazepam .
+Dietary fat content in meals has been reported to increase the absorption of several drugs proportionately .
+However , there is no information about the effects of dietary fat in meals on the sedative hypnotic agent quazepam , although limited data suggest that food intake alters quazepam absorption .
+Therefore , the authors measured and compared pharmacokinetic parameters of quazepam taken in a fasted state and taken 30 minutes after consuming meals containing different amounts of dietary fat .
+A three-arm randomized crossover study was conducted .
+Nine healthy male volunteers took a single oral 20-mg dose of quazepam under the following conditions: ( 1 ) after fasting overnight for at least 12 hours , ( 2 ) 30 minutes after consuming a low-fat meal ( two slices of bread and 200 ml of apple juice ) , or ( 3 ) 30 minutes after consuming high-fat meal ( two slices of bread with 30 gm of butter and 200 ml of apple juice ) .
+Plasma concentrations of quazepam and its metabolite , 2-oxoquazepam , were monitored up to 48 hours after the dosing .
+In comparison with corresponding plasma values for quazepam taken in a fasting state , the peak concentrations ( Cmax ) of quazepam taken 30 minutes after consuming a low-fat meal and high-fat meal were 243% ( 90% confidence interval [CI] = 161%-325% ) and 272% ( 90% CI = 190%-355% ) , respectively .
+Area under the plasma concentration-time curve from 0 to 8 hours ( AUC ( 0-8 ) ) and 0 to 48 hours ( AUC ( 0-48 ) ) of quazepam was increased with the low-fat meal by 2-fold ( 90% CI = 1.5- to 2.7-fold ) and 1.4-fold ( 90% CI = 1.0- to 1.7-fold ) , respectively , and with the high-fat meal by 2.2-fold ( 90% CI = 1.3- to 3-fold ) and 1.5-fold ( 90% CI = 0.7- to 2.4-fold ) , respectively .
+The pharmacokinetic change in 2-oxoquazepam to the parent compound was similar .
+Quazepam was well tolerated , with no significant difference in the Stanford Sleepiness Scale between fasted and fed conditions .
+These findings show that food intake has an evident effect on quazepam absorption , but further studies are needed to clarify a determinant factor of this alteration ( 2.5-fold for Cmax and 2.1-fold for AUC ( 0-8 ) , on average ) .
+It might not be necessary to do dose adjustment with meal content because quazepam is well tolerated .

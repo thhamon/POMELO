@@ -1,0 +1,41 @@
+TS209784932	sideeffect 20 32	chronic pain
+TS29784932	drug 73 81	morphine
+TS289784932	drug 139 147	morphine
+TS149784932	drug 241 249	Oramorph
+TS39784932	drug 473 481	morphine
+TS259784932	drug 564 572	morphine
+TS269784932	drug 721 729	morphine
+TS119784932	drug 1041 1049	morphine
+TS59784932	drug 1208 1216	morphine
+TS299784932	drug 1390 1398	morphine
+TS89784932	drug 1553 1561	morphine
+TS219784932	mealTime 1640 1647	fasting
+TS19784932	food 1703 1707	Food
+TS49784932	drug 1768 1776	morphine
+R1	relation Arg1:TS19784932 Arg2:TS49784932
+TS109784932	mealTime 1924 1927	fed
+TS239784932	mealTime 1932 1939	fasting
+TS69784932	drug 2027 2035	morphine
+TS249784932	drug 2219 2227	morphine
+TS229784932	drug 2334 2342	morphine
+TS99784932	drugEffect 2478 2493	bioavailability
+TS159784932	drug 2536 2544	morphine
+TS279784932	drugEffect 2676 2687	pain relief
+TS139784932	sideeffect 2692 2707	adverse effects
+T1	drug 268 275	Kapanol
+T2	drug 278 284	Skenan
+T3	drug 229 238	MS Contin
+T4	modeadm 320 326	Orally
+T5	drug 1120 1129	MS Contin
+T6	drug 1144 1151	Kapanol
+T7	drug 1242 1249	Kapanol
+T8	drug 1409 1416	Kapanol
+T9	frequency 1417 1427	once daily
+T10	drug 1444 1453	MS Contin
+T11	drug 1626 1633	Kapanol
+T12	drug 1971 1980	MS Contin
+T13	modeadm 2012 2020	rectally
+T14	modeadm 2102 2106	oral
+T15	drug 2285 2292	Kapanol
+T16	modeadm 2471 2477	rectal
+T17	modeadm 2433 2444	suppository

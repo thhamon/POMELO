@@ -1,0 +1,8 @@
+Evaluation of the impact of altered lipoprotein binding conditions on halofantrine induced QTc interval prolongation in an anaesthetized rabbit model .
+Halofantrine has been observed to cause QT interval prolongation in susceptible patients and the effect has most commonly been observed after post-prandial administration .
+Halofantrine- Halofantrine-induced QT prolongation occurs in conjunction with a significant increase in plasma halofantrine concentrations and an increase in halofantrine association with post-prandial plasma lipoproteins .
+The increased association of halofantrine with post-prandial lipoproteins is accompanied by a marked change in drug distribution between the different plasma lipoprotein fractions .
+This study was designed to evaluate the putative role of myocardium-based lipoprotein receptor-mediated uptake of lipoproteins as a possible contributing factor to the observed effect of halofantrine on QT intervals .
+The extent of QT interval prolongation following intravenous halofantrine administration ( 10 mg kg ( -1 ) ) to normolipidaemic ( fasted ) or hyperlipidaemic ( induced with Intralipid infusion ) anaesthetized New Zealand White rabbits ( n = 6 ) was determined , as was the distribution of halofantrine between the plasma lipoprotein classes .
+The results , however , were in contrast to the suggested hypothesis since the QT interval was reduced ( and not increased ) after halofantrine administration to hyperlipidaemic rabbits relative to fasted rabbits .
+Therefore , it is unlikely that lipoprotein- lipoprotein-based uptake of halofantrine into the myocardium is a major contributor to the previously observed increase in QT prolongation after post-prandial administration of halofantrine .

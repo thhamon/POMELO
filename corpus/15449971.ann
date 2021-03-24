@@ -1,0 +1,120 @@
+TS1815449971	sideeffect 0 12	Interactions
+TS8415449971	food 21 37	grapefruit juice
+TS7815449971	drug 42 62	cardiovascular drugs
+R1	relation Arg1:TS8415449971 Arg2:TS7815449971
+TS7515449971	food 65 81	Grapefruit juice
+TS5815449971	food 239 255	grapefruit juice
+TS115449971	food 330 335	fruit
+TS3315449971	drugEffect 409 424	bioavailability
+TS2215449971	drugEffect 456 471	bioavailability
+TS5915449971	food2 497 502	juice
+TS11815449971	sideeffect 517 545	Inhibition of P-glycoprotein
+TS4215449971	drugEffect 604 619	bioavailability
+TS9815449971	sideeffect 689 742	inhibition of organic anion transporting polypeptides
+TS4115449971	food 746 762	grapefruit juice
+TS2515449971	drugEffect 847 862	bioavailability
+TS9315449971	treatedDisease 937 960	coronary artery disease
+TS9515449971	food 1036 1052	grapefruit juice
+TS1215449971	sideeffect 1060 1072	interactions
+TS2915449971	sideeffect 1098 1112	rhabdomyolysis
+TS9015449971	treatedDisease 1118 1130	dyslipidemia
+TS4815449971	drug 1180 1192	atorvastatin
+TS2615449971	drug 1195 1205	lovastatin
+TS815449971	drug 1211 1222	simvastatin
+TS6515449971	drug 1258 1269	pravastatin
+TS6015449971	drug 1272 1283	fluvastatin
+TS3715449971	drug 1289 1301	rosuvastatin
+TS5015449971	sideeffect 1309 1321	interactions
+TS11615449971	food 1339 1348	excessive
+TS5215449971	sideeffect 1349 1363	vasodilatation
+TS2415449971	sideeffect 1369 1381	hypertension
+TS4015449971	drug 1402 1418	dihydropyridines
+TS4615449971	drug 1419 1429	felodipine
+TS5615449971	drug 1432 1443	nicardipine
+TS7915449971	drug 1446 1456	nifedipine
+TS515449971	drug 1459 1470	nisoldipine
+TS8915449971	drug 1476 1488	nitrendipine
+R2	relation Arg1:TS11615449971 Arg2:TS4015449971
+TS8815449971	drug 1521 1531	amlodipine
+TS715449971	drugEffect 1552 1570	therapeutic effect
+TS415449971	drug 1578 1619	angiotensin II type 1 receptor antagonist
+TS6815449971	drug 1620 1628	losartan
+TS7615449971	food 1647 1663	grapefruit juice
+TS7215449971	food 1666 1682	Grapefruit juice
+TS615449971	drug 1704 1722	antidiabetic agent
+TS7315449971	drug 1723 1734	repaglinide
+TS7015449971	sideeffect 1745 1757	hypoglycemia
+TS2815449971	sideeffect 1764 1775	interaction
+TS1415449971	drug 1785 1805	appetite suppressant
+R3	relation Arg1:TS7215449971 Arg2:TS615449971
+TS8015449971	treatedDisease 1852 1867	angina pectoris
+TS1515449971	food 1888 1904	grapefruit juice
+TS5515449971	sideeffect 1921 1958	atrioventricular conduction disorders
+TS7115449971	drug 1964 1973	verapamil
+R4	relation Arg1:TS1515449971 Arg2:TS7115449971
+TS7715449971	food 2029 2045	Grapefruit juice
+TS6215449971	sideeffect 2063 2071	toxicity
+TS5115449971	drug 2076 2097	antiarrhythmic agents
+TS3515449971	drug 2106 2116	amiodarone
+TS9415449971	drug 2119 2128	quinidine
+TS2015449971	drug 2131 2143	disopyramide
+TS8515449971	drug 2149 2160	propafenone
+TS10215449971	treatedDisease 2175 2199	congestive heart failure
+TS1915449971	drug 2207 2216	carvediol
+R5	relation Arg1:TS7715449971 Arg2:TS5115449971
+TS1015449971	treatedDisease 2251 2289	peripheral or central vascular disease
+TS9215449971	food 2331 2347	grapefruit juice
+TS4715449971	sideeffect 2350 2361	Interaction
+TS6115449971	drug 2367 2377	sildenafil
+TS3915449971	treatedDisease 2410 2430	erectile dysfunction
+TS8615449971	sideeffect 2451 2474	systemic vasodilatation
+TS11515449971	drug2 2507 2514	nitrate
+TS11415449971	sideeffect 2517 2528	Interaction
+TS5715449971	drug 2537 2547	ergotamine
+TS8315449971	treatedDisease 2552 2560	migraine
+TS11715449971	food 2565 2581	grapefruit juice
+TS8715449971	sideeffect 2592 2600	gangrene
+TS1315449971	sideeffect 2604 2610	stroke
+TS3215449971	sideeffect 2616 2622	stroke
+TS915449971	sideeffect 2625 2636	interaction
+TS5315449971	drug 2642 2652	nimodipine
+TS9915449971	sideeffect 2672 2683	hypotension
+TS4915449971	drugEffect 2718 2733	bioavailability
+TS11115449971	sideeffect 2846 2854	toxicity
+TS2315449971	food 2870 2886	grapefruit juice
+TS1115449971	sideeffect 3082 3090	toxicity
+TS6415449971	food 3207 3223	grapefruit juice
+T1	modeadm 92 96	oral
+T2	sideeffect 145 212	Irreversible inactivation of intestinal cytochrome P450 ( CYP ) 3A4
+R6	increase_side_effect Arg1:TS5815449971 Arg2:T2	
+T3	modeadm 399 403	oral
+R7	slow_elimination Arg1:TS5915449971 Arg2:TS2215449971	
+T4	modeadm 594 598	oral
+T5	sideeffect 623 675	reducing intestinal and  or hepatic efflux transport
+R8	increase_side_effect Arg1:TS4115449971 Arg2:TS9815449971	
+T6	drug 1151 1179	HMG-CoA reductase inhibitors
+R9	treat Arg1:T6 Arg2:TS9015449971	
+R10	treat Arg1:TS4815449971 Arg2:TS9015449971	
+R11	treat Arg1:TS2615449971 Arg2:TS9015449971	
+R12	treat Arg1:TS815449971 Arg2:TS9015449971	
+R13	worsen_drug_effect Arg1:TS7615449971 Arg2:TS6815449971	
+R14	worsen_drug_effect Arg1:TS7615449971 Arg2:TS415449971	
+T7	drug 2015 2026	clopidrogel
+T8	drug 1806 1817	sibutramine
+R15	relation Arg1:TS7215449971 Arg2:TS7315449971	
+R16	has_sideeffect Arg1:TS7315449971 Arg2:TS7015449971	
+T9	drugEffect 1988 2009	antiplatelet activity
+R17	has_effect Arg1:T7 Arg2:T9	
+R18	has_sideeffect Arg1:TS7115449971 Arg2:TS5515449971	
+R19	has_sideeffect Arg1:TS5115449971 Arg2:TS6215449971	
+R20	treat Arg1:TS1915449971 Arg2:TS10215449971	
+T10	drug 2380 2389	tadalafil
+T11	drug 2395 2405	vardenafil
+R21	treat Arg1:T11 Arg2:TS3915449971	
+R22	treat Arg1:T10 Arg2:TS3915449971	
+R23	treat Arg1:TS6115449971 Arg2:TS3915449971	
+R24	treat Arg1:TS5715449971 Arg2:TS8315449971	
+R25	has_sideeffect Arg1:TS5715449971 Arg2:TS8715449971	
+R26	has_sideeffect Arg1:TS5715449971 Arg2:TS1315449971	
+R27	relation Arg1:TS11715449971 Arg2:TS5715449971	
+R28	has_sideeffect Arg1:TS5315449971 Arg2:TS9915449971	

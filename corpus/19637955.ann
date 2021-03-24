@@ -1,0 +1,28 @@
+TS2119637955	sideeffect 10 21	interaction
+TS2319637955	food 30 47	pomegranate juice
+TS1219637955	drug 52 60	warfarin
+R1	relation Arg1:TS2319637955 Arg2:TS1219637955
+TS1719637955	sideeffect 120 131	interaction
+TS3419637955	food 140 157	pomegranate juice
+TS1619637955	drug 162 170	warfarin
+R2	relation Arg1:TS3419637955 Arg2:TS1619637955
+TS3119637955	food 259 276	pomegranate juice
+TS619637955	sideeffect 385 406	drug-diet interaction
+TS2619637955	drug 412 420	warfarin
+R3	relation Arg1:TS3119637955 Arg2:TS2619637955
+TS2719637955	drug 501 509	warfarin
+TS3219637955	treatedDisease 524 544	deep vein thrombosis
+TS2019637955	drug 600 608	warfarin
+TS719637955	food 740 757	pomegranate juice
+TS4019637955	food 801 806	juice
+TS319637955	drug 860 868	warfarin
+TS3619637955	drugEffect 907 922	anticoagulation
+TS2919637955	food 945 962	pomegranate juice
+TS1019637955	sideeffect 1152 1163	interaction
+TS1119637955	sideeffect 1229 1240	interaction
+TS1319637955	drug 1319 1327	warfarin
+T1	sideeffect 280 335	inhibit metabolism involving the cytochrome P450 system
+R4	increase_side_effect Arg1:TS3119637955 Arg2:T1	
+R5	treat Arg1:TS2719637955 Arg2:TS3219637955	
+T2	dosage 609 613	4 mg
+R6	has_effect Arg1:TS319637955 Arg2:TS3619637955	

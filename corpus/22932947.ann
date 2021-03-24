@@ -1,0 +1,26 @@
+TS922932947	sideeffect 67 85	L-T4 malabsorption
+TS1122932947	food 89 95	coffee
+TS122932947	sideeffect 199 230	coffee-associated malabsorption
+TS1222932947	drug 241 263	levothyroxine ( L-T4 )
+TS1722932947	sideeffect 334 370	coffee-associated L-T4 malabsorption
+TS1522932947	sideeffect 385 396	hypothyroid
+TS1322932947	food 544 550	coffee
+TS1422932947	food 606 612	coffee
+TS222932947	food 779 784	water
+TS1022932947	food 800 806	coffee
+TS1822932947	treatedDisease 830 841	hypothyroid
+TS322932947	drugEffect 1268 1274	levels
+TS722932947	drugEffect 1421 1427	levels
+TS822932947	drugEffect 1559 1565	levels
+TS1622932947	food 1693 1699	coffee
+T1	drug 23 43	L-thyroxine ( L-T4 )
+R2	increase_side_effect Arg1:TS1122932947 Arg2:TS922932947	
+R3	decrease_absorption Arg1:TS1122932947 Arg2:T1	
+T2	food 310 311	8
+T3	drug 480 484	L-T4
+T4	frequency 485 490	daily
+T5	duration 407 419	For 6 months
+T6	mealTime 551 560	1 h later
+T7	mealTime 617 628	5 min later
+T8	drug 748 752	L-T4
+T9	drug 1663 1667	L-T4

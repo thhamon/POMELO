@@ -1,0 +1,22 @@
+TS311361049	drugEffect 4 19	bioavailability
+TS811361049	food 106 110	food
+TS1611361049	food 154 158	food
+TS1211361049	drugEffect 166 181	bioavailability
+TS1811361049	mealTime 375 381	fasted
+TS211361049	food 396 411	a high-fat meal
+TS1111361049	mealTime 418 430	after a meal
+TS711361049	food 441 444	fat
+TS1411361049	food 733 737	food
+TS2011361049	mealTime 863 869	fasted
+TS411361049	food 918 922	food
+TS1711361049	drugEffect 1106 1121	bioavailability
+TS111361049	food 1153 1157	food
+TS1511361049	food 1207 1211	food
+TS1311361049	food 1216 1226	fat intake
+T1	drug 33 78	nonnucleoside reverse transcriptase inhibitor
+R1	no_effect_on_drug Arg1:TS811361049 Arg2:T1	
+T2	drug 205 250	nonnucleoside reverse transcriptase inhibitor
+T3	numbers 273 275	15
+T5	modeadm 321 325	oral
+T4	dosage 344 350	100 mg
+R2	no_effect_on_drug Arg1:TS111361049 Arg2:TS1711361049	

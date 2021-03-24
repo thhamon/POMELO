@@ -1,0 +1,25 @@
+Pharmacokinetics , pharmacodynamics , and tolerability of the dipeptidyl peptidase IV inhibitor LC15-0444 in healthy Korean men: a dose-block-randomized , double-blind , placebo-controlled , ascending single-dose , Phase I study .
+LC15-0444 is a selective inhibitor of dipeptidyl peptidase ( DPP ) IV under investigation in Korea for the treatment of type 2 diabetes .
+The aim of this study was to investigate the pharmacokinetic ( PK ) , pharmacodynamic ( PD ) , and tolerability profiles of a single dose of LC15-0444 in healthy male subjects .
+A dose-block-randomized , double-blind , placebo-controlled , ascending single-dose , Phase I study was performed in healthy Korean male subjects assigned to receive 25 , 50 , 100 , 200 , 400 , or 600 mg of LC15-0444 capsules .
+Blood and urine samples were collected up to 72 hours after administration .
+Plasma and urine drug concentrations were determined by tandem mass spectrometry coupled with high-performance liquid chromatography .
+DPP IV activity was measured by continuous spectrophotometric assay .
+An additional food effect study was performed in the 100-mg dose group ; changes in PK and PD parameters after high-fat diet were evaluated .
+Adverse events ( AEs ) were detected through investigator inquiries , spontaneous reports , and clinical evaluations such as physical examinations , vital sign measurements , 12-lead electrocardiography , clinical laboratory tests ( eg , hematology , blood chemistry , coagulation , urinalysis ) , and computerized impedance cardiography .
+Sixty Korean men ( mean age , 25.3 years [range , 19-39 years] ; weight , 68.3 kg [range , 53.6-84.9 kg] ) were enrolled , providing 10 subjects for each dose group .
+After administration , LC15-0444 reached T ( max ) at 0.5 to 5.1 hours , and was eliminated with a t ( ( 1  2 ) ) of 16.7 to 21.3 hours .
+The mean fraction of unchanged drug excreted in urine ranged from 0.21 to 0.34 and mean renal clearance was 15.5 to 23.6 L  h .
+The dose-normalized AUC exhibited dose-linearity over the range of 50 to 400 mg .
+All doses of LC15-0444 =200 mg were found to inhibit 80% of DPP IV activity for 24 hours .
+High-fat diet did not significantly influence the AUC of LC15-0444. .
+LC15-0444 was generally well tolerated .
+None of the subjects developed any serious clinical or laboratory AEs or discontinued the study due to an AE .
+All AEs were mild or moderate , and no dose-related trends were observed .
+Forty-six AEs were reported in 18 subjects ( 30.0% ) .
+AEs considered to be related to the study drug were headache ( 6 cases ) , dizziness ( 2 ) , nausea ( 1 ) , epistaxis ( 1 ) , and increased heart rate ( 1 ) .
+All AEs resolved spontaneously .
+A single dose of LC15-0444 exhibited linear PK properties over the range of 50 to 400 mg in these healthy Korean male subjects .
+PK characteristics were not significantly influenced by food .
+In addition , doses sentsupor=200 mg of LC15-0444 inhibited plasma DPP IV activity by sentsup80% over a 24-hour dosing interval , and a 600-mg dose increased active glucagon-like peptide-1 levels after a standardized meal .
+LC15-0444 was generally well tolerated .

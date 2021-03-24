@@ -1,0 +1,51 @@
+TS2918042475	drug 30 42	rosuvastatin
+TS618042475	drug 162 174	Rosuvastatin
+TS4818042475	drug 192 250	3-hydroxy-3-methyl glutaryl coenzyme A reductase inhibitor
+TS4318042475	treatedDisease 321 333	dyslipidemia
+TS2018042475	drug 444 456	rosuvastatin
+TS4618042475	food 529 533	food
+TS2318042475	drug 566 578	rosuvastatin
+R1	relation Arg1:TS4618042475 Arg2:TS2318042475
+TS3418042475	food 953 958	order
+TS3018042475	drug 1034 1046	rosuvastatin
+R2	relation Arg1:TS3418042475 Arg2:TS3018042475
+TS1718042475	food 1497 1501	food
+TS2418042475	drug 1541 1553	rosuvastatin
+TS3518042475	food 1598 1616	standardized meals
+TS1918042475	mealTime 1752 1755	fed
+TS4918042475	mealTime 1769 1775	fasted
+R3	relation Arg1:TS1718042475 Arg2:TS2418042475
+TS4718042475	drug 2327 2339	rosuvastatin
+TS4018042475	drug 3034 3046	rosuvastatin
+TS1818042475	drug 3554 3566	rosuvastatin
+TS518042475	mealTime 3649 3656	fasting
+TS4418042475	sideeffect 3717 3728	pharyngitis
+TS3218042475	sideeffect 3733 3739	nausea
+TS1618042475	mealTime 3803 3816	fasting state
+TS1118042475	mealTime 4109 4112	fed
+TS718042475	drug 4192 4204	rosuvastatin
+TS2718042475	drug 4438 4450	rosuvastatin
+TS3318042475	mealTime 4486 4489	fed
+TS2618042475	mealTime 4514 4527	fasting state
+TS2818042475	drug 4550 4562	rosuvastatin
+TS3118042475	food 4592 4605	empty stomach
+TS118042475	drug 4612 4624	rosuvastatin
+T1	drug 255 261	statin
+R7	treat Arg1:T1 Arg2:TS4318042475	
+R8	treat Arg1:TS4818042475 Arg2:TS4318042475	
+R9	treat Arg1:TS618042475 Arg2:TS4318042475	
+T2	dosage 1049 1050	5
+T3	dosage 1053 1055	10
+T4	dosage 1062 1067	20 mg
+T5	dosage 2305 2306	5
+T6	dosage 2309 2311	10
+T7	dosage 2318 2323	20 mg
+T8	dosage 3004 3005	5
+T9	dosage 3009 3011	10
+T10	dosage 3019 3024	20-mg
+T11	dosage 3545 3550	10 mg
+T12	mealTime 3574 3577	fed
+T13	dosage 3797 3802	20-mg
+T14	sideeffect 3832 3858	elevated laboratory values
+T15	dosage 4103 4108	10-mg
+R4	without_food Arg1:TS3118042475 Arg2:TS2818042475	

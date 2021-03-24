@@ -1,0 +1,12 @@
+Safety , tolerability , and pharmacokinetics of TAS-108 in normal healthy post-menopausal female subjects: a phase I study on single oral dose .
+The present study was conducted to evaluate the safety , tolerability , and pharmacokinetics of TAS-108 after ascending single oral doses and to analyse preliminarily the effect of food on the pharmacokinetics of TAS-108 in normal healthy post-menopausal female subjects .
+Twelve healthy subjects participated in an open-label , ascending single-dose , alternating group , safety , tolerance , and pharmacokinetic study of TAS-108 administered orally to two groups of the subjects , one given alternating doses of 10 , 40 , 120 mg ( group A ) and the other of 20 , 80 , 160 mg ( group B ) , in the fasting state .
+In addition , six subjects ( group A ) were administered an additional dose at 120 mg TAS-108 after food consumption .
+Plasma and urine samples for measurement of TAS-108 were analysed by validated analytical procedures using a liquid chromatographic method with tandem mass spectrometric detection ( LC  MS  MS ) .
+There was no dose-dependent increase in any adverse events ( AEs ) , and there were no serious AEs or deaths .
+TAS-108 was readily absorbed following oral administration of the 80- , 120- and 160-mg doses .
+Plasma TAS-108 levels steadily declined , generally in a mono-exponential manner , with overall mean t ( 1  2 ) values ranging from 3.04 to 4.43 h in the fasting groups .
+Administration of TAS-108 after a high-fat meal markedly increased the bioavailability of the drug .
+The mean C ( max ) and AUC ( 0- -t ) values increased after a high-fat breakfast by 182 and 191% compared with the fasting value respectively .
+In this escalating dose study of TAS-108 , the drug was well tolerated by the participants .
+The maximum and systemic exposure to TAS-108 tended to increase with increasing dose and its bioavailability markedly increased after high-fat food intake .

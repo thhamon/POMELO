@@ -1,0 +1,24 @@
+Effects of grapefruit and Seville orange juices on the pharmacokinetic properties of colchicine in healthy subjects .
+The labeling for colchicine ( indicated for acute gout flares or prophylaxis ) includes strict advisories regarding drug-drug and drug-food food interactions , including warnings against consuming grapefruit or grapefruit juice during treatment .
+Two of the furocoumarins in grapefruit juice and Seville orange juice can inhibit intestinal cytochrome P450 ( CYP ) isozyme 3A4 and P-glycoprotein ( involved in colchicine metabolism and transport ) .
+Severe toxicities in patients consuming these juices while taking other drugs metabolized through these pathways have been reported .
+Two Phase I studies assessed the effects of multiple daily consumptions of Seville orange juice or grapefruit juice on the pharmacokinetic properties of colchicine in healthy volunteers .
+Healthy volunteers were enrolled in 2 open-label , Phase I studies .
+Undiluted juice ( 240 mL ) was administered twice daily for 4 days .
+Pharmacokinetic data were obtained following a single 0.6-mg dose of colchicine before the administration of juice and again following a single 0.6-mg dose of colchicine on the final day of juice administration .
+In each study , blood samples for pharmacokinetics were collected before dosing with colchicine and at 0.5 , 1 , 1.5 , 2 , 3 , 4 , 5 , 6 , 8 , 12 , and 24 hours postdose .
+All subjects were monitored for adverse events ( AEs ) throughout the confinement portion of the study and were queried at the outpatient visits .
+AEs were coded according to corresponding MedDRA-coded system organ classes .
+Forty-four subjects received either grapefruit juice ( 72.7% male ; 90.9% white ) or Seville orange juice ( 62.5% female ; 100% white ) .
+Although it is considered to be a moderate concentration-dependent CYP3A4 inhibitor , grapefruit juice did not significantly affect the pharmacokinetic parameters of colchicine .
+When colchicine was administered with Seville orange juice , a moderate inhibitor , C ( max ) and AUC were decreased by â¼24% and â¼20% , respectively .
+Seville orange juice also caused , on average , a 1-hour delay in T ( max ) .
+Colchicine in combination with grapefruit or Seville orange juice was well tolerated .
+There were no significant treatment-related AEs reported , and the most likely AEs were general gastrointestinal events .
+In contrast to label warnings based on the literature , grapefruit juice did not affect the pharmacokinetics of colchicine .
+Seville orange juice paradoxically reduced absorption of colchicine and increased T ( max ) , but the clinical significance of this is unknown .
+Contrary to the expected effects of inhibiting the enzymes that metabolize colchicine , neither juice increased exposure to colchicine .
+However , the absence of a positive control in these studies dictates that caution should be used when applying these results clinically .
+ClinicalTrials.gov identifiers: NCT00960193 and NCT00984009. .
+Copyright bigasentc 2012 Elsevier HS Journals , Inc. .
+All rights reserved .

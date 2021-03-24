@@ -1,0 +1,13 @@
+Drug interaction potential of resveratrol .
+Resveratrol is a naturally occurring polyphenol that is often used as a food supplement .
+Many positive health effects , including cardio protection , tumor suppression , and immune modulation , are associated with the intake of resveratrol .
+Resveratrol is well tolerated in healthy subjects without any comedication .
+However , supplemental doses of resveratrol in the range of 1 g  day or above by far exceed the natural intake through food .
+Whether resveratrol-drug interactions can be harmful in patients taking additional medications remains unknown .
+Recent in vivo studies and clinical trials indicate a possible drug-drug drug interaction potential using high-dosage formulations .
+In this review , the known in vitro and in vivo effects of resveratrol on various cytochrome P450 ( CYP ) isoenzymes are summarized .
+They are discussed in relation to clinically relevant plasma concentrations in humans .
+We conclude that resveratrol may lead to interactions with various CYPs , especially when taken in high doses .
+Aside from systemic CYP inhibition , intestinal interactions must also be considered .
+They can potentially lead to reduced first-pass metabolism , resulting in higher systemic exposure to certain coadministrated CYP substrates .
+Therefore , patients who ingest high doses of this food supplement combined with additional medications may be at risk of experiencing clinically relevant drug-drug interactions .

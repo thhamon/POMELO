@@ -1,0 +1,39 @@
+TS2519458055	drug 22 30	platinum
+TS2119458055	food 108 112	food
+TS3019458055	mealTime 204 210	fasted
+TS1219458055	mealTime 215 218	fed
+TS1019458055	treatedDisease 306 318	solid tumors
+TS319458055	drug 404 415	antiemetics
+TS919458055	mealTime 542 545	fed
+TS3219458055	mealTime 549 555	fasted
+TS3119458055	mealTime 733 739	fasted
+TS119458055	sideeffect 845 853	toxicity
+TS2219458055	sideeffect 872 899	Severe hematologic toxicity
+TS1819458055	sideeffect 961 967	Nausea
+TS419458055	sideeffect 970 978	vomiting
+TS2619458055	sideeffect 985 993	diarrhea
+TS1119458055	sideeffect 1059 1078	neurologic toxicity
+TS2919458055	food 1114 1118	food
+TS1619458055	drug 1143 1151	platinum
+TS1719458055	drugEffect 1152 1167	bioavailability
+R1	relation Arg1:TS2919458055 Arg2:TS1619458055
+TS2719458055	treatedDisease 1461 1495	hormone refractory prostate cancer
+TS2819458055	treatedDisease 1533 1539;1542 1549;1552 1559;1566 1600	breast ovarian parotid hormone refractory prostate cancer
+TS219458055	food 1642 1646	food
+TS2319458055	mealTime 1794 1807	fasting state
+T1	drug 0 11	Satraplatin
+T2	modeadm 17 21	oral
+T3	drug 186 197	satraplatin
+T4	drugEffect 263 281	antitumor activity
+R3	has_effect Arg1:T3 Arg2:T4	
+R4	treat Arg1:T3 Arg2:TS1019458055	
+T5	drug 321 332	Satraplatin
+T6	dosage 360 365	80 mg
+T7	frequency 375 385	once daily
+T8	drug 516 527	satraplatin
+T9	drug 714 725	satraplatin
+T10	drug 804 815	satraplatin
+R5	has_sideeffect Arg1:T10 Arg2:TS2219458055	
+T11	drug 1674 1685	satraplatin
+T12	drug 1759 1770	satraplatin
+R2	without_food Arg1:TS2319458055 Arg2:T12	

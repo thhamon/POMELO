@@ -1,0 +1,18 @@
+Bioequivalence of saxagliptin  metformin extended-release ( XR ) fixed-dose combination tablets and single-component saxagliptin and metformin XR tablets in healthy adult subjects .
+As compared with individual tablets , saxagliptin  metformin extended-release ( XR ) fixed-dose combination ( FDC ) tablets offer potential for increased patient compliance with the convenience of once-daily dosing .
+Two bioequivalence studies assessed the fed- fed-state bioequivalence of saxagliptin  metformin XR 5 mg  500 mg FDC ( study 1 ) and saxagliptin  metformin XR 5 mg  1000 mg FDC ( study 2 ) relative to the same dosage strengths of individual component tablets administered concurrently .
+The effect of food on saxagliptin and metformin pharmacokinetics from the saxagliptin  metformin XR 5 mg  500 mg FDC and their steady-state pharmacokinetics from the saxagliptin  metformin XR 5 mg  1000 mg were also investigated .
+These were randomized , open-label , single-dose , three-period , three-treatment , crossover studies in healthy subjects ( n = 30 in each study ) .
+The treatments in study 1 were a saxagliptin  metformin XR 5 mg  500 mg FDC tablet in the fed and fasted states on separate occasions , and saxagliptin 5 mg and metformin XR 500 mg co-administered in the fed state .
+The treatments in study 2 were a saxagliptin  metformin XR 5 mg  1000 mg FDC tablet in the fed state , saxagliptin 5 mg and 2 × metformin XR 500 mg co-administered in the fed state , and saxagliptin  metformin XR 5 mg  1000 mg FDC once daily for 4 days in the fed state to assess steady-state pharmacokinetics .
+The safety and tolerability of each treatment were also evaluated .
+For both studies , saxagliptin and metformin in the FDCs were bioequivalent to the individual components as the limits of the 90% confidence interval of the ratio of adjusted geometric means for all key pharmacokinetic parameters were contained within 0.800 to 1.250. .
+Compared with the fasted state , food did not have a meaningful effect on the pharmacokinetics of saxagliptin and metformin when administered as the saxagliptin  metformin XR 5 mg  500 mg FDC .
+The saxagliptin  metformin XR 5 mg  1000 mg FDC showed consistent pharmacokinetics at steady state without evidence of dose dumping .
+Co-administration of saxagliptin and metformin XR was generally safe and well tolerated as the FDCs or as individual tablets .
+Saxagliptin  metformin XR 5 mg  500 mg and saxagliptin  metformin XR 5 mg  1000 mg FDCs were bioequivalent to individual tablets of saxagliptin and metformin of the same strengths .
+Additionally , food had little effect on the pharmacokinetics of saxagliptin and metformin administered in the saxagliptin  metformin XR 5 mg  500 mg FDC and the steady-state pharmacokinetics of the saxagliptin  metformin XR 5 mg  1000 mg FDC was consistent over time .
+No unexpected safety findings were observed with saxagliptin  metformin XR administration .
+The tolerability of the FDC of saxagliptin  metformin XR was comparable to that of the co-administered individual components .
+These results indicate that the safety and efficacy profile of co-administration of saxagliptin and metformin can be extended to the saxagliptin  metformin XR FDC tablets .
+ClinicalTrials.gov Identifiers: NCT01192139 and NCT01192152. .

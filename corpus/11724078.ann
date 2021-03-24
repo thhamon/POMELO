@@ -1,0 +1,30 @@
+TS4811724078	drug 20 44	para-aminosalicylic acid
+TS2211724078	drugEffect 132 147	bioavailability
+TS2411724078	drug 151 175	para-aminosalicylic acid
+TS811724078	drug 406 417	cycloserine
+TS1411724078	drug 427 438	clofazimine
+TS4411724078	drug 448 459	ethionamide
+TS611724078	drug 473 483	pyridoxine
+TS4011724078	mealTime 516 529	empty stomach
+TS911724078	mealTime 549 553	fast
+TS3611724078	food 573 586	high-fat food
+TS2611724078	food 594 606	orange juice
+TS2511724078	food 618 626	antacids
+TS4711724078	mealTime 1120 1126	fasted
+TS4311724078	food 1139 1143	food
+TS2111724078	food 1416 1428	orange juice
+TS1011724078	food 1431 1435	food
+TS2811724078	drug 1441 1458	antacid treatment
+TS211724078	food 1623 1627	Food
+TS711724078	food 1681 1693	orange juice
+TS2311724078	food 1698 1706	antacids
+T1	drug 178 181	PAS
+T2	dosage 418 424	500 mg
+T3	dosage 439 445	200 mg
+T4	dosage 460 466	500 mg
+T5	dosage 484 490	100 mg
+T6	sideeffect 687 701	adverse events
+T7	drug 1669 1672	PAS
+R1	increase_absorption Arg1:TS211724078 Arg2:T7	
+R2	no_effect_on_drug Arg1:TS711724078 Arg2:T7	
+R3	no_effect_on_drug Arg1:TS2311724078 Arg2:T7	

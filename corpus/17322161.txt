@@ -1,0 +1,12 @@
+Interaction potential between cranberry juice and warfarin .
+The interaction potential between warfarin and cranberry juice is discussed .
+Reports from the United Kingdom have raised concern over the interaction potential between cranberry juice and warfarin .
+Warfarin is the most commonly prescribed oral medication for anticoagulation therapy .
+Cranberry juice is a flavonoid , which has been shown to induce , inhibit , or act as a substrate for the biosynthesis of several cytochrome P-450 ( CYP ) isoenzymes .
+Specifically , cranberry juice may inhibit the activity of CYP2C9 , the primary isoenzyme involved in the metabolism of S-warfarin .
+A search of the medical literature identified three peer-reviewed case reports and two peer-reviewed , prospective , randomized , placebo-controlled clinical trials using metabolic surrogates of warfarin ( flurbiprofen and cyclosporine ) that described possible interactions between cranberry juice and warfarin .
+Two case reports suggested that cranberry juice increased the International Normalized Ratio ( INR ) of patients taking warfarin , but neither clearly identified cranberry juice as the sole cause of INR elevation .
+One case report appeared to show a correlation between the effects of cranberry juice and warfarin metabolism .
+Both clinical trials indicated the lack of an interaction between cranberry juice and CYP isoenzymes 2C9 and 3A , both of which are necessary in warfarin metabolism .
+More studies are required to determine the potential interaction between cranberry juice and warfarin .
+The available data do not seem to show a clinically relevant interaction between cranberry juice and warfarin ; however , patients taking warfarin with cranberry juice should be cautioned about the potential interaction and monitored closely for INR changes and signs and symptoms of bleeding .

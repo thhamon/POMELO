@@ -1,0 +1,16 @@
+TS2516199918	sideeffect 38 47	drug-food
+TS1916199918	sideeffect 48 65	food interactions
+TS2316199918	drug 82 106	calcium channel blockers
+TS1516199918	drug 121 145	Calcium channel blockers
+TS916199918	treatedDisease 185 197	hypertension
+TS616199918	treatedDisease 200 215	angina pectoris
+TS2216199918	treatedDisease 218 228	arrhythmia
+TS2616199918	treatedDisease 241 255	heart diseases
+TS316199918	sideeffect 431 457	drug-drug drug interaction
+TS2416199918	sideeffect 551 573	drug-drug interactions
+TS1016199918	sideeffect 603 619	drug interaction
+TS416199918	food 625 629	food
+TS1116199918	food 634 639	drink
+TS1616199918	food 666 676	supplement
+T1	sideeffect 24 33	drug-drug
+T2	food 650 661	health-food

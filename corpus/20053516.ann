@@ -1,0 +1,39 @@
+TS2620053516	sideeffect 9 30	food-drug interaction
+TS1120053516	food 44 48	milk
+TS820053516	drugEffect 90 105	bioavailability
+TS1220053516	drug 109 122	ciprofloxacin
+R1	relation Arg1:TS1120053516 Arg2:TS1220053516
+TS1320053516	drug 256 269	ciprofloxacin
+TS2920053516	food 279 284	-milk
+TS2320053516	sideeffect 285 296	interaction
+TS2720053516	modeadm 337 356	film-coated tablets
+TS1920053516	food 492 497	water
+TS2220053516	food 500 512	low-fat milk
+TS1520053516	food 522 555	casein- or calcium enriched water
+TS120053516	food 839 845	casein
+TS420053516	drug 907 917	antibiotic
+TS1420053516	food 950 957	calcium
+TS2520053516	modeadm 1002 1020	film-coated tablet
+TS520053516	food 1025 1029	milk
+TS2420053516	food2 1039 1053	dairy products
+TS2820053516	sideeffect 1108 1153	adsorption of CPFX on the surface of proteins
+R3	has_effect Arg1:TS1220053516 Arg2:TS820053516	
+T1	drug 272 276	CPFX
+R4	has_sideeffect Arg1:TS1320053516 Arg2:TS2320053516	
+R5	new_side_effect Arg1:TS2920053516 Arg2:TS1320053516	
+T2	drug 327 331	CPFX
+T3	drug 359 367	Ciprinol
+T4	dosage 370 375	500mg
+T5	drug 604 608	CPFX
+R2	relation Arg1:TS120053516 Arg2:TS420053516	
+T6	drug 997 1001	CPFX
+T7	sideeffect 1067 1092	complexation with calcium
+R6	has_sideeffect Arg1:T6 Arg2:T7	
+R7	has_sideeffect Arg1:T6 Arg2:TS2820053516	
+R8	worsen_drug_effect Arg1:TS520053516 Arg2:T6	
+R9	worsen_drug_effect Arg1:TS2420053516 Arg2:T6	
+R10	increase_side_effect Arg1:TS520053516 Arg2:T7	
+R11	increase_side_effect Arg1:TS520053516 Arg2:TS2820053516	
+R12	increase_side_effect Arg1:TS2420053516 Arg2:T7	
+R13	increase_side_effect Arg1:TS2420053516 Arg2:TS2820053516	
+T8	drug 1189 1193	CPFX

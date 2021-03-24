@@ -1,0 +1,33 @@
+TS1120512335	food 43 59	grapefruit juice
+TS420512335	food 132 148	grapefruit juice
+TS1420512335	sideeffect 187 203	drug interaction
+TS520512335	treatedDisease 422 428	cancer
+TS1020512335	drug 670 679	midazolam
+TS720512335	drugEffect 1103 1118	bioavailability
+TS1220512335	drug 1241 1250	midazolam
+T1	drug 21 30	sunitinib
+T2	drug 80 89	sunitinib
+T3	drug 386 395	Sunitinib
+T4	drug 350 359	sunitinib
+T5	drug 448 457	sunitinib
+T6	drug 1500 1509	sunitinib
+T7	drug 1373 1382	sunitinib
+T8	food 151 153	GJ
+T9	food 269 271	GJ
+T10	sideeffect 294 331	cytochrome P450 ( CYP ) 3A4 inhibitor
+R1	increase_side_effect Arg1:T9 Arg2:T10	
+T11	modeadm 650 654	oral
+T12	dosage 663 669	7.5-mg
+T13	drug 786 795	sunitinib
+T14	food 937 939	GJ
+T15	drug 943 952	sunitinib
+T16	drug 988 997	sunitinib
+T17	food 1018 1020	GJ
+T18	food 1042 1044	GJ
+T19	drug 1049 1058	sunitinib
+T20	drug 1122 1131	sunitinib
+T21	food 1167 1169	GJ
+T22	food 1324 1326	GJ
+R2	relation Arg1:T22 Arg2:T7	
+T23	food 1550 1552	GJ
+R3	no_effect_on_drug Arg1:T23 Arg2:T6	

@@ -1,0 +1,15 @@
+Lack of effect of grapefruit juice on the pharmacokinetics and pharmacodynamics of amlodipine .
+To determine whether repeated once daily administration of grapefruit juice altered the pharmacokinetics or pharmacodynamics of the calcium antagonist amlodipine .
+S The effects of grapefruit juice on the pharmacokinetics and pharmacodynamics of oral and intravenous amlodipine were assessed in 20 healthy men in a placebo-controlled , open , randomized , four-way crossover study using single doses of amlodipine 10 mg .
+For 9 days beginning with the day of administration of amlodipine , grapefruit juice ( or water control ) was given once daily , and blood samples , blood pressure and heart rate measures were obtained .
+Plasma concentrations of amlodipine and its enantiomers were determined in separate assays by GC-ECD .
+Oral amlodipine had high systemic availability ( grapefruit juice juice: 88% ; water water: 81% ) .
+Pharmacokinetic parameters of racemic amlodipine ( AUC , Cmax , tmax , and kel ) were not markedly changed with grapefruit juice coadministration .
+Total plasma clearance and volume of distribution , calculated after intravenous amlodipine , were essentially unchanged by grapefruit juice ( CL 6.65 ml min-1 kg-1 , juice vs 6.93 ml min-1 kg-1 , water ; Vdss 22.7 l kg-1 , juice vs 21.0 l kg-1 , water ) .
+Grapefruit juice coadministration did not greatly alter the stereoselectivity in amlodipine oral or intravenous kinetics .
+The sum of S ( - ) and R ( + ) enantiomer concentrations correlated well with total racemic amlodipine concentration ( r2 = 0. .
+957 ; P = 0.0001 ) .
+Coadministration of grapefruit juice with either route of amlodipine administration did not significantly alter blood pressure changes vs control .
+Grapefruit juice has no appreciable effect on amlodipine pharmacodynamics or pharmacokinetics , including its stereoselective kinetics .
+Bioavailability enhancement by grapefruit juice , noted with other dihydropyridine calcium antagonists , does not occur with amlodipine .
+Once daily grapefruit juice administration with usual oral doses of amlodipine is unlikely to alter the profile of response in clinical practice .

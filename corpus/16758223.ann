@@ -1,0 +1,23 @@
+TS416758223	food 21 25	diet
+TS3816758223	treatedDisease 52 62	psoriasis]
+TS3116758223	treatedDisease 77 86	Psoriasis
+TS1116758223	treatedDisease 92 133	T cell mediated inflammatory skin disease
+TS316758223	sideeffect 346 372	nutrient-drug interactions
+TS1616758223	food 392 396	diet
+TS3016758223	food 408 412	food
+TS2816758223	sideeffect 491 500	psoriasis
+TS1916758223	mealTime 503 510	Fasting
+TS3516758223	food 521 537	vegetarian diets
+TS3616758223	food 544 593	diets rich in omega-3 polyunsaturated fatty acids
+TS916758223	food 599 607	fish oil
+TS1816758223	sideeffect 703 738	reduced amounts of arachidonic acid
+TS1216758223	sideeffect 747 778	increased eicosapentaenoic acid
+TS1716758223	food 898 917	omega-3 fatty acids
+TS616758223	treatedDisease 945 954	psoriasis
+TS3316758223	sideeffect 976 992	gluten-sensitive
+TS2416758223	food 1016 1032	gluten free diet
+TS1516758223	drug 1054 1063	vitamin D
+TS2616758223	treatedDisease 1173 1182	psoriasis
+T1	drugEffect 1064 1120	exhibits anti-proliferative and immunoregulatory effects
+R1	has_effect Arg1:TS1516758223 Arg2:T1	
+R2	treat Arg1:TS1516758223 Arg2:TS2616758223	

@@ -1,0 +1,62 @@
+TS2511069440	food 18 34	grapefruit juice
+TS5511069440	drug 83 93	amlodipine
+R1	relation Arg1:TS2511069440 Arg2:TS5511069440
+TS3411069440	food 155 171	grapefruit juice
+TS6111069440	drug 228 246	calcium antagonist
+TS5911069440	drug 247 257	amlodipine
+R2	relation Arg1:TS3411069440 Arg2:TS5911069440
+TS311069440	food 277 293	grapefruit juice
+TS2211069440	drug 363 373	amlodipine
+TS4011069440	drug 499 509	amlodipine
+R4	relation Arg1:TS311069440 Arg2:TS2211069440
+TS1711069440	drug 573 583	amlodipine
+TS6311069440	food 586 602	grapefruit juice
+TS3511069440	food 608 613	water
+TS4811069440	drug 747 757	amlodipine
+TS1511069440	drug 830 840	amlodipine
+TS4311069440	food 874 890	grapefruit juice
+TS711069440	food 904 909	water
+TS4211069440	drug 963 973	amlodipine
+TS4511069440	food 1037 1053	grapefruit juice
+TS1311069440	drug 1154 1164	amlodipine
+TS3311069440	food 1197 1213	grapefruit juice
+TS3811069440	food 1240 1245	juice
+TS511069440	food 1270 1275	water
+TS3911069440	food 1297 1302	juice
+TS611069440	food 1320 1325	water
+TS211069440	food 1330 1346	Grapefruit juice
+TS5311069440	drug 1411 1421	amlodipine
+R5	no_effect_on_drug Arg1:TS211069440 Arg2:TS5311069440
+TS1211069440	drug 1545 1555	amlodipine
+TS1111069440	food 1623 1639	grapefruit juice
+TS2711069440	drug 1661 1671	amlodipine
+TS6511069440	sideeffect 1715 1737	blood pressure changes
+R6	no_effect_on_drug Arg1:TS1111069440 Arg2:TS2711069440
+TS5711069440	food 1751 1767	Grapefruit juice
+TS2611069440	drug 1797 1807	amlodipine
+R7	no_effect_on_drug Arg1:TS5711069440 Arg2:TS2611069440
+TS4111069440	drugEffect 1888 1903	Bioavailability
+TS3011069440	food 1919 1935	grapefruit juice
+TS4411069440	drug 1955 1990	dihydropyridine calcium antagonists
+TS6411069440	drug 2013 2023	amlodipine
+R8	no_effect_on_drug Arg1:TS3011069440 Arg2:TS6411069440
+TS1611069440	food 2037 2053	grapefruit juice
+TS3211069440	drug 2094 2104	amlodipine
+R10	no_effect_on_drug Arg1:TS1611069440 Arg2:TS3211069440
+T1	modeadm 342 346	oral
+T2	modeadm 351 362	intravenous
+T3	frequency 483 495	single doses
+T4	dosage 510 515	10 mg
+T5	duration 522 528	9 days
+T6	frequency 634 644	once daily
+T7	modeadm 825 829	Oral
+T8	drugEffect 845 871	high systemic availability
+R3	no_effect_on_drug Arg1:TS4511069440 Arg2:TS4211069440	
+T9	modeadm 1142 1153	intravenous
+R11	no_effect_on_drug Arg1:TS3311069440 Arg2:TS1311069440	
+T10	modeadm 1422 1426	oral
+T11	modeadm 1430 1441	intravenous
+R9	slow_elimination Arg1:TS3011069440 Arg2:TS4411069440	
+T12	modeadm 2080 2084	oral
+T13	dosage 2074 2079;2085 2090	usual doses
+T14	frequency 2026 2036;2054 2068	Once daily administration

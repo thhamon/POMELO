@@ -1,0 +1,26 @@
+TS1910496300	drug 71 94	artemether-lumefantrine
+TS810496300	drug 116 126	artemether
+TS1310496300	drug 131 143	lumefantrine
+TS710496300	drug 146 157	benflumetol
+TS1210496300	drug 198 210	antimalarial
+TS1610496300	treatedDisease 239 277	multidrug-resistant falciparum malaria
+TS510496300	drug 284 294	artemether
+TS110496300	drug 458 471	antimalarials
+TS1010496300	drug 571 583	lumefantrine
+TS410496300	food 743 746	fat
+TS1510496300	drug 808 818	artemether
+TS910496300	treatedDisease 838 847	infection
+TS310496300	drug 858 870	lumefantrine
+TS210496300	drug 1051 1063	lumefantrine
+TS1410496300	drug 1369 1381	antimalarial
+T1	drug 347 365	dihydroartemisinin
+T2	drugEffect 491 520	reduction in parasite biomass
+R1	has_effect Arg1:TS110496300 Arg2:T2	
+T3	drugEffect 536 564	rapid resolution of symptoms
+R2	has_effect Arg1:TS110496300 Arg2:T3	
+T4	treatedDisease 618 625	malaria
+R3	treat Arg1:TS710496300 Arg2:TS1610496300	
+R4	treat Arg1:TS1310496300 Arg2:TS1610496300	
+R5	treat Arg1:TS810496300 Arg2:TS1610496300	
+R6	treat Arg1:TS1010496300 Arg2:T4	
+T5	treatedDisease 793 800	malaria

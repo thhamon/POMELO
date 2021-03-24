@@ -1,0 +1,33 @@
+TS216988203	food 29 33	food
+TS116988203	food 234 249	a high-fat meal
+TS1216988203	mealTime 411 434	after overnight fasting
+TS516988203	mealTime 439 454	after breakfast
+TS616988203	mealTime 573 576	fed
+TS1816988203	mealTime 578 584	fasted
+TS816988203	mealTime 752 756	meal
+TS416988203	mealTime 945 948	fed
+TS1716988203	mealTime 985 991	fasted
+TS716988203	food 1072 1076	food
+R2	no_effect_on_drug Arg1:TS716988203 Arg2:T16
+TS316988203	food 1485 1489	food
+T1	drug 68 79	roflumilast
+T2	modeadm 85 89	oral
+T3	frequency 92 102	once-daily
+T4	drug 103 132	phosphodiesterase 4 inhibitor
+T5	drug 277 288	roflumilast
+T6	drug 303 317	active N-oxide
+T7	drug 369 380	roflumilast
+T8	modeadm 364 368	oral
+T9	dosage 381 391	500 microg
+T10	drug 523 534	roflumilast
+T11	drug 539 546	N-oxide
+T12	drug 759 770	roflumilast
+T13	drug 839 846	N-oxide
+T14	drug 908 919	Roflumilast
+T15	drug 1023 1030	N-oxide
+T16	drug 1087 1098	roflumilast
+T17	drug 1222 1229	N-oxide
+T18	drug 1322 1341	roflumilast N-oxide
+T19	drug 1370 1383	roflumilast's
+T20	drug 1444 1455	roflumilast
+R1	no_effect_on_drug Arg1:TS316988203 Arg2:T20	

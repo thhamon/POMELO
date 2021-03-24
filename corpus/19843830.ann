@@ -1,0 +1,5 @@
+TS519843830	sideeffect 9 33	fatal intracranial bleed
+TS319843830	drug 55 63	warfarin
+TS219843830	drug 68 85	influenza vaccine
+TS419843830	sideeffect 55 97	warfarin and influenza vaccine interaction
+R1	has_sideeffect Arg1:TS319843830 Arg2:TS519843830	

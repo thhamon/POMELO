@@ -1,0 +1,34 @@
+TS519553405	sideeffect 18 29	interaction
+TS1819553405	drug 38 46	warfarin
+TS1719553405	food 51 66	cranberry juice
+TS2419553405	drug 142 150	warfarin
+TS719553405	drugEffect 151 166	anticoagulation
+TS2219553405	food 170 192	cranberry juice ( CJ )
+TS1019553405	sideeffect 252 275	CJ-warfarin interaction
+TS1419553405	drug 350 358	warfarin
+TS619553405	drugEffect 359 374	anticoagulation
+TS1619553405	food 487 495	beverage
+TS2519553405	drugEffect 572 585	plasma levels
+TS2819553405	drug 589 606	R- and S-warfarin
+TS3019553405	drug 779 796	R- and S-warfarin
+TS819553405	food 1071 1086	Cranberry juice
+TS319553405	drugEffect 1128 1141	plasma levels
+TS1919553405	sideeffect 1156 1183	pharmacokinetic interaction
+TS2119553405	drug 1368 1376	warfarin
+TS2319553405	drugEffect 1377 1392	anticoagulation
+R2	has_effect Arg1:TS2419553405 Arg2:TS719553405	
+R3	improve_drug_effect Arg1:TS2219553405 Arg2:TS719553405	
+R4	has_effect Arg1:TS1419553405 Arg2:TS619553405	
+T1	food 463 465	CJ
+T2	frequency 528 538	once daily
+T3	duration 539 550	for 2 weeks
+T4	duration 621 645	during the 2-week period
+T5	food 682 684	CJ
+T6	food 836 838	CJ
+T7	drug 1111 1127	S- or R-warfarin
+R5	no_effect_on_drug Arg1:TS819553405 Arg2:T7	
+R6	has_effect Arg1:T7 Arg2:TS319553405	
+T8	food 1265 1267	CJ
+T9	food 1407 1409	CJ
+R1	has_effect Arg1:TS2119553405 Arg2:TS2319553405	
+R7	no_effect_on_drug Arg1:T9 Arg2:TS2119553405	

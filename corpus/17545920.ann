@@ -1,0 +1,50 @@
+TS5417545920	food 12 23	sesame seed
+TS5917545920	drugEffect 43 66	tumor-inhibitory effect
+TS2517545920	drug 70 79	tamoxifen
+TS5817545920	treatedDisease 161 194	estrogen-responsive breast tumors
+R1	negative_effect_on_drug Arg1:TS5417545920 Arg2:TS2517545920
+TS2717545920	food 197 205	Flaxseed
+TS3517545920	drugEffect 273 303	tumor growth-inhibitory effect
+TS3217545920	drug 307 316	tamoxifen
+TS3317545920	sideeffect 335 350	adverse effects
+R2	positive_effect_on_drug Arg1:TS2717545920 Arg2:TS3217545920
+TS1417545920	food 426 437	sesame seed
+TS2417545920	food 481 489	flaxseed
+TS417545920	food 583 594	sesame seed
+TS4217545920	drug 599 608	tamoxifen
+R3	relation Arg1:TS417545920 Arg2:TS4217545920
+TS317545920	treatedDisease 752 764	MCF-7 tumors
+TS2117545920	food 801 811	basal diet
+TS2817545920	food 845 856	sesame seed
+TS2217545920	food 865 875	basal diet
+TS3017545920	drug 878 887	tamoxifen
+TS2917545920	food 908 919	sesame seed
+TS3117545920	drug 922 931	tamoxifen
+TS2317545920	food 951 961	basal diet
+TS4917545920	drug 964 972	estrogen
+R4	relation Arg1:TS2817545920 Arg2:TS3017545920
+R6	relation Arg1:TS2217545920 Arg2:TS3017545920
+TS1917545920	food 1237 1248	Sesame seed
+TS3417545920	sideeffect 1257 1267	regression
+TS1717545920	treatedDisease 1283 1288	tumor
+TS5717545920	drugEffect 1358 1381	tumor-inhibitory effect
+TS5317545920	drug 1385 1394	tamoxifen
+TS3917545920	sideeffect 1408 1426	reducing apoptosis
+R7	negative_effect_on_drug Arg1:TS1917545920 Arg2:TS5317545920
+TS117545920	food 1429 1440	Sesame seed
+TS1217545920	drug 1455 1464	tamoxifen
+R8	relation Arg1:TS117545920 Arg2:TS1217545920
+TS3817545920	sideeffect 1677 1682	tumor
+TS4317545920	food 1721 1732	Sesame seed
+TS5117545920	drug 1782 1791	tamoxifen
+TS4717545920	sideeffect 1804 1814	regression
+TS1517545920	treatedDisease 1830 1841	MCF-7 tumor
+TS5217545920	drug 1879 1888	tamoxifen
+R9	negative_effect_on_drug Arg1:TS4317545920 Arg2:TS5117545920
+R10	has_effect Arg1:TS2517545920 Arg2:TS5917545920	
+R11	worsen_drug_effect Arg1:TS5417545920 Arg2:TS5917545920	
+R12	has_effect Arg1:TS3217545920 Arg2:TS3517545920	
+R13	improve_drug_effect Arg1:TS2717545920 Arg2:TS3517545920	
+T1	treatedDisease 624 635	MCF-7 tumor
+R5	has_effect Arg1:TS5317545920 Arg2:TS5717545920	
+R14	increase_side_effect Arg1:TS1917545920 Arg2:TS3917545920	

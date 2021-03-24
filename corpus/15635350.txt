@@ -1,0 +1,15 @@
+Dietary supplement use is prevalent among children with a chronic illness .
+To determine the nature and prevalence of dietary supplement use among chronically ill children .
+This descriptive study used a self-report questionnaire .
+A convenience sample of parents of 505 chronically ill children and adolescents seen in subspecialty medical clinics in Salt Lake City , UT .
+The medical conditions studied included asthma , cystic fibrosis , diabetes , cancer , liver and renal transplantations , seizures , and rheumatological and neurobehavioral disorders .
+Statistics Sample characteristics were described using frequencies , percentages , means , and standard deviations .
+chi 2 tests were used to compare sex , ethnicity , parental education level , and dietary supplement use variations among the various diagnostic categories .
+Analysis of variance with Bonferroni correction for multiple comparisons was used to determine differences among diagnosis groups for continuous variables , and the Kruskal-Wallis test was used to test categorical variables .
+The population sampled was predominately white ( 88.5% ) , with a mean age of 9.9+  -5.3 years .
+Sixty-two percent of the population used dietary supplements , and 30% used nonprescribed supplements .
+Significant differences were noted among diagnosis groups , with the highest nonprescribed use reported in children with cancer ( solid tumors=46% ; leukemia=44% ) , cystic fibrosis ( 35% ) , neurobehavioral disorders ( 35% ) , and rheumatological disorders ( 34% ) .
+Only 20% of those using nonprescribed dietary supplements had discussed this use with the health care provider .
+Dietary supplement use is prevalent among chronically ill children , especially among those with a poor prognosis or for whom there are limited medical treatments .
+Few pediatric health care providers are aware of their patients' use of nonprescribed supplements .
+This is a concern because of the unknown effects of many supplements on growth and development and the potential for adverse drug interactions .

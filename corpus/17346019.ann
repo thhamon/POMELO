@@ -1,0 +1,11 @@
+TS817346019	food 25 32	alcohol
+TS317346019	food 142 149	alcohol
+TS417346019	food 237 244	alcohol
+TS217346019	food 368 375	Alcohol
+TS517346019	food 538 545	alcohol
+TS617346019	food 647 654	alcohol
+TS717346019	food 699 706	alcohol
+T1	drug 475 479	drug
+R1	relation Arg1:TS217346019 Arg2:T1	
+T2	drug 762 767	drugs
+R2	relation Arg1:TS717346019 Arg2:T2	

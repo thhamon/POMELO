@@ -1,0 +1,10 @@
+Oral midazolam-grapefruit juice drug interaction .
+Oral midazolam is a frequently used sedative in pediatric dentistry .
+Although an oral form of midazolam is now commercially available , some practitioners continue to use the IV midazolam as an oral medication .
+If the injectible form of midazolam is administered orally , its bitter taste requires the use of a flavoring agent .
+Grapefruit juice is contraindicated for this purpose as it inhibits cytochrome P450 ( CYP ) 3A4. .
+CYP 3A4 is located in the intestine and liver .
+Inhibition of this cytochrome results in delayed absorption and reduced first pass effect on midazolam .
+This results in increased blood plasma plasma levels of midazolam of 56% and increased midazolam bioavailability of 35%. .
+This can result in excessive levels of sedation for the pediatric patient .
+Grapefruit juice is therefore contraindicated for use with oral midazolam .

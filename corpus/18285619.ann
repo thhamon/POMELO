@@ -1,0 +1,47 @@
+TS418285619	drugEffect 9 24	bioavailability
+TS4218285619	drug 28 44	lisdexamfetamine
+TS4618285619	mealTime 63 69	fasted
+TS618285619	mealTime 74 77	fed
+TS1418285619	drugEffect 183 198	bioavailability
+TS218285619	drug 207 234	lisdexamfetamine dimesylate
+TS3918285619	drug 250 263	d-amphetamine
+TS4018285619	drug 277 290	d-amphetamine
+TS518285619	mealTime 436 440	fast
+TS2318285619	drug 518 534	lisdexamfetamine
+TS318285619	mealTime 619 623	meal
+R1	relation Arg1:TS518285619 Arg2:TS2318285619
+TS2418285619	mealTime 635 640	meals
+TS118285619	drug 667 683	lisdexamfetamine
+TS1318285619	drug 821 837	lisdexamfetamine
+TS3818285619	drug 876 889	d-amphetamine
+TS3718285619	drug 908 924	lisdexamfetamine
+TS1918285619	mealTime 973 976	fed
+TS4318285619	mealTime 980 986	fasted
+TS2818285619	drug 1013 1029	lisdexamfetamine
+TS918285619	food 1068 1080	without food
+TS2918285619	drug 1127 1143	lisdexamfetamine
+TS1018285619	food 1166 1170	food
+R2	relation Arg1:TS918285619 Arg2:TS2818285619
+TS4818285619	drug 1190 1203	d-amphetamine
+TS2118285619	drug 1215 1231	lisdexamfetamine
+TS4418285619	mealTime 1277 1283	fasted
+TS4118285619	mealTime 1323 1338	taken with food
+TS1618285619	drug 1373 1384	amphetamine
+TS1718285619	food 1425 1429	food
+TS4518285619	drug 1468 1481	d-amphetamine
+TS3318285619	drug 1485 1501	lisdexamfetamine
+TS2218285619	drugEffect 1502 1517	bioavailability
+TS3418285619	drug 1545 1561	lisdexamfetamine
+R3	no_effect_on_drug Arg1:TS1718285619 Arg2:TS4518285619
+T1	dosage 45 50	70-mg
+T2	modeadm 202 206	oral
+T3	dosage 512 517	70 mg
+R4	relation Arg1:TS318285619 Arg2:TS2318285619	
+T4	food 610 618	high-fat
+R5	relation Arg1:TS1018285619 Arg2:TS2918285619	
+T5	dosage 925 930	70 mg
+T6	sideeffect 1341 1355	Adverse events
+R6	has_sideeffect Arg1:TS1618285619 Arg2:T6	
+R7	no_effect_on_drug Arg1:TS1718285619 Arg2:TS3318285619	
+R8	has_effect Arg1:TS3318285619 Arg2:TS2218285619	
+R9	has_effect Arg1:TS4518285619 Arg2:TS2218285619	

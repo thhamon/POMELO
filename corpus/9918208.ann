@@ -1,0 +1,51 @@
+TS129918208	drug 25 48	nonclassical antifolate
+TS69918208	drug 49 75	nolatrexed dihydrochloride
+TS109918208	drug 169 195	nolatrexed dihydrochloride
+TS119918208	drugEffect 372 387	bioavailability
+TS99918208	drugEffect 592 607	bioavailability
+TS89918208	mealTime 678 682	meal
+TS19918208	drugEffect 893 908	bioavailability
+TS149918208	sideeffect 988 998	toxicities
+TS29918208	mealTime 1084 1105	After a standard meal
+TS139918208	mealTime 1457 1463	fasted
+TS49918208	food 1561 1565	food
+TS79918208	drugEffect 1972 1987	Bioavailability
+TS39918208	mealTime 2115 2136	after a standard meal
+T1	drug 86 94	THYMITAQ
+T2	drug 206 214	THYMITAQ
+T3	modeadm 110 116	orally
+T4	duration 117 127	for 5 days
+T5	drug 221 264	nonclassical thymidylate synthase inhibitor
+T6	modeadm 442 446	oral
+T7	drug 447 457	nolatrexed
+T8	numbers 478 497	Forty-five patients
+T9	modeadm 516 520	oral
+T10	drug 521 531	nolatrexed
+T11	frequency 532 541	every 6 h
+T12	duration 542 552	for 5 days
+T13	dosage 565 580	288-1000 mg  m2
+T14	frequency 582 585	day
+T15	modeadm 615 619	oral
+T16	drug 686 696	nolatrexed
+T17	dosage 738 748	800 mg  m2
+T18	frequency 750 753	day
+T19	drug 756 766	Nolatrexed
+T20	drug 847 857	Nolatrexed
+T21	dosage 1066 1076	800 mg  m2
+T22	frequency 1078 1081	day
+T23	modeadm 1052 1056	oral
+T24	drug 1124 1134	nolatrexed
+T25	drug 1491 1501	nolatrexed
+R1	no_effect_on_drug Arg1:TS49918208 Arg2:T25	
+T26	drug 1583 1593	nolatrexed
+T27	drug 1869 1879	Nolatrexed
+T28	sideeffect 1660 1689;1814 1829	decrease in both thrombocytes and neutrophils
+R2	has_sideeffect Arg1:T26 Arg2:T28	
+T29	modeadm 1913 1917	oral
+T30	dosage 1943 1953	800 mg  m2
+T31	frequency 1955 1958	day
+T32	duration 1959 1969	for 5 days
+T33	drugEffect 2020 2054	inhibition of thymidylate synthase
+T34	drug 2058 2068	nolatrexed
+R3	has_effect Arg1:T34 Arg2:T33	
+R4	slow_absorption Arg1:TS39918208 Arg2:T34	

@@ -1,0 +1,16 @@
+Serum 25-hydroxyvitamin D , vitamin A , and lung cancer mortality in the US population: a potential nutrient-nutrient interaction .
+Excess vitamin A may interrupt vitamin D- D-mediated transcription of target genes .
+This study investigated whether serum 25-hydroxyvitamin D [25 ( OH ) D] concentrations were associated with lung cancer mortality , and whether this association varied by excess circulating vitamin A and vitamin A   β-carotene supplement use .
+We analyzed 16 , 693 men and women in the Third National Health and Nutrition Examination Survey ( NHANES III ) , 1988-1994. .
+Lung cancer mortality ( n = 258 , 104 were former smokers and 23 were never smokers ) were identified through National Death Index as of 2006. .
+Serum 25 ( OH ) D was measured by a radioimmunoassay .
+Vitamin A biomarkers including serum retinol ,  β-carotene , and retinyl esters were measured by HPLC .
+Supplement use for the past month was obtained by self-report .
+Multivariate-adjusted hazard ratios ( HR ) were estimated by Cox proportional hazard models .
+There was no association of serum 25 ( OH ) D with overall lung cancer mortality .
+Among nonsmokers , â¥44 vs. .
+sentinf44 nmol  L of serum 25 ( OH ) D was associated with a decreased risk ( HR = 0.53 , 95 % CI = 0.31-0.92 , former  never smokers and HR = 0.31 , 95 % CI = 0.13-0.77 , distant-former [quit â¥20 years]  never smokers ) .
+The associations were not observed among participants with excess circulating vitamin A ( serum retinyl esters â¥7.0 Î¼g  dL or the ratio of retinyl esters to retinol â¥0.08 ) or vitamin A   β-carotene supplement users .
+However , statistical evidence to support effect modification of vitamin A was less clear .
+Serum 25 ( OH ) D concentrations were inversely associated with lung cancer mortality in nonsmokers .
+The beneficial association was diminished among those with excess circulating vitamin A or vitamin A   β-carotene supplement users .

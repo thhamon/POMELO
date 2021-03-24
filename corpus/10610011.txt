@@ -1,0 +1,16 @@
+Atovaquone suspension in HIV-infected volunteers: pharmacokinetics , pharmacodynamics , and TMP-SMX interaction study .
+To evaluate the pharmacokinetics and safety of atovaquone suspension in volunteers infected with the human immunodeficiency virus ( ( HIV ) .
+Open-label , nonrandomized study .
+Two clinical research centers .
+Twenty-two HIV-infected volunteers with a median CD4 cell count of 37 cells  mm3. .
+Patients received atovaquone suspension fasting or fed for 2-week periods with crossover at dosages of 500 mg  day , and randomization to fasting or fed at dosages of 750 and 1000 mg  day .
+A subset of patients also received 750 mg twice  day with food , and a subset of those who received 1000 mg  day fasting also received 1000 mg with food .
+During a long-term dosing phase , a subset of subjects were evaluated for an interaction between atovaquone and trimethoprim- sulfamethoxazole ( TMP-SMX ) .
+Average steady-state atovaquone concentrations at 500 mg were 6.7 +  - 3.2 microg  ml fasted and 11.3 +  - 5.0 microg  ml with food ; at 750 mg , 9.9 +  - 7.1 microg  ml fasted and 12.5 +  - 5.9 microg  ml with food ; at 1000 mg , 9.7 +  - 4.3 microg  ml fasted and 13.6 +  - 5.0 microg  ml with food ; and at 1500 mg , 21.1 +  - 5.0 microg  ml with food .
+Thus , plasma concentrations were not proportional to dose .
+Concomitant food ingestion resulted in a 1.3- to 1.7-fold increase in values .
+Average steady-state concentrations were less than 10 microg  ml in 21% and more than 15 microg  ml in 36% of patients at 1000 mg  day with food ; at 750 mg twice  day , all five patients had levels above 15 microg  ml .
+Atovaquone suspension was well tolerated ; diarrhea , nausea , fatigue , and rash were the most common adverse events .
+Concomitant administration of TMP-SMX did not change atovaquone concentrations and resulted in small decreases in concentrations of TMP ( 16% ) and SMX ( 10% ) .
+Plasma concentrations are significantly higher when atovaquone suspension is administered with food compared with fasting .
+Total doses of 1500 mg  day are likely to achieve concentrations effective for prophylaxis of Pneumocystis carinii pneumonia .

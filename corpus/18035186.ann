@@ -1,0 +1,58 @@
+TS1018035186	drug 24 34	rasagiline
+TS2818035186	drug 57 84	monoamine oxidase inhibitor
+TS3118035186	treatedDisease 108 127	Parkinson's disease
+Inhib
+TS318035186	drug 304 312	dopamine
+TS4118035186	drug 315 325	Rasagiline
+TS2018035186	treatedDisease 517 536	Parkinson's disease
+TS918035186	drug 641 651	rasagiline
+TS1918035186	drug 992 1002	rasagiline
+TS2218035186	drug 1009 1019	selegiline
+TS1618035186	drug 1127 1137	rasagiline
+TS2918035186	drug 1261 1271	rasagiline
+TS1418035186	drug 1451 1461	rasagiline
+TS718035186	drug 1515 1525	selegiline
+TS2418035186	drug 1553 1576	amphetamine derivatives
+TS3818035186	drug 1579 1589	Rasagiline
+TS518035186	drug 1736 1746	rasagiline
+TS218035186	treatedDisease 1940 1959	Parkinson's Disease
+TS3018035186	drug 2021 2031	rasagiline
+TS1218035186	drug 2176 2186	rasagiline
+TS1318035186	drug 2359 2369	rasagiline
+TS1118035186	drug 2374 2384	entacapone
+TS618035186	drug 2531 2541	Rasagiline
+TS1818035186	drug 2697 2707	rasagiline
+TS2318035186	foodSupplement 2770 2791	diet-derived tyramine
+TS3318035186	drug 2867 2875	tyramine
+TS3418035186	drug 2961 2969	tyramine
+TS418035186	drug 2997 3007	rasagiline
+TS2618035186	drug 3127 3137	rasagiline
+TS818035186	drug 3277 3287	rasagiline
+T1	drug 130 169	Inhibitors of monoamine oxidase ( MAO )
+T2	drug 327 358	N-propargyl-l ( R ) -aminoindan
+T3	drug 383 397	propargylamine
+T4	drugEffect 446 466	inhibits brain MAO-B
+T5	treatedDisease 539 541	PD
+T6	treatedDisease 672 674	PD
+T7	treatedDisease 955 972	Parkinson disease
+T8	drug 975 989	propargylamine
+R1	treat Arg1:TS2818035186 Arg2:TS3118035186	
+R3	treat Arg1:TS1018035186 Arg2:TS3118035186	
+R4	has_effect Arg1:TS4118035186 Arg2:T4	
+T9	treatedDisease 1633 1635	PD
+T10	treatedDisease 1691 1693	PD
+T11	treatedDisease 1698 1716	motor fluctuations
+T12	dosage 2032 2036	1 mg
+T13	drugEffect 2729 2760	augment the vasopressor effects
+R5	has_effect Arg1:TS1818035186 Arg2:T13	
+T14	treatedDisease 2672 2674	PD
+T15	sideeffect 2805 2820	cheese reaction
+T16	drugEffect 3085 3101	MAO-B inhibition
+T17	drugEffect 3031 3057	neuroprotective properties
+R2	has_effect Arg1:TS418035186 Arg2:T17	
+R6	has_effect Arg1:TS418035186 Arg2:T16	
+T18	treatedDisease 3214 3216	PD
+T19	treatedDisease 3248 3266	motor fluctuations
+R7	treat Arg1:TS3818035186 Arg2:T9	
+R8	treat Arg1:TS3818035186 Arg2:T11	
+T20	treatedDisease 3379 3381	PD

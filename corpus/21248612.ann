@@ -1,0 +1,46 @@
+TS2421248612	drug 65 80	tranexamic acid
+TS1221248612	treatedDisease 93 117	heavy menstrual bleeding
+TS1021248612	drug 388 403	tranexamic acid
+TS1621248612	treatedDisease 552 576	heavy menstrual bleeding
+TS1721248612	drug 658 673	tranexamic acid
+TS2121248612	mealTime 771 778	fasting
+TS321248612	mealTime 828 843	after breakfast
+TS2221248612	drug 884 903	tranexamic acid MIR
+TS2321248612	drug 907 925	tranexamic acid DR
+TS721248612	drug 1021 1036	tranexamic acid
+TS821248612	drug2 1163 1167	acid
+TS921248612	drug2 1187 1191	acid
+TS521248612	food 1217 1221	Food
+TS1321248612	drug2 1263 1267	acid
+TS421248612	mealTime 1299 1314	a high-fat meal
+TS1421248612	drug2 1388 1392	acid
+R1	relation Arg1:TS521248612 Arg2:TS1321248612
+TS2021248612	drug2 1458 1462	acid
+TS221248612	drug2 1712 1716	acid
+TS1921248612	sideeffect 1883 1891	bleeding
+T1	modeadm 44 48	oral
+T2	modeadm 371 387	modified-release
+T3	dosage 622 627	1.3-g
+T4	dosage 636 652	2 650-mg tablets
+T5	modeadm 674 708	modified-immediate-release ( MIR )
+T6	drug 713 728	tranexamic acid
+T7	modeadm 729 751	delayed-release ( DR )
+T8	mealTime 804 825	nonfasting conditions
+T9	drug 1149 1168	tranexamic acid MIR
+T10	drug 1173 1191	tranexamic acid DR
+T11	drug 1249 1268	tranexamic acid MIR
+T12	food 1214 1218	Food
+R2	no_effect_on_drug Arg1:T12 Arg2:T11	
+T13	food 1298 1311	high-fat meal
+T14	drug 1374 1392	tranexamic acid DR
+R3	decrease_absorption Arg1:T13 Arg2:T14	
+T15	drug 1444 1459	tranexamic acid
+T16	modeadm 1562 1565	MIR
+T17	modeadm 1604 1627	MIR and DR formulations
+T18	drug 1697 1716	tranexamic acid MIR
+T19	dosage 1717 1722	1.3-g
+T20	frequency 1739 1752	every 8 hours
+T21	frequency 1758 1771	3 times daily
+T22	duration 1774 1790	for up to 5 days
+T23	treatedDisease 1863 1887	heavy menstrual bleeding
+R4	treat Arg1:TS2421248612 Arg2:TS1221248612	

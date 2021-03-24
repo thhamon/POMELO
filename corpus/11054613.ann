@@ -1,0 +1,29 @@
+TS111054613	drug 0 10	Dofetilide
+TS1811054613	drug 34 64	class III antiarrhythmic agent
+TS211054613	drug 99 120	antiarrhythmic agents
+TS2211054613	treatedDisease 147 166	atrial fibrillation
+TS611054613	treatedDisease 170 177	flutter
+TS2111054613	drug 253 263	Dofetilide
+TS2011054613	treatedDisease 375 386	arrhythmias
+TS911054613	drug 414 424	dofetilide
+TS811054613	treatedDisease 558 586	supraventricular arrhythmias
+TS311054613	drug 641 651	dofetilide
+TS1911054613	treatedDisease 810 828	atrial arrhythmias
+TS1411054613	treatedDisease 844 863	atrial fibrillation
+TS2511054613	treatedDisease 868 875	flutter
+TS1711054613	sideeffect 954 973	torsades de pointes
+TS711054613	drug 1043 1053	dofetilide
+TS2611054613	drug 1190 1201	Dofetilide'
+TS511054613	treatedDisease 1345 1364	atrial fibrillation
+TS411054613	treatedDisease 1368 1375	flutter
+T1	sideeffect 194 203	drawbacks
+T2	drugEffect 656 677	renally excreted drug
+T3	drugEffect 721 772	blockade of the delayed rectifier potassium current
+R1	has_effect Arg1:TS311054613 Arg2:T3	
+T4	treatedDisease 1011 1040	impaired ventricular function
+R2	treat Arg1:TS211054613 Arg2:TS2211054613	
+R3	treat Arg1:TS211054613 Arg2:TS611054613	
+R4	treat Arg1:TS911054613 Arg2:TS811054613	
+R5	treat Arg1:TS2111054613 Arg2:TS2011054613	
+R6	treat Arg1:TS711054613 Arg2:T4	
+T5	treatedDisease 1400 1429	impaired ventricular function

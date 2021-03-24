@@ -1,0 +1,31 @@
+TS2321544521	food 37 41	chow
+TS3921544521	drug 116 141	dopamine-receptor agonist
+TS3321544521	food 174 178	food
+TS921544521	sideeffect 183 205	alter dopamine systems
+R2	relation Arg1:TS3321544521 Arg2:TS921544521
+TS2521544521	food 310 314	food
+TS2621544521	food 346 350	food
+TS421544521	food 497 500	fat
+TS3521544521	food 506 514	high-fat
+TS1521544521	food 589 597	high-fat
+TS2921544521	food 728 741	standard chow
+TS1721544521	food 766 786	standard or high-fat
+TS3021544521	sideeffect 858 884	quinpirole-induced yawning
+TS1821544521	food 1061 1069	high-fat
+TS1421544521	sideeffect 1134 1164	quinpirole-induced hypothermia
+TS621544521	food 1322 1330	high-fat
+TS1921544521	food 1407 1415	high-fat
+TS2721544521	sideeffect 1436 1454	insulin resistance
+TS4321544521	drug 1542 1567	dopamine-receptor agonist
+TS121544521	drug 1743 1750	insulin
+TS221544521	sideeffect 1755 1774	insulin sensitivity
+TS3421544521	mealTime 1703 1721	feeding conditions
+T1	drug 142 152	quinpirole
+T2	drug 623 633	quinpirole
+R1	increase_side_effect Arg1:TS1721544521 Arg2:TS3021544521	
+T3	drug 1276 1286	quinpirole
+R5	increase_side_effect Arg1:TS1921544521 Arg2:TS2721544521	
+T4	food 1500 1504	chow
+R3	relation Arg1:T4 Arg2:TS4321544521	
+T5	drug 1810 1842	drugs acting on dopamine systems
+R4	relation Arg1:TS3421544521 Arg2:T5	

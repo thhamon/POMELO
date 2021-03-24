@@ -1,0 +1,48 @@
+TS1919473600	food 13 17	food
+TS2519473600	drug 52 64	fesoterodine
+R1	relation Arg1:TS1919473600 Arg2:TS2519473600
+TS419473600	drug 67 79	Fesoterodine
+TS2119473600	drug 111 131	antimuscarinic agent
+TS2319473600	treatedDisease 163 181	overactive bladder
+TS2219473600	drug 286 323	5-hydroxymethyl tolterodine ( 5-HMT )
+TS1819473600	drug 363 375	fesoterodine
+TS619473600	food 551 555	food
+TS1019473600	drug 604 616	fesoterodine
+R2	relation Arg1:TS619473600 Arg2:TS1019473600
+TS819473600	drug 693 705	fesoterodine
+TS119473600	food 767 770	fed
+TS1219473600	food 781 789	high-fat
+TS3319473600	food 792 804	high-calorie
+TS319473600	mealTime 805 814	breakfast
+TS3519473600	mealTime 820 826	fasted
+TS919473600	food 919 923	food
+TS3019473600	drug 1337 1342	5-HMT
+TS3119473600	drug 1410 1422	fesoterodine
+TS2619473600	mealTime 1445 1448	fed
+TS3619473600	mealTime 1460 1466	fasted
+TS1619473600	drug 2243 2248	5-HMT
+TS2819473600	food 1720 1724	food
+TS2019473600	mealTime 1904 1907	fed
+TS3419473600	mealTime 1912 1918	fasted
+TS2919473600	drug 1928 1940	Fesoterodine
+TS219473600	mealTime 2042 2045	fed
+TS3219473600	mealTime 2050 2056	fasted
+TS2419473600	food 2089 2093	food
+TS1519473600	drug 2227 2230	AUC
+TS1419473600	drug 2368 2380	fesoterodine
+TS1719473600	mealTime 2431 2436	meals
+T1	frequency 91 101	once-daily
+T2	modeadm 104 108	oral
+R5	treat Arg1:TS2119473600 Arg2:TS2319473600	
+R6	treat Arg1:TS419473600 Arg2:TS2319473600	
+T3	drug 385 390	5-HMT
+T4	frequency 460 470	once-daily
+T5	drug 559 564	5-HMT
+R7	relation Arg1:TS619473600 Arg2:T5	
+T6	dosage 706 710	8 mg
+T7	modeadm 728 734	orally
+T8	drug 1086 1091	5-HMT
+T9	mealTime 1548 1559	fed  fasted
+R3	no_effect_on_drug Arg1:TS219473600 Arg2:TS2919473600	
+R8	no_effect_on_drug Arg1:TS3219473600 Arg2:TS2919473600	
+R4	no_effect_on_drug Arg1:TS1719473600 Arg2:TS1419473600	

@@ -1,0 +1,12 @@
+Clinical safety , tolerability , pharmacokinetics , and pharmacodynamics of the novel factor Xa inhibitor edoxaban in healthy volunteers .
+This is a clinical safety , tolerability , pharmacokinetics ( PK ) , and pharmacodynamics ( PD ) study of a single ascending dose ( SAD ) and a multiple ascending dose ( MAD ) of the oral direct factor Xa inhibitor edoxaban in healthy males .
+The placebo-controlled , single-blind , randomized , 2-part study consists of a SAD arm with 85 subjects ( 10 , 30 , 60 , 90 , 120 , 150 mg ) and a MAD arm with 36 subjects ( 90 mg daily , 60 mg twice daily , 120 mg daily ) .
+Effects of food and formulation ( tablet vs solution ) are assessed in a crossover substudy .
+In the SAD , doses are well tolerated up to 150 mg .
+Exposure is proportional to dose .
+PK profiles are consistent across dose with rapid absorption , biphasic elimination , and terminal elimination half-life of 5.8 to 10.7 hours .
+In the MAD , mean accumulation after daily dosing is 1.10 to 1.13 and consistent with elimination half-life of 8.75 to 10.4 hours .
+Intrasubject variability ranges from 12% to 17% for area under the curve .
+In general , plasma edoxaban concentrations are linearly correlated with coagulation parameters .
+Edoxaban is safe and well tolerated with no dose-dependent increases in adverse events .
+It is concluded that single and multiple doses of edoxaban are safe and well tolerated up to 150 mg with predictable PK and PD profiles .

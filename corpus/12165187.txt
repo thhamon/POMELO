@@ -1,0 +1,11 @@
+Herb- Herb-drug , food- food-drug , nutrient- nutrient-drug , and drug-drug interactions interactions: mechanisms involved and their medical implications .
+Adverse drug reactions ( ADRs ) and iatrogenic diseases have been identified as significant factors responsible for patient morbidity and mortality .
+Significant studies on drug metabolism in humans have been published during the last few years , offering a deeper comprehension of the mechanisms underlying adverse drug reactions and interactions .
+More understanding of these mechanisms , and of recent advances in laboratory technology , can help to evaluate potential drug interactions when drugs are prescribed concurrently .
+Increasing knowledge of interindividual variation in drug breakdown capacity and recent findings concerning the influence of environment , diet , nutrients , and herbal products can be used to reduce ADRs and iatrogenic diseases .
+Reviewed data suggest that drug treatment should be increasingly custom tailored to suit the individual patient and that appropriately co-prescribed diet and herbal remedies , could increase drug efficacy and lessen drug toxicity .
+This review focuses mainly on recently published research material .
+The cytochrome p450 enzymes , their role in metabolism , and their mechanisms of action are reviewed , and their role in drug-drug interactions are discussed .
+Drug-food and drug-herb interactions have garnered attention .
+Interdisciplinary communication among medical herbalists , medical doctors , and dietetic experts needs to be improved and encouraged .
+Internet resources for obtaining current information regarding drug-drug , drug-herb , and drug-nutrient interactions are provided .

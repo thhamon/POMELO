@@ -1,0 +1,9 @@
+Effect of food on the pharmacokinetics of erlotinib , an orally active epidermal growth factor receptor tyrosine-kinase inhibitor , in healthy individuals .
+The effects of food on the pharmacokinetics of erlotinib were investigated in two open-label , randomized studies .
+In a single-dose crossover study ( n = 18 ) , 150 mg of erlotinib was administered under either fasting or fed conditions .
+In the first period , an approximate doubling in the area under the plasma concentration-time curve was evidenced by the geometric mean ratio ( GMR ) of 2.09 observed under fed conditions ; whereas , in the second period there was a decrease , with a GMR of 0.93. .
+In a multiple-dose parallel study ( n = 22 ) , 100 mg of erlotinib was administered daily for 8 days , either 7 days of fasting followed by feeding on day 8 , or the reverse sequence .
+In this study , food resulted in an increase in the plasma concentration-time curve on day 1 , with a GMR of 1.66 ( P = 0.015 ) .
+In contrast , there was only a 37% increase on day 7 , with a GMR of 1.34 ( P = 0.252 ) .
+These studies indicate that food can substantially increase plasma exposure to erlotinib .
+Given the maximum tolerated dose of erlotinib used in clinical practice , we recommend that erlotinib be taken under conditions of fasting .

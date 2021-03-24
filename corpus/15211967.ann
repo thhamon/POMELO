@@ -1,0 +1,11 @@
+TS215211967	drug 40 53	acenocoumarol
+TS315211967	sideeffect 133 151	subdural haematoma
+TS115211967	drug 190 203	acenocoumarol
+TS415211967	drug 284 297	acenocoumarol
+TS915211967	drug 343 356	acenocoumarol
+TS515211967	drug 591 604	acenocoumarol
+TS715211967	drug 776 789	acenocoumarol
+R1	has_sideeffect Arg1:TS115211967 Arg2:TS315211967	
+T1	modeadm 541 545	oral
+T2	modeadm 522 529	enteral
+T3	modeadm 694 701	enteral

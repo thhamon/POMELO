@@ -1,0 +1,17 @@
+TS3718363644	sideeffect 72 94	herb-drug interactions
+TS1618363644	food 125 141	grapefruit juice
+TS2018363644	sideeffect 219 248	modify cytochrome P450 enzyme
+TS3818363644	drug 482 505	immunosuppressive drugs
+TS618363644	sideeffect 536 547	interaction
+TS218363644	food 585 601	grapefruit juice
+TS1718363644	sideeffect 633 644	interaction
+TS2118363644	food 792 808	grapefruit juice
+TS1118363644	sideeffect 828 859	inhibition of intestinal CYP3A4
+TS3318363644	sideeffect 919 931	interactions
+TS1818363644	food 1020 1025	foods
+TS1918363644	food 1028 1034	spices
+TS2618363644	drug 1039 1054	medicinal herbs
+TS1518363644	sideeffect 1170 1182	interactions
+TS3618363644	sideeffect 1365 1387	herb-drug interactions
+T1	sideeffect 448 458	overdosage
+T2	sideeffect 462 478	loss of efficacy

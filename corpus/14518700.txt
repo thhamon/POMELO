@@ -1,0 +1,12 @@
+Administration of indinavir and low-dose ritonavir ( 800  100 mg twice daily ) with food reduces nephrotoxic peak plasma levels of indinavir .
+The objective of this study was to compare indinavir peak plasma ( Cmax ) values after administration of indinavir  ritonavir 800  100 mg on an empty stomach or with food .
+High indinavir Cmax values have been associated with indinavir- indinavir-related nephrotoxicity .
+This was an open-label , randomized , two-treatment , two-period , cross-over pharmacokinetic study performed at steady state .
+HIV-infected patients who had been using indinavir  ritonavir 800  100 mg twice daily for at least 4 weeks were randomized to take this combination with a light breakfast ( two filled rolls and 130 ml of fluid ) on a first study day , and without food on a second day , or in the reverse order .
+The pharmacokinetics of indinavir and ritonavir were assessed after plasma and urine sampling during 12 h .
+Data for nine patients were evaluated .
+Administration of indinavir  ritonavir 800  100 mg on an empty stomach resulted in a higher indinavir Cmax [geometric mean ( GM ) ratio - fasting  fed and 95% confidence interval ( CI ) : 1.28 ( 1.08-1.52 ) , P=0.01] and a trend to a shorter indinavir tmax ( P=0.07 ) compared to administration with food .
+The mode of administration of indinavir  ritonavir did not affect plasma indinavir Cmax and AUC values , parameters that have been associated with the antiviral efficacy of indinavir , nor the urinary excretion of indinavir .
+Administration of indinavir  ritonavir 800  100 mg on an empty stomach results in a higher indinavir Cmax compared to ingestion with a light meal .
+Stated the other way round , intake with a light meal reduces indinavir Cmax , which probably reflects a food- food-induced delay in the absorption of indinavir .
+It is recommended to administer indinavir  ritonavir 800  100 mg with food , as a possible means to prevent indinavir- indinavir-related nephrotoxicity in patients who start or continue with this regimen .

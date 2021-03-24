@@ -1,0 +1,17 @@
+TS1322473649	drug 91 105	anticoagulants
+TS122473649	drug 119 130	rivaroxaban
+TS1122473649	drug 135 143	apixaban
+TS1622473649	drug 846 856	dabigatran
+TS622473649	drug 165 173	warfarin
+TS822473649	sideeffect 229 251	drug-drug interactions
+TS922473649	sideeffect 267 289	food-drug interactions
+TS1022473649	drug 326 334	antidote
+TS522473649	sideeffect 356 364	bleeding
+TS322473649	treatedDisease 492 502	thrombosis
+TS222473649	drug 507 522	anticoagulation
+TS1422473649	drug 654 667	anticoagulant
+TS1222473649	drug 691 705	anticoagulants
+TS722473649	drug 745 763	activated charcoal
+T1	drug 42 75	thrombin and factor Xa inhibitors
+T2	modeadm 37 41	oral
+T3	drug 106 116	dabigatran

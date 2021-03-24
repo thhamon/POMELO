@@ -1,0 +1,3 @@
+TS121720234	drug 10 17	lithium
+TS221720234	food 52 61	Coca-Cola
+R1	relation Arg1:TS221720234 Arg2:TS121720234	

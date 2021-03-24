@@ -1,0 +1,13 @@
+Clinical evidence of pharmacokinetic changes in thalidomide therapy .
+The teratogenic effects of thalidomide have been studied for more than 50 years .
+However , there have been few studies of the pharmacokinetic changes occurring during thalidomide therapy .
+Thalidomide was originally developed as a sedative .
+However , thalidomide induces multiple birth defects when used in pregnant women .
+Thalidomide is now used in the treatment of multiple myeloma ( MM ) and erythema nodosum leprosum ( ENL ) in Japan .
+Rational use of thalidomide is problematic due to a lack of basic research regarding its mechanism of action and serum concentration  effect relationships .
+There are a number of hypotheses for pharmacokinetic changes in thalidomide therapy .
+Genetic factors including single nucleotide polymorphisms ( SNPs ) that change cytochrome P450 ( CYP ) activity and epigenetic regulation that modifies CYP expression levels may contribute to the changes in pharmacokinetics and adverse drug reactions ( ADRs ) of thalidomide .
+Environmental factors include the pharmacological context of drug-drug interactions and the physiological context of liver diseases .
+Liver and kidney diseases do not play important roles in pharmacokinetic changes or ADRs in thalidomide therapy .
+To date , most research has focused on teratogenic activity , while the impact of polymorphisms in genes encoding drug metabolic enzymes and drug-drug interactions could mediate ADRs .
+Here , we discuss clinical evidence of pharmacokinetic changes in thalidomide therapy .

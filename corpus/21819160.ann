@@ -1,0 +1,126 @@
+TS221819160	drug 18 29	saxagliptin
+TS6021819160	drug 31 40	metformin
+TS321819160	drug 117 128	saxagliptin
+TS6121819160	drug 133 142	metformin
+TS4321819160	drug 220 231	saxagliptin
+TS2221819160	drug 233 242	metformin
+TS4721819160	drug 472 483	saxagliptin
+TS1621819160	drug 485 494	metformin
+TS4821819160	drug 531 542	saxagliptin
+TS1721819160	drug 544 553	metformin
+TS6221819160	food 699 703	food
+TS4021819160	drug 707 718	saxagliptin
+TS6321819160	drug 723 732	metformin
+TS4121819160	drug 759 770	saxagliptin
+TS6421819160	drug 772 781	metformin
+TS4221819160	drug 851 862	saxagliptin
+TS6521819160	drug 864 873	metformin
+R2	relation Arg1:TS6221819160 Arg2:TS4021819160
+R3	relation Arg1:TS6221819160 Arg2:TS6321819160
+TS3821819160	drug 1098 1109	saxagliptin
+TS5221819160	drug 1111 1120	metformin
+TS2721819160	mealTime 1155 1158	fed
+TS6721819160	mealTime 1163 1169	fasted
+TS3921819160	drug 1205 1216	saxagliptin
+TS5321819160	drug 1226 1235	metformin
+TS2821819160	mealTime 1269 1272	fed
+TS2921819160	drug 1314 1325	saxagliptin
+TS2421819160	drug 1327 1336	metformin
+TS3421819160	mealTime 1372 1375	fed
+TS3021819160	drug 1384 1395	saxagliptin
+TS2521819160	drug 1410 1419	metformin
+TS3521819160	food3 1453 1456	fed
+TS3121819160	drug 1469 1480	saxagliptin
+TS2621819160	drug 1482 1491	metformin
+TS3621819160	food3 1542 1545	fed
+R5	relation Arg1:TS3421819160 Arg2:TS3021819160
+R6	relation Arg1:TS3521819160 Arg2:TS3121819160
+TS4921819160	drug 1681 1692	saxagliptin
+TS3721819160	drug 1697 1706	metformin
+TS6821819160	food3 1950 1956	fasted
+TS2121819160	food 1965 1969	food
+TS1921819160	drug 2030 2041	saxagliptin
+TS5021819160	drug 2046 2055	metformin
+TS2021819160	drug 2081 2092	saxagliptin
+TS5121819160	drug 2094 2103	metformin
+R7	relation Arg1:TS6821819160 Arg2:TS1921819160
+R8	relation Arg1:TS6821819160 Arg2:TS2021819160
+R9	relation Arg1:TS2121819160 Arg2:TS1921819160
+TS721819160	drug 2130 2141	saxagliptin
+TS621819160	drug 2143 2152	metformin
+TS5521819160	drug 2281 2292	saxagliptin
+TS5921819160	drug 2297 2306	metformin
+TS1321819160	drug 2387 2398	Saxagliptin
+TS1021819160	drug 2400 2409	metformin
+TS1421819160	drug 2430 2441	saxagliptin
+TS1121819160	drug 2443 2452	metformin
+TS1521819160	drug 2519 2530	saxagliptin
+TS1221819160	drug 2535 2544	metformin
+TS121819160	food 2584 2588	food
+TS5621819160	drug 2634 2645	saxagliptin
+TS4421819160	drug 2650 2659	metformin
+TS5721819160	drug 2680 2691	saxagliptin
+TS4521819160	drug 2693 2702	metformin
+TS5821819160	drug 2768 2779	saxagliptin
+TS4621819160	drug 2781 2790	metformin
+R10	relation Arg1:TS121819160 Arg2:TS5621819160
+TS521819160	drug 2888 2899	saxagliptin
+TS1821819160	drug 2901 2910	metformin
+TS5421819160	drug 2962 2973	saxagliptin
+TS2321819160	drug 2975 2984	metformin
+TS3221819160	drug 3142 3153	saxagliptin
+TS821819160	drug 3158 3167	metformin
+TS3321819160	drug 3191 3202	saxagliptin
+TS921819160	drug 3204 3213	metformin
+T1	modeadm 41 57	extended-release
+T2	modeadm 243 259	extended-release
+T3	frequency 379 389	once-daily
+T4	dosage 498 510	5 mg  500 mg
+T5	dosage 557 570	5 mg  1000 mg
+T6	dosage 785 797	5 mg  500 mg
+T7	dosage 877 890	5 mg  1000 mg
+T8	dosage 1124 1136	5 mg  500 mg
+T9	dosage 1340 1353	5 mg  1000 mg
+T10	drug 1409 1418	metformin
+T11	dosage 1217 1221	5 mg
+T12	dosage 1239 1245	500 mg
+T13	dosage 1396 1400	5 mg
+T14	frequency 1405 1408	2 ×
+T15	dosage 1422 1428	500 mg
+T16	drug 1468 1481	saxagliptin  
+T17	drug 1481 1490	metformin
+T18	dosage 1494 1507	5 mg  1000 mg
+T19	frequency 1512 1522	once daily
+T20	duration 1523 1533	for 4 days
+T21	drug 1680 1691	saxagliptin
+T22	drug 1696 1705	metformin
+T23	food 1964 1968	food
+T24	mealTime 1949 1961	fasted state
+T25	drug 2129 2142	saxagliptin  
+T26	drug 2029 2040	saxagliptin
+T27	drug 2045 2054	metformin
+T29	drug 2093 2102	metformin
+T30	dosage 2106 2118	5 mg  500 mg
+R1	no_effect_on_drug Arg1:T23 Arg2:T26	
+R4	no_effect_on_drug Arg1:T23 Arg2:T27	
+T31	drug 2142 2151	metformin
+T32	dosage 2155 2168	5 mg  1000 mg
+T33	drug 2280 2291	saxagliptin
+T34	drug 2296 2305	metformin
+T35	drug 2386 2408	Saxagliptin  metformin
+T36	dosage 2412 2424	5 mg  500 mg
+T37	drug 2429 2451	saxagliptin  metformin
+T38	dosage 2455 2468	5 mg  1000 mg
+T39	drug 2518 2529	saxagliptin
+T40	drug 2534 2543	metformin
+T41	drug 2633 2644	saxagliptin
+T42	drug 2649 2658	metformin
+T43	drug 2679 2701	saxagliptin  metformin
+T44	dosage 2705 2717	5 mg  500 mg
+T45	drug 2767 2788	saxagliptin  metformi
+T46	dosage 2793 2806	5 mg  1000 mg
+T47	drug 2887 2909	saxagliptin  metformin
+T48	drug 2961 2983	saxagliptin  metformin
+T49	drug 3141 3152	saxagliptin
+T50	drug 3157 3166	metformin
+T51	drug 3190 3212	saxagliptin  metformin

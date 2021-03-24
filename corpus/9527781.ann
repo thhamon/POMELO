@@ -1,0 +1,35 @@
+TS219527781	drug 32 41	indinavir
+TS159527781	food 60 64	food
+TS359527781	drug 67 84	Indinavir sulfate
+TS69527781	drug 90 154	human immunodeficiency virus type 1 ( HIV-1 ) protease inhibitor
+TS259527781	treatedDisease 182 195	HIV infection
+TS329527781	food 351 355	food
+TS39527781	drug 380 389	Indinavir
+TS319527781	drug 537 546	indinavir
+TS89527781	mealTime 575 588	fasting state
+TS339527781	drug 1307 1324	indinavir sulfate
+TS59527781	food 1337 1355	high-fat breakfast
+TS419527781	mealTime 1477 1483	fasted
+TS209527781	mealTime 1518 1521	fed
+TS429527781	mealTime 1572 1577	meals
+TS349527781	drug 1650 1667	indinavir sulfate
+TS409527781	mealTime 1699 1705	fasted
+TS179527781	mealTime 1768 1771	fed
+TS389527781	drug 1844 1853	indinavir
+TS269527781	sideeffect 1927 1942	nephrolithiasis
+TS199527781	drug 1968 1985	indinavir sulfate
+TS29527781	food 2007 2012	water
+R1	relation Arg1:TS159527781 Arg2:TS219527781	
+R2	treat Arg1:TS359527781 Arg2:TS259527781	
+R3	treat Arg1:TS69527781 Arg2:TS259527781	
+R4	relation Arg1:TS89527781 Arg2:TS319527781	
+T1	dosage 710 727	40- to 1 , 000-mg
+T2	dosage 1297 1303	400 mg
+T3	mealTime 1346 1355	breakfast
+R5	decrease_absorption Arg1:TS59527781 Arg2:TS339527781	
+T4	food 1564 1577	low-fat meals
+T5	dosage 1640 1646	800 mg
+R6	no_effect_on_drug Arg1:T4 Arg2:TS349527781	
+R7	has_sideeffect Arg1:TS199527781 Arg2:TS269527781	
+R8	reduce_side_effect Arg1:TS29527781 Arg2:TS269527781	
+R9	positive_effect_on_drug Arg1:TS29527781 Arg2:TS199527781	

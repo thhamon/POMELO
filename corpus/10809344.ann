@@ -1,0 +1,21 @@
+TS310809344	food 19 36	St. .
+John's wort
+TS110809344	food 177 202	St. .
+John's wort ( SJW )
+TS610809344	sideeffect 1077 1099	food-drug interactions
+T2	food 174 176;183 202	St John's wort ( SJW )
+T1	food 16 18;25 36	St John's wort
+T3	numbers 326 328	43
+T4	food 352 355	SJW
+T5	food 606 609	SJW
+T6	treatedDisease 614 624	depression
+T7	dosage 681 696	475.6+  -360 mg
+T8	frequency 698 701	day
+T9	dosage 710 721	300-1200 mg
+T10	frequency 723 726	day
+T11	duration 782 799	range 1 day-5 yrs
+T12	sideeffect 910 922	side effects
+T13	sideeffect 1039 1057	serotonin syndrome
+T14	treatedDisease 1167 1185	depressive relapse
+T15	food 1286 1289	SJW
+T16	treatedDisease 1306 1316	depression

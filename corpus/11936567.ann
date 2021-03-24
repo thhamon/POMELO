@@ -1,0 +1,45 @@
+TS2211936567	food 10 14	food
+TS811936567	drugEffect 27 42	bioavailability
+TS1911936567	drug 46 56	didanosine
+R1	relation Arg1:TS2211936567 Arg2:TS1911936567
+TS5811936567	food 154 158	food
+TS4011936567	mealTime 173 178	meals
+TS2311936567	drugEffect 186 201	bioavailability
+TS5511936567	drug 205 215	didanosine
+R2	relation Arg1:TS5811936567 Arg2:TS5511936567
+TS311936567	drug 395 405	Didanosine
+TS1611936567	mealTime 446 461	a high-fat meal
+TS1011936567	mealTime 464 474	light meal
+TS3711936567	food 477 483	yogurt
+TS2911936567	food 490 500	applesauce
+TS111936567	drug 517 527	didanosine
+TS411936567	mealTime 591 600	light mea
+TS5611936567	mealTime 632 639	fasting
+TS6211936567	food 740 753	high-fat meal
+TS3311936567	mealTime 756 766	light meal
+TS1711936567	food 769 775	yogurt
+TS4311936567	food 782 792	applesauce
+TS1211936567	food 972 976	food
+TS6311936567	food 1014 1027	high-fat meal
+TS5411936567	mealTime 1104 1122	2 hours after meal
+TS2111936567	food 1195 1199	food
+TS3811936567	mealTime 1229 1233	meal
+TS3911936567	mealTime 1278 1282	meal
+TS3511936567	mealTime 1404 1408	meal
+TS2711936567	food 1515 1519	food
+TS711936567	food 1674 1682	high-fat
+TS2611936567	food 1687 1698	light meals
+TS3111936567	mealTime 1711 1718	fasting
+TS4111936567	drug 1749 1759	didanosine
+TS3011936567	drugEffect 1807 1822	bioavailability
+TS2411936567	drug 1826 1836	didanosine
+TS1111936567	food 1921 1925	food
+TS2511936567	drug 1964 1974	didanosine
+TS4611936567	drug 2054 2064	didanosine
+TS211936567	food 2079 2083	food
+T1	dosage 408 414	400 mg
+T2	mealTime 1034 1051	1 hour before mea
+R3	has_effect Arg1:TS2411936567 Arg2:TS3011936567	
+R4	negative_effect_on_drug Arg1:TS1111936567 Arg2:TS2411936567	
+R5	without_food Arg1:TS1111936567 Arg2:TS2511936567	
+R6	without_food Arg1:TS211936567 Arg2:TS4611936567	

@@ -1,0 +1,58 @@
+TS129533066	drug 12 26	ketogenic diet
+TS59533066	food3 0 349	Role of the ketogenic diet in children with intractable seizures .
+To provide a review of the mechanism of action , clinical efficacy , adverse effects , drug interactions , and therapeutic considerations associated with the use of a ketogenic diet to manage patients with intractable seizures .
+A MEDLINE search from January 1966 to the present and
+TS49533066	treatedDisease 44 64	intractable seizures
+TS419533066	sideeffect 136 151	adverse effects
+TS559533066	sideeffect 154 171	drug interactions
+TS299533066	drug 234 248	ketogenic diet
+TS489533066	treatedDisease 273 293	intractable seizures
+TS439533066	drug 402 416	ketogenic diet
+TS549533066	treatedDisease 488 508	intractable seizures
+TS469533066	treatedDisease 654 674	intractable seizures
+TS569533066	drugEffect 696 708	seizure-free
+TS449533066	drug 716 730	ketogenic diet
+TS409533066	drug 773 777	diet
+TS389533066	sideeffect 786 797	dehydration
+TS359533066	sideeffect 800 825	gastrointestinal symptoms
+TS159533066	sideeffect 828 840	hypoglycemia
+TS479533066	sideeffect 854 888	carnitine and vitamin deficiencies
+TS209533066	sideeffect 911 925	hyperlipidemia
+TS349533066	sideeffect 959 971	urolithiasis
+TS19533066	sideeffect 974 990	optic neuropathy
+TS509533066	sideeffect 993 1005	osteoporosis
+TS179533066	sideeffect 1012 1030	protein deficiency
+TS499533066	drug 1065 1077	Carbohydrate
+TS379533066	drug 1152 1156	diet
+TS99533066	drug 1173 1186	Acetazolamide
+TS429533066	drug 1189 1202	phenobarbital
+TS319533066	drug 1209 1222	valproic acid
+TS279533066	drug 1263 1277	ketogenic diet
+TS309533066	sideeffect 1303 1323	carnitine deficiency
+TS169533066	sideeffect 1327 1360	influence carbohydrate metabolism
+TS249533066	drug 1400 1412	carbohydrate
+TS289533066	drug 1563 1577	ketogenic diet
+TS219533066	drug 1599 1603	diet
+TS79533066	treatedDisease 1631 1639	seizures
+TS229533066	drug 1691 1695	diet
+TS399533066	drug 1709 1721	carbohydrate
+TS189533066	drug 1833 1837	diet
+TS239533066	drug 1874 1888	ketogenic diet
+TS139533066	treatedDisease 1904 1912	seizures
+TS29533066	drug 1919 1933	ketogenic diet
+TS529533066	treatedDisease 1977 1997	intractable seizures
+TS339533066	drug 2095 2099	diet
+R5	treat Arg1:TS299533066 Arg2:TS489533066	
+R6	treat Arg1:TS129533066 Arg2:TS49533066	
+R7	treat Arg1:TS439533066 Arg2:TS549533066	
+R8	has_effect Arg1:TS449533066 Arg2:TS569533066	
+R9	treat Arg1:TS449533066 Arg2:TS469533066	
+R10	has_sideeffect Arg1:TS409533066 Arg2:TS389533066	
+R1	has_sideeffect Arg1:TS409533066 Arg2:TS359533066	
+R11	has_sideeffect Arg1:TS409533066 Arg2:TS159533066	
+R12	has_sideeffect Arg1:TS409533066 Arg2:TS479533066	
+T1	sideeffect 891 908	Cognitive effects
+T2	sideeffect 928 956	impaired neutrophil function
+R2	treat Arg1:TS219533066 Arg2:TS79533066	
+R3	treat Arg1:TS239533066 Arg2:TS139533066	
+R4	treat Arg1:TS29533066 Arg2:TS529533066	

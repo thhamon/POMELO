@@ -1,0 +1,62 @@
+TS1120584229	sideeffect 17 29	interactions
+TS2520584229	drug 59 73	anticoagulants
+TS1420584229	drug 81 89	warfarin
+TS3320584229	food 119 123	food
+TS4220584229	sideeffect 128 145	drug interactions
+TS520584229	sideeffect 185 197	interactions
+TS1820584229	drug 216 230	anticoagulants
+TS1320584229	drug 240 260	dabigatran etexilate
+TS2220584229	drug 263 274	rivaroxaban
+TS720584229	drug 279 287	apixaban
+R1	relation Arg1:TS3320584229 Arg2:TS4220584229
+TS3020584229	treatedDisease 372 382	thrombosis
+TS3120584229	food 428 432	food
+TS1220584229	foodSupplement 444 462	dietary supplement
+TS220584229	sideeffect 463 474	interaction
+TS2020584229	drug 488 508	dabigatran etexilate
+TS2120584229	drug 511 522	rivaroxaban
+TS2620584229	drug 527 535	apixaban
+R3	relation Arg1:TS3120584229 Arg2:TS220584229
+TS2920584229	sideeffect 568 585	food interactions
+TS2320584229	sideeffect 619 641	drug-drug interactions
+TS3420584229	drug 760 770	amiodarone
+TS1920584229	drug 787 798	Rivaroxaban
+TS1720584229	drug 814 822	apixaban
+TS3820584229	sideeffect 1081 1098	drug interactions
+TS4420584229	drug 1179 1216	non-steroidal anti-inflammatory drugs
+TS3920584229	drug 1221 1239	antiplatelet drugs
+TS1020584229	drug 1250 1257	aspirin
+TS320584229	drug 1262 1273	clopidogrel
+TS820584229	food 1350 1367	St. .
+John's Wort
+TS4020584229	sideeffect 1638 1655	drug interactions
+T1	food 9 16	dietary
+T2	drug 0 4	Drug
+T3	modeadm 54 58	oral
+T4	modeadm 76 80	Oral
+T5	modeadm 211 215	oral
+T6	drug 233 237	OACs
+R2	relation Arg1:TS1220584229 Arg2:TS220584229	
+R5	relation Arg1:TS3120584229 Arg2:TS2020584229	
+R6	relation Arg1:TS3120584229 Arg2:TS2120584229	
+R7	relation Arg1:TS3120584229 Arg2:TS2620584229	
+R8	relation Arg1:TS1220584229 Arg2:TS2020584229	
+R9	relation Arg1:TS1220584229 Arg2:TS2120584229	
+R10	relation Arg1:TS1220584229 Arg2:TS2620584229	
+T7	drug 644 654	dabigatran
+T8	sideeffect 884 935	inhibit both cytochrome P450 3A4 and P-glycoprotein
+T9	drug 946 964	azole antimycotics
+R11	has_sideeffect Arg1:T9 Arg2:T8	
+T10	drug 1110 1114	OACs
+R12	has_sideeffect Arg1:T10 Arg2:TS3820584229	
+R13	has_sideeffect Arg1:TS4420584229 Arg2:TS3820584229	
+R14	has_sideeffect Arg1:TS3920584229 Arg2:TS3820584229	
+R15	has_sideeffect Arg1:TS1020584229 Arg2:TS3820584229	
+R16	has_sideeffect Arg1:TS320584229 Arg2:TS3820584229	
+T11	foodSupplement 1317 1333	food supplements
+T12	drug 1401 1405	OACs
+T13	food 1347 1349;1356 1367	St John's Wort
+R4	negative_effect_on_drug Arg1:T13 Arg2:T12	
+T14	drug 1684 1688	OACs
+T15	drugEffect 1744 1769	venous thromboprophylaxis
+R17	has_effect Arg1:T14 Arg2:T15	

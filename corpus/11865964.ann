@@ -1,0 +1,31 @@
+TS1611865964	food 13 17	food
+TS1911865964	drug 83 91	bosentan
+TS2011865964	drug 101 131	endothelin receptor antagonist
+R1	relation Arg1:TS1611865964 Arg2:TS1911865964
+TS2311865964	food 192 196	food
+TS1711865964	drugEffect 267 282	bioavailability
+TS1811865964	drug 286 294	bosentan
+R2	relation Arg1:TS2311865964 Arg2:TS1811865964
+TS711865964	drug 419 427	bosentan
+TS1211865964	food 468 472	food
+TS1311865964	food 507 511	food
+TS1411865964	food 543 547	food
+TS2211865964	drug 586 594	bosentan
+TS311865964	drug 619 630	metabolites
+TS1011865964	drugEffect 858 873	bioavailability
+TS2411865964	mealTime 943 949	fasted
+TS2111865964	food 983 987	food
+TS211865964	mealTime 1134 1137	fed
+TS1111865964	drug 1179 1190	metabolites
+TS111865964	drug 1255 1263	bosentan
+TS911865964	drugEffect 1264 1279	bioavailability
+TS511865964	food 1374 1378	food
+R4	has_effect Arg1:TS1811865964 Arg2:TS1711865964	
+T1	dosage 412 418	125 mg
+T2	dosage 492 499	62.5 mg
+T3	dosage 881 887	125 mg
+T4	dosage 1066 1073	62.5 mg
+T5	dosage 1108 1113	125mg
+T6	dosage 1305 1311	125 mg
+R3	no_effect_on_drug Arg1:TS511865964 Arg2:TS111865964	
+R5	has_effect Arg1:TS111865964 Arg2:TS911865964	

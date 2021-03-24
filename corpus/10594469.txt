@@ -1,0 +1,20 @@
+Clinical pharmacokinetics of doxazosin in a controlled-release gastrointestinal therapeutic system ( GITS ) formulation .
+A controlled-release gastrointestinal therapeutic system ( GITS ) formulation of doxazosin mesylate , a long-acting selective alpha1-adrenoceptor antagonist , was developed to enhance the pharmacokinetic profile and simplify the titration schedule by precisely controlling drug delivery rate , permitting an initial dose of 4 mg once daily , compared with standard doxazosin , which is initiated at 1 mg day-1 and titrated to a higher therapeutically effective dose .
+The aim of the present work was to evaluate the pharmacokinetics and bioavailability of doxazosin GITS with respect to the effect of food , age and gender , and multiple dosing .
+In addition , in vitro performance was assessed in conditions simulating the gastrointestinal environment .
+A three-way crossover study in 24 subjects assessed the comparative bioavailability of doxazosin GITS under fed and fasting conditions and doxazosin standard under fasting condition .
+A multiple-dose , two-way crossover study in 35 subjects assessed the comparative pharmacokinetics and bioavailability of doxazosin GITS and doxazosin standard 4 and 8 mg upon multiple dosing .
+A multiple-dose , four-parallel-group study was conducted to determine the steady-state pharmacokinetics and bioavailability of doxazosin GITS 4 mg in 41 young and elderly male and female subjects .
+The release-rate profiles of doxazosin GITS were determined in artificial gastric fluid ( pH=1.2 ) , intestinal fluid ( pH=7.5 ) , and water .
+The effect of agitation on the dissolution characteristics of doxazosin GITS in artificial gastric fluid was studied at stirring rates of 50 , 75 , and 100 rev min-1. .
+In vitro studies demonstrated that release rates for the GITS tablet are independent of pH in the range of 1.2 ( gastric ) to 7. .
+5 ( intestinal ) , and of stirring rates simulating gastrointestinal motility .
+Clinical pharmacology studies showed that doxazosin GITS had a lower maximum plasma concentration , prolonged time to reach maximum plasma concentration , and a higher minimum plasma concentration compared with doxazosin standard .
+Thus , the GITS formulation results in a more gradual absorption of doxazosin , and a reduced plasma doxazosin concentration peak-to-trough fluctuation ratio .
+The relative bioavailability of doxazosin GITS is approximately 60%. .
+With a high-fat meal , the maximum plasma concentration and area under the concentration-time curve were 31% and 18% higher , respectively ( Psentinf0.05 ) .
+Bioequivalence was established between the dose strengths of two 4 mg doxazosin GITS tablets and one 8 mg doxazosin GITS tablet .
+For both young adult and elderly subjects , and males and females , the pharmacokinetics of doxazosin GITS once daily for 7 days were comparable .
+Doxazosin GITS was well tolerated in the subjects studied , including young and elderly males and females .
+The GITS formulation of doxazosin enhances the pharmacokinetic profile compared with doxazosin standard , allowing more gradual absorption of doxazosin , and a reduced plasma doxazosin peak-to-trough concentration ratio .
+Thus , doxazosin GITS therapy can be initiated at a therapeutic dose of 4 mg with reduced haemodynamic side-effects .

@@ -1,0 +1,31 @@
+TS2223588433	sideeffect 0 12	Interactions
+TS3223588433	drug 21 43	antihypertensive drugs
+TS2323588433	food 48 52	food
+TS2123588433	sideeffect 57 73	drug interaction
+TS623588433	sideeffect 272 284	interactions
+TS3423588433	drug 300 322	antihypertensive drugs
+TS2723588433	sideeffect 459 471	interactions
+TS1623588433	drug 480 503	antihypertensive agents
+TS3023588433	food 508 512	food
+TS723588433	sideeffect 603 615	interactions
+TS1123588433	food 624 628	food
+TS3523588433	drug 633 655	antihypertensive drugs
+R1	relation Arg1:TS1123588433 Arg2:TS3523588433
+TS3123588433	sideeffect 862 874	interactions
+TS3623588433	drug 883 905	antihypertensive drugs
+TS2823588433	food 910 914	food
+TS1023588433	drug 949 972	antihypertensive agents
+TS1223588433	food 977 993	grapefruit juice
+R2	relation Arg1:TS2823588433 Arg2:TS3623588433
+TS2023588433	food 996 1000	Food
+TS2423588433	drugEffect 1016 1031	bioavailability
+TS3323588433	drug 1035 1057	antihypertensive drugs
+R3	relation Arg1:TS2023588433 Arg2:TS3323588433
+TS223588433	food 1132 1148	grapefruit juice
+TS1723588433	sideeffect 1247 1259	interactions
+TS2523588433	sideeffect 1289 1304	adverse effects
+T1	sideeffect 373 386	toxic effects
+R4	has_sideeffect Arg1:TS3423588433 Arg2:T1	
+R5	relation Arg1:TS3023588433 Arg2:TS1623588433	
+R6	negative_effect_on_drug Arg1:TS1223588433 Arg2:TS1023588433	
+R7	has_effect Arg1:TS3323588433 Arg2:TS2423588433	

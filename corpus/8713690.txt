@@ -1,0 +1,14 @@
+Monoamine oxidase inhibitors .
+An update on drug interactions .
+After initial enthusiasm , the use of monoamine oxidase inhibitors ( MAOIs ) has been limited by the wide range of MAOI-drug and MAOI-food food interactions that are possible , particularly with sympathomimetic medications or tyramine- tyramine-containing foods , resulting in hypertensive reactions .
+Despite their clinical benefits , this has led to a reduction in use of such medications .
+Discovery of the 2 main subgroups of monoamine oxidase , types A and B , led to the synthesis of MAOIs selective for one or other of these isoenzymes .
+Consequently , selegiline ( deprenyl ) , a selective MAO-B inhibitor , was developed for the treatment of idiopathic Parkinson's disease .
+This drug is useful in the treatment of the early stages of the disease and later on as an adjunct to other drug therapies .
+Although the selective MAO-A inhibitor , clorgiline ( clorgyline ) , was found to be effective in the treatment of depression , it still retained the potential to cause hypertensive reactions .
+Recently , agents that are not only selective , but reversible in their inhibition of MAO-A ( RIMAs ) have been synthesised ( e.g e.g. moclobemide and toloxatone ) , and have proven antidepressant efficacy .
+Whilst they are less likely to induce hypertensive reactions with the concomitant administration of sympathomimetic drugs or with tyramine- tyramine-rich foodstuffs , it still seems wise to advocate care in co-prescribing potentially interacting medications and to advise a degree of caution with regard to the dietary intake of foodstuffs likely to contain a high tyramine content .
+Although these newer drugs represent an advance in safety , their use has , as yet , only been established in the treatment of depression .
+RIMAs also retain a potential for adverse interaction with other drugs .
+Concomitant prescription of serotonin-enhancing drugs should only be undertaken with caution for patients on moclobemide , toloxatone or selegiline .
+Coprescription of sympathomimetic drugs should also be avoided with these newer MAOIs and patients should be advised against purchasing over-the-counter preparations that may contain sympathomimetic drugs .

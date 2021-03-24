@@ -1,0 +1,9 @@
+Efavirenz in the therapy of HIV infection .
+The use of the first generation non-nucleoside reverse transcriptase inhibitor efavirenz ( EFV ) as a component of first-line antiretroviral therapy has been accepted worldwide .
+EFV is the only antiretroviral agent currently on the market that has been combined with emtricitabine and tenofovir disoproxil fumarate in a single tablet and administered once daily .
+This article reviews efficacy and safety data on EFV and the role of pharmacogenetics in EFV exposure .
+Published articles and conference presentations on EFV are reviewed .
+CYP2B6 genetic polymorphisms influence the metabolism of EFV .
+The CYP2B6 G to T polymorphism at position 516 is shown to be associated with elevated plasma concentrations and an increase in neurotoxicity of EFV , while the wild-type genotype has been associated with sub-therapeutic concentrations of EFV , potentially leading to the development of viral resistance .
+This polymorphism is significantly higher in sub-Saharan Africans and African Americans as compared to Hispanic , European and Asian populations .
+The significance of CYP2B6 polymorphism in EFV exposure indicates the need for prospective clinical studies to evaluate the utility of genotype-driven dose adjustments in populations of diverse descent .

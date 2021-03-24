@@ -1,0 +1,10 @@
+Design of a suitable formulation of FK613 , a novel antiallergic agent , based on its pharmacokinetic and pharmacodynamic properties in healthy subjects .
+The pharmacokinetic and pharmacodynamic properties of FK613 , a novel indolyl piperidine derivative , were investigated after oral administrations of 5 , 10 and 20 mg in hard gelatin capsules to healthy male volunteers .
+FK613 was rapidly and almost completely absorbed , and sentsup89% was recovered in the urine as the unchanged form .
+The urinary excretion of FK613 was linearly correlated with plasma concentration and its low water solubility was the main concern regarding the safety .
+In another experiment using a double-blind crossover design , in which 0 ( placebo ) , 5 and 20 mg FK613 were administered to determine the plasma concentration-effect relationship , suppression of the intradermal histamine- histamine-induced skin reaction by FK613 was observed .
+Thus , the maintenance of a plasma concentration of FK613 in the range of 80-250 ng center dot ml-1 was recommended to ensure the suppression of histamine- histamine-induced wheal by sentsup50% and not to exceed the solubility in urine .
+To achieve this , a new hydrogel- hydrogel-type formulation of FK613 was developed , with the aim both of delaying its absorption , so as to suppress the sharp rise in plasma concentration , and of maintaining the effective concentration for a longer period of time .
+This formulation was administered after meals at the doses of 20 , 30 , 40 , 50 and 60 mg , and at repeated doses of 40 mg twice daily for 6.5 days to evaluate the pharmacokinetics and safety in healthy subjects .
+The area under the plasma concentration curve increased linearly with dose , whereas maximum plasma concentration ( Cmax ) tended to peak as dose increased , indicating the desirable properties of this formulation .
+Although Cmax exceeded 250 ng  ml at doses of 30 mg or more , no urinary crystal formation was observed on careful inspection of urine .

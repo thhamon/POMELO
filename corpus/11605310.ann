@@ -1,0 +1,30 @@
+TS4511605310	drug 0 14	[Acetaminophen
+TS711605310	food 30 37	alcohol
+TS3711605310	sideeffect 175 185	chest pain
+TS2511605310	sideeffect 190 194	coma
+TS2611605310	sideeffect 231 257;275 281	aspartate aminotransferase levels
+TS3311605310	sideeffect 314 338;356 362	alanine aminotransferase levels
+TS3611605310	sideeffect 398 417	acute liver failure
+TS211605310	sideeffect 422 444	hepatic encephalopathy
+TS1311605310	food 474 481	alcohol
+TS1111605310	drug 525 538	acetaminophen
+R1	negative_effect_on_drug Arg1:TS1311605310 Arg2:TS1111605310
+TS3211605310	sideeffect 590 613	aminotransferase levels
+TS1411605310	drug 683 696	acetaminophen
+TS3111605310	food 701 708	alcohol
+TS4111605310	sideeffect 733 761	acetaminophen hepatotoxicity
+TS311605310	food 775 782	alcohol
+TS2911605310	sideeffect 832 853	amount of glutathione
+TS4211605310	drug 962 991	N-acetyl-p-benzoquinone imine
+TS2711605310	drug 1072 1085	acetaminophen
+TS1911605310	sideeffect 1096 1108	liver damage
+TS3511605310	food 1142 1149	alcohol
+TS4411605310	food 1175 1194	alcoholic beverages
+TS3911605310	drug 1226 1239	acetaminophen
+R4	relation Arg1:TS3511605310 Arg2:TS3911605310
+R5	relation Arg1:TS4411605310 Arg2:TS3911605310
+R2	increase_side_effect Arg1:TS3111605310 Arg2:TS4111605310	
+R6	negative_effect_on_drug Arg1:TS3111605310 Arg2:TS1411605310	
+R7	has_sideeffect Arg1:TS1411605310 Arg2:TS4111605310	
+R3	relation Arg1:TS311605310 Arg2:TS2911605310	
+R8	has_sideeffect Arg1:TS2711605310 Arg2:TS1911605310	

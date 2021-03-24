@@ -1,0 +1,22 @@
+TS1516306299	food 0 17	Enteral nutrition
+TS1016306299	sideeffect 44 56	interactions
+TS916306299	food 140 149	nutrition
+TS316306299	food 419 428	nutrition
+TS1916306299	drugEffect 451 466	bioavailability
+TS416306299	food 511 520	nutrition
+TS516306299	food 557 566	nutrients
+TS216306299	food 1026 1031	water
+TS116306299	foodSupplement 1034 1039	fiber
+TS1616306299	foodSupplement 1060 1068	vitamins
+TS2216306299	food 1127 1144	enteral nutrition
+TS2116306299	sideeffect 1153 1173	abdominal distention
+TS1216306299	sideeffect 1178 1186	diarrhea
+T1	drug 22 26	drug
+R4	negative_effect_on_drug Arg1:TS316306299 Arg2:TS1916306299	
+T2	drug 503 507	drug
+T3	drug 571 576	drugs
+T4	modeadm 796 818	enteral administration
+T5	foodSupplement 1042 1054	electrolytes
+R1	increase_side_effect Arg1:TS2216306299 Arg2:TS2116306299	
+R2	increase_side_effect Arg1:TS2216306299 Arg2:TS1216306299	
+T6	modeadm 1351 1358	enteral

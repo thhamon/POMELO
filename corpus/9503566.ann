@@ -1,0 +1,32 @@
+TS309503566	drug 1 29	Monoamine oxidase inhibitors
+TS219503566	drug 181 189	tyramine
+TS139503566	sideeffect 229 241	hypertensive
+TS109503566	drug 316 345	antidepressant MAO inhibitors
+TS169503566	food 353 358	foods
+TS129503566	food 362 371	beverages
+TS239503566	drug 403 411	tyramine
+TS179503566	drug 525 540	antidepressants
+TS159503566	sideeffect 565 580	cheese reaction
+TS79503566	drug 769 777	tyramine
+TS289503566	drug 829 892	reversible inhibitors of monoamine oxidase- oxidase-A ( RIMAs )
+TS269503566	sideeffect 910 922	hypertensive
+TS49503566	drug 945 953	tyramine
+TS229503566	drug 1104 1119	antidepressants
+TS69503566	sideeffect 1559 1590	exacerbate the pressor response
+T1	drug 162 168	amines
+T2	sideeffect 259 274	cheese reaction
+T3	drug 385 391	amines
+R1	negative_effect_on_drug Arg1:TS169503566 Arg2:TS109503566	
+R2	negative_effect_on_drug Arg1:TS129503566 Arg2:TS109503566	
+R3	relation Arg1:TS129503566 Arg2:T3	
+R4	relation Arg1:TS169503566 Arg2:T3	
+T4	drug 462 472	inhibitors
+R5	has_sideeffect Arg1:TS179503566 Arg2:TS159503566	
+R6	has_sideeffect Arg1:TS239503566 Arg2:TS159503566	
+T5	drugEffect 677 697	Selective inhibition
+R7	has_sideeffect Arg1:TS49503566 Arg2:TS269503566	
+T6	drug 986 995	inhibitor
+T7	drug 1089 1103	MAO-inhibitory
+T8	food 1160 1167	dietary
+R8	relation Arg1:T8 Arg2:TS229503566	
+T9	drug 1431 1456	Noncompetitive inhibitors

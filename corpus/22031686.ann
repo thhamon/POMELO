@@ -1,0 +1,23 @@
+TS2722031686	food 0 11	[Grapefruit
+TS2322031686	sideeffect 28 49	food-drug interaction
+TS522031686	food 91 101	grapefruit
+TS1222031686	sideeffect 222 245	fruit- drug interaction
+TS1722031686	food 423 433	grapefruit
+TS622031686	food 539 549	grapefruit
+TS1422031686	sideeffect 652 675	fruit- drug interaction
+TS1822031686	sideeffect 708 719	interaction
+TS322031686	food 725 735	grapefruit
+TS1622031686	drug 738 762	Calcium channel blockers
+TS2022031686	sideeffect 834 845	interaction
+TS1122031686	food 849 859	grapefruit
+TS2522031686	food 924 935	grapefruit-
+TS2222031686	sideeffect 924 952	grapefruit- drug interaction
+T1	sideeffect 442 470	adverse drug events ( ADEs )
+T2	numbers 483 486	162
+T3	sideeffect 681 684	ADE
+T4	drug 767 795	HMG-coA-reductase inhibitors
+R1	has_sideeffect Arg1:T4 Arg2:TS2022031686	
+R2	has_sideeffect Arg1:TS1622031686 Arg2:TS2022031686	
+R3	increase_side_effect Arg1:TS1122031686 Arg2:TS2022031686	
+R4	negative_effect_on_drug Arg1:TS1122031686 Arg2:T4	
+R5	no_effect_on_drug Arg1:TS1122031686 Arg2:TS1622031686	

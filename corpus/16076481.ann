@@ -1,0 +1,4 @@
+TS116076481	sideeffect 4 15	interaction
+TS216076481	foodSupplement 19 38	dietary supplements
+T1	drug 44 65	antithrombotic agents
+R1	relation Arg1:TS216076481 Arg2:T1	

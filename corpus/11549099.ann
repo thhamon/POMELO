@@ -1,0 +1,14 @@
+TS811549099	drug 39 49	cilomilast
+TS1011549099	drug 188 198	cilomilast
+TS411549099	drug 277 287	Cilomilast
+TS511549099	drug 860 870	cilomilast
+TS211549099	mealTime 921 934	between meals
+TS611549099	food 971 975	food
+TS111549099	drugEffect 1031 1046	bioavailability
+TS911549099	mealTime 1089 1098	fed state
+T1	drug 52 58	Ariflo
+T2	modeadm 71 77	orally
+T3	drug 85 114	phosphodiesterase 4 inhibitor
+T4	dosage 604 615	single dose
+R1	relation Arg1:TS611549099 Arg2:TS111549099	
+T5	dosage 1134 1139	30 mg

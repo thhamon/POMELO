@@ -1,0 +1,6 @@
+TS217023070	drug 0 8	Warfarin
+TS117023070	sideeffect 9 20	interaction
+TS517023070	food 26 38	herbal drugs
+TS317023070	food 43 47	food
+R1	relation Arg1:TS517023070 Arg2:TS217023070	
+R2	relation Arg1:TS317023070 Arg2:TS217023070	

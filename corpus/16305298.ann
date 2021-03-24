@@ -1,0 +1,14 @@
+TS216305298	sideeffect 26 52	drug-nutrient interactions
+TS1016305298	sideeffect 84 96	interactions
+TS1116305298	sideeffect 170 182	interactions
+TS816305298	food 201 210	nutrients
+TS316305298	sideeffect 263 275	interactions
+TS416305298	sideeffect 418 440	drug-drug interactions
+TS516305298	sideeffect 448 474	drug-nutrient interactions
+TS1216305298	sideeffect 526 552	drug-nutrient interactions
+TS716305298	food 654 658	food
+TS916305298	food 673 682	nutrients
+TS1416305298	food 831 839	nutrient
+TS616305298	sideeffect 1038 1050	interactions
+TS1516305298	sideeffect 1212 1224	interactions
+T1	drug 191 196	drugs

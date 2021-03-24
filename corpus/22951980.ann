@@ -1,0 +1,27 @@
+TS1922951980	food 10 26	grapefruit juice
+TS822951980	drugEffect 30 45	bioavailability
+TS2922951980	drug 49 60	montelukast
+R1	relation Arg1:TS1922951980 Arg2:TS2922951980
+TS1122951980	sideeffect 113 125	interactions
+TS2122951980	food 134 150	grapefruit juice
+TS1522951980	drug 155 166	montelukast
+R2	relation Arg1:TS2122951980 Arg2:TS1522951980
+TS2022951980	drug 335 346	montelukast
+TS2522951980	food 376 381	water
+TS722951980	drug 460 471	montelukast
+TS1322951980	food 484 500	grapefruit juice
+TS522951980	drug 666 677	montelukast
+TS1022951980	drug 727 738	montelukast
+TS2222951980	food 822 838	grapefruit juice
+TS422951980	food 889 894	water
+TS1822951980	drug 1092 1103	montelukast
+TS622951980	drug 1345 1356	montelukast
+TS2622951980	food 1391 1407	grapefruit juice
+TS3222951980	food 1430 1435	water
+TS2422951980	food 1478 1488	grapefruit
+TS3022951980	drug 1512 1523	montelukast
+R3	relation Arg1:TS2422951980 Arg2:TS3022951980
+T1	dosage 347 352	10 mg
+T2	frequency 353 363	once daily
+T3	dosage 454 459	10 mg
+T4	duration 1072 1091	up to 4 hours after

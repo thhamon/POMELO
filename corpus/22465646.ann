@@ -1,0 +1,17 @@
+TS1022465646	sideeffect 11 30	mesenteric ischemia
+TS1322465646	drug 42 53	naratriptan
+TS1822465646	food 78 94	grapefruit juice
+TS1522465646	sideeffect 213 233	mesenteric ischaemia
+TS922465646	drug 279 290	naratriptan
+TS322465646	sideeffect 306 326	mesenteric ischaemia
+TS522465646	sideeffect 346 368	multiple organ failure
+TS2122465646	food 483 499	grapefruit juice
+TS622465646	sideeffect 555 575	naratriptan toxicity
+TS2022465646	sideeffect 607 621	abdominal pain
+TS222465646	treatedDisease 650 658	headache
+TS1222465646	sideeffect 689 709	mesenteric ischaemia
+R3	has_sideeffect Arg1:TS1322465646 Arg2:TS1022465646	
+R4	increase_side_effect Arg1:TS1822465646 Arg2:TS1022465646	
+T1	sideeffect 515 529	P450 inhibitor
+R5	increase_side_effect Arg1:TS2122465646 Arg2:T1	
+R2	increase_side_effect Arg1:TS2122465646 Arg2:TS622465646	

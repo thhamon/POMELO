@@ -1,0 +1,28 @@
+TS519328861	food 10 14	food
+TS1119328861	drug 19 27	antacids
+TS719328861	treatedDisease 174 203	idiopathic pulmonary fibrosis
+TS219328861	food 332 336	food
+TS1419328861	drug 341 349	antacids
+TS419328861	drug 418 429	metabolites
+TS819328861	food 639 643	food
+TS1519328861	drug 648 656	antacids
+TS619328861	food 1121 1125	food
+TS1319328861	food 1378 1382	food
+TS319328861	food 1494 1498	food
+T1	drug 55 66	pirfenidone
+T2	drug 93 104	Pirfenidone
+R1	treat Arg1:T2 Arg2:TS719328861	
+T3	drug 286 297	pirfenidone
+T4	drug 398 409	pirfenidone
+T5	drug 660 671	pirfenidone
+T6	sideeffect 747 761	Adverse events
+T7	drug 1073 1094	5-carboxy-pirfenidone
+T8	drug 1186 1197	pirfenidone
+R2	decrease_absorption Arg1:TS619328861 Arg2:T8	
+T9	sideeffect 1237 1251	adverse events
+T10	drug 1283 1294	pirfenidone
+T11	sideeffect 1321 1359	gastrointestinal ( GI ) adverse events
+R3	has_sideeffect Arg1:T10 Arg2:T11	
+R4	reduce_side_effect Arg1:TS1319328861 Arg2:T11	
+T12	drug 1477 1488	pirfenidone
+R5	positive_effect_on_drug Arg1:TS319328861 Arg2:T12	

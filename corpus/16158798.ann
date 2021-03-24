@@ -1,0 +1,14 @@
+TS616158798	sideeffect 18 46	grapefruit- drug interaction
+TS2016158798	sideeffect 53 75	inhibitory interaction
+TS416158798	food 79 95	grapefruit juice
+TS1016158798	sideeffect 100 128	CYP3A4 medication metabolism
+TS816158798	food 253 263	Grapefruit
+TS1316158798	sideeffect 275 323	inhibit CYP3A4 drug oxidation and P-glycoprotein
+TS1916158798	drugEffect 369 384	bioavailability
+TS1616158798	sideeffect 392 414	inhibitory interaction
+TS1116158798	drug 522 531	midazolam
+TS1416158798	drug 534 543	triazolam
+TS2116158798	drug 550 558	diazepam
+R1	increase_side_effect Arg1:TS416158798 Arg2:TS2016158798	
+R4	increase_side_effect Arg1:TS416158798 Arg2:TS1016158798	
+R2	increase_side_effect Arg1:TS816158798 Arg2:TS1316158798	

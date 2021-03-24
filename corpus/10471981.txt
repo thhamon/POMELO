@@ -1,0 +1,12 @@
+Effect of meal timing not critical for the pharmacokinetics of tegaserod ( HTF 919 ) .
+This study assessed the pharmacokinetic profiles of administering tegaserod ( HTF 919 ) at different time intervals with respect to a meal .
+It was a randomized , open-label , two-phase , five-period crossover study .
+In the first phase , 18 healthy subjects received a single 12 mg oral dose of tegaserod administered either 30 or 15 minutes prior to the start of the 600-calorie , fat- fat-rich breakfast .
+In the second phase , subjects received a single 12 mg oral dose of tegaserod 1 minute before , 2.5 hours after the start of meal , or with a continued 4-hour postdose fast .
+Safety assessment and plasma samples for the determination of drug concentration were obtained for 24 hours postdose .
+Noncompartmental analysis results indicated that the AUC of tegaserod was reduced by almost half under fed conditions compared to the fasted condition .
+Exploratory analyses were implemented to further investigate the absorption characteristics of tegaserod under different fed conditions .
+A numerical deconvolution approach was used to obtain the tegaserod oral absorption versus time profiles under both fasted and fed conditions .
+The tegaserod oral absorption versus time profiles were then fitted by NONMEM to a model containing two absorption phases .
+Based on the absorption analyses , we found that the reduction in the bioavailability of tegaserod under fed conditions was primarily due to a decrease in the extent of absorption and less so to a decrease in the absorption rate ( s ) .
+Therefore , although the timing of administration of food does not appear to significantly alter the pharmacokinetics of tegaserod , the administration of food reduces the AUC by approximately 50%. .

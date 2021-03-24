@@ -1,0 +1,64 @@
+TS620110012	drug 65 76	pramipexole
+TS920110012	drug 121 132	Pramipexole
+TS520110012	drug 138 154	dopamine agonist
+TS2220110012	treatedDisease 180 199	Parkinson's disease
+TS320110012	drug 450 461	pramipexole
+TS2120110012	drugEffect 1162 1177	bioavailability
+TS820110012	food 1367 1371	food
+TS1020110012	drug 1494 1505	pramipexole
+TS720110012	food 1565 1569	food
+TS220110012	drug 1951 1962	pramipexole
+TS2820110012	mealTime 2238 2244	fasted
+TS1320110012	drugEffect 2272 2287	bioavailability
+TS1720110012	mealTime 2625 2628	fed
+TS2620110012	mealTime 2671 2675	fed:
+TS2520110012	mealTime 2891 2897	fasted
+TS2920110012	mealTime 3059 3065	fasted
+TS1920110012	drug 3222 3233	pramipexole
+TS2720110012	mealTime 3345 3349	fed:
+TS1520110012	drug 3547 3558	pramipexole
+TS420110012	treatedDisease 3690 3709	Parkinson's disease
+T1	frequency 22 32	once-daily
+T2	modeadm 33 61	extended-release formulation
+R6	treat Arg1:TS520110012 Arg2:TS2220110012	
+R7	treat Arg1:TS920110012 Arg2:TS2220110012	
+T3	modeadm 226 250	immediate-release ( IR )
+T4	modeadm 272 278	orally
+T5	frequency 279 292	3 times daily
+T6	frequency 400 410	once-daily
+T7	modeadm 411 434	extended-release ( ER )
+T8	modeadm 553 555	IR
+T9	frequency 750 760	once-daily
+T10	modeadm 761 775	ER formulation
+T11	modeadm 868 870	IR
+T12	frequency 889 902	3 times daily
+T13	modeadm 1304 1306	ER
+T14	modeadm 1447 1461	ER formulation
+T15	sideeffect 1728 1742	adverse events
+T16	modeadm 1829 1831	ER
+T17	dosage 1853 1860	0.75 mg
+T18	dosage 1514 1526	0.375-4.5 mg
+T19	frequency 1861 1871	once daily
+T20	modeadm 1948 1950	IR
+T21	dosage 1963 1970	0.25 mg
+T22	frequency 1971 1974	TID
+T23	modeadm 2062 2064	IR
+T24	modeadm 2206 2208	ER
+T25	dosage 2209 2217	0.375 mg
+T26	modeadm 2593 2595	ER
+T27	dosage 2596 2604	0.375 mg
+T28	dosage 2868 2883	0.375 to 4.5 mg
+T29	dosage 3073 3079	4.5 mg
+T30	modeadm 3219 3221	IR
+T31	dosage 3234 3240	1.5 mg
+T32	frequency 3241 3244	TID
+T33	modeadm 3373 3375	ER
+T34	dosage 3376 3382	4.5 mg
+T35	sideeffect 3449 3452	AEs
+T36	sideeffect 1745 1748	AEs
+T37	modeadm 3544 3546	ER
+T38	modeadm 3605 3607	IR
+T39	frequency 3712 3722	once-daily
+T40	modeadm 3733 3747	ER formulation
+T41	modeadm 3805 3819	IR formulation
+T42	frequency 3826 3839	3 times daily

@@ -1,0 +1,10 @@
+The effect of grapefruit juice and seville orange juice on the pharmacokinetics of dextromethorphan dextromethorphan: the role of gut CYP3A and P-glycoprotein .
+The objective of this study was to determine the effects of grapefruit juice and seville orange juice on dextromethorphan ( DM ) pharmacokinetics .
+Eleven healthy volunteers were studied over a 3-week period consisting of 5 study days each separated by a three-day washout .
+All subjects refrained from drinking caffeine containing beverages ( coffee , soda , etc. ) 8 h before orally taking DM ( 30 mg ) with 200 ml water , 200 ml grapefruit juice , 200 ml water , 200 ml seville orange juice , and 200 ml water on Study Days 1 to 5. .
+Aliquots of urine samples were assayed and analysed for DM , and the DM metabolites dextrorphan , 3-methoxymorphinan and 3-hydroxymorphinan using a validated HPLC method employing a phenyl column and a fluorescence detection .
+Results suggests that DM could provide some useful information on P-glycoprotein or related membrane efflux protein activity in the human gastro-intestinal tract .
+Bioavailability ( F ) of DM increased significantly with grapefruit and seville orange juice , but only returned to half the baseline value after three days of washout .
+This confirms that grapefruit and seville orange juice are long-lasting and perhaps irreversible inhibitors of gut CYP3A  P-glycoprotein .
+Grapefruit and seville orange juice appeared to have the same overall effect on DM pharmacokinetics .
+In addition , this paper presents a novel method of phenotyping for CYP2D6 , CYP3A and P-glycoprotein using DM as a probe .

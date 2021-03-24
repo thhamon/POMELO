@@ -1,0 +1,14 @@
+Intestinal drug transporter expression and the impact of grapefruit juice in humans .
+The goals of this study were to assess the extent of human intestinal drug transporter expression , determine the subcellular localization of the drug uptake transporter OATP1A2 , and then to assess the effect of grapefruit juice consumption on OATP1A2 expression relative to cytochrome P450 3A4 and MDR1. .
+Expression of drug uptake and efflux transporters was assessed using human duodenal biopsy samples .
+Fexofenadine uptake by different transporters was measured in a transporter-transfected cell line .
+We investigated the influence of grapefruit juice on pharmacokinetics of orally administered fexofenadine .
+The effect of grapefruit juice on the expression of intestinal transporters was determined using real-time polymerase chain reaction and Western blot analysis .
+In the duodenum of healthy volunteers , an array of CYP enzymes as well as uptake and efflux transporters was expressed .
+Importantly , uptake transporters thought to be liver- liver-specific , such as OATP1B1 and 1B3 , as well as OATP2B1 and 1A2 were expressed in the intestine .
+However , among OATP transporters , only OATP1A2 was capable of fexofenadine uptake when assessed in vitro .
+OATP1A2 colocalized with MDR1 to the brush border domain of enterocytes .
+Consumption of grapefruit juice concomitantly or 2 h before fexofenadine administration was associated with reduced oral fexofenadine plasma exposure , whereas intestinal expression of either OATP1A2 or MDR1 remained unaffected .
+In conclusion , an array of drug uptake and efflux transporters are expressed in the human intestine .
+OATP1A2 is likely the key intestinal uptake transporter for fexofenadine absorption whose inhibition results in the grapefruit juice effect .
+Although short-term grapefruit juice ingestion was associated with reduced fexofenadine availability , OATP1A2 or MDR1 expression was unaffected .

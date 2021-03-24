@@ -1,0 +1,25 @@
+Effects of food intake on the pharmacokinetic properties of mirabegron oral controlled-absorption system: a single-dose , randomized , crossover study in healthy adults .
+Mirabegron is a  β3-adrenoceptor agonist used for the treatment of overactive bladder .
+Mirabegron is formulated as an extended-release tablet using oral controlled-absorption system ( OCAS ) technology .
+This study was designed to assess the effects of food on the pharmacokinetic properties of mirabegron OCAS in accordance with regulatory requirements to support dosing recommendations .
+In this single-dose , randomized , open-label , 3-period , parallel-dose-group , crossover study , mirabegron OCAS 50 or 100 mg was administered orally to healthy adult subjects in the fasted state or after a high- or low-fat breakfast .
+Dose administrations were separated by a washout period of at least 10 days .
+Blood samples were drawn up to 96 hours after dosing , and plasma concentrations of mirabegron were analyzed by LC  MS-MS .
+PK properties were determined using noncompartmental methods .
+Primary end points for the assessment of food effects were Cmax and AUC0-â. .
+For tolerability assessment , adverse events ( AEs ) were monitored using investigators' questionnaires and subjects' spontaneous reports , vital sign measurements , hematology , clinical chemistry , and ECG .
+Thirty-eight subjects ( male , 50% ; mean age , 32.1 years ; mean weight , 77.3 kg ; race , 76.3% white ) were enrolled in the 50-mg dose group and 38 subjects ( male , 52.6% ; mean age , 30.9 years ; mean weight , 74.5 kg ; race , 63.2% white ) in the 100-mg dose group .
+With either fed condition or dose , the 90% CIs for the fed  fasted ratios of both Cmax and AUC0-â of mirabegron fell below the predetermined range for bioequivalence ( 80.0%-125.0% ) , suggesting that food had no effect on exposure to mirabegron OCAS .
+With the 50-mg dose , mirabegron Cmax was reduced by 45% with a high-fat breakfast compared with fasted conditions ( geometric mean ratio [GMR] , 54.8% [90% CI , 43.7%-68.6%] ) and AUC0-â , by 17% ( GMR , 83.2% [90% CI , 74.2%-93.4%] ) .
+With the 100-mg dose , mirabegron Cmax and AUC0-â were reduced by 39% ( GMR , 61.3% [90% CI , 47.8%-78.7%] ) and 18% ( 82.4% [72.6%-93.5%] ) , respectively , after a high-fat breakfast .
+With the 50-mg dose , mirabegron Cmax was decreased by 75% ( GMR , 25.0% [90% CI , 19.9%-31.3%] ) and AUC0-â by 51% ( 48.7% [43.3%-54.7%] ) after a low-fat breakfast .
+Corresponding reductions with the 100-mg dose were 64% ( GMR , 36.3% [90% CI , 28.2%-46.8%] ) for Cmax and 47% ( GMR , 53.2% [90% CI , 46.8%-60.5%] ) for AUC0-â. .
+The fed  fasted ratios for mirabegron Cmax and AUC0-â were in general independent of dose or sex .
+Food delayed Tmax compared with the fasted state , with similar increases with the high- and low-fat meals ( 0.9 hours with 50 mg and 1.5-2.0 hours with 100 mg ) .
+Mirabegron was generally well tolerated , with no apparent difference in AE frequency between the fasted and fed states .
+Mirabegron OCAS tablets exhibited a decrease in mirabegron plasma exposure with food that was independent of dose ( 50 or 100 mg ) or gender but dependent on meal composition .
+A greater reduction in mirabegron exposure was observed after a low-fat breakfast compared with after a high-fat breakfast .
+Based on findings from previous studies , the effects of food observed in this study do not warrant dose adjustment in clinical practice .
+ClinicalTrials.gov identifier: NCT00939757. .
+Copyright bigasentc 2013 Elsevier HS Journals , Inc. .
+All rights reserved .

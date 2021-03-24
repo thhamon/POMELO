@@ -1,0 +1,3 @@
+TS224003187	food 0 16	Grapefruit juice
+TS424003187	drug 21 32	clopidogrel
+R1	relation Arg1:TS224003187 Arg2:TS424003187

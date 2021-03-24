@@ -1,0 +1,51 @@
+TS1412551706	food 11 15	food
+TS2412551706	drug 43 51	levodopa
+R1	relation Arg1:TS1412551706 Arg2:TS2412551706
+TS3912551706	food 126 130	food
+TS1212551706	drug 158 166	levodopa
+TS4212551706	drug 171 185	3-O-methyldopa
+TS1312551706	drug 216 224	levodopa
+TS3012551706	drug 226 237	benserazide
+TS2712551706	drug 294 301	Madopar
+R2	relation Arg1:TS3912551706 Arg2:TS1212551706
+TS4012551706	mealTime 385 391	fasted
+TS2512551706	drug 451 459	levodopa
+TS3412551706	drug 461 472	benserazide
+TS2912551706	food 535 553	high-fat breakfast
+TS1712551706	mealTime 629 636	fasting
+TS4412551706	mealTime 639 650	non-fasting
+TS2812551706	drug 692 700	levodopa
+TS912551706	drug 702 713	benserazide
+TS312551706	drug 848 856	levodopa
+TS4512551706	drug 861 875	3-O-methyldopa
+TS2612551706	drug 994 1002	levodopa
+TS1912551706	mealTime 1089 1096	fasting
+TS2312551706	food 1195 1199	food
+TS212551706	drug 1238 1246	levodopa
+TS1512551706	mealTime 1283 1297	overnight fast
+TS4612551706	mealTime 1333 1339	fasted
+TS3812551706	food 1342 1346	food
+TS4112551706	drug 1420 1434	3-O-methyldopa
+TS4312551706	mealTime 1441 1452	non-fasting
+TS1112551706	mealTime 1514 1521	fasting
+TS112551706	food 1551 1555	food
+TS3512551706	drug 1578 1586	levodopa
+TS3612551706	drug 1646 1654	levodopa
+R5	decrease_absorption Arg1:TS112551706 Arg2:TS3512551706
+TS412551706	drug 1719 1727	levodopa
+TS512551706	drug 1729 1740	benserazide
+TS1612551706	mealTime 1772 1776	meal
+T1	modeadm 438 442	oral
+T2	dosage 475 485	200  50 mg
+T3	mealTime 569 602	30 min before drug administration
+T4	dosage 716 726	100  25 mg
+T5	mealTime 1054 1066	postprandial
+R3	decrease_absorption Arg1:T5 Arg2:TS2612551706	
+R6	increase_absorption Arg1:TS1912551706 Arg2:TS2612551706	
+R4	no_effect_on_drug Arg1:TS4312551706 Arg2:TS4112551706	
+R7	no_effect_on_drug Arg1:TS1112551706 Arg2:TS4112551706	
+T6	drug 1673 1687	3-O-methyldopa
+R8	no_effect_on_drug Arg1:TS112551706 Arg2:TS3612551706	
+R9	no_effect_on_drug Arg1:TS112551706 Arg2:T6	
+R10	during Arg1:TS1612551706 Arg2:TS512551706	
+R11	during Arg1:TS1612551706 Arg2:TS412551706	

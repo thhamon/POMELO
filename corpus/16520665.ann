@@ -1,0 +1,29 @@
+TS1616520665	food 10 14	food
+TS216520665	drug 42 58	sunitinib malate
+TS516520665	drug 75 124	multi-targeted receptor tyrosine kinase inhibitor
+R1	relation Arg1:TS1616520665 Arg2:TS216520665
+TS2216520665	food 191 195	food
+TS1716520665	drugEffect 208 223	bioavailability
+TS716520665	drug 227 243	sunitinib malate
+TS2316520665	drug 266 306	multi-targeted tyrosine kinase inhibitor
+TS2716520665	drugEffect 332 342	anti-tumor
+R2	relation Arg1:TS2216520665 Arg2:TS716520665
+TS316520665	mealTime 488 505	after a 10-h fast
+TS616520665	mealTime 524 540	after a high-fat
+TS1816520665	food 543 560	high-calorie meal
+TS2416520665	food 789 793	food
+TS1916520665	mealTime 846 849	fed
+TS2516520665	mealTime 868 874	fasted
+TS2016520665	mealTime 893 896	fed
+TS2616520665	mealTime 898 904	fasted
+TS116520665	mealTime 1076 1079	fed
+TS916520665	food 1287 1291	food
+T1	drugEffect 312 327	anti-angiogenic
+R5	has_effect Arg1:TS716520665 Arg2:T1	
+R6	has_effect Arg1:TS716520665 Arg2:TS2716520665	
+R7	has_effect Arg1:TS2316520665 Arg2:T1	
+R8	has_effect Arg1:TS2316520665 Arg2:TS2716520665	
+T2	dosage 426 431	50-mg
+T3	drug 61 68	SU11248
+T4	drug 1243 1250	SU11248
+R3	no_effect_on_drug Arg1:TS916520665 Arg2:T4	

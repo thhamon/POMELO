@@ -1,0 +1,23 @@
+Interactions between grapefruit juice and cardiovascular drugs .
+Grapefruit juice can alter oral drug pharmacokinetics by different mechanisms .
+Irreversible inactivation of intestinal cytochrome P450 ( CYP ) 3A4 is produced by commercial grapefruit juice given as a single normal amount ( e.g e.g. 200-300 mL ) or by whole fresh fruit segments .
+As a result , presystemic metabolism is reduced and oral drug bioavailability increased .
+Enhanced oral drug bioavailability can occur 24 hours after juice consumption .
+Inhibition of P-glycoprotein ( P-gp ) is a possible mechanism that increases oral drug bioavailability by reducing intestinal and  or hepatic efflux transport .
+Recently , inhibition of organic anion transporting polypeptides by grapefruit juice was observed in vitro ; intestinal uptake transport appeared decreased as oral drug bioavailability was reduced .
+Numerous medications used in the prevention or treatment of coronary artery disease and its complications have been observed or are predicted to interact with grapefruit juice .
+Such interactions may increase the risk of rhabdomyolysis when dyslipidemia is treated with the HMG-CoA reductase inhibitors atorvastatin , lovastatin , or simvastatin .
+Potential alternative agents are pravastatin , fluvastatin , or rosuvastatin .
+Such interactions might also cause excessive vasodilatation when hypertension is managed with the dihydropyridines felodipine , nicardipine , nifedipine , nisoldipine , or nitrendipine .
+An alternative agent could be amlodipine .
+In contrast , the therapeutic effect of the angiotensin II type 1 receptor antagonist losartan may be reduced by grapefruit juice .
+Grapefruit juice interacting with the antidiabetic agent repaglinide may cause hypoglycemia , and interaction with the appetite suppressant sibutramine may cause elevated BP and HR .
+In angina pectoris , administration of grapefruit juice could result in atrioventricular conduction disorders with verapamil or attenuated antiplatelet activity with clopidrogel .
+Grapefruit juice may enhance drug toxicity for antiarrhythmic agents such as amiodarone , quinidine , disopyramide , or propafenone , and for the congestive heart failure drug , carvediol .
+Some drugs for the treatment of peripheral or central vascular disease also have the potential to interact with grapefruit juice .
+Interaction with sildenafil , tadalafil , or vardenafil for erectile dysfunction , may cause serious systemic vasodilatation especially when combined with a nitrate .
+Interaction between ergotamine for migraine and grapefruit juice may cause gangrene or stroke .
+In stroke , interaction with nimodipine may cause systemic hypotension .
+If a drug has low inherent oral bioavailability from presystemic metabolism by CYP3A4 or efflux transport by P-gp and the potential to produce serious overdose toxicity , avoidance of grapefruit juice entirely during pharmacotherapy appears mandatory .
+Although altered drug response is variable among individuals , the outcome is difficult to predict and avoiding the combination will guarantee toxicity is prevented .
+The elderly are at particular risk , as they are often prescribed medications and frequently consume grapefruit juice .

@@ -1,0 +1,12 @@
+Effects of food on the pharmacokinetics of edoxaban , an oral direct factor Xa inhibitor , in healthy volunteers .
+The primary objective of this study was to assess the effect of a standard high-fat meal on the single-dose ( 60 mg ) pharmacokinetics ( PK ) of edoxaban in healthy Japanese and Caucasian male volunteers matched by body mass index .
+This was an open-label , randomized , 2-period crossover study .
+All 32 enrolled volunteers completed the study per protocol .
+Both serial blood and urine samples were collected , and edoxaban concentrations were analyzed by a validated liquid chromatography  tandem mass spectrometry method .
+Activated partial thromboplastin and prothrombin times were obtained as measures of pharmacodynamic effect .
+The point estimates of the geometric mean ratios ( fed  fasted ) for AUC ( 0-t ) , AUC ( 0-∞ ) , and C ( max ) demonstrated modest increases ranging from 6% to 22% across PK parameters for both race cohorts .
+The disposition was similar in both Japanese and Caucasian matched volunteers with slightly higher AUC values ( ranging from 7%-9% ) in Caucasians .
+There were no serious adverse events during the study .
+All drug-related adverse events were mild and self-limited , and none were bleeding related .
+Both Japanese and Caucasian volunteers demonstrated a modest but clinically insignificant food effect .
+It was concluded that edoxaban can be administered without regard to food .

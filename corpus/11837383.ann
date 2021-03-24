@@ -1,0 +1,48 @@
+TS2211837383	drug 0 9	Moexipril
+TS3011837383	drugEffect 105 119	ACE inhibition
+TS2911837383	drug 153 166	ACE inhibitor
+TS1511837383	drug 167 176	moexipril
+TS1911837383	food 317 321	food
+TS2811837383	drugEffect 568 582	ACE inhibition
+TS1811837383	drug 653 662	moexipril
+TS2111837383	mealTime 683 690	fasting
+TS3111837383	drugEffect 742 756	ACE inhibition
+TS311837383	drug 978 987	moexipril
+TS511837383	drug 1063 1072	moexipril
+TS411837383	mealTime 1257 1264	fasting
+TS911837383	mealTime 1317 1320	fed
+TS3411837383	mealTime 1322 1328	fasted
+TS211837383	food 1606 1610	food
+TS3311837383	drugEffect 1636 1650	ACE inhibition
+TS2311837383	drugEffect 1707 1721	ACE inhibition
+TS1111837383	mealTime 1748 1761	fasting state
+TS3211837383	drugEffect 1798 1812	ACE inhibition
+TS2511837383	drugEffect 2003 2020	inhibition of ACE
+TS3511837383	drugEffect 2233 2247	ACE inhibition
+TS3611837383	drugEffect 2377 2391	ACE inhibition
+TS811837383	food 2450 2454	food
+TS2411837383	drugEffect 2464 2478	ACE inhibition
+TS2711837383	other 2570 2573	ACE
+TS2011837383	food 2597 2601	food
+T1	drug 203 214	moexiprilat
+T2	duration 585 595	up to 72 h
+T3	dosage 647 652	15 mg
+T4	mealTime 695 713	postprandial state
+T5	numbers 860 862	52
+T6	dosage 972 977	15 mg
+T7	modeadm 958 962	oral
+T8	dosage 1057 1062	15 mg
+T9	frequency 1073 1083	once daily
+T10	duration 1084 1094	for 5 days
+T11	duration 911 920	over 36 h
+T12	drug 1151 1162	Moexiprilat
+T13	mealTime 1271 1283	postprandial
+T14	drug 1284 1295	moexiprilat
+T15	drug 1404 1415	Moexiprilat
+T16	drugEffect 1554 1578	the terminal elimination
+R4	no_effect_on_drug Arg1:TS211837383 Arg2:T16	
+T17	mealTime 1773 1795	the postprandial state
+T18	drug 2250 2261	Moexiprilat
+R1	has_effect Arg1:T18 Arg2:TS3611837383	
+R2	no_effect_on_drug Arg1:TS811837383 Arg2:TS2411837383	
+T19	mealTime 2744 2762	postprandial state

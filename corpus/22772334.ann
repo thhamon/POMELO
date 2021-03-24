@@ -1,0 +1,22 @@
+TS222772334	drugEffect 605 630	increased dopamine levels
+TS322772334	drugEffect 675 701	increased serotonin levels
+TS522772334	sideeffect 815 837	food-drug interactions
+TS1022772334	food 923 927	food
+TS1222772334	food 1026 1030	food
+TS122772334	sideeffect 1047 1067	diet-induced obesity
+TS1122772334	drug 1102 1112	stimulants
+TS1522772334	drug 1156 1178	cannabinoid antagonist
+TS922772334	food 1313 1317	food
+TS1722772334	treatedDisease 1532 1539	obesity
+T1	drug 31 49	anorexigenic drugs
+T2	drugEffect 343 363	anorexigenic effects
+T3	drug 462 475	neuropeptides
+T4	drug 543 561	anorexigenic drugs
+R1	has_effect Arg1:T4 Arg2:TS222772334	
+R2	has_effect Arg1:T4 Arg2:TS322772334	
+T5	drug 859 877	anorexigenic drugs
+T6	drug 1115 1147	N-methyl-D-aspartate antagonists
+T7	sideeffect 1179 1229	increased the latency to standard food consumption
+R3	has_sideeffect Arg1:TS1522772334 Arg2:T7	
+R4	has_sideeffect Arg1:T6 Arg2:T7	
+R5	has_sideeffect Arg1:TS1122772334 Arg2:T7	

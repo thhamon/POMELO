@@ -1,0 +1,74 @@
+TS8117253883	sideeffect 20 58	food-drug pharmacokinetic interactions
+TS6317253883	drug 90 101	repaglinide
+TS7017253883	drug 106 117	nateglinide
+TS817253883	sideeffect 187 209	food-drug interactions
+TS3417253883	drug 215 226	repaglinide
+TS6217253883	drug 231 242	nateglinide
+TS7417253883	drug 255 266	meglitinide
+TS6917253883	drugEffect 332 359	improving insulin secretion
+TS117253883	treatedDisease 377 401	type 2 diabetes mellitus
+TS5917253883	treatedDisease 534 549	type 2 diabetes
+TS4717253883	drug 566 579	sulfonylureas
+TS1617253883	drugEffect 633 671	control of postprandial hyperglycaemia
+TS6017253883	sideeffect 695 710	adverse effects
+TS2117253883	sideeffect 721 734	hypoglycaemia
+TS5317253883	sideeffect 817 830	renal failure
+TS8617253883	mealTime 843 862	meal-related timing
+TS3017253883	food 924 928	food
+TS4017253883	mealTime 933 937	meal
+TS2017253883	drugEffect 959 974	bioavailability
+TS4117253883	food 1013 1017	food
+TS1817253883	food 1040 1056	grapefruit juice
+TS8017253883	sideeffect 1069 1097	pharmacokinetic interactions
+TS8717253883	sideeffect 1204 1232	pharmacokinetic interactions
+TS917253883	drug 1259 1270	repaglinide
+TS5817253883	drug 1305 1316	nateglinide
+TS1717253883	drug 1398 1409	metabolites
+TS8917253883	sideeffect 1489 1517	pharmacokinetic interactions
+TS9017253883	sideeffect 1540 1562	drug-drug interactions
+TS8317253883	drug 1735 1756	lipid-lowering agents
+TS4817253883	drugEffect 1821 1834	plasma levels
+TS3717253883	sideeffect 1847 1879	deterioration of glucose control
+TS4917253883	drugEffect 1918 1931	plasma levels
+TS6817253883	sideeffect 1943 1956	hypoglycaemia
+TS1017253883	sideeffect 2050 2058	toxicity
+TS8217253883	sideeffect 2067 2095	Pharmacokinetic interactions
+TS2217253883	drug 2174 2185	repaglinide
+TS5217253883	drug 2196 2207	nateglinide
+TS717253883	drug 2223 2231	rifampin
+TS3117253883	drug 2242 2253	repaglinide
+TS3217253883	drug 2336 2347	nateglinide
+TS4217253883	drug 2476 2487	repaglinide
+TS6417253883	drug 2502 2513	ciclosporin
+TS6617253883	drug 2523 2534	gemfibrozil
+TS2417253883	drug 2549 2560	nateglinide
+TS1117253883	drug 2563 2574	Ciclosporin
+TS517253883	drug 2593 2604	repaglinide
+TS3317253883	sideeffect 2721 2748	pharmacokinetic interaction
+TS2317253883	drug 2794 2805	gemfibrozil
+TS6717253883	drug 2817 2833	CYP2C8 inhibitor
+TS2517253883	drug 2840 2851	repaglinide
+TS2617253883	drug 2873 2884	repaglinide
+TS6517253883	treatedDisease 2950 2965	type 2 diabetes
+T1	drug 68 89	insulinotropic agents
+T2	drug 297 305	glinides
+R1	has_effect Arg1:T2 Arg2:TS6917253883	
+R2	treat Arg1:T2 Arg2:TS117253883	
+T3	drug 487 512	antihyperglycaemic agents
+T4	modeadm 482 486	oral
+R3	treat Arg1:T3 Arg2:TS5917253883	
+T5	drug 582 590	glinides
+R5	has_effect Arg1:T5 Arg2:TS1617253883	
+R6	has_effect Arg1:TS4717253883 Arg2:TS1617253883	
+R7	has_sideeffect Arg1:T5 Arg2:TS2117253883	
+R8	has_sideeffect Arg1:TS4717253883 Arg2:TS2117253883	
+T6	drug 884 892	glinides
+R9	increase_side_effect Arg1:TS1817253883 Arg2:TS8017253883	
+T7	drug 1108 1116	glinides
+T8	drug 1589 1597	glinides
+T9	drug 1644 1667	glucose-lowering agents
+T10	drug 1813 1820	glinide
+T11	drug 1910 1917	glinide
+R4	has_sideeffect Arg1:T10 Arg2:TS3717253883	
+R10	has_sideeffect Arg1:T11 Arg2:TS6817253883	
+T12	drug 2210 2220	Rifampicin

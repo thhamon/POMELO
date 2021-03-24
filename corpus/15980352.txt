@@ -1,0 +1,13 @@
+Pharmacokinetics and short-term safety of 873140 , a novel CCR5 antagonist , in healthy adult subjects .
+873140 is a novel CCR5 antagonist with potent in vitro anti-human immunodeficiency virus ( HIV ) activity .
+This study was a double-blind , randomized , placebo-controlled , single- and repeat-dose escalation investigation of the safety , pharmacokinetics , and food effect of 873140 in 70 adult subjects .
+During single-dose escalation , three cohorts ( each composed of 10 subjects , with 8 subjects receiving the active drug and 2 subjects receiving the placebo [8 active and 2 placebo] ) received doses of 50 , 200 , 400 , 800 , and 1 , 200 mg after an overnight fast , or 400 mg plus a standard high-fat breakfast in an alternating panel design .
+During repeat-dose escalation , four cohorts ( each with 8 active and 2 placebo ) received doses of 200 , 400 , 600 , or 800 mg every 12 h ( BID ) for 8 days .
+Laboratory safety tests , vital signs , and electrocardiograms ( ECGs ) were performed at regular intervals , and blood samples were obtained for pharmacokinetics .
+Single and repeat doses of 50 mg to 800 mg were well tolerated , with no serious adverse events and no grade 3 or 4 adverse events .
+The mild-to-moderate side effects were primarily gastrointestinal and included abdominal cramping , nausea , and diarrhea .
+No specific trends in laboratory parameters or clinically significant ECG changes were noted .
+Plasma 873140 concentrations increased rapidly ; the median time to maximum concentration of drug in serum was 1.75 to 5 h .
+The median area under the plasma concentration-time profile ( AUC ) and the maximum concentration of drug in serum ( C ( max ) ) ranged from 127 ng.h  ml and 24 ng  ml at 200 mg BID to 329 ng.h  ml and 100 ng  ml at 800 mg BID , respectively .
+Food consumption increased the AUC and C ( max ) by a mean of 1.7- and 2.2-fold , respectively .
+The pharmacokinetic and safety profile supports the continued investigation of 873140 with HIV-infected subjects .

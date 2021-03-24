@@ -1,0 +1,61 @@
+TS1219728565	drugEffect 0 15	Bioavailability
+TS1719728565	drug 50 61	amodiaquine
+TS2919728565	drug 66 76	artesunate
+TS1419728565	mealTime 83 86	fed
+TS119728565	mealTime 91 108	fasted conditions
+TS2119728565	food 179 183	food
+TS1019728565	drug 229 240	amodiaquine
+TS2219728565	drug 268 278	artesunate
+TS3019728565	drug 321 332	metabolites
+R1	relation Arg1:TS2119728565 Arg2:TS1019728565
+TS3219728565	mealTime 532 548	fasted overnight
+TS2819728565	food 716 737	standardised high-fat
+TS419728565	mealTime 738 747	breakfast
+TS1519728565	mealTime 922 935	fasting state
+TS1619728565	food 995 1003	high-fat
+TS319728565	mealTime 1004 1013	breakfast
+TS919728565	mealTime 1130 1133	fed
+TS2619728565	mealTime 1137 1144	fasting
+TS1919728565	drug 1192 1194	AQ
+TS2319728565	drug 1522 1524	AS
+TS1319728565	food 1769 1782	high fat meal
+TS719728565	drugEffect 1841 1867	blood levels of AQ and DSA
+TS819728565	drugEffect 1944 1979	decrease in AS and DHA blood levels
+TS519728565	food 2094 2109	a high-fat meal
+T1	drug 215 228	anti-malarial
+R3	relation Arg1:TS2119728565 Arg2:T1	
+T2	drug 334 353	desethylamodiaquine
+T3	drug 383 401	dihydroartemisinin
+T4	drug 243 245	AQ
+T5	drug 281 283	AS
+T6	drug 356 359	DSA
+T7	drug 404 407	DHA
+T8	dosage 661 667	135 mg
+T9	drug 668 670	AQ
+T10	dosage 675 680	50 mg
+T11	drug 681 683	AS
+T12	drug 845 847	AQ
+T13	drug 850 853	DSA
+T14	drug 856 858	AS
+T15	drug 863 866	DHA
+T16	mealTime 763 781	30 min before drug
+T17	drug 1057 1059	AQ
+T18	drug 1077 1080	DSA
+T19	drug 1234 1237	DSA
+T20	drug 1305 1307	AQ
+T21	drug 1351 1354	DSA
+T22	drug 1436 1438	AS
+T23	drug 1453 1456	DHA
+T24	drug 1568 1571	DHA
+T25	drug 1655 1657	AS
+T26	drug 1701 1704	DHA
+T27	drug 1752 1754	AQ
+T28	drug 1759 1761	AS
+R2	increase_absorption Arg1:TS1319728565 Arg2:T27	
+R4	decrease_absorption Arg1:TS1319728565 Arg2:T28	
+R5	has_effect Arg1:T27 Arg2:TS719728565	
+R6	has_effect Arg1:T28 Arg2:TS819728565	
+T29	sideeffect 1990 2005	affect efficacy
+R7	increase_side_effect Arg1:TS1319728565 Arg2:T29	
+T30	sideeffect 1878 1912	affect the safety and tolerability
+R8	increase_side_effect Arg1:TS1319728565 Arg2:T30	

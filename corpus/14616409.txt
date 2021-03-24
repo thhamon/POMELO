@@ -1,0 +1,20 @@
+Effect of food on the pharmacokinetics of multiple-dose oral voriconazole .
+Voriconazole is a new triazole antifungal agent with activity against a range of clinically important and emerging pathogens .
+This study determined the effect of food on the pharmacokinetics of voriconazole in healthy volunteers .
+This was an open , randomized , two-way crossover , multiple-dose study in male volunteers .
+Twelve subjects received voriconazole 200 mg twice daily for 6.5 days .
+Each dose was administered either with food or in the fasted state , i.e. not within 2 h of food .
+Treatment periods were separated by a minimum 7-day washout period .
+Plasma samples were taken for the estimation of voriconazole plasma concentrations on days 1 and 7. .
+Safety and toleration were assessed by monitoring of both laboratory safety tests and adverse events .
+Administering voriconazole with food significantly decreased both day 7 AUCtau and Cmax by approximately 35% ( 9598-7520 ng.h ml-1 ; P = 0.003 ) and 22% ( 2038-1332 ng ml-1 ; P = 0.008 ) , respectively .
+Administering voriconazole with food statistically significantly delayed absorption , evident from tmax values ; the mean difference for tmax on day 7 was 1.1 h .
+The terminal phase rate constant was unchanged by administering voriconazole with food .
+The fasted terminal phase half-life was 7.3 h compared with 6.6 h for the fed state .
+Visual inspection of Cmin values suggests that steady state was achieved after 5 days in both dietary states .
+Voriconazole accumulation , as assessed by ratios of Cmax and AUCtau on days 1 and 7 , was statistically significantly greater when administered with food ( Cmax , P = 0.010 , AUCtau , P = 0.006 ) .
+Mean Cmax accumulation in the fasted state was 2.1-fold compared with 3.5-fold in the fed state .
+AUCtau accumulation in the fasted state was 3.1-fold compared with 4.2-fold in the fed state .
+There were no discontinuations due to adverse events or laboratory abnormalities .
+Treatment-related mild-to-moderate visual disturbances were experienced by six out of 12 subjects .
+The bioavailability of twice-daily 200 mg voriconazole is reduced by approximately 22% as measured by AUCtau after multiple dosing when taken with food , compared with fasting .

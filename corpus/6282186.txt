@@ -1,0 +1,14 @@
+Food and drug interactions .
+A significant contribution could be made to patient care if nutritional biochemists , basic and clinical toxicologists , and pharmacologists in the various fields were to mount the studies needed to understand the nature of food- food-drug interactions .
+If only a small fraction of the 120 billion dollars per year spent for food or the 10 billion dollars expended for drugs were allocated for research in this area , advances might be made for the health of the nation .
+Changes in man's diet produce marked effects on drug metabolism .
+We know that changing a customary diet to one high in protein and low in carbohydrate increases the rates of metabolism of antipyrine and theophylline , and shifting to an isocaloric diet of low protein- protein-high carbohydrate slows the rates of metabolism of these drugs .
+Presumably , high-protein- high-protein-low carbohydrate diets in man resemble the animal studies with high protein diets that show enhanced hepatic drug metabolism .
+However , numerous studies emphasize the considerable individual variability to changes in human diets ; some people have dramatic changes , whereas others exhibit little or no response .
+Similar individuality has been found in the response to enzyme induction by smoking .
+Numerous foods and food ingredients affect drug metabolism in human beings and apparently follow the same patterns as found in experimental animal studies with changes in the levels of cytochrome P-450 dependent monooxygenases in the liver and intestine .
+These changes presumably exert some protective action against environmental carcinogens , cocarcinogens , or promoters .
+Dietary modifications are brought about by use of weight-reducing diets , vegetarian diets , hospitalization , or post-operative regimens .
+These diets are often continued for long periods of time and it is likely they result in changes in the metabolism by the body of subsequently administered drugs or exposure to environmental chemicals .
+Methods are needed to measure inter-individual and inter-group differences in metabolism of foreign compounds in order to accurately assess dietary influences on drug metabolism and vice versa .
+Epidemiologic studies of rigorously selected human populations , coupled with the newer sensitive chemical analytical methods , will provide the necessary data base for these investigations .

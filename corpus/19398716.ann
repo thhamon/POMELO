@@ -1,0 +1,28 @@
+TS1219398716	drug 45 69	ezatiostat hydrochloride
+TS1619398716	drug 99 125	glutathione analog prodrug
+TS1719398716	treatedDisease 145 169	myelodysplastic syndrome
+TS1419398716	drug 206 246	glutathione S-transferase P1-1 inhibitor
+TS419398716	treatedDisease 270 294	myelodysplastic syndrome
+TS1519398716	treatedDisease 708 732	myelodysplastic syndrome
+TS1819398716	sideeffect 766 776	toxicities
+TS619398716	sideeffect 893 899	nausea
+TS919398716	sideeffect 915 923	diarrhea
+TS819398716	sideeffect 939 947	vomiting
+TS1019398716	sideeffect 963 977	abdominal pain
+TS519398716	sideeffect 992 1004	constipation
+TS119398716	sideeffect 1019 1027	anorexia
+TS1119398716	sideeffect 1046 1055	dyspepsia
+TS719398716	drug 1511 1532	platelet transfusions
+T1	dosage 378 450	200 , 400 , 1000 , 1400 , 2000 , 2400 , 3000 , 4000 , 5000 , and 6000 mg
+R1	treat Arg1:TS1619398716 Arg2:TS1719398716	
+R2	treat Arg1:TS1219398716 Arg2:TS1719398716	
+T2	drug 191 201	ezatiostat
+R3	treat Arg1:TS1419398716 Arg2:TS419398716	
+T3	drug 456 466	ezatiostat
+T4	drug 588 598	ezatiostat
+T5	drug 1155 1165	ezatiostat
+T6	drug 1119 1125	TLK236
+T7	dosage 1298 1312	200 to 6000 mg
+T8	dosage 1351 1366	4000 to 6000 mg
+T9	sideeffect 1472 1506	Decreased number of red blood cell
+T10	drug 1619 1629	ezatiostat

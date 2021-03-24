@@ -1,0 +1,26 @@
+TS922866966	drug 0 6	Statin
+TS2022866966	sideeffect 7 24	drug interactions
+TS622866966	drug 57 63	Statin
+TS422866966	sideeffect 166 181	adverse effects
+TS722866966	drug 198 205	statins
+TS1422866966	sideeffect 210 218	myopathy
+TS522866966	drug 318 325	statins
+TS1622866966	sideeffect 379 391	interactions
+TS1122866966	drug 552 558	statin
+TS322866966	drug 628 635	statins
+TS2122866966	sideeffect 677 694	drug interactions
+TS1822866966	sideeffect 736 758	drug-drug interactions
+TS1722866966	drug 962 969	statins
+TS1922866966	sideeffect 1051 1068	drug interactions
+TS822866966	drug 1104 1110	statin
+TS1222866966	treatedDisease 1143 1165	cardiovascular disease
+T1	drug 37 54	adverse reactions
+T2	sideeffect 130 144	adverse events
+R1	has_sideeffect Arg1:TS722866966 Arg2:TS1422866966	
+T3	sideeffect 239 272	increase in hepatic transaminases
+R2	has_sideeffect Arg1:TS722866966 Arg2:T3	
+T4	sideeffect 707 724	adverse reactions
+R3	has_sideeffect Arg1:TS322866966 Arg2:TS2122866966	
+R4	has_sideeffect Arg1:TS322866966 Arg2:T4	
+T5	sideeffect 774 796	adverse drug reactions
+R5	treat Arg1:TS822866966 Arg2:TS1222866966	

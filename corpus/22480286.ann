@@ -1,0 +1,26 @@
+TS1322480286	drug 29 44	anticoagulation
+TS1422480286	drug 69 77	warfarin
+TS322480286	drug 107 130	chronic anticoagulation
+TS222480286	treatedDisease 148 164	ischemic strokes
+TS1522480286	drug 193 201	Warfarin
+TS1822480286	sideeffect 276 280;297 314	food drug interactions
+TS122480286	drug 362 375	anticoagulant
+TS1222480286	drug 556 581	direct thrombin inhibitor
+TS722480286	drug 618 638	Dabigatran etexilate
+TS1722480286	drug 788 803	anticoagulation
+TS622480286	treatedDisease 822 828	stroke
+TS922480286	treatedDisease 843 875	non valvular atrial fibrillation
+TS522480286	sideeffect 1026 1041	adverse effects
+T1	drug 0 10	Dabigatran
+T2	treatedDisease 169 190	systemic embolization
+R3	treat Arg1:TS322480286 Arg2:TS222480286	
+R4	treat Arg1:TS322480286 Arg2:T2	
+R5	treat Arg1:TS1422480286 Arg2:TS222480286	
+R6	treat Arg1:TS1422480286 Arg2:T2	
+T3	modeadm 357 361	oral
+R1	has_sideeffect Arg1:TS1522480286 Arg2:TS1822480286	
+T4	drug 508 518	Dabigatran
+T5	modeadm 783 787	oral
+R2	treat Arg1:TS1722480286 Arg2:TS622480286	
+R7	treat Arg1:TS1722480286 Arg2:TS922480286	
+T6	drug 1045 1055	dabigatran

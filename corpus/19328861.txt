@@ -1,0 +1,11 @@
+Effect of food and antacids on the pharmacokinetics of pirfenidone in older healthy adults .
+Pirfenidone is a small , synthetic molecule under investigation for treatment of idiopathic pulmonary fibrosis .
+In an open-label , single-dose crossover study , the pharmacokinetics ( PK ) of pirfenidone were investigated with or without food and antacids in healthy adult volunteers .
+Concentrations of pirfenidone and its metabolites in plasma and urine were determined by liquid chromatography with tandem mass spectrometry , and candidate pharmacokinetic models were fit to plasma data using weighted , non-linear regression .
+The effect of food and antacids on pirfenidone exposure was evaluated by determining 'equivalence' using FDA guidelines .
+Adverse events were recorded by site personnel and classified by investigators on the basis of severity and relationship to study drug .
+Sixteen subjects yielded 64 pharmacokinetic profiles .
+The best fit was achieved using a five-compartment , linear model with an allowance for direct conversion to the primary metabolite ( 5-carboxy-pirfenidone ) .
+Coadministration with food decreased the rate and , to a lesser degree , the extent of pirfenidone absorption of absorption .
+Analysis of adverse events revealed a correlation between pirfenidone C ( max ) and the risk of gastrointestinal ( GI ) adverse events , suggesting that food may reduce the risk of certain adverse events associated with pirfenidone .
+Administration of pirfenidone with food has a modest effect on overall exposure but results in lower peak concentrations , which may improve tolerability .

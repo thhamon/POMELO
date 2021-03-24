@@ -1,0 +1,23 @@
+TS2012362927	drug 73 83	ivermectin
+TS1812362927	drug 173 183	ivermectin
+TS512362927	drug 421 431	ivermectin
+TS2112362927	food 594 598	food
+TS312362927	drug 664 674	ivermectin
+TS812362927	sideeffect 699 707	toxicity
+TS1912362927	sideeffect 742 751	mydriasis
+TS612362927	drug 795 805	Ivermectin
+TS1512362927	sideeffect 870 882	CNS toxicity
+TS1212362927	sideeffect 982 998	mydriatic effect
+TS1112362927	drug 1061 1071	ivermectin
+TS912362927	drug 1310 1320	ivermectin
+TS212362927	food 1365 1369	food
+TS1012362927	drug 1514 1524	ivermectin
+TS1312362927	drug 1590 1600	ivermectin
+T1	drug 154 167	antiparasitic
+T2	dosage 445 456	30 or 60 mg
+T3	frequency 459 477	three times a week
+T4	dosage 483 495	90 or 120 mg
+T5	frequency 498 509	single dose
+T6	dosage 518 523	30 mg
+T7	dosage 941 955	200 microg  kg
+R1	relation Arg1:TS212362927 Arg2:TS912362927	

@@ -1,0 +1,38 @@
+TS3322829430	drug 28 37	vitamin A
+TS4422829430	treatedDisease 44 65	lung cancer mortality
+TS2522829430	sideeffect 100 129	nutrient-nutrient interaction
+TS3422829430	drug 139 148	vitamin A
+TS5022829430	sideeffect 163 173;176 214	vitamin D- mediated transcription of target genes
+TS4222829430	treatedDisease 325 346	lung cancer mortality
+TS2922829430	food 407 416	vitamin A
+TS3022829430	drug 421 430	vitamin A
+TS722829430	treatedDisease 588 609	Lung cancer mortality
+TS1422829430	drug 788 797	Vitamin A
+TS5622829430	drug 836 846	β-carotene
+TS5522829430	drug 861 867	esters
+TS1722829430	food 892 902	Supplement
+TS2622829430	treatedDisease 1109 1130	lung cancer mortality
+TS4622829430	drug 1467 1476	vitamin A
+TS5422829430	drug 1549 1556	retinol
+TS4722829430	drug 1570 1579	vitamin A
+TS4122829430	foodSupplement 1593 1603	supplement
+TS1222829430	drug 1677 1686	vitamin A
+TS322829430	treatedDisease 1768 1789	lung cancer mortality
+TS1822829430	drug 1884 1893	vitamin A
+TS1922829430	drug 1897 1906	vitamin A
+TS5722829430	drug 1909 1919	β-carotene
+TS3222829430	foodSupplement 1920 1930	supplement
+T1	drug 6 25	25-hydroxyvitamin D
+T2	drug 255 288	25-hydroxyvitamin D [25 ( OH ) D]
+T3	drug 433 443	β-carotene
+T4	numbers 473 485	16 , 693 men
+T5	numbers 622 625	104
+T6	numbers 612 619	n = 258
+T7	numbers 650 652	23
+T8	drug 825 832	retinol
+R1	has_sideeffect Arg1:TS3422829430 Arg2:TS5022829430	
+T9	drug 1084 1095	25 ( OH ) D
+T10	drug 1191 1202	25 ( OH ) D
+T11	drug 1485 1492	retinyl
+T12	drug 1582 1592	β-carotene
+T13	drug 1710 1721	25 ( OH ) D

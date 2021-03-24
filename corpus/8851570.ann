@@ -1,0 +1,44 @@
+TS398851570	drug 86 96	atovaquone
+TS428851570	sideeffect 100 129	human immunodeficiency virus-
+TS298851570	drug 265 275	atovaquone
+TS418851570	treatedDisease 292 321	human immunodeficiency virus-
+TS348851570	food 403 408	order
+TS118851570	treatedDisease 457 487	Pneumocystis carinii pneumonia
+TS198851570	mealTime 670 684	overnight fast
+TS308851570	sideeffect 839 846	fasting
+TS68851570	mealTime 866 881	a high-fat meal
+TS78851570	mealTime 903 918	a high-fat meal
+TS358851570	drug 928 938	atovaquone
+TS158851570	drugEffect 939 945	levels
+TS378851570	food 979 985	liquid
+TS218851570	food 1401 1405	food
+TS228851570	food 1523 1527	food
+TS288851570	food 1530 1534	Food
+TS238851570	drugEffect 1549 1564	bioavailability
+TS208851570	drug 1568 1578	atovaquone
+TS138851570	mealTime 1605 1618	fasting state
+R1	relation Arg1:TS288851570 Arg2:TS208851570
+TS408851570	food 1675 1679	food
+TS178851570	drugEffect 1833 1839	levels
+TS88851570	food 1890 1894	food
+TS38851570	sideeffect 1942 1946	rash
+TS128851570	drug 1979 1989	atovaquone
+TS168851570	sideeffect 2031 2048	carinii pneumonia
+TS368851570	mealTime 2115 2128	fasting state
+TS188851570	food 2195 2199	food
+TS258851570	sideeffect 2277 2281	rash
+T1	dosage 630 633	500
+T2	dosage 636 643	1 , 000
+T3	dosage 650 660	1 , 500 mg
+T4	frequency 688 704	weekly intervals
+T5	duration 779 786	14 days
+T6	dosage 1496 1506	1 , 000 mg
+T7	frequency 1507 1517	once daily
+T8	dosage 1647 1657	1 , 000 mg
+T9	frequency 1658 1669	twice daily
+T10	dosage 1862 1872	1 , 000 mg
+T11	frequency 1873 1884	twice daily
+T12	dosage 2087 2097	1 , 000 mg
+T13	frequency 2098 2109	twice daily
+T14	dosage 2154 2164	1 , 000 mg
+T15	frequency 2165 2176	twice daily

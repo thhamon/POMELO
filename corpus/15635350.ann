@@ -1,0 +1,22 @@
+TS2515635350	food 8 18	supplement
+TS1215635350	sideeffect 66 73	illness
+TS415635350	food 126 136	supplement
+TS2015635350	treatedDisease 414 420	asthma
+TS1315635350	treatedDisease 423 438	cystic fibrosis
+TS115635350	treatedDisease 441 449	diabetes
+TS1815635350	treatedDisease 452 458	cancer
+TS1515635350	treatedDisease 461 493	liver and renal transplantations
+TS915635350	treatedDisease 496 504	seizures
+TS2315635350	drug 1198 1217	dietary supplements
+TS2415635350	drug 1247 1258	supplements
+TS1715635350	treatedDisease 1382 1388	cancer
+TS2215635350	treatedDisease 1427 1442	cystic fibrosis
+TS1915635350	drug 1567 1586	dietary supplements
+TS2115635350	food 1642 1660	Dietary supplement
+TS215635350	drug 1893 1904	supplements
+TS1615635350	drug 1964 1975	supplements
+TS2615635350	sideeffect 2032 2049	drug interactions
+T1	foodSupplement 758 776	dietary supplement
+T2	treatedDisease 511 556	rheumatological and neurobehavioral disorders
+T3	treatedDisease 1453 1478	neurobehavioral disorders
+T4	treatedDisease 1493 1518	rheumatological disorders

@@ -1,0 +1,8 @@
+Inhibition and induction of glutathione S-transferases by flavonoids: possible pharmacological and toxicological consequences .
+Many studies reviewed herein demonstrated the potency of some flavonoids to modulate the activity and  or expression of glutathione S-transferases ( GSTs ) .
+Because GSTs play a crucial role in the detoxification of xenobiotics , their inhibition or induction may significantly affect metabolism and biological effects of many drugs , industrials , and environmental contaminants .
+The effect of flavonoids on GSTs strongly depends on flavonoid structure , concentration , period of administration , as well as on GST isoform and origin .
+Moreover , the results obtained in vitro are often contrary to the vivo results .
+Based on these facts , the revelation of important flavonoid- flavonoid-drug or flavonoid- flavonoid-pollutant interaction has been complicated .
+However , it should be borne in mind that ingestion of certain flavonoids in combination with drugs or pollutants ( e.g e.g. , acetaminophen , simvastatin , cyclophosphamide , cisplatine , polycyclic aromatic hydrocarbons , chlorpyrifos , acrylamide , and isocyanates ) , which are GST substrates , could have significant pharmacological and toxicological consequences .
+Although reasonable consumptions of a flavonoids-rich diet ( that may lead to GST induction ) are mostly beneficial , the uncontrolled intake of high concentrations of certain flavonoids ( e.g e.g. , quercetin and catechins ) in dietary supplements ( that may cause GST inhibition ) may threaten human health .

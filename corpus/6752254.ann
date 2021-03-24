@@ -1,0 +1,21 @@
+TS16752254	food 11 15	diet
+TS246752254	food 20 29	nutrition
+TS296752254	food 48 53	Foods
+TS46752254	sideeffect 262 277	adverse effects
+TS146752254	food 291 295	food
+TS306752254	sideeffect 322 346	Food- -drug interactions
+TS56752254	sideeffect 520 532	malnutrition
+TS186752254	sideeffect 546 567	protein insufficiency
+TS36752254	food 581 585	food
+TS66752254	sideeffect 599 611	Malnutrition
+TS286752254	food 805 814	nutrients
+TS156752254	sideeffect 939 960	alter food metabolism
+TS346752254	sideeffect 1016 1040	food- -drug interactions
+TS276752254	food 1133 1137	food
+TS76752254	sideeffect 1191 1225	salicylate-induced iron deficiency
+TS86752254	food2 1247 1254	vitamin
+TS96752254	food2 1285 1292	vitamin
+TS106752254	food2 1381 1388	vitamin
+T1	sideeffect 399 416	adverse reactions
+T2	drug 929 934	Drugs
+R1	has_sideeffect Arg1:T2 Arg2:TS156752254	

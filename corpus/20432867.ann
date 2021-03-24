@@ -1,0 +1,5 @@
+TS220432867	sideeffect 10 21	interaction
+TS320432867	drug 45 54	warfarin]
+T1	foodSupplement 30 40	probiotics
+R1	has_sideeffect Arg1:T1 Arg2:TS220432867	
+R2	relation Arg1:T1 Arg2:TS320432867	

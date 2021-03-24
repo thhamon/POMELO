@@ -1,0 +1,18 @@
+Clinical pharmacokinetics and gastrointestinal tolerability of a novel extended-release microsphere formulation of azithromycin .
+A novel oral , extended-release , microsphere formulation of azithromycin ( AZSR ) was developed to improve the gastrointestinal tolerability profile while allowing administration of an entire treatment course of azithromycin in a single dose .
+Several phase I clinical pharmacology studies were conducted to ( i ) identify a well-tolerated single-dose formulation that met a predefined exposure target ; and ( ii ) evaluate the effect of food and antacid on the absorption of this formulation .
+Of these , five pivotal studies are described here .
+The pharmacokinetic profile of AZSR was compared with that of the commercially available immediate-release azithromycin formulation ( AZM ) in an open-label , crossover , single-dose study ( Study A ) , and their gastrointestinal tolerability profiles were compared in an observer-blind , parallel group , single-dose study ( Study B ) .
+The effects of food ( a high-fat meal and a standard meal ) and antacid ( a single 20 mL dose of Maalox Regular Strength , containing magnesium hydroxide , aluminium hydroxide and simethicone ) on the absorption of azithromycin from AZSR were evaluated in three separate open-label , crossover , single-dose studies ( Studies C , D and E ) .
+Healthy adult subjects were enrolled in all five studies , and all subjects were evaluable for tolerability .
+The dose used for all azithromycin formulations was 2.0 g .
+Serum azithromycin concentrations were determined using a validated high-performance liquid chromatography  electrochemical detection method , and pharmacokinetic parameters were analysed using noncompartmental methods .
+377 subjects received a single 2.0 g dose of azithromycin as AZSR and  or AZM in the five studies .
+Compared with AZM , AZSR had a slower absorption rate ( 57% decrease in the mean peak concentration [C ( max ) ] and an approximate 2.5-hour delay in the time to reach C ( max ) [t ( max ) ] ) , with a mean relative bioavailability of 82.8% , which met the predefined exposure target ( at least 80% bioavailability relative to AZM ) .
+Compared with AZM , AZSR was associated with significantly lower rates of nausea and vomiting .
+A high-fat meal increased the mean area under the serum concentration-time curve [AUC [AUC] from time zero to 72 hours post-dose ( AUC ( 72 h ) ) by 23% and increased the C ( max ) of azithromycin by 115%. .
+A standard meal increased the mean C ( max ) by 119% but had no clinically significant effect on the AUC ( 72 h ) .
+AZSR appeared to be better tolerated in the fasted state than in the fed state .
+The AUC ( 72 h ) and C ( max ) of AZSR were not significantly affected by co-administration with a single dose of antacid .
+The extended-release microsphere formulation of azithromycin , AZSR , allows administration of an entire therapeutic course of azithromycin as a well-tolerated single 2.0 g dose .
+This formulation should be administered on an empty stomach and can be co-administered with antacids .

@@ -1,0 +1,35 @@
+TS117560252	food 38 42	food
+TS77560252	drug 70 81	iloperidone
+TS177560252	drug 107 129	atypical antipsychotic
+R1	relation Arg1:TS117560252 Arg2:TS77560252
+TS87560252	drug 132 143	Iloperidone
+TS287560252	drug 234 262	atypical antipsychotic agent
+TS217560252	drug 280 291	iloperidone
+TS97560252	food 437 441	food
+TS207560252	drug 531 542	Iloperidone
+TS277560252	mealTime 571 577	fasted
+TS247560252	drug 829 840	Iloperidone
+TS47560252	food 929 933	food
+TS257560252	drug 1026 1038	iloperidone'
+TS57560252	drugEffect 1095 1110	bioavailability
+TS267560252	food 1143 1158	taken with food
+TS27560252	sideeffect 1161 1184	Orthostatic hypotension
+TS197560252	sideeffect 1187 1196	dizziness
+TS187560252	sideeffect 1203 1213	somnolence
+TS17560252	food 1283 1287	food
+T1	drug 84 90	HP 873
+T2	drug 146 152	HP 873
+T3	drug 160 192	D2 and 5-HT2 receptor-antagonist
+T4	dosage 388 399	3- and 5-mg
+T5	dosage 518 522	3-mg
+T6	modeadm 561 567	orally
+T7	dosage 667 677	3- or 5-mg
+T8	dosage 748 758	3 and 5 mg
+R2	decrease_absorption Arg1:TS267560252 Arg2:TS257560252	
+R3	has_effect Arg1:TS257560252 Arg2:TS57560252	
+R4	has_sideeffect Arg1:TS257560252 Arg2:TS27560252	
+R5	has_sideeffect Arg1:TS257560252 Arg2:TS197560252	
+R6	has_sideeffect Arg1:TS257560252 Arg2:TS187560252	
+R7	reduce_side_effect Arg1:TS17560252 Arg2:TS27560252	
+R8	reduce_side_effect Arg1:TS17560252 Arg2:TS197560252	
+R9	reduce_side_effect Arg1:TS17560252 Arg2:TS187560252	

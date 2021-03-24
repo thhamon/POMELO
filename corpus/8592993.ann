@@ -1,0 +1,19 @@
+TS38592993	food 1192 1196	food
+TS48592993	drug 1383 1393	probenecid
+TS68592993	drugEffect 2122 2144	antibacterial activity
+T1	drug 62 90	6-fluoro-8-methoxy quinolone
+T2	drug 145 173	6-fluoro-8-methoxy quinolone
+T3	frequency 251 262	single dose
+T4	dosage 266 269	100
+T5	dosage 272 275	200
+T6	dosage 278 281	400
+T7	dosage 287 293	600 mg
+T8	dosage 316 322	300 mg
+T9	frequency 323 334	twice daily
+T10	duration 335 347	for 6.5 days
+T11	dosage 636 639	100
+T12	dosage 642 645	200
+T13	dosage 648 651	400
+T14	dosage 658 664	600 mg
+T15	dosage 962 968	400-mg
+T16	drugEffect 1408 1429	elimination half-life

@@ -1,0 +1,17 @@
+Grapefruit and drug interactions .
+Since the late 1980s , grapefruit juice has been known to affect the metabolism of certain drugs .
+Several serious adverse effects involving drug interactions with grapefruit juice have been published in detail .
+The components of grapefruit juice vary considerably depending on the variety , maturity and origin of the fruit , local climatic conditions , and the manufacturing process .
+No single component accounts for all observed interactions .
+Other grapefruit products are also occasionally implicated , including preserves , lyophylised grapefruit juice , powdered whole grapefruit , grapefruit seed extract , and zest .
+Clinical reports of drug interactions with grapefruit juice are supported by pharmacokinetic studies , each usually involving about 10 healthy volunteers , in which the probable clinical consequences were extrapolated from the observed plasma concentrations .
+Grapefruit juice inhibits CYP3A4 , the cytochrome P450 isoenzyme most often involved in drug metabolism .
+This increases plasma concentrations of the drugs concerned , creating a risk of overdose and dose-dependent adverse effects .
+Grapefruit juice also inhibits several other cytochrome P450 isoenzymes , but they are less frequently implicated in interactions with clinical consequences .
+Drugs interacting with grapefruit and inducing serious clinical consequences ( confirmed or very probable ) include: immunosuppressants , some statins , benzodiazepines , most calcium channel blockers , indinavir and carbamazepine .
+There are large inter-individual differences in enzyme efficiency .
+Along with the variable composition of grapefruit juice , this makes it difficult to predict the magnitude and clinical consequences of drug interactions with grapefruit juice in a given patient .
+There is increasing evidence that transporter proteins such as organic anion transporters and P-glycoprotein are involved in interactions between drugs and grapefruit juice .
+In practice , numerous drugs interact with grapefruit juice .
+Although only a few reports involving severe clinical consequences have been published , they suggest that grapefruit juice should be avoided during drug therapy , especially when the drug has a narrow therapeutic margin or carries a risk of serious dose-dependent adverse effects .
+Patients should be informed of this risk whenever a drug is prescribed or dispensed .

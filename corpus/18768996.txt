@@ -1,0 +1,11 @@
+Lapatinib Lapatinib: a dual tyrosine kinase inhibitor for metastatic breast cancer .
+The pharmacology , pharmacokinetics , clinical efficacy , adverse effects , drug and food interactions , dosage and administration , and role in therapy of lapatinib in metastatic breast cancer are reviewed .
+Lapatinib is a small-molecule tyrosine kinase inhibitor that dually targets human epidermal growth factor receptors 1 and 2 ( HER2 ) .
+Unlike trastuzumab , lapatinib enters the cell and binds to the intracellular domain of the tyrosine kinase receptor , allowing for complete blockage of the autophosphorylation reaction and a complete halt to the downstream cascade of events .
+After oral administration , lapatinib reaches peak plasma levels within approximately 4 hours , steady-state levels within six to seven days , and has a half-life of 24 hours .
+Combination therapy with lapatinib and capecitabine has demonstrated superior time to progression compared with capecitabine monotherapy for the treatment of HER2-positive metastatic breast cancer refractory to anthracycline anthracycline- , taxane- , and trastuzumab-containing regimens .
+Unlike trastuzumab , lapatinib is an orally active agent with promising clinical activity in metastatic breast cancer and is associated with a better adverse-effect profile .
+The most frequently reported adverse events in patients receiving combination therapy with lapatinib and capecitabine were diarrhea and hand-foot syndrome .
+Ongoing research has further evaluated the safety of lapatinib regarding cardiac effects and found that the majority of left ventricular ejection fraction decreases from baseline were asymptomatic and reversible .
+Lapatinib has demonstrated efficacy in combination with capecitabine in patients with previously treated HER2-positive metastatic breast cancer .
+In patients with metastatic disease refractory to trastuzumab- , anthracycline anthracycline- , and taxane-containing regimens , the addition of lapatinib to capecitabine may extend the time to disease progression and progression- progression-free survival .

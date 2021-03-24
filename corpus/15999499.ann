@@ -1,0 +1,23 @@
+TS615999499	food 12 16	food
+TS1015999499	food 21 28	alcohol
+TS1115999499	food 129 134	meals
+TS1215999499	food 138 145	alcohol
+TS515999499	food 241 245	food
+TS1415999499	food 250 257	alcohol
+TS1315999499	food 386 394	high-fat
+TS215999499	food 409 421	fat calories
+TS815999499	mealTime 424 428	meal
+TS1715999499	food 562 578	moderate-fat mea
+TS415999499	food 586 598	fat calories
+TS715999499	food 897 901	food
+T1	drug 56 66	vardenafil
+T2	drug 285 314	phosphodiesterase-5 inhibitor
+T3	drug 315 325	vardenafil
+T4	drug 604 614	vardenafil
+T5	drug 718 728	vardenafil
+T6	drug 818 828	vardenafil
+T7	drug 966 976	vardenafil
+T8	food 1035 1042	ethanol
+R1	no_effect_on_drug Arg1:T8 Arg2:T7	
+R2	no_effect_on_drug Arg1:TS715999499 Arg2:T6	
+T9	drug 1074 1084	vardenafil

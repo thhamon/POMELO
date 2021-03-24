@@ -1,0 +1,14 @@
+Phenytoin-folic acid interaction .
+To review information regarding the dual and interdependent drug-nutrient interaction between phenytoin and folic acid and other literature involving phenytoin and folic acid .
+Information was retrieved from a MEDLINE search of English-language literature conducted from 1983 ( time of the last review ) to March 1995. .
+Search terms included folic acid , phenytoin , and folic acid deficiency .
+Additional references were obtained from Current Contents and from the bibliographies of the retrieved references .
+All human studies examining the effects of phenytoin on serum folate concentrations and folic acid supplementation on serum phenytoin concentrations were selected .
+These included studies of patients with epilepsy and healthy volunteers as well as case reports .
+Case reports were included because of the extensive length of time needed to study this drug interaction .
+Data extracted included gender , dosing , serum folate concentrations if available , pharmacokinetics , and adverse events .
+Serum folate decreases when phenytoin therapy is initiated alone with no folate supplementation .
+Folic acid supplementation in folate- folate-deficient patients with epilepsy changes the pharmacokinetics of phenytoin , usually leading to lower serum phenytoin concentrations and possible seizure breakthrough .
+Folate is hypothesized to be a cofactor in phenytoin metabolism and may be responsible for the " pseudo-steady-state , " which is a concentration where phenytoin appears to be at steady-state , but in reality , is not .
+Phenytoin and folic acid therapy initiated concomitantly prevents decreased folate and phenytoin obtains steady-state concentrations sooner .
+Folic acid supplementation should be initiated each time phenytoin therapy commences because of the hypothesized cofactor mechanism , decreased adverse effects associated with folate deficiency , and better seizure control with no perturbation of phenytoin pharmacokinetics .

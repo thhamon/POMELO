@@ -1,0 +1,14 @@
+TS212723461	drug 67 122	specific p38 mitogen-activated protein kinase inhibitor
+TS1112723461	food 306 310	food
+TS1212723461	mealTime 562 569	fasting
+TS512723461	food 597 601	food
+TS412723461	drugEffect 804 837	inhibition of cytokine production
+TS312723461	food 1238 1242	food
+TS1012723461	food 1394 1398	food
+TS812723461	mealTime 1433 1440	fasting
+TS712723461	food 1523 1527	food
+TS1312723461	sideeffect 1787 1802	adverse effects
+T1	modeadm 527 531	oral
+T2	dosage 539 553	0.25-30 mg  kg
+T3	dosage 627 636	10-mg  kg
+T4	duration 710 718	48 hours

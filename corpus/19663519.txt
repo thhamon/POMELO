@@ -1,0 +1,18 @@
+Phase I clinical studies of the advanced glycation end-product ( AGE ) -breaker TRC4186: safety , tolerability and pharmacokinetics in healthy subjects .
+Advanced glycation end-products ( AGEs ) have been implicated in the pathogenesis of diabetic complications through a variety of mechanisms including endothelial dysfunction and structural abnormalities in the vasculature and myocardium .
+Reducing the AGEs burden and their ensuing pro-inflammatory , pro-oxidative and pro-coagulant effect with associated dysfunctional proteins in various target tissues may retard the progression of and even reverse diabetic macro- and microvascular complications .
+Pyridinium , 3- [[2- ( methylsulfonyl ) hydrazino] carbonyl]-1- [2-oxo-2-2-thienyl ) ethyl]-chloride ( TRC4186 ) has demonstrated AGE-breaking activities in in vitro experiments and improvement in the endothelial and myocardial function in animal models of diabetes mellitus with reduction of AGEs accumulation in tissues over time .
+The safety of TRC4186 has been established in in vitro and in vivo preclinical studies .
+Thus , this drug is being developed for the treatment of complications associated with diabetes .
+This investigation set out to evaluate the safety , tolerability and pharmacokinetics of TRC4186 in healthy human subjects after single and multiple ascending doses , fixed doses in elderly male and female subjects , and with food and different formulations of the compound .
+Four studies were conducted during phase I clinical development of TRC4186. .
+These were: ( i ) a randomized , double-blind , placebo-controlled , single-dose , dose-ascending study in healthy male subjects with doses of TRC4186 ranging from 250 to 2500 mg administered as an oral solution ( total six doses ) ; ( ii ) a randomized , double-blind , placebo-controlled , multiple-dose , dose-ascending study in healthy male subjects with three doses of TRC4186 ranging from 500 to 2000 mg twice daily for 6 days with a final single dose on day 7 ; ( iii ) a randomized , open-label , three-way crossover study to assess the effect of food ( fasted vs fed ) and formulation ( solution vs tablet ) with TRC4186 500 mg ; ( iv ) a randomized , double-blind , placebo-controlled , single-dose , dose-ascending study in elderly male and female subjects at a dose of TRC4186 500 mg followed by TRC4186 1000 mg after a 7-day washout period .
+The safety and tolerability of TRC4186 were assessed by considering adverse events ( AEs ) , ECG findings , vital signs and laboratory investigation results .
+TRC4186 was rapidly absorbed , with maximum plasma concentrations ( C ( max ) ) attained within 1-4 hours .
+C ( max ) and area under the plasma concentration-time curve ( AUC ) were dose proportional over the range 250-2500 mg for a single dose and 500-2000 mg for multiple doses with twice-daily administration .
+Steady-state conditions were attained within 6 days at different dose levels .
+C ( max ) and AUC were not affected by age , sex , race or type of formulation .
+The tablet formulation of TRC4186 was bioequivalent with the solution form of the drug under fasting conditions and systemic availability of the tablet formulation was reduced by 40% when administered under fed conditions .
+Terminal elimination and renal clearance in the elderly male ( age 69.1 +  - 6.0 years ) were not significantly different compared with younger subjects ( age 31 +  - 8.6 years ) .
+TRC4186 was safe and well tolerated when administered orally with either a single or multiple doses across the different ages , sexes , races and formulations studied .
+A dose-proportional increase in plasma TRC4186 concentration was seen , with steady state being achieved within 6 days .

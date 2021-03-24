@@ -1,0 +1,38 @@
+TS638520091	drug 0 20	Phenytoin-folic acid
+TS358520091	sideeffect 21 32	interaction
+TS258520091	sideeffect 109 120	interaction
+TS298520091	drug 129 138	phenytoin
+TS438520091	drug 143 153	folic acid
+TS308520091	drug 185 194	phenytoin
+TS448520091	drug 199 209	folic acid
+TS38520091	drug 378 388	folic acid
+TS568520091	drug 391 400	phenytoin
+TS208520091	treatedDisease 407 428	folic acid deficiency
+TS608520091	drug 534 544	references
+TS268520091	drug 590 599	phenytoin
+TS488520091	drug 635 661	folic acid supplementation
+TS278520091	drug 671 680	phenytoin
+TS178520091	treatedDisease 752 760	epilepsy
+TS328520091	sideeffect 898 914	drug interaction
+TS248520091	drug 1070 1079	phenytoin
+TS498520091	drug 1140 1166	Folic acid supplementation
+TS118520091	sideeffect 1209 1217	epilepsy
+TS398520091	drug 1250 1259	phenytoin
+TS408520091	drug 1293 1302	phenytoin
+TS238520091	sideeffect 1331 1351	seizure breakthrough
+TS418520091	drug 1354 1360	Folate
+TS68520091	drug 1397 1406	phenytoin
+TS78520091	drug 1506 1515	phenytoin
+TS128520091	drug 1574 1583	Phenytoin
+TS338520091	drug 1588 1598	folic acid
+TS138520091	drug 1661 1670	phenytoin
+TS228520091	drug 1716 1742	Folic acid supplementation
+TS518520091	drug 1773 1782	phenytoin
+TS548520091	sideeffect 1860 1875	adverse effects
+TS218520091	sideeffect 1892 1909	folate deficiency
+TS458520091	sideeffect 1923 1930	seizure
+TS528520091	drug 1963 1972	phenytoin
+T1	treatedDisease 1178 1194	folate-deficient
+T2	sideeffect 1025 1039	adverse events
+R1	treat Arg1:TS498520091 Arg2:T1	
+T3	sideeffect 1451 1470	pseudo-steady-state

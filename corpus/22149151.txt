@@ -1,0 +1,14 @@
+Pharmacokinetics of a new once-daily controlled-release formulation of aceclofenac in Korean healthy subjects compared with immediate-release aceclofenac and the effect of food food: a randomized , open-label , three-period , crossover , single-centre study .
+A new controlled-release formulation of aceclofenac 200 mg ( Clanza CRbigasentr ) developed by Korea United Pharm .
+, Inc. .
+, South Korea , for once-daily ( od ) dosing provides biphasic aceclofenac release consisting of immediate release of 85 mg followed by sustained release of 115 mg .
+Food has been known to affect the rate and extent of absorption of several drugs , in both immediate-release and controlled-release formulations .
+The aim of this study was to evaluate the relative bioavailability of a new controlled-release formulation of aceclofenac ( 200 mg od ; Clanza CRbigasentr ) in comparison with immediate-release aceclofenac ( 100 mg twice daily [bid] , Airtalbigasentr ) and to assess the effect of food on the pharmacokinetics of the new controlled-release aceclofenac formulation .
+This study was designed as a randomized , open-label , three treatment-period , crossover , single-centre study with a 1-week washout in 41 healthy adults .
+The three treatments consisted of immediate-release aceclofenac 100 mg bid administered under fasting conditions ; controlled-release aceclofenac 200 mg od administered under fasting conditions ; and controlled-release aceclofenac 200 mg od administered immediately after a standardized high-fat breakfast .
+Plasma concentrations of aceclofenac were determined using a high-performance liquid chromatography method .
+In the fasted state , the 90% confidence intervals ( CIs ) of the least squares geometric mean ratios ( GMRs ) for the area under the plasma concentration-time curve from time zero to 24 hours ( AUC ( 24 ) ) and the peak plasma concentration ( C ( max ) ) of aceclofenac for the controlled-release and immediate-release formulations of aceclofenac were all within the bioequivalence criteria range of 0.8-1.25. .
+The 90% CIs of the GMRs for the AUC ( 24 ) and C ( max ) of aceclofenac for the controlled-release formulation of aceclofenac in the fed and fasted states were also within the bioequivalence range .
+Both aceclofenac formulations were well tolerated in all subjects , and no serious adverse effects were observed .
+The results demonstrate that controlled-release aceclofenac 200 mg is equivalent to immediate-release aceclofenac 100 mg when administered at the same total daily dose .
+Additionally , the bioavailability of controlled-release aceclofenac was not affected by high-fat foods .

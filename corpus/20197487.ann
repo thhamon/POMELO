@@ -1,0 +1,26 @@
+TS1220197487	food 44 48	food
+TS1520197487	drug 77 99	naphthoquine phosphate
+TS1920197487	drug 145 167	naphthoquine phosphate
+TS520197487	drug 269 280	artemisinin
+TS2120197487	drug 471 483	artemisinin-
+TS320197487	drug 484 518	artemisinin-naphthoquine phosphate
+TS920197487	food 591 595	Food
+TS1420197487	drug 918 940	naphthoquine phosphate
+TS1320197487	drug 945 956	artemisinin
+TS420197487	drug 1019 1041	naphthoquine phosphate
+TS720197487	drug 1136 1147	artemisinin
+TS820197487	drug 1171 1193	naphthoquine phosphate
+TS120197487	food 1243 1247	Food
+TS1120197487	drug 1292 1303	artemisinin
+TS2220197487	mealTime 1430 1436	fasted
+TS1720197487	mealTime 1501 1504	fed
+R5	increase_absorption Arg1:TS120197487 Arg2:TS1120197487
+T1	drug 179 195	antimalaria drug
+T2	drug 242 264	naphthoquine phosphate
+T3	modeadm 416 420	oral
+T4	dosage 429 435	350 mg
+T5	dosage 438 444	700 mg
+T6	dosage 447 454	1400 mg
+T7	dosage 460 467	2100 mg
+T8	drug 1344 1366	naphthoquine phosphate
+R1	decrease_absorption Arg1:TS120197487 Arg2:T8	

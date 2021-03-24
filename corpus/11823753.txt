@@ -1,0 +1,15 @@
+Fruit juices inhibit organic anion transporting polypeptide-mediated drug uptake to decrease the oral availability of fexofenadine .
+Our objective was to examine the effect of different fruits and their constituents on P-glycoprotein and organic anion transporting polypeptide ( OATP ) activities in vitro and on drug disposition in humans .
+P-glycoprotein- P-glycoprotein-mediated digoxin or vinblastine efflux was determined in polarized epithelial cell monolayers .
+OATP-mediated fexofenadine uptake was measured in a transfected cell line .
+The oral pharmacokinetics of 120 mg fexofenadine was assessed with water , 25%-strength grapefruit juice , or normal-strength grapefruit , orange , or apple juices ( 1.2 L over 3 hours ) in a randomized 5-way crossover study in 10 healthy subjects .
+Grapefruit juice and segments and apple juice at 5% of normal strength did not alter P-glycoprotein activity .
+Grapefruit extract reduced transport .
+6' , 7' -Dihydroxybergamottin had modest inhibitory activity ( 50% inhibitory concentration [IC ( 50 ) ] , 33 micromol  L ) .
+In contrast , grapefruit , orange , and apple juices at 5% of normal strength markedly reduced human OATP and rat oatp activity .
+6' , 7' -Dihydroxybergamottin potently inhibited rat oatp3 and oatp1 ( IC ( 50 ) , 0.28 micromol  L ) .
+Other furanocoumarins and bioflavonoids also reduced rat oatp3 activity .
+Grapefruit , orange , and apple juices decreased the fexofenadine area under the plasma concentration-time curve ( AUC ) , the peak plasma drug concentration ( C ( max ) ) , and the urinary excretion values to 30% to 40% of those with water , with no change in the time to reach C ( max ) , elimination half-life , renal clearance , or urine volume in humans .
+Change in fexofenadine AUC with juice was variable among individuals and inversely dependent on value with water .
+Fruit juices and constituents are more potent inhibitors of OATPs than P-glycoprotein activities , which can reduce oral drug bioavailability .
+Results support a new model of intestinal drug absorption and mechanism of food-drug interaction .

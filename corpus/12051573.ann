@@ -1,0 +1,26 @@
+TS712051573	drug 0 12	Nitazoxanide
+TS312051573	drug 90 102	Nitazoxanide
+TS1312051573	drug 258 269	metabolites
+TS1212051573	drugEffect 304 319	Bioavailability
+TS1112051573	food 350 354	food
+TS512051573	food 561 565	food
+TS912051573	mealTime 823 840	fasted conditions
+TS612051573	mealTime 865 887	standardized breakfast
+TS1012051573	drugEffect 1429 1444	bioavailability
+TS212051573	food 1467 1471	Food
+TS812051573	drug 1767 1779	Nitazoxanide
+TS412051573	food 1853 1857	food
+T1	modeadm 77 81	oral
+T2	drug 118 163	broad-spectrum intestinal antiparasitic agent
+T3	drug 166 176	Deacetyl-N
+T4	drug 180 190	tizoxanide
+T5	drug 205 216	glucuronide
+T6	modeadm 276 295	oral administration
+R1	increase_absorption Arg1:TS1112051573 Arg2:TS1212051573	
+T7	modeadm 499 518	oral administration
+T8	dosage 1116 1119	4 g
+T9	sideeffect 1136 1165	gastrointestinal side effects
+T10	dosage 1461 1464	4 g
+T11	dosage 1813 1816	4 g
+T12	modeadm 1824 1834	oral doses
+R2	no_effect_on_drug Arg1:TS412051573 Arg2:TS812051573	

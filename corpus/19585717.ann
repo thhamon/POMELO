@@ -1,0 +1,33 @@
+TS1819585717	drug 0 10	Cilostazol
+TS2719585717	treatedDisease 34 59	Intermittent claudication
+TS2419585717	treatedDisease 119 144	Intermittent claudication
+TS1619585717	drug 346 358	Vasodilators
+TS1419585717	drug 450 460	Cilostazol
+TS319585717	treatedDisease 633 658	intermittent claudication
+TS1519585717	drug 792 802	Cilostazol
+TS619585717	drug 826 840	pentoxifylline
+TS1119585717	drug 1068 1078	cilostazol
+TS1219585717	drug 1233 1243	cilostazol
+TS2119585717	treatedDisease 1467 1480	heart failure
+TS819585717	drug 1489 1499	Cilostazol
+TS2019585717	sideeffect 1527 1546	cardiac arrhythmias
+TS119585717	sideeffect 1563 1574	haemorrhage
+TS919585717	drug 1618 1628	Cilostazol
+TS2819585717	sideeffect 1732 1760	pharmacokinetic interactions
+TS1319585717	food 1787 1791	food
+TS519585717	treatedDisease 1828 1853	intermittent claudication
+TS1019585717	drug 1874 1884	cilostazol
+TS719585717	drug 1924 1941	antiplatelet drug
+R1	relation Arg1:TS1319585717 Arg2:TS1019585717
+T1	drug 465 496	phosphodiesterase III inhibitor
+T2	drugEffect 590 615	increase walking distance
+R2	has_effect Arg1:TS1419585717 Arg2:T2	
+T3	drug 851 862	vasodilator
+T4	drugEffect 1079 1092;1099 1125	increased the pain-free walking distance
+R3	has_effect Arg1:TS1119585717 Arg2:T4	
+T5	drug 1404 1436	phosphodiesterase III inhibitors
+R4	has_sideeffect Arg1:TS819585717 Arg2:TS2019585717	
+R5	has_sideeffect Arg1:TS819585717 Arg2:TS119585717	
+T6	sideeffect 1588 1607	antiplatelet effect
+R6	has_sideeffect Arg1:TS819585717 Arg2:T6	
+R7	treat Arg1:TS1019585717 Arg2:TS519585717	

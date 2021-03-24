@@ -1,0 +1,14 @@
+Effect of food on the oral bioavailability of didanosine from encapsulated enteric-coated beads .
+The objective of this study was to assess the effect of food and timing of meals on the bioavailability of didanosine from encapsulated enteric-coated beads .
+Four different independent , open-label , single-dose , randomized , crossover studies were conducted in healthy subjects ( n = 20-30 ) .
+Didanosine ( 400 mg ) was given concomitantly with a high-fat meal , light meal , yogurt , and applesauce .
+In addition , didanosine was given 1 , 1.5 , 2 , and 3 hours before and 2 hours after a light meal .
+Statistical comparison with fasting conditions was made using the equivalence approach for Cmax ( 70%-143% ) and AUC ( 80%-125% ) .
+The high-fat meal , light meal , yogurt , and applesauce decreased the Cmax by 46% , 22% , 30% , and 24% , respectively , and lowered the AUC by 19% , 27% , 20% , and 18% , respectively ; statistical analyses indicated an indeterminate food effect , except for the Cmax for the high-fat meal .
+For 1 hour before meal , Cmax and AUC were lower by 15% and 24% and , for 2 hours after meal , were lower by 15% and 10% , respectively .
+There was an indeterminate food effect for 1 hour before the meal treatment ; in addition , 2 hours after the meal , treatment approached statistical equivalence , missing narrowly on the lower bounds .
+For 1.5 , 2 , and 3 hours before meal treatments , Cmax values were unchanged , but AUC was lower by 10% , 4% , and 0% , respectively ; lack of food effect was observed for all three treatments .
+Across studies , median time to Cmix ranged from 1.67 to 2.67 hours but was delayed by 2.5 to 3 hours with high-fat and light meals compared to fasting conditions .
+The half-life of didanosine was 1.5 to 2 hours .
+It was concluded that the bioavailability of didanosine from encapsulated enteric-coated beads was reduced by approximately 20% to 25% with food , which can be circumvented by taking didanosine on an empty stomach .
+The clinical significance of such moderate reductions in didanosine exposure with food , especially as part of a highly active antiretroviral therapy , is not clear .

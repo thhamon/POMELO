@@ -1,0 +1,6 @@
+TS122265646	sideeffect 12 23	interaction
+TS222265646	drug 29 50	vitamin K antagonists
+TS522265646	food 65 75	tonka bean
+T1	drug 1 10	Coumarins
+R1	relation Arg1:TS522265646 Arg2:TS122265646	
+R2	relation Arg1:TS522265646 Arg2:TS222265646	

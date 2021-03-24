@@ -1,0 +1,61 @@
+TS1123458226	food 14 18	food
+TS523458226	drug 61 72	rivaroxaban
+R1	relation Arg1:TS1123458226 Arg2:TS523458226
+TS2423458226	drug 113 124	rivaroxaban
+TS2023458226	drug 338 349	rivaroxaban
+TS3123458226	food 416 420	food
+TS1223458226	drug 556 567	rivaroxaban
+TS2523458226	drug 691 702	Rivaroxaban
+TS3023458226	drug 976 987	rivaroxaban
+TS3423458226	mealTime 994 1001	fasting
+TS2323458226	mealTime 1006 1009	fed
+TS1323458226	drugEffect 1047 1062	bioavailability
+TS2223458226	modeadm 1123 1143	intravenous solution
+TS3823458226	food 1180 1185	food-
+TS2723458226	mealTime 1272 1275	fed
+TS2123458226	mealTime 1280 1287	fasting
+TS623458226	mealTime 1376 1383	fasting
+TS723458226	mealTime 1398 1405	fasting
+TS2823458226	mealTime 1410 1413	fed
+TS223458226	drug 1416 1427	rivaroxaban
+TS4223458226	mealTime 1451 1457	fasted
+TS1923458226	mealTime 1557 1564	fasting
+TS823458226	mealTime 1681 1684	fed
+TS3723458226	drug 2308 2319	rivaroxaban
+TS1523458226	food 2419 2423	food
+TS3223458226	drug 2490 2501	rivaroxaban
+TS423458226	drugEffect 2543 2558	bioavailability
+R3	relation Arg1:TS1523458226 Arg2:TS3223458226
+TS2623458226	mealTime 2579 2586	fasting
+TS1423458226	drug 2646 2657	rivaroxaban
+TS3923458226	food 2732 2747	taken with food
+TS123458226	drugEffect 2755 2770	bioavailability
+TS1823458226	drug 2888 2899	rivaroxaban
+TS3523458226	drugEffect 2941 2956	bioavailability
+TS2923458226	food 2972 2976	food
+TS1023458226	drugEffect 3030 3045	bioavailability
+TS3623458226	drug 3077 3088	rivaroxaban
+TS4023458226	food 3107 3122	taken with food
+TS4123458226	food 3160 3175	taken with food
+T1	dosage 84 109	10 mg , 15 mg , and 20 mg
+T2	treatedDisease 174 198	thromboembolic disorders
+R4	treat Arg1:TS2423458226 Arg2:T2	
+T3	dosage 296 337	2.5 mg , 5 mg , 10 mg , 15 mg , and 20 mg
+T4	dosage 466 491	10 mg , 15 mg , and 20 mg
+T5	dosage 673 688	10 mg and 20 mg
+T6	dosage 1083 1097	5 mg and 20 mg
+T7	dosage 1118 1122	1 mg
+T8	dosage 1220 1225	10 mg
+T9	dosage 1230 1235	20 mg
+T10	dosage 1368 1373	10 mg
+T11	dosage 1436 1441	10 mg
+T12	dosage 1517 1542	2.5 mg , 5 mg , and 10 mg
+T13	dosage 1649 1674	10 mg , 15 mg , and 20 mg
+T14	sideeffect 2135 2149	Adverse events
+T15	dosage 2484 2489	10 mg
+T16	modeadm 2538 2542	oral
+T17	dosage 2630 2645	15 mg and 20 mg
+T18	dosage 2882 2887	10 mg
+T19	modeadm 2936 2940	oral
+T20	dosage 3061 3076	15 mg and 20 mg
+R2	without_food Arg1:TS4123458226 Arg2:TS3623458226	

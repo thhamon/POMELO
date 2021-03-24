@@ -1,0 +1,5 @@
+From depression to neurodegeneration and heart failure failure: re-examining the potential of MAO inhibitors .
+Initially introduced in the 1950s for treating depression , monoamine oxidase ( MAO ) inhibitors were gradually abandoned , mainly owing to their potential for drug-drug and drug-food food interactions , the most widely known being with tyramine- tyramine-containing food ( the 'cheese' effect ) .
+Since then , more selective MAO-A or MAO-B inhibitors have been developed with substantially reduced risks , and have been approved for the treatment of depression and Parkinson's disease , respectively .
+Recent research suggests that some of these drugs also have neuroprotective properties , while preclinical evidence expands the spectrum of potential indications to heart failure , renal diseases and multiple sclerosis .
+In this article , the authors review the relevance of MAO isoforms to disease , and they also outline current research and development efforts in this class of drugs , including newer multipotent compounds .

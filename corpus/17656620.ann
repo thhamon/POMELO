@@ -1,0 +1,30 @@
+TS617656620	food 39 43	food
+TS1417656620	drug 70 103	dipeptidyl peptidase IV inhibitor
+R1	relation Arg1:TS617656620 Arg2:TS1417656620
+TS1617656620	drug 159 202	selective dipeptidyl peptidase IV inhibitor
+TS717656620	treatedDisease 239 254	type 2 diabetes
+TS417656620	food 551 555	food
+TS917656620	mealTime 1409 1424	a high-fat meal
+TS517656620	food 1616 1620	food
+T1	drug 47 59	vildagliptin
+R2	relation Arg1:TS617656620 Arg2:T1	
+T2	drug 130 142	Vildagliptin
+R3	treat Arg1:TS1617656620 Arg2:TS717656620	
+R4	treat Arg1:T2 Arg2:TS717656620	
+T3	drugEffect 260 285	improves glycemic control
+R5	has_effect Arg1:TS1617656620 Arg2:T3	
+R6	has_effect Arg1:T2 Arg2:T3	
+T4	dosage 684 686	25
+T5	drug 662 674	vildagliptin
+T6	drug 570 582	vildagliptin
+T7	drug 492 504	vildagliptin
+T8	dosage 689 691	50
+T9	dosage 694 697	100
+T10	dosage 704 710	200 mg
+T11	drug 1379 1391	vildagliptin
+T12	dosage 1392 1398	100 mg
+R7	after Arg1:TS917656620 Arg2:T11	
+T13	drug 1485 1497	Vildagliptin
+T14	dosage 1565 1578	25- to 200-mg
+T15	drug 1658 1670	vildagliptin
+R8	no_effect_on_drug Arg1:TS517656620 Arg2:T15	

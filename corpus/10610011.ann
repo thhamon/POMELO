@@ -1,0 +1,68 @@
+TS3410610011	drug 0 10	Atovaquone
+TS410610011	sideeffect 92 111	TMP-SMX interaction
+TS110610011	drug 167 177	atovaquone
+TS1310610011	treatedDisease 203 259	infected with the human immunodeficiency virus ( ( HIV )
+TS2410610011	drug 431 441	atovaquone
+TS3010610011	mealTime 453 460	fasting
+TS210610011	mealTime 464 467	fed
+TS3110610011	mealTime 551 558	fasting
+TS310610011	mealTime 562 565	fed
+TS1410610011	food 661 665	food
+TS3310610011	mealTime 716 723	fasting
+TS1510610011	food 751 755	food
+TS1110610011	sideeffect 835 846	interaction
+TS2010610011	drug 855 865	atovaquone
+TS4110610011	drug 870 912	trimethoprim- sulfamethoxazole ( TMP-SMX )
+TS610610011	drug 936 946	atovaquone
+TS3810610011	mealTime 1001 1007	fasted
+TS2510610011	food 1042 1046	food
+TS3910610011	mealTime 1085 1091	fasted
+TS2610610011	food 1126 1130	food
+TS4010610011	mealTime 1170 1176	fasted
+TS2710610011	food 1211 1215	food
+TS2810610011	food 1265 1269	food
+TS510610011	food 1345 1349	food
+TS3610610011	food 1552 1556	food
+TS810610011	drugEffect 1604 1610	levels
+TS1810610011	drug 1633 1643	Atovaquone
+TS710610011	sideeffect 1676 1684	diarrhea
+TS1210610011	sideeffect 1687 1693	nausea
+TS3510610011	sideeffect 1696 1703	fatigue
+TS1010610011	sideeffect 1710 1714	rash
+TS2210610011	drug 1806 1816	atovaquone
+TS1910610011	drug 1967 1977	atovaquone
+TS3210610011	food 2010 2014	food
+TS2110610011	mealTime 2029 2036	fasting
+TS910610011	treatedDisease 2133 2163	Pneumocystis carinii pneumonia
+T1	treatedDisease 25 37	HIV-infected
+R1	treat Arg1:TS3410610011 Arg2:T1	
+R2	treat Arg1:TS110610011 Arg2:TS1310610011	
+T2	treatedDisease 340 352	HIV-infected
+T3	numbers 329 339	Twenty-two
+T4	dosage 516 522	500 mg
+T5	frequency 524 527	day
+T6	dosage 580 595	750 and 1000 mg
+T7	frequency 597 600	day
+T8	dosage 638 644	750 mg
+T9	frequency 645 655	twice  day
+T10	dosage 703 710	1000 mg
+T11	frequency 712 715	day
+T12	dosage 738 745	1000 mg
+T13	drug 92 99	TMP-SMX
+T14	dosage 965 971	500 mg
+T15	dosage 1052 1058	750 mg
+T16	dosage 1136 1143	1000 mg
+T17	dosage 1225 1232	1500 mg
+T18	dosage 1534 1541	1000 mg
+T19	dosage 1562 1568	750 mg
+T20	frequency 1569 1579	twice  day
+R3	has_sideeffect Arg1:TS1810610011 Arg2:TS710610011	
+R4	has_sideeffect Arg1:TS1810610011 Arg2:TS1210610011	
+R5	has_sideeffect Arg1:TS1810610011 Arg2:TS3510610011	
+R6	has_sideeffect Arg1:TS1810610011 Arg2:TS1010610011	
+T21	drug 1783 1790	TMP-SMX
+T22	drug 1885 1888	TMP
+T23	drug 1901 1904	SMX
+T24	dosage 2054 2061	1500 mg
+T25	frequency 2063 2066	day
+R7	increase_absorption Arg1:TS3210610011 Arg2:TS1910610011	

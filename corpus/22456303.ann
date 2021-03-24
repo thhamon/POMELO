@@ -1,0 +1,35 @@
+TS1622456303	food 10 14	food
+TS422456303	drugEffect 22 37	bioavailability
+TS722456303	drug 150 208	Type B gamma-aminobutyric acid ( GABAB ) -receptor agonist
+TS222456303	drug 268 289	proton pump inhibitor
+TS1922456303	treatedDisease 304 335	gastroesophageal reflux disease
+TS2422456303	food 356 360	food
+TS1722456303	drugEffect 368 383	bioavailability
+TS1122456303	food 661 665	food
+TS1822456303	drug 1371 1398	lesogaberan MR formulations
+TS522456303	food 900 904	food
+TS322456303	mealTime 999 1002	fed
+TS2022456303	mealTime 1004 1011	fasting
+TS822456303	drug 1126 1137	lesogaberan
+TS922456303	drug 1417 1442	oral lesogaberan solution
+TS1322456303	food 1205 1209	food
+TS1422456303	food 1268 1272	food
+TS1522456303	food 1286 1290	food
+TS2222456303	food 1333 1337	food
+T1	drug 41 52	lesogaberan
+T2	modeadm 65 78	oral solution
+T3	modeadm 85 110	modified-release capsules
+T4	drug 209 220	lesogaberan
+T5	drug 223 230	AZD3355
+R1	treat Arg1:TS222456303 Arg2:TS1922456303	
+T6	dosage 491 497	100 mg
+T7	drug 507 518	lesogaberan
+T8	modeadm 521 534	oral solution
+T9	modeadm 544 581	oral modified release ( MR ) capsules
+T10	drug 699 710	lesogaberan
+T11	drug 972 983	lesogaberan
+T12	modeadm 1238 1251	oral solution
+T13	mealTime 1254 1272	1.0 h without food
+T14	mealTime 1275 1290	1.8 h with food
+R2	no_effect_on_drug Arg1:TS2222456303 Arg2:TS1822456303	
+R3	negative_effect_on_drug Arg1:TS2222456303 Arg2:TS922456303	

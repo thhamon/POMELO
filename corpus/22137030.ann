@@ -1,0 +1,35 @@
+TS1922137030	treatedDisease 14 40	liver ischemia reperfusion
+TS222137030	drug 62 77	thyroid hormone
+TS3122137030	food 82 90	fish oil
+TS3922137030	treatedDisease 167 207	ischemia-reperfusion ( IR ) liver injury
+TS2522137030	drug 306 321	thyroid hormone
+TS3622137030	treatedDisease 384 399	liver IR injury
+TS422137030	sideeffect 471 486	adverse effects
+TS922137030	treatedDisease 520 535	liver IR injury
+TS822137030	food 562 605	n-3 polyunsaturated fatty acid ( n-3 PUFA )
+TS1222137030	food 771 779	fish oil
+TS2822137030	treatedDisease 893 901	ischemia
+TS722137030	drug 1089 1099	fatty acid
+TS1022137030	treatedDisease 1527 1539	liver injury
+TS2422137030	treatedDisease 1783 1798	liver IR injury
+T1	food 657 665	n-3 PUFA
+T2	drug 324 326	Tâ
+T3	drug 711 713	Tâ
+T4	treatedDisease 724 733	IR injury
+R1	treat Arg1:TS222137030 Arg2:TS1922137030	
+R2	relation Arg1:TS3122137030 Arg2:TS222137030	
+T5	dosage 782 792	300 mg  kg
+T6	duration 795 805	for 3 days
+T7	dosage 851 858	0.05 mg
+T8	modeadm 827 842	intraperitoneal
+T9	drug 859 861	Tâ
+T10	treatedDisease 950 962	liver injury
+T11	treatedDisease 1215 1217	IR
+T12	treatedDisease 1415 1424	IR injury
+T13	food 1453 1461	n-3 PUFA
+T14	drug 1481 1483	Tâ
+T15	food 1635 1643	n-3 PUFA
+T16	drug 1834 1836	Tâ
+T17	food 1843 1851	n-3 PUFA
+R3	treat Arg1:T16 Arg2:TS2422137030	
+R4	improve_drug_effect Arg1:T17 Arg2:T16	

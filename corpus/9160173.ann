@@ -1,0 +1,47 @@
+TS59160173	treatedDisease 107 128	Hypercholesterolaemia
+TS449160173	treatedDisease 212 234	coronary heart disease
+TS269160173	sideeffect 263 274	progression
+TS529160173	treatedDisease 309 331	coronary heart disease
+TS69160173	drug 507 514	statins
+TS19160173	drug 519 540;566 583	reversible inhibitors HMG-CoA reductase
+TS439160173	drug 726 733	statins
+TS289160173	drug 1454 1460	statin
+TS39160173	drug 1614 1625	Fluvastatin
+TS459160173	drug 1628 1638	lovastatin
+TS509160173	drug 1641 1652	pravastatin
+TS399160173	drug 1657 1668	simvastatin
+TS89160173	drug 1859 1870	Simvastatin
+TS209160173	drug 1931 1938	statins
+TS159160173	drug 1979 1986	statins
+TS99160173	sideeffect 2193 2208	adverse effects
+TS339160173	drug 2500 2507	statins
+TS169160173	drug 2782 2792	lovastatin
+TS309160173	drug 2797 2808	simvastatin
+TS179160173	drug 3337 3344	statins
+TS229160173	sideeffect 3368 3383	Protein binding
+TS239160173	drug 3415 3426	fluvastatin
+TS489160173	drug 3429 3439	lovastatin
+TS199160173	drug 3444 3455	simvastatin
+TS369160173	drug 3481 3492	pravastatin
+TS429160173	drug 3518 3525	statins
+TS349160173	drug 3573 3584	fluvastatin
+TS219160173	drug 3589 3600	pravastatin
+TS49160173	drug 3684 3695	fluvastatin
+TS299160173	drug 3738 3749	pravastatin
+TS409160173	drug 3854 3864	lovastatin
+TS319160173	drug 3869 3880	simvastatin
+T1	drug 45 73	HMG-CoA reductase inhibitors
+T2	treatedDisease 172 196	atherosclerotic diseases
+T3	drugEffect 691 722	Inhibition of HMG-CoA reductase
+R6	has_effect Arg1:TS439160173 Arg2:T3	
+T4	drugEffect 734 782	decreases intracellular cholesterol biosynthesis
+R7	has_effect Arg1:TS439160173 Arg2:T4	
+T5	drugEffect 1268 1299	inhibition of HMG-CoA reductase
+T6	drugEffect 1719 1741	reduce LDL-cholesterol
+R8	has_effect Arg1:TS399160173 Arg2:T6	
+R9	has_effect Arg1:TS509160173 Arg2:T6	
+R10	has_effect Arg1:TS459160173 Arg2:T6	
+R11	has_effect Arg1:TS39160173 Arg2:T6	
+T7	drug 2212 2236	HMG-reductase inhibitors
+R1	has_sideeffect Arg1:T7 Arg2:TS99160173	
+T8	drug 2575 2603	HMG-CoA reductase inhibitors

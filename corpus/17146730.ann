@@ -1,0 +1,40 @@
+TS1017146730	treatedDisease 109 121	solid tumors
+TS2317146730	mealTime 298 304	fasted
+TS317146730	mealTime 309 312	fed
+TS817146730	treatedDisease 503 515	solid tumors
+TS1917146730	food 531 535	food
+TS2417146730	mealTime 619 625	fasted
+TS417146730	mealTime 629 632	fed
+TS617146730	food 968 972	food
+TS1217146730	food 1074 1078	food
+TS1717146730	mealTime 1119 1122	fed
+TS2117146730	mealTime 1124 1130	fasted
+TS1617146730	food 1140 1144	food
+TS1517146730	mealTime 1376 1383	fasting
+TS1317146730	mealTime 1496 1499	fed
+TS2217146730	sideeffect 1527 1537	toxicities
+TS517146730	sideeffect 1540 1559	nausea and vomiting
+T1	modeadm 50 56	orally
+T2	drug 70 79	indibulin
+R3	treat Arg1:T2 Arg2:TS1017146730	
+T3	drug 124 133	Indibulin
+T4	drugEffect 170 188	antitumor activity
+R4	has_effect Arg1:T3 Arg2:T4	
+T5	drug 426 435	indibulin
+T6	frequency 449 459	once daily
+T7	duration 460 485	for 14 days every 3 weeks
+T8	dosage 585 590	20 mg
+T9	drug 591 600	indibulin
+T10	drug 735 744	indibulin
+T11	dosage 791 793	20
+T12	dosage 796 798	40
+T13	dosage 803 808	80 mg
+T14	drug 854 863	indibulin
+T15	frequency 864 874	once daily
+T16	duration 875 900	for 14 days every 3 weeks
+T17	drug 1107 1116	indibulin
+T18	drug 1675 1684	indibulin
+T19	dosage 1743 1748	60 mg
+T20	frequency 1749 1754	daily
+T21	duration 1755 1766	for 14 days
+T22	sideeffect 1592 1635	increased volume of the solvent lactic acid

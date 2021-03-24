@@ -1,0 +1,10 @@
+The HIV Medication Self-Reported Nonadherence Reasons ( SNAR ) Index and its underlying psychological dimensions .
+The purpose of this paper is to report on the construction of the HIV Medication Self-Reported Nonadherence Reasons ( SNAR ) index and its psychological correlates .
+Data were derived from a sample of 193 Swedish HIV-seropositive women and men receiving antiretroviral medications .
+Participants who reported dosing and  or scheduling and  or dietary instructions nonadherence in the past 7 days were presented with a modified AACTG list of 18 reasons for nonadherence .
+From these data , two conceptually and statistically independent factors were obtained , which accounted for 39% of the variance in the data .
+These factors were used as the basis for constructing two composite measures composing the SNAR index: the Medication concerns scale and the Routine disruption scale .
+The Medication concerns scale correlated significantly to suboptimal dose and scheduling adherence and Routine disruption scale with poorer dietary instructions adherence .
+Psychological distress was the best predictor of the SNAR index .
+The SNAR index has a clearly interpretable factor structure that allows the derived scales to be useful as multi-item measures of self-reported reasons for nonadherence to HIV antiretroviral medications .
+The psychological factors found to be associated with the index may imply a number of mental-health-related interventions to improve adherence , which deserve further exploration .

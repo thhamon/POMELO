@@ -1,0 +1,37 @@
+TS3423104241	drug 29 38	clozapine
+TS2723104241	drugEffect 39 45	levels
+TS2823104241	treatedDisease 63 96	treatment-resistant schizophrenia
+TS623104241	drug 119 128	clozapine
+TS2023104241	drugEffect 189 201	serum levels
+TS1623104241	treatedDisease 219 252	treatment-resistant schizophrenia
+TS1723104241	drug 295 304	clozapine
+TS423104241	sideeffect 412 427	adverse effects
+TS1823104241	drug 460 469	clozapine
+TS523104241	drugEffect 470 476	levels
+TS3023104241	drug 521 530	clozapine
+TS3123104241	drug 622 631	clozapine
+TS1123104241	drugEffect 632 638	levels
+TS3323104241	drug 728 737	clozapine
+TS323104241	drugEffect 738 744	levels
+TS2923104241	treatedDisease 880 913	treatment-resistant schizophrenia
+TS2223104241	drug 934 943	clozapine
+TS2123104241	drug 1010 1019	clozapine
+TS3523104241	drugEffect 1020 1026	levels
+TS1323104241	drug 1162 1171	clozapine
+TS123104241	food 1197 1212	caffeine intake
+TS1423104241	drug 1290 1299	clozapine
+TS1223104241	drugEffect 1300 1306	levels
+R1	relation Arg1:TS123104241 Arg2:TS1423104241
+TS723104241	drug 1315 1324	clozapine
+TS1923104241	drugEffect 1325 1331	levels
+TS1023104241	sideeffect 1371 1379	seizures
+TS2323104241	drug 1478 1487	clozapine
+TS823104241	drugEffect 1488 1494	levels
+TS2523104241	food 1515 1523	caffeine
+TS3223104241	drug 1591 1600	clozapine
+R2	relation Arg1:TS2523104241 Arg2:TS3223104241
+T1	modeadm 105 109	oral
+T2	modeadm 1157 1161	oral
+T3	drug 1228 1237	Valproate
+R3	has_sideeffect Arg1:TS723104241 Arg2:TS1023104241	
+T4	drug 1540 1549	Valproate

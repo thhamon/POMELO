@@ -1,0 +1,54 @@
+TS2221163558	food 0 10	Sesame oil
+TS3021163558	treatedDisease 86 110	type 2 diabetes mellitus
+TS3121163558	food 151 161	sesame oil
+TS2121163558	sideeffect 162 184	lowered blood pressure
+TS1021163558	treatedDisease 220 232;237 258	hypertensive diabetic-hypertensive
+TS4921163558	food 329 339	sesame oil
+TS1921163558	drug 361 374	glibenclamide
+R1	relation Arg1:TS4921163558 Arg2:TS1921163558
+TS4321163558	treatedDisease 488 512	type 2 diabetes mellitus
+TS2421163558	food 556 566	sesame oil
+TS721163558	drug 609 622	glibenclamide
+TS1521163558	food 702 712	sesame oil
+TS1621163558	food 718 728	Sesame oil
+TS821163558	drug 745 758	glibenclamide
+TS3721163558	food 811 814	oil
+TS4821163558	food 845 850	salad
+TS5421163558	mealTime 882 889	fasting
+TS3221163558	food 1036 1046	sesame oil
+TS2621163558	drug 1051 1064	glibenclamide
+TS3321163558	food 1226 1236	sesame oil
+TS2721163558	drug 1269 1282	glibenclamide
+TS3421163558	food 1387 1397	sesame oil
+TS2821163558	drug 1430 1443	glibenclamide
+TS2021163558	drugEffect 1489 1538	reductions in the plasma TC , LDL-C and TG levels
+TS3821163558	food 1553 1563	sesame oil
+TS521163558	food 1746 1756	sesame oil
+TS4421163558	food 1983 1993	sesame oil
+TS321163558	drug 2019 2032	glibenclamide
+R6	relation Arg1:TS4421163558 Arg2:TS321163558
+TS4721163558	food 2035 2045	Sesame oil
+TS2321163558	drug 2080 2093	glibenclamide
+TS421163558	sideeffect 2241 2254	hyperglycemia
+R7	negative_effect_on_drug Arg1:TS4721163558 Arg2:TS2321163558
+T1	drug 44 68	anti-diabetic medication
+R8	treat Arg1:T1 Arg2:TS3021163558	
+R9	improve_drug_effect Arg1:TS2221163558 Arg2:T1	
+R10	increase_side_effect Arg1:TS3121163558 Arg2:TS2121163558	
+T2	sideeffect 189 216	improved antioxidant status
+T3	drug 345 358	anti-diabetic
+R11	relation Arg1:TS4921163558 Arg2:T3	
+T4	dosage 580 584	5 mg
+T5	dosage 803 807	35 g
+T6	frequency 816 821	day  
+T7	duration 863 874	for 60 days
+T8	drugEffect 1305 1321	reduction of HbA
+T9	sideeffect 1103 1137	improved anti-hyperglycemic effect
+T10	drugEffect 1112 1137	anti-hyperglycemic effect
+R2	has_effect Arg1:TS2621163558 Arg2:T10	
+R3	increase_side_effect Arg1:TS3221163558 Arg2:T9	
+R4	improve_drug_effect Arg1:TS3221163558 Arg2:TS2621163558	
+T11	drugEffect 1147 1167	reduction of glucose
+R12	has_effect Arg1:TS2621163558 Arg2:T11	
+R5	has_effect Arg1:TS2621163558 Arg2:T8	
+R13	improve_drug_effect Arg1:TS3821163558 Arg2:TS2021163558	

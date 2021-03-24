@@ -1,0 +1,71 @@
+TS3322149151	drug 71 82	aceclofenac
+TS3422149151	drug 142 153	aceclofenac
+TS1622149151	food 172 176	food
+TS1422149151	drug 300 311	aceclofenac
+TS3522149151	drug 448 459	aceclofenac
+TS922149151	food 551 555	Food
+TS822149151	drugEffect 749 764	bioavailability
+TS2222149151	drug 808 819	aceclofenac
+TS2322149151	drug 892 903	aceclofenac
+TS2722149151	food 979 983	food
+TS2422149151	drug 1038 1049	aceclofenac
+R1	relation Arg1:TS2722149151 Arg2:TS2422149151
+TS522149151	drug 1273 1284	aceclofenac
+TS3722149151	mealTime 1315 1322	fasting
+TS622149151	drug 1355 1366	aceclofenac
+TS3822149151	mealTime 1396 1403	fasting
+TS722149151	drug 1440 1451	aceclofenac
+TS2122149151	mealTime 1517 1526	breakfast
+TS1322149151	drug 1554 1565	aceclofenac
+TS4022149151	mealTime 1645 1651	fasted
+TS1722149151	drug 1897 1908	aceclofenac
+TS1822149151	drug 1974 1985	aceclofenac
+TS322149151	drug 2111 2122	aceclofenac
+TS422149151	drug 2165 2176	aceclofenac
+TS2922149151	mealTime 2184 2187	fed
+TS3922149151	mealTime 2192 2198	fasted
+TS2522149151	drug 2255 2266	aceclofenac
+TS3022149151	sideeffect 2333 2348	adverse effects
+TS1922149151	drug 2413 2424	aceclofenac
+TS2022149151	drug 2467 2478	aceclofenac
+TS1222149151	drugEffect 2554 2569	bioavailability
+TS1022149151	drug 2592 2603	aceclofenac
+TS1122149151	food 2624 2638	high-fat foods
+T1	frequency 26 36	once-daily
+T2	modeadm 37 67	controlled-release formulation
+T3	modeadm 124 141	immediate-release
+T4	modeadm 266 296	controlled-release formulation
+T5	dosage 312 318	200 mg
+T6	dosage 822 828	200 mg
+T7	modeadm 482 499	immediate release
+T8	dosage 503 508	85 mg
+T9	modeadm 521 538	sustained release
+T10	dosage 542 548	115 mg
+T11	frequency 405 422	once-daily ( od )
+T12	modeadm 642 659	immediate-release
+T13	modeadm 664 695	controlled-release formulations
+T14	modeadm 774 804	controlled-release formulation
+T15	modeadm 874 891	immediate-release
+T16	dosage 906 912	100 mg
+T17	frequency 913 930	twice daily [bid]
+T18	modeadm 1019 1037	controlled-release
+T19	modeadm 1255 1272	immediate-release
+T20	dosage 1285 1291	100 mg
+T21	frequency 1292 1295	bid
+T22	modeadm 1336 1354	controlled-release
+T23	dosage 1367 1373	200 mg
+T24	frequency 1374 1376	od
+T25	modeadm 1421 1439	controlled-release
+T26	dosage 1452 1458	200 mg
+T27	frequency 1459 1461	od
+T28	food 1495 1526	standardized high-fat breakfast
+T29	modeadm 1917 1935	controlled-release
+T30	modeadm 1940 1957	immediate-release
+T31	modeadm 2131 2149	controlled-release
+T32	modeadm 2394 2412	controlled-release
+T33	dosage 2425 2431	200 mg
+T34	modeadm 2449 2466	immediate-release
+T35	dosage 2479 2485	100 mg
+T36	frequency 2522 2527	daily
+T37	modeadm 2573 2591	controlled-release
+R2	no_effect_on_drug Arg1:TS1122149151 Arg2:TS1022149151	

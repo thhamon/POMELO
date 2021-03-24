@@ -1,0 +1,30 @@
+TS2617296276	food 14 29	a high-fat meal
+TS4017296276	food 125 155	triglyceride-rich lipoproteins
+TS3317296276	food 158 173	A high-fat meal
+TS3017296276	sideeffect 192 206	hyperlipidemia
+TS4217296276	sideeffect 224 232;247 277	elevated triglyceride-rich lipoproteins
+TS117296276	sideeffect 403 417	hyperlipidemia
+TS2317296276	sideeffect 571 598	postprandial hyperlipidemia
+TS2817296276	food 645 655	peanut oil
+TS2217296276	food 748 753	water
+TS1817296276	food 765 768	oil
+TS1917296276	sideeffect 898 918	facial muscle tremor
+TS1317296276	sideeffect 999 1026	postprandial hyperlipidemia
+TS2917296276	sideeffect 1074 1094	facial muscle tremor
+TS717296276	food 1131 1134	oil
+TS3217296276	food 1315 1330	a high-fat meal
+TS417296276	sideeffect 1339 1366	postprandial hyperlipidemia
+R1	increase_side_effect Arg1:TS3317296276 Arg2:TS3017296276	
+R2	increase_side_effect Arg1:TS3317296276 Arg2:TS4217296276	
+T2	drug 445 461	lipophilic drugs
+T3	sideeffect 547 564	neurotoxic effect
+T4	modeadm 622 626	oral
+T5	modeadm 802 813	intravenous
+T6	drug 826 829	DDT
+T7	drug 470 473	DDT
+T8	dosage 832 837	10 mg
+T9	drug 983 986	DDT
+T10	drug 1051 1054	DDT
+R3	has_sideeffect Arg1:T10 Arg2:TS2917296276	
+T11	drug 1191 1194	DDT
+R4	increase_side_effect Arg1:TS3217296276 Arg2:TS417296276	

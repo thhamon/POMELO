@@ -1,0 +1,24 @@
+TS421235125	food 0 16	Grapefruit juice
+TS1621235125	sideeffect 0 16;25 42	Grapefruit juice drug interactions
+TS521235125	food 127 143	grapefruit juice
+TS2121235125	sideeffect 237 265	pharmacokinetic interactions
+TS1021235125	drugEffect 341 356	bioavailability
+TS1721235125	drug 518 535	CYP3A4 inhibitors
+TS721235125	sideeffect 596 608	interactions
+TS1321235125	food 614 630	grapefruit juice
+TS2021235125	drug 651 662	antibiotics
+TS1821235125	drug 699 723	calcium channel blockers
+TS1121235125	sideeffect 797 824	pharmacokinetic interaction
+T1	drug 635 648	antiallergics
+T2	drug 665 682	antimalaria drugs
+T3	drug 685 696	anxiolytics
+T4	drug 726 749	HIV protease inhibitors
+T5	drug 752 780	HMG-CoA reductase inhibitors
+R1	increase_side_effect Arg1:TS1321235125 Arg2:TS721235125	
+R2	negative_effect_on_drug Arg1:TS1321235125 Arg2:T1	
+R3	negative_effect_on_drug Arg1:TS1321235125 Arg2:TS2021235125	
+R4	negative_effect_on_drug Arg1:TS1321235125 Arg2:T2	
+R5	negative_effect_on_drug Arg1:TS1321235125 Arg2:T3	
+R6	negative_effect_on_drug Arg1:TS1321235125 Arg2:TS1821235125	
+R7	negative_effect_on_drug Arg1:TS1321235125 Arg2:T5	
+R8	negative_effect_on_drug Arg1:TS1321235125 Arg2:T4	

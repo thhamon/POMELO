@@ -1,0 +1,11 @@
+The effect of dosing regimen on the pharmacokinetics of risedronate .
+To examine the effect of timing of a risedronate dose relative to food intake on the rate and extent of risedronate absorption following single-dose , oral administration to healthy male and female volunteers .
+A single-dose , randomized , parallel study design was conducted with volunteers assigned to four treatment groups ( 31 or 32 subjects per group , 127 subjects total ) .
+Each subject was orally administered 30 mg risedronate .
+Group 1 was fasted for 10 h prior to and 4 h after dosing ( fasted group ) ; Groups 2 and 3 were fasted for 10 h and were dosed 1 and 0.5 h , respectively , before a high-fat breakfast ; and Group 4 was dosed 2 h after a standard dinner .
+Blood and urine samples were collected for 168 h after dosing .
+Pharmacokinetic parameters were estimated by simultaneous analysis of risedronate serum concentration and urinary excretion rate-time data .
+Extent of risedronate absorption ( AUC and Ae ) was comparable ( P=0.4 ) in subjects dosed 2 h after dinner and 0.5 h before breakfast ; however , a significantly greater extent of absorption occurred when risedronate was given 1 or 4 h prior to a meal ( 1.4- to 2.3-fold greater ) .
+Administration 0.5 , 1 , or 4 h prior to a meal resulted in a significantly greater rate of absorption ( Cmax 2.8- , 3.5- , and 4.1-fold greater , respectively ) when compared with 2 h after dinner .
+The comparable extent of risedronate absorption when administered either 0.5-1 h before breakfast or 2 h after an evening meal support previous clinical studies where risedronate was found to have similar effectiveness using these dosing regimens .
+This flexibility in the timing of risedronate administration may provide patients an alternative means to achieve the desired efficacy while maintaining their normal daily routine .

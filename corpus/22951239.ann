@@ -1,0 +1,40 @@
+TS1722951239	drug 35 63	monoamine oxidase inhibitors
+TS822951239	drug 66 104	Monoamine oxidase inhibitors ( MAOIs )
+TS122951239	treatedDisease 155 180	major depressive disorder
+TS1422951239	drug 309 324	antidepressants
+TS2022951239	drug 484 498	norepinephrine
+TS2222951239	drug 505 513	dopamine
+TS722951239	drug 711 719	tyramine
+TS1122951239	food 750 755	foods
+TS222951239	drug 798 813	excess tyramine
+TS622951239	sideeffect 861 880	hypertensive crisis
+TS1822951239	drug 903 917	norepinephrine
+TS922951239	food 1015 1034	tyramine-rich foods
+TS2122951239	sideeffect 1037 1056	Hypertensive crisis
+TS1222951239	drug 1181 1197	sympathomimetics
+TS1322951239	sideeffect 1208 1246	inhibit the reuptake of norepinephrine
+T1	modeadm 4 31	transdermal delivery system
+T2	treatedDisease 214 256	atypical or treatment-resistant depression
+T3	treatedDisease 568 578	depression
+T4	drug 267 272	MAOIs
+T5	sideeffect 368 380	side effects
+R1	has_sideeffect Arg1:T4 Arg2:T5	
+T6	drugEffect 771 786	sympathomimetic
+R2	has_effect Arg1:TS722951239 Arg2:T6	
+T7	drugEffect 832 846	MAO inhibition
+R3	has_sideeffect Arg1:TS222951239 Arg2:TS622951239	
+T8	drug 951 955	MAOI
+R4	negative_effect_on_drug Arg1:TS922951239 Arg2:T8	
+T9	drug 1091 1096	MAOIs
+R5	has_sideeffect Arg1:T9 Arg2:TS2122951239	
+T10	drugEffect 1139 1166	vasoconstrictive properties
+T11	drug 1123 1128	drugs
+R6	has_effect Arg1:T11 Arg2:T10	
+T12	sideeffect 1249 1267	Serotonin syndrome
+T13	sideeffect 1287 1301	adverse effect
+T14	drug 1343 1347	MAOI
+R7	has_sideeffect Arg1:T14 Arg2:T12	
+T15	drug 1453 1458	MAOIs
+T16	drug 1500 1504	MAOI
+R8	treat Arg1:TS822951239 Arg2:TS122951239	
+R9	treat Arg1:TS822951239 Arg2:T2	

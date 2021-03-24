@@ -1,0 +1,9 @@
+Effect of food , an antacid , and the H2 antagonist ranitidine on the absorption of BAY 59-7939 ( rivaroxaban ) , an oral , direct factor Xa inhibitor , in healthy subjects .
+To investigate the influence of food and administration of an antacid (aluminum-magnesium hydroxide ) or ranitidine on the absorption of BAY 59-7939 ( rivaroxaban ) , 4 randomized studies were performed in healthy male subjects .
+In 2 food interaction studies , subjects received BAY 59-7939 , either as two 5-mg tablets ( fasted and fed ) , four 5-mg tablets ( fasted ) , or one 20-mg tablet ( fasted and fed ) .
+In 2 drug interaction studies , BAY 59-7939 ( six 5-mg tablets ) was given alone or with ranitidine ( 150 mg twice daily , preceded by a 3-day pretreatment phase ) or antacid ( 10 mL ) .
+Plasma samples were obtained to assess pharmacokinetic and pharmacodynamic parameters of BAY 59-7939. .
+In the presence of food , time to maximum concentration ( t ( max ) ) was delayed by 1.25 hours ; maximum concentration ( C ( max ) ) and area under the curve ( AUC ) were increased , with reduced interindividual variability at higher doses of BAY 59-7939. .
+Compared with baseline , BAY 59-7939 resulted in a relative increase in maximum prothrombin time ( PT ) prolongation of 44% ( 10 mg ) and 53% ( 20 mg ) in the fasted state , compared with 53% and 83% after food .
+Time to maximum PT prolongation was delayed by 0.5 to 1.5 hours after food , with no relevant influence of food type .
+No significant difference in C ( max ) and AUC was observed with coadministration of BAY 59-7939 and ranitidine or antacid .

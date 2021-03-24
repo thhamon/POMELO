@@ -1,0 +1,16 @@
+Transdermal selegiline .
+Although older monoamine oxidase inhibitors ( MAOIs ) are effective in the treatment of depressive disorders , they are underutilized in clinical practice due to main concerns about interaction with tyramine- tyramine-containing food , and side effects .
+Efforts to address these safety issues led to the development of a transdermal formulation of selegiline , called selegiline transdermal system ( STS ) .
+STS has been approved by the U.S. .
+Food and Drug Administration ( FDA ) for the treatment of major depression .
+Transdermal administration of selegiline bypasses gastrointestinal absorption and first-pass metabolism .
+Therefore , STS permits inhibition of monoamine oxidase ( MAO ) -A and MAO-B enzymes in the brain while preserving the activity of MAO-A in the gastrointestinal system , thereby minimizing the risk of possible interactions with tyramine- tyramine-rich foods .
+Tyramine challenge tests have confirmed that dietary modifications are not required with the 6 mg STS .
+The FDA has required dietary modifications with the 9 mg and 12 mg STS .
+Compared to oral administration , transdermal selegiline leads to sustained ( minimal peak-trough fluctuations ) plasma concentrations of the parent compound , increasing the amount of drug delivered to the brain .
+The efficacy of STS has been established in several short-term and one long-term randomized controlled trials .
+In clinical trials , application site reactions and insomnia were observed more frequently with STS than placebo .
+Rates of orthostatic hypotension , sexual dysfunction and weight gain were comparable between STS and placebo .
+STS is a new generation of MAOI with superior safety profile to older MAOIs .
+It increases the pharmacological options available to treat depressive disorders and may benefit patients with major depression with atypical features and resistant depression .
+It is important for health-care professionals to be informed about the properties of STS .

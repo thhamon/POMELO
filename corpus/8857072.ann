@@ -1,0 +1,32 @@
+TS18857072	sideeffect 0 28	Tyramine pressor sensitivity
+TS98857072	drug 80 91	moclobemide
+TS28857072	drug 96 106	selegiline
+TS48857072	sideeffect 194 219	tyramine pressor response
+TS118857072	drug 251 262	moclobemide
+TS248857072	drug 267 277	selegiline
+TS38857072	drug 364 375	moclobemide
+TS138857072	drug 384 394	selegiline
+TS288857072	drug 427 437	selegiline
+TS258857072	drug 441 452	moclobemide
+TS198857072	drug 491 499	tyramine
+TS188857072	drug 500 507	pressor
+TS178857072	drug 614 625	moclobemide
+TS218857072	drug 630 640	selegiline
+TS78857072	sideeffect 740 768	Tyramine pressor sensitivity
+TS148857072	drug 776 787	moclobemide
+TS58857072	drug 790 800	selegiline
+TS158857072	drug 805 816	moclobemide
+TS68857072	drug 819 829	selegiline
+TS168857072	drug 947 958	moclobemide
+TS108857072	drug 963 973	selegiline
+TS268857072	sideeffect 1034 1058	tyramine pressor effects
+TS278857072	drug 1093 1101	tyramine
+T1	modeadm 488 490	IV
+T2	dosage 357 363	200 mg
+T3	dosage 379 383	5 mg
+T4	duration 402 413	for 14 days
+R1	has_sideeffect Arg1:TS98857072 Arg2:TS18857072	
+R2	has_sideeffect Arg1:TS28857072 Arg2:TS18857072	
+R3	has_sideeffect Arg1:TS108857072 Arg2:TS268857072	
+R4	has_sideeffect Arg1:TS168857072 Arg2:TS268857072	
+R5	has_sideeffect Arg1:TS278857072 Arg2:TS268857072	

@@ -1,0 +1,4 @@
+TS414684645	sideeffect 9 20	interaction
+TS314684645	drug 29 37	warfarin
+TS114684645	food 42 57	cranberry juice
+R1	relation Arg1:TS114684645 Arg2:TS314684645	

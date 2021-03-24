@@ -1,0 +1,15 @@
+First-in-man safety and pharmacokinetics of synthetic ozonide OZ439 demonstrates an improved exposure profile relative to other peroxide antimalarials .
+To assess the safety and pharmacokinetics of a new synthetic ozonide antimalarial , OZ439 , in a first-in-man , double-blind study in healthy volunteers .
+OZ439 was administered as single oral daily doses of a capsule formulation ( 50-1200 mg ) or an oral dispersion ( 400-1600 mg , fed and fasted states ) and for up to 3 days as an oral dispersion ( 200-800 mg day ( -1 ) ) .
+Plasma concentrations of OZ439 and its metabolites were measured by LC-MS .
+The pharmacokinetic ( PK ) profile of OZ439 was characterized by a t ( max ) of around 3 h , followed by a multiphasic profile with a terminal half-life of 25-30 h .
+The PK parameters were approximately dose proportional for each group and profiles of the metabolites followed a similar pattern to that of the parent compound .
+Following dosing for 3 days , accumulation was less than two-fold but steady-state was not achieved .
+In the presence of food , no effect was observed on the t ( 1  2 ) of OZ439 while the exposure was increased by 3 to 4 .
+5-fold. .
+Exposure was higher and inter-subject variability was reduced when OZ439 was administered as an oral dispersion compared with a capsule .
+The urinary clearance of OZ439 and its metabolites was found to be negligible and OZ439 did not induce CYP3A4 CYP3A4. .
+The antimalarial activity profiles of a subset of serum samples suggested that the major antimalarial activity originated from OZ439 rather than from any of the metabolites .
+The safety and pharmacokinetic profile of OZ439 merits progression to phase 2a proof of concept studies in the target population of acute uncomplicated malaria .
+bigasentc 2012 Medicines for Malaria Venture ( MMV ) .
+British Journal of Clinical Pharmacology bigasentc 2012 The British Pharmacological Society .

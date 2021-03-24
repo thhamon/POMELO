@@ -1,0 +1,38 @@
+TS922931521	drug 9 23	anticoagulants
+TS2022931521	treatedDisease 109 132	impaired renal function
+TS2122931521	drug 140 153	anticoagulant
+TS3122931521	drug 164 167	OAT
+TS722931521	treatedDisease 206 227	thromboembolic events
+TS1322931521	drug 246 254	warfarin
+TS622931521	treatedDisease 392 411	atrial fibrillation
+TS2922931521	drug 424 427	OAT
+TS122931521	sideeffect 449 462	bleeding risk
+TS2722931521	drug 535 554	anticoagulant drugs
+TS522931521	sideeffect 620 632	interactions
+TS1022931521	food 648 652	food
+TS2222931521	treatedDisease 741 762	thromboembolic events
+TS1122931521	sideeffect 767 775	bleeding
+TS3022931521	food 860 863	OAT
+TS322931521	sideeffect 1024 1032	bleeding
+TS2622931521	treatedDisease 1094 1117	impaired renal function
+TS2522931521	drug 1120 1140	Dabigatran etexilate
+TS1222931521	drug 1145 1156	rivaroxaban
+TS822931521	drug 1243 1251	apixaban
+TS422931521	treatedDisease 1413 1429	renal impairment
+TS1522931521	sideeffect 1476 1484	bleeding
+TS1822931521	sideeffect 1505 1535	several drug-drug interactions
+TS2822931521	drug 1614 1633	anticoagulant drugs
+TS1622931521	treatedDisease 1673 1696	impaired renal function
+T1	modeadm 135 139	Oral
+R1	treat Arg1:TS2122931521 Arg2:TS722931521	
+T2	drugEffect 350 374	reduction in stroke risk
+R2	has_effect Arg1:TS1322931521 Arg2:T2	
+R3	treat Arg1:TS1322931521 Arg2:TS622931521	
+R4	has_sideeffect Arg1:TS2922931521 Arg2:TS122931521	
+T3	modeadm 530 534	oral
+R5	relation Arg1:TS1022931521 Arg2:TS522931521	
+R6	relation Arg1:TS1022931521 Arg2:TS2722931521	
+T4	sideeffect 1064 1086	reduced drug excretion
+T5	drug 1254 1262	edoxaban
+T6	drug 1267 1277	betrixaban
+T7	sideeffect 1454 1471	drug accumulation

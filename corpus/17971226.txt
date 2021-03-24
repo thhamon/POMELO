@@ -1,0 +1,8 @@
+Medicinal importance of grapefruit juice and its interaction with various drugs .
+Grapefruit juice is consumed widely in today's health conscious world as a protector against cardiovascular diseases and cancers .
+It has however , been found to be an inhibitor of the intestinal cytochrome P - 450 3A4 system , which is responsible for the first pass metabolism of many drugs .
+The P - glycoprotein pump , found in the brush border of the intestinal wall which transports many of these cytochrome P - 450 3A4 substrates , has also been implicated to be inhibited by grapefruit juice .
+By inhibiting these enzyme systems , grapefruit juice alters the pharmacokinetics of a variety of medications , leading to elevation of their serum concentrations .
+Most notable are its effects on the calcium channel antagonist and the statin group of drugs .
+In the case of many drugs , the increased serum concentration has been found to be associated with increased frequency of dose dependent adverse effects .
+In this review , we have discussed the phytochemistry of grapefruit juice , the various drugs involved in the drug - grapefruit juice reaction with their mechanisms of action and have presented the clinical implications of these interactions .

@@ -1,0 +1,22 @@
+Influence of food on the pharmacokinetics of oral alitretinoin ( 9-cis retinoic acid ) .
+Previous studies have shown that concomitant administration of food may enhance the bioavailability of oral retinoids .
+To assess the influence of food on the pharmacokinetics ( PK ) of alitretinoin after a single oral dose .
+This was a single-dose , open-label , randomized , crossover study , which enrolled 30 healthy men , aged 18-44 years .
+Subjects received sequential doses of alitretinoin 40 mg either after fasting ( treatment A ) or 5 min after completion of a standard breakfast ( treatment B ) , with the dosing sequence randomized ( A  B or B  A ) .
+The washout period between the two doses was 1 week .
+Plasma concentrations over time were plotted and standard PK variables [area under the curve ( AUC ) of plasma concentration vs. .
+time , maximum plasma concentration ( C ( max ) ) , time to maximum plasma concentration ( t ( max ) ) and elimination half-life ( t ( 1  2 ) ] were determined .
+Drug exposure was markedly increased when alitretinoin was taken with food compared with fasting , and there were significant increases in mean C ( max ) ( 82.8 vs.25.4 ng  mL , respectively ) and AUC ( 220.2 vs. .
+55.7 ng bigasentdot h  mL ) .
+The delaying effect of food on t ( max ) was less marked ( median of 3.0 vs. .
+2.0 h ) .
+Administration with food also increased exposure to drug metabolites .
+Variability in exposure was markedly reduced if alitretinoin was taken with vs. .
+without food ( percentage coefficient of variation 40% vs. .
+74% for AUC ; 49% vs. .
+85% for C ( max ) ) .
+Alitretinoin was generally well tolerated , with typical retinoid adverse reactions , mostly comprising headache .
+Intake of alitretinoin with food substantially increased the bioavailability of alitretinoin , but variability in exposure was reduced .
+Consequently , oral alitretinoin should be taken with food as outlined in the manufacturer's summary of product characteristics .
+bigasentc 2011 The Author ( s ) .
+Clinical and Experimental Dermatology bigasentc 2011 British Association of Dermatologists .

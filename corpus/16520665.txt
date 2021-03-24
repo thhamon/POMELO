@@ -1,0 +1,7 @@
+Effect of food on the pharmacokinetics of sunitinib malate ( SU11248 ) , a multi-targeted receptor tyrosine kinase inhibitor: results from a phase I study in healthy subjects .
+The effect of food on the oral bioavailability of sunitinib malate ( SU11248 , an oral , multi-targeted tyrosine kinase inhibitor with anti-angiogenic and anti-tumor activities ) was assessed in a randomized open-label , two-way crossover study .
+A 50-mg dose of SU11248 was administered to 16 healthy subjects after a 10-h fast in one period and after a high-fat , high-calorie meal in the other period .
+The 90% confidence intervals ( CIs ) for maximum plasma concentration ( Cmax ) and area under the concentration-time curve ( AUC ) were within the 80-125% bioequivalence range , indicating the absence of a food effect .
+SU11248 exposure increased slightly in the fed compared with the fasted state ( ratios of fed  fasted geometric least square means: Cmax 104% , AUC0-last and AUC0-infinity both 112% ) .
+There was a delay in the formation  absorption of the active metabolite SU12662 in the fed state ( mean Cmax decreased 23% ) , but exposure remained unaffected ( 90% CIs for AUC0-last and AUC0-infinity were within 80-125% ) .
+These results indicate that SU11248 can be administered with or without food .

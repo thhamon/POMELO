@@ -1,0 +1,15 @@
+Effect of blueberry juice on clearance of buspirone and flurbiprofen in human volunteers .
+The present study evaluated the possibility of drug interactions involving blueberry juice ( BBJ ) and substrate drugs whose clearance is dependent on cytochromes P4503A ( CYP3A ) and P4502C9 ( CYP2C9 ) .
+A 50:50 mixture of lowbush and highbush BBJ was evaluated in vitro as an inhibitor of CYP3A activity ( hydroxylation of triazolam and dealkylation of buspirone ) and of CYP2C9 activity ( flurbiprofen hydroxylation ) using human liver microsomes .
+In clinical studies , clearance of oral buspirone and oral flurbiprofen was studied in healthy volunteers with and without co-treatment with BBJ .
+BBJ inhibited CYP3A and CYP2C9 activity in vitro , with 50% inhibitory concentrations ( IC50 ) of less than 2% , but without evidence of mechanism-based ( irreversible ) inhibition .
+Grapefruit juice ( GFJ ) also inhibited CYP3A activity , but inhibitory potency was increased by pre-incubation , consistent with mechanism-based inhibition .
+In clinical studies , GFJ significantly increased area under the plasma concentration-time curve ( AUC ) for the CYP3A substrate buspirone .
+The geometric mean ratio ( GMR = AUC with GFJ divided by AUC with water ) was 2.12. .
+In contrast , the effect of BBJ ( GMR = 1.39 ) was not significant .
+In the study of flurbiprofen ( CYP2C9 substrate ) , the positive control inhibitor fluconazole significantly increased flurbiprofen AUC ( GMR = 1.71 ) , but BBJ had no significant effect ( GMR = 1.03 ) .
+The increased buspirone AUC associated with BBJ is quantitatively small and could have occurred by chance .
+BBJ has no effect on flurbiprofen AUC .
+The studies provide no evidence for concern about clinically important pharmacokinetic drug interactions of BBJ with substrate drugs metabolized by CYP3A or CYP2C9 CYP2C9. .
+bigasentc 2012 The Authors .
+British Journal of Clinical Pharmacology bigasentc 2012 The British Pharmacological Society .

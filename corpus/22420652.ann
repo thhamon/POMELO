@@ -1,0 +1,36 @@
+TS1122420652	drug 0 6	NSAIDs
+TS322420652	mealTime 15 29	take with food
+TS1422420652	mealTime 39 46	fasting
+TS2322420652	drug 92 98	NSAIDs
+TS1222420652	food 104 110	fluids
+TS2122420652	food 119 123	food
+TS2422420652	drug 145 151	NSAIDs
+TS2222420652	mealTime 393 400	fasting
+TS1622420652	drug 439 445	NSAIDs
+TS2522420652	food 452 456	food
+TS522420652	food 553 557	food
+TS1022420652	drug 600 606	NSAIDs
+TS622420652	food 624 628	food
+R2	relation Arg1:TS522420652 Arg2:TS1022420652
+TS1522420652	food 691 695	Food
+TS1722420652	drugEffect 711 722	peak levels
+TS222420652	drug 726 732	NSAIDs
+TS822420652	drugEffect 787 802	bioavailability
+R3	slow_absorption Arg1:TS1522420652 Arg2:TS222420652
+TS1922420652	drug 938 944	NSAIDs
+TS122420652	drug 985 994	ibuprofen
+TS2022420652	drug 999 1007	naproxen
+TS422420652	drug 1052 1063	paracetamol
+TS722420652	drug 1095 1101	NSAIDs
+TS922420652	mealTime 1214 1221	fasting
+T1	sideeffect 415 435	gastric side effects
+R1	increase_side_effect Arg1:TS2222420652 Arg2:T1	
+T2	sideeffect 467 485	small bowel damage
+R4	increase_side_effect Arg1:TS2522420652 Arg2:T2	
+T3	sideeffect 575 589	gastric damage
+R5	relation Arg1:TS522420652 Arg2:T3	
+R6	has_effect Arg1:TS222420652 Arg2:TS1722420652	
+R7	has_effect Arg1:TS222420652 Arg2:TS822420652	
+T4	drugEffect 1070 1091	rapid onset of action
+R8	has_effect Arg1:TS722420652 Arg2:T4	
+R9	speed_up_absorption Arg1:TS922420652 Arg2:TS722420652	

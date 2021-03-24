@@ -1,0 +1,34 @@
+TS2315206993	food 34 50	grapefruit juice
+TS2715206993	drug 78 89	simvastatin
+R1	relation Arg1:TS2315206993 Arg2:TS2715206993
+TS4515206993	drug 92 103	Simvastatin
+TS415206993	food 246 262	grapefruit juice
+TS2115206993	drug 290 301	simvastatin
+R2	relation Arg1:TS415206993 Arg2:TS2115206993
+TS4615206993	food 386 402	grapefruit juice
+TS2915206993	food 413 418	water
+TS815206993	drug 478 489	simvastatin
+TS1215206993	food 512 528	grapefruit juice
+TS3715206993	food 539 544	water
+TS1515206993	drug 572 583	simvastatin
+TS1615206993	drug 588 604	simvastatin acid
+TS1115206993	food 634 650	Grapefruit juice
+TS115206993	drug 747 758	simvastatin
+TS215206993	drug 820 836	simvastatin acid
+TS3315206993	drug 944 955	simvastatin
+TS3415206993	drug 960 976	simvastatin acid
+TS2815206993	food 1097 1113	grapefruit juice
+TS2515206993	food 1134 1150	grapefruit juice
+TS615206993	drug 1219 1230	simvastatin
+TS715206993	drug 1235 1251	simvastatin acid
+R4	relation Arg1:TS2515206993 Arg2:TS615206993
+TS3815206993	food 1254 1270	Grapefruit juice
+TS4115206993	sideeffect 1337 1352	adverse effects
+TS3615206993	drug 1356 1367	simvastatin
+R5	relation Arg1:TS3815206993 Arg2:TS3615206993
+T1	duration 431 441	for 3 days
+T2	dosage 464 469	40-mg
+T3	frequency 1159 1164	daily
+T4	drugEffect 1293 1319	cholesterol-lowering effec
+R3	has_effect Arg1:TS3615206993 Arg2:T4	
+R6	has_sideeffect Arg1:TS3615206993 Arg2:TS4115206993	

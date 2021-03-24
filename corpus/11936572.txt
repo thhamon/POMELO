@@ -1,0 +1,11 @@
+Lack of bioequivalence of ciprofloxacin when administered with calcium- calcium-fortified orange juice juice: a new twist on an old interaction .
+Fluoroquinolones are known to interact with drugs containing multivalent ions .
+Current Food and Drug Administration ( FDA ) labeling states that ciprofloxacin and most other fluoroquinolones are safe to be given with food and dietary calcium but not calcium supplements .
+Although many of the currently marketed calcium fortified foods have calcium contents that usually exceed those in dietary calcium sources , it is unclear whether they represent a risk for less than optimal absorption of fluoroquinolones , which may result in subsequent clinical failures due to lack of bacterial eradication and antibiotic resistance .
+The purpose of this three-way , randomized , crossover study was to characterize and compare the bioequivalence of single doses of oral ciprofloxacin in 15 healthy volunteers when administered with water , concurrently with orange juice , and concurrently with calcium- calcium-fortified orange juice .
+Compared to the control arm , the Cmax of ciprofloxacin significantly decreased when it was given with orange juice ( 23% , p = 0.001 ) and with calcium- calcium-fortified orange juice ( 41% , p sentinf 0.001 ) .
+Twenty-four-hour ciprofloxacin AUCs were also decreased for both forms of the orange juice ( 22% [p sentinf 0.001] and 38% [p sentinf 0.001] , respectively ) .
+When compared to each other , neither of the orange juice regimens were bioequivalent to each other , with the Cmax and AUC for the fortified form being 22% ( p = 0.005 ) and 21% ( p = 0.015 ) lower than those of the nonfortified form .
+By FDA standards , although ciprofloxacin is marginally bioequivalent when administered with orange juice , it is not when it is administered with calcium- calcium-fortified orange juice .
+The changes in Cmax and AUC have the potential to significantly decrease clinical efficacy and promote antibiotic resistance .
+Not warning patients about potential food- food-drug interactions with fortified foods may be a major unrealized and unstudied inadvertent source of clinical failures and resistance trends with fluoroquinolones .

@@ -1,0 +1,5 @@
+TS315621963	food 4 14	grapefruit
+T1	food 30 35	juice
+T2	sideeffect 36 61	inhibits a crucial enzyme
+R1	relation Arg1:T1 Arg2:T2	
+R2	relation Arg1:TS315621963 Arg2:T2	

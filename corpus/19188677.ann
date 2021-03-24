@@ -1,0 +1,39 @@
+TS2019188677	food 11 15	food
+TS619188677	drugEffect 32 47	bioavailability
+TS2819188677	drug 51 60	lapatinib
+TS2519188677	treatedDisease 64 70	cancer
+R1	relation Arg1:TS2019188677 Arg2:TS2819188677
+TS2919188677	food 137 141	food
+TS2119188677	drugEffect 158 173	bioavailability
+TS1019188677	drug 177 186	lapatinib
+R2	relation Arg1:TS2919188677 Arg2:TS1019188677
+TS519188677	drug 224 233	lapatinib
+TS919188677	treatedDisease 280 292	solid tumors
+TS719188677	mealTime 377 391	overnight fast
+TS3619188677	food 401 408	low-fat
+TS1219188677	food 432 440	high-fat
+TS3319188677	food 457 464	low-fat
+TS3019188677	drug 502 511	lapatinib
+R3	relation Arg1:TS3319188677 Arg2:TS3019188677
+TS819188677	food 650 658	high-fat
+TS2619188677	mealTime 659 668	breakfast
+TS419188677	drug 696 705	lapatinib
+TS3519188677	mealTime 786 792	fasted
+R4	relation Arg1:TS819188677 Arg2:TS419188677
+TS1319188677	drugEffect 811 826	bioavailability
+TS219188677	mealTime 834 837	fed
+TS3219188677	drug 993 1002	lapatinib
+TS1719188677	drugEffect 1003 1018	bioavailability
+TS3419188677	mealTime 1089 1095	fasted
+TS2219188677	sideeffect 1218 1226	toxicity
+TS1419188677	food 1312 1316	diet
+R5	treat Arg1:TS2819188677 Arg2:TS2519188677	
+T1	dosage 202 208	500-mg
+T2	modeadm 211 215	oral
+T3	mealTime 465 474	breakfast
+T4	mealTime 409 418	breakfast
+T5	mealTime 441 450	breakfast
+T6	sideeffect 1230 1249	diminished efficacy
+R6	relation Arg1:TS1419188677 Arg2:T6	
+R7	relation Arg1:TS1419188677 Arg2:TS2219188677	
+R8	without_food Arg1:TS3419188677 Arg2:TS3219188677	

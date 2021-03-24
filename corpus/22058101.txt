@@ -1,0 +1,9 @@
+Effect of food on the single-dose pharmacokinetics and tolerability of dalfampridine extended-release tablets in healthy volunteers .
+The pharmacokinetics , bioavailability , and tolerability of dalfampridine extended-release tablets in healthy adults under fed and fasted conditions were evaluated .
+The study participants ( n = 30 ) were randomly assigned to receive one 10-mg dalfampridine tablet in a fasted condition ( no food for 10-12 hours ) or a fed condition ( after a high-fat meal ) ; after a seven-day washout period , participants received the same dalfampridine dosage under the converse condition .
+The endpoints were the maximum plasma drug concentration ( C ( max ) ) and areas under the plasma-concentration curve ( AUC ) for 24-hour exposure ( AUC ( 0-24 ) ) and total exposure ( AUC ( 0-∞ ) ) .
+A 90% two-sided confidence interval ( CI ) within predefined limits for the fed: fed:fasted ratio of the geometric mean values was used as the standard for determining the absence of a significant food effect .
+Among the participants who received both treatments ( n = 28 ) , food intake was associated with a 23% increase in the log-transformed geometric mean C ( max ) of dalfampridine ( p ≤ 0.10 ) but no significant change in mean AUC values .
+Eight ( 26.7% ) of the study participants reported a total of 13 adverse events ( AEs ) , of which only dizziness and upper abdominal pain occurred in more than one participant ; all AEs were of mild-to-moderate severity .
+When a single 10-mg dose of dalfampridine was given to healthy volunteers after a high-fat meal , a significant increase in C ( max ) was observed .
+However , overall differences in dalfampridine pharmacokinetics when the drug was administered to participants under fasting and fed conditions did not exceed predefined limits , indicating that the extended-release formulation may be taken without regard to meals .

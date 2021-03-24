@@ -1,0 +1,35 @@
+TS1418663908	sideeffect 1 30	Grapefruit juice interactions
+TS1018663908	sideeffect 179 194	adverse effects
+TS2318663908	food 435 439	Food
+TS2518663908	food 447 463	grapefruit juice
+TS2018663908	sideeffect 505 517	interactions
+TS1818663908	food 551 561	Grapefruit
+TS518663908	drug 578 591	bioflavonoids
+TS1618663908	sideeffect 601 623	change bioavailability
+TS418663908	sideeffect 679 691	toxic levels
+TS2218663908	sideeffect 711 722	interaction
+TS1718663908	drug 1155 1170	antidepressants
+TS818663908	drug 1192 1206	antipsychotics
+TS718663908	sideeffect 1278 1290	interactions
+TS2418663908	food 1296 1312	grapefruit juice
+TS1518663908	sideeffect 1433 1444	interaction
+T1	drug 36 54	psychotropic drugs
+T2	food 466 468	GJ
+R1	relation Arg1:TS2518663908 Arg2:TS2018663908	
+T3	food 770 772	GJ
+T4	food 954 956	GJ
+T5	sideeffect 967 1008	inhibition of cytochrome P450 1A2 and 3A4
+R2	increase_side_effect Arg1:T4 Arg2:T5	
+T6	drug 1141 1152	anxiolytics
+T7	drug 1173 1189	mood stabilizers
+T8	drug 1211 1233	procognitive compounds
+R3	increase_side_effect Arg1:TS2418663908 Arg2:TS718663908	
+R4	negative_effect_on_drug Arg1:TS2418663908 Arg2:T8	
+R5	negative_effect_on_drug Arg1:TS2418663908 Arg2:T6	
+R6	negative_effect_on_drug Arg1:TS2418663908 Arg2:TS1718663908	
+R7	negative_effect_on_drug Arg1:TS2418663908 Arg2:T7	
+R8	negative_effect_on_drug Arg1:TS2418663908 Arg2:TS818663908	
+T9	food 1315 1317	GJ
+T10	drug 1366 1379	psychotropics
+R9	without_food Arg1:T9 Arg2:T10	
+R10	relation Arg1:T9 Arg2:TS1518663908	
