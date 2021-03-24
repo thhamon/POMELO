@@ -9,10 +9,10 @@ Realease Date: March 24, 2021
 
 Authors:
 
-Thierry Hamon, hamon@limsi.fr (corresponding author)
-Vincent Tabanou
-Fleur Mougin
-Natalia Grabar
+Thierry Hamon, hamon@limsi.fr (corresponding author),
+Vincent Tabanou,
+Fleur Mougin,
+Natalia Grabar,
 Frantz Thiessard
 
 ## 1. Corpus Description
@@ -78,7 +78,6 @@ The BibTeX citation is:
   address = 	 {Varna, Bulgaria},
 }
 ```
-
 
 ## 4. License
 
