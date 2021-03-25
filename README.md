@@ -79,6 +79,7 @@ The BibTeX citation is:
 }
 ```
 
+
 ## 4. License
 
 This work (the annotations) is licensed under the Creative Commons
